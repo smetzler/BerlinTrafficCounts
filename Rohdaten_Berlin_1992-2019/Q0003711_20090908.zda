@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3711
+datum=08.09.2009
+kurzken=Q 3711/09
+bez=Seegefelder Straße (westl. Altstädter Ring - Klosterstr.)  (Spandau ,13597)
+arm1=Seegefelder Straße,700,0000
+arm2=Klosterstraße,1600,0001
+arm3=Stabholzgarten,2450,0000
+arm4=Altstädter Ring,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=S-Bahn-Verkehr eingestellt\, z.Teil verminderter Fußg.-Verkehr. Wetter: max T=26°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+150	68
+172	8
+243	1
+275	4
+286	23
+262	16
+283	21
+330	23
+294	30
+358	42
+345	22
+260	33
+; 4 -> 2
+290	30
+327	24
+394	16
+484	20
+555	37
+585	35
+635	54
+745	99
+828	74
+853	62
+799	33
+658	43

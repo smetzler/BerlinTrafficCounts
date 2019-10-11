@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=K 1402
+datum=17.09.2013
+kurzken=K 1402/13
+bez=Platz am Wilden Eber / Pücklerstraße   (Dahlem, 14199)
+arm1=Puecklerstraße,1100,0000
+arm2=Platz am Wilden Eber (Pacelliallee),2250,0000
+arm3=,0,0000
+arm4=Platz am Wilden Eber (Rheinbaben.),3550,1100
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 4 -> 1
+21	1	0	0	2
+51	0	0	0	6
+30	0	0	0	7
+39	0	0	0	6
+29	1	0	2	7
+63	0	0	0	10
+51	0	0	0	10
+40	0	0	0	4
+40	1	0	3	4
+41	0	0	0	4
+35	0	0	1	8
+43	0	0	0	7
+; 4 -> 2
+398	39	4	6	30
+662	46	4	10	55
+454	39	5	5	47
+444	35	4	10	32
+383	34	3	9	21
+397	27	3	12	31
+415	15	4	7	44
+395	7	4	5	47
+791	12	5	13	62
+606	8	8	21	46
+545	3	3	11	56
+457	1	3	10	54

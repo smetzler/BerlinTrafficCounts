@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0055
+datum=11.08.2015
+kurzken=Q 0055/15
+bez=A111 - Zubr. HH (Höhe Scharnweberstraße)   (Tegel, 13405)
+arm1=AS Holzhauser Straße,200,0100
+arm2=AK Reinickendorf,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Scharnweberstr.\, Fahrzeuge die die Brücke unterqueren zählen.\nSpuraufteilung vor Ort festlegen!
+data=
+; 1 -> 2
+1888	33	58	9	52
+1905	29	54	6	47
+2061	33	41	7	51
+; 2 -> 1
+3335	67	31	9	126
+3197	48	37	15	110
+2880	27	13	13	90

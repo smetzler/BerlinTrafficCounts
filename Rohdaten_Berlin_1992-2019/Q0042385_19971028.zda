@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42385
+datum=28.10.1997
+kurzken=Q 42385/97
+bez=Leipziger Straße (westl. Charlottenstraße)   (Mitte, 10117)
+arm1=Friedrichstraße,950,0000
+arm2=Charlottenstraße,2750,0000
+arm3=Süden,1850,0001
+arm4=Norden,50,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8°C\, sonnig\, kein Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+2 0
+6 0
+9 0
+15 0
+6 0
+16 0
+13 0
+4 1
+25 1
+16 0
+12 0
+11 0
+; 4 -> 3
+11 0
+9 0
+1 0
+3 0
+21 0
+17 0
+17 0
+18 0
+1 0
+12 0
+26 0
+18 0

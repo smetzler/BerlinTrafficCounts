@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15993
+datum=26.08.2010
+kurzken=Q 15993/10
+bez=Steglitzer Damm (östl. Bismarckstraße)   (Steglitz, 12169)
+arm1=Steglitzer Damm W),800,0000
+arm2=Bismarckstraße (S),1700,0001
+arm3=Steglitzer Damm (O),2600,0000
+arm4=Bismarckstraße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+57	52
+69	5
+50	1
+60	0
+76	0
+60	6
+66	8
+65	19
+73	5
+91	17
+66	8
+56	4
+; 4 -> 2
+24	6
+40	3
+29	0
+37	0
+58	1
+47	14
+30	12
+45	8
+51	9
+57	11
+47	8
+43	3

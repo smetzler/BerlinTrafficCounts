@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4239
+datum=29.10.1997
+kurzken=Q 4239/97
+bez=Unter den Linden (östl. Charlottenstraße)   (Mitte, 10117)
+arm1=Charlottenstraße,950,0100
+arm2=Universitätsstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+865	62	19	12
+909	81	17	10
+920	77	27	8
+935	73	21	12
+1033	85	26	6
+972	58	21	8
+920	64	24	11
+1161	52	28	14
+1345	44	22	12
+1408	31	27	14
+1410	24	16	14
+1295	8	21	12
+; 2 -> 1
+1623	128	26	19
+1438	114	25	12
+1347	117	27	10
+1219	114	35	9
+1263	100	32	14
+1260	93	41	26
+1230	84	34	20
+1252	69	30	14
+1344	63	37	22
+1223	42	32	22
+1194	29	26	11
+1183	16	27	7

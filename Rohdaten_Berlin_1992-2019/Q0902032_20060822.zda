@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902032
+datum=22.08.2006
+kurzken=Q 0902032/06
+bez=Schöneberger Ufer (östl. Potsdamer Straße)   (Tiergarten, 10785)
+arm1=Potsdamer Straße,900,0100
+arm2=B96-Tunnel Tiergarten,2500,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 7 Std Sonne; 5 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+967	44	11	34	16
+1287	39	15	37	35
+1184	43	20	34	23
+1034	48	14	20	34
+1057	35	14	24	42
+1040	29	15	32	33
+1011	19	17	34	55
+1104	17	20	39	70
+1328	32	14	60	76
+1229	20	13	46	105
+1256	13	15	40	78
+1248	8	18	43	66

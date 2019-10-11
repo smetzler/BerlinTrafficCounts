@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12131
+datum=15.09.2014
+kurzken=Q 12131/14
+bez=Hagenstraße (westl. Teplitzer Straße)   (Grunewald, 14193)
+arm1=Hagenstraße,700,0000
+arm2=Teplitzer Straße (S),1900,0001
+arm3=,0,0000
+arm4=Teplitzer Straße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Hagenstr. westl. der Teplitzer Str. queren (bis ca. 50m westl.)
+data=
+; 2 -> 4
+5	0
+8	0
+1	0
+8	2
+3	1
+5	1
+2	0
+5	0
+4	0
+5	0
+6	0
+4	0
+; 4 -> 2
+4	3
+1	0
+2	0
+3	1
+2	0
+8	2
+14	0
+25	7
+14	2
+24	1
+14	0
+14	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q020252
+datum=16.05.2019
+kurzken=Q020252/19
+bez=Mahonienweg / Johannisthaler Chaussee (Baumschulenweg, 12437)  über Arm2
+arm1=Mahonienweg,600,0001
+arm2=Johannisthaler Chaussee (SW),1500,0000
+arm3=,0,0000
+arm4=Johannisthaler Chaussee (NO),3300,1000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 1
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

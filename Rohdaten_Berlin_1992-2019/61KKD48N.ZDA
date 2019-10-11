@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 73309
+datum=24.3.1993
+kurzken=Q 733-09/93
+bez=Eberswalder Straße westl. Schönhauser Allee    (Prenzlberg)
+arm1=Topsstraße,500,0100
+arm2=Schönhauser Allee,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+1 304 59 0 21 
+1 324 66 0 7 
+4 347 46 0 8 
+3 409 50 1 24 
+2 371 49 0 12 
+2 359 58 0 20 
+2 419 46 0 25 
+10 430 37 0 17 
+7 466 28 0 17 
+8 445 13 0 34 
+4 512 14 0 25 
+8 501 13 1 17 
+; 2 -> 1
+5 554 55 0 38 
+0 449 52 1 19 
+3 373 55 0 18 
+2 385 48 0 18 
+0 357 58 0 19 
+4 365 36 1 17 
+2 413 55 0 17 
+6 371 49 0 20 
+7 402 34 1 25 
+4 403 31 0 20 
+3 401 22 0 28 
+2 362 13 0 13 

@@ -1,0 +1,52 @@
+[ZA1001]
+knoten=Q 6442
+datum=30.06.2015
+kurzken=Q 6442/15
+bez=Stülerstr. (westl. Hofjägerallee)  (Tiergarten, 10785)
+arm1=Hofjägerallee,90,0010
+arm2=Stülerstraße,1320,0000
+arm3=Klingelhöferstraße,1890,1000
+arm4=Tiergartenstraße,2780,0000
+art=Fußgäng,Schüler
+zeit=1300,1700
+intv=15
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+15	0
+4	0
+8	0
+8	0
+6	2
+4	0
+10	3
+12	0
+11	0
+12	0
+20	0
+10	1
+10	0
+14	0
+22	0
+24	0
+; 3 -> 1
+13	0
+9	0
+11	0
+7	19
+7	2
+9	11
+26	0
+10	3
+8	1
+14	6
+14	1
+3	1
+18	0
+15	0
+7	0
+18	3

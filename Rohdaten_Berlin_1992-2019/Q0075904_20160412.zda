@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 75904
+datum=12.04.2016
+kurzken=Q 75904/16
+bez=Neuendorfer Straße (nördl. Bismarckstraße)   (Spandau, 13585)
+arm1=Bismarckstraße,600,0010
+arm2=Neuendorfer Straße (S),1500,0000
+arm3=Neuendorfer Straße (O),2400,1000
+arm4=Neuendorfer Straße (N),3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fuß0g.\, die die Neiendorfer Str. nördl. der Bismarckstr. queren( bis ca. 60m nördl.\, incl. Bus-Haltestelle)
+data=
+; 1 -> 3
+114	71
+129	37
+75	8
+54	2
+72	4
+63	8
+53	40
+69	39
+73	33
+88	20
+74	7
+50	6
+; 3 -> 1
+38	28
+57	15
+61	19
+29	2
+30	1
+42	5
+15	8
+35	19
+78	34
+60	25
+47	7
+34	1

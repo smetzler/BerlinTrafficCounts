@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26147
+datum=20.4.1993
+kurzken=Q 2614.7/93-F
+bez=Cottbusser Straße östl. Alte Hellersdorfer Straße   (Hellersd )
+arm1=Süd,1650,0100
+arm2=Nord,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+37 12 
+46 16 
+39 10 
+52 9 
+34 11 
+32 14 
+48 20 
+48 20 
+50 19 
+55 37 
+70 50 
+55 19 
+; 2 -> 1
+21 14 
+23 7 
+42 21 
+46 13 
+35 10 
+27 8 
+40 27 
+37 24 
+31 28 
+34 26 
+64 46 
+44 20 

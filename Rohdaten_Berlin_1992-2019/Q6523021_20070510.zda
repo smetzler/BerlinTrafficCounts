@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6523021
+datum=10.05.2007
+kurzken=Q 6523021/07
+bez=Petersburger Straße (nördl. Frankfurter Allee)   (Friedrichshain, 10243)
+arm1=Petersburger Straße,100,0000
+arm2=Karl-Marx-Allee,810,0001
+arm3=Warschauer Straße,1620,0000
+arm4=Frankfurter Allee,2620,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=0\,5 Std; Niederschlag=17 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+12	3
+11	2
+26	1
+43	1
+36	3
+42	4
+56	1
+40	2
+45	2
+65	5
+61	0
+40	0
+; 4 -> 2
+12	6
+11	2
+19	1
+51	0
+45	0
+45	0
+36	0
+40	0
+52	2
+53	2
+50	4
+47	1

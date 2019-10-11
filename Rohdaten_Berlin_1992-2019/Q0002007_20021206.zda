@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 2007
+datum=06.12.2002
+kurzken=Q 2007/02
+bez=A104 - BAB Abzw. Steglitz (südl. AS Mecklenburg. Str)) (Steglitz, 12163)
+arm1=AS Mecklenburgische Straße,0,0100
+arm2=AS Breitenbachplatz,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Daten wurden aus Q20071 und 20072 berechnet. Spurtrennung aus Sichtgründen nicht möglich!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1369	210	35	2	2	7
+1576	151	39	5	2	8
+1463	157	46	5	2	7
+1469	141	38	6	0	1
+1531	172	31	6	4	1
+; 2 -> 1
+2190	199	26	4	2	2
+2396	193	43	8	2	5
+1786	200	42	4	4	6
+1499	174	50	5	2	2
+1503	171	42	5	2	2

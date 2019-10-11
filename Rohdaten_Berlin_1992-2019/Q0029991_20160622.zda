@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29991
+datum=22.06.2016
+kurzken=Q 29991/16
+bez=Hellersdorfer Straße (nördl. Ludwigsluster Straße)   (Kaulsdorf-Nord, 12619)
+arm1=Hellersdorfer Straße (N),100,0000
+arm2=Ludwigsluster Straße,1000,0001
+arm3=Hellersdorfer Straße (S),1900,0000
+arm4=((Osten\, U-Bhf)),2800,0100
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=neben Fußg. (Erw\, Jugend) wurden auch Radf. gezählt
+data=
+; 2 -> 4
+236	62	3
+224	49	0
+201	19	4
+298	8	5
+306	20	4
+250	26	6
+239	25	11
+258	29	15
+236	46	8
+220	32	17
+199	21	4
+134	20	10
+; 4 -> 2
+122	74	10
+145	42	11
+161	9	10
+303	20	5
+247	17	2
+237	16	5
+310	11	9
+269	25	9
+388	32	18
+371	47	18
+356	17	9
+214	11	6

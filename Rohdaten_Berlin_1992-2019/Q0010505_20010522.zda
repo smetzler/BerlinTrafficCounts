@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010505
+datum=22.05.2001
+kurzken=Q 010505/01
+bez=Gotenstraße (südl. Torgauer Straße, S-Bahnbrücke) (Schöneberg, 10829)
+arm1=Torgauer Straße ,0,0100
+arm2=Tempelhofer Weg,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Umleitungsverkehr aus der Naumannstr. in Ri. Norden (Naumannstr. gesperrt).
+data=
+; 1 -> 2
+68	10	3	3	21
+131	28	8	2	34
+153	25	8	4	38
+142	28	6	4	44
+123	9	15	4	13
+115	17	7	3	8
+126	10	8	2	15
+142	6	3	4	15
+174	3	5	3	12
+200	5	1	5	23
+190	6	4	6	27
+152	5	4	6	25
+; 2 -> 1
+376	58	14	5	10
+613	57	20	4	28
+741	91	21	7	29
+640	78	32	6	26
+516	52	24	4	14
+472	56	22	5	14
+534	35	20	4	17
+532	31	24	5	16
+584	39	22	6	14
+665	27	20	3	24
+678	35	17	4	29
+558	14	6	4	28

@@ -1,0 +1,57 @@
+[ZA1001]
+knoten=K 2946
+datum=13.05.2019
+kurzken=K 2946/19
+bez=Kurt-Schumacher-Damm / Rue Ambroise Pare - Rue Dominique-Larrey (Tegel, 13405) 
+arm1=Rue Ambroise Pare - Rue D. Larrey,800,0100
+arm2=Kurt-Schumacher-Damm (S),1600,0000
+arm3=,0,0000
+arm4=Kurt-Schumacher-Damm (N),3400,1100
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+10	0	0	0	0
+16	0	0	1	0
+7	0	0	1	0
+16	2	0	4	0
+14	1	0	0	0
+24	1	0	0	1
+20	0	0	0	2
+23	0	0	0	5
+28	0	0	1	0
+18	0	0	0	0
+21	0	0	1	1
+17	0	0	0	0
+; 4 -> 1
+5	0	0	0	0
+10	0	0	0	0
+17	0	0	0	0
+28	0	0	0	0
+19	0	0	2	0
+21	0	0	2	0
+18	0	0	0	1
+25	0	0	0	1
+21	0	0	1	2
+22	0	0	0	0
+37	0	0	2	0
+16	0	0	1	1
+; 4 -> 2
+1762	93	20	34	36
+1678	102	24	29	30
+1363	108	21	24	17
+1152	132	20	26	36
+971	79	20	40	16
+725	63	17	26	14
+982	52	22	19	7
+891	48	19	13	13
+862	52	20	27	9
+798	14	16	20	18
+870	15	18	20	10
+815	14	21	21	13

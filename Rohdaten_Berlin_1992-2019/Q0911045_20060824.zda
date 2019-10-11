@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911045
+datum=24.08.2006
+kurzken=Q 0911045/06
+bez=Prellerweg (östl. Munsterdamm)   (Schöneberg, 12157)
+arm1=Munsterdamm,900,0100
+arm2=Priesterweg,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+442	16	15	22	60
+520	12	14	17	65
+535	14	19	15	48
+526	20	16	14	28
+565	12	22	19	42
+580	12	19	30	49
+554	15	17	32	55
+688	16	21	38	52
+722	10	22	48	54
+819	7	17	56	74
+732	7	19	51	81
+713	9	21	40	83
+; 2 -> 1
+791	21	15	53	63
+930	21	17	46	63
+756	20	20	34	52
+662	34	18	24	46
+621	17	16	25	52
+614	23	18	31	46
+672	33	20	32	52
+725	14	20	39	44
+908	16	26	62	53
+856	13	18	53	66
+719	7	19	57	70
+635	5	19	38	102

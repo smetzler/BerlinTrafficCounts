@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40739
+datum=24.08.1988
+kurzken=Q 40739/88
+bez=Seegefelder Strasse in Hoehe Haus Nr.37 (Stadtbuecherei)    ( Berlin 20 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerueberquerungen der Seegefelder Strasse;\nWetter: ueberwiegend klar und trocken
+data=
+; 1 -> 2
+25 22 27 39 17 7 31 37 14 19 34 20 
+; 2 -> 1
+21 15 23 48 17 12 29 17 5 7 23 25 

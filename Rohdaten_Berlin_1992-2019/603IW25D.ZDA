@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 04568
+datum=02.10.1986
+kurzken=Q 4568/86
+bez=Wiebestrasse  noerdl. Huttenstrasse    ( Berlin 21 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt, trocken
+data=
+; 1 -> 2
+17 0 21 1 22 0 32 2 43 4 43 4 38 3 
+40 3 61 6 73 2 63 5 36 2 
+; 2 -> 1
+43 1 29 6 39 1 21 0 37 3 20 1 30 2 
+28 6 41 1 36 1 23 2 9 4 

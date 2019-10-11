@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00352
+datum=23.04.2015
+kurzken=Q 00352/15
+bez=AS Kaiserdamm (Zu- u. Abf. südl. Knobelsdorffstr.)   (Charlottenburg, 14059)
+arm1=Knobelsdorffstraße,0,0100
+arm2=Kaiserdamm,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+373	6	1	0	8
+361	4	1	0	8
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+412	3	1	2	17
+437	10	0	0	15
+391	1	0	0	7
+; 2 -> 1
+516	15	11	1	19
+545	15	7	0	14
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+350	4	5	3	8
+358	7	2	0	7
+532	6	1	1	8

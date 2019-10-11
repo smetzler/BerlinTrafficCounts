@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 14653
+datum=06.07.2016
+kurzken=Q 14653/16
+bez=Schildhornstraße (östl. Lepsiusstraße)   (Steglitz, 12163)
+arm1=Schildhornstraße (W),600,0000
+arm2=Lepsiusstraße (S),1500,0001
+arm3=Schildhornstraße (O),2400,0000
+arm4=Lepsiusstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+14	11
+7	2
+18	2
+13	0
+10	0
+25	15
+8	0
+27	12
+26	7
+38	3
+18	3
+27	2
+; 4 -> 2
+17	7
+28	4
+15	2
+14	0
+22	1
+25	8
+18	16
+28	8
+20	9
+47	7
+28	5
+35	8

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0911023
+datum=06.07.2009
+kurzken=K 0911023/09
+bez=AK Schö'berg - Nebenfahrbahn A103-Nord (nördl. Zuf. A100) (Sc'bg, 10829)
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=A103-Saarstraße,1200,0000
+arm3=A100-Sachsendamm (Ost),2500,0000
+arm4=A103-Sachsendamm (Nord),3200,0100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 4 -> 2
+91	6	0	2
+95	16	0	2
+79	4	0	0
+121	9	0	0
+95	3	1	4
+120	7	0	3
+141	5	0	2
+162	6	0	7
+238	3	1	15
+241	2	0	9
+177	4	0	8
+169	2	2	5

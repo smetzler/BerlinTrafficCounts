@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 73308
+datum=24.3.1993
+kurzken=Q 733-08/93
+bez=Danziger Straße östl. Schönhauser Allee    (Prenzlberg )
+arm1=Schönhauser Allee,500,0100
+arm2=Knaackstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+1 311 56 0 27 
+2 342 67 0 26 
+2 323 49 0 21 
+4 380 55 1 30 
+3 370 45 0 30 
+1 382 57 0 40 
+3 416 51 0 32 
+4 435 36 0 37 
+9 472 30 0 44 
+9 517 13 0 62 
+5 523 16 1 56 
+9 524 12 1 59 
+; 2 -> 1
+6 657 82 0 55 
+3 596 79 1 23 
+1 520 67 0 32 
+4 512 65 0 31 
+3 532 73 0 27 
+11 507 64 2 25 
+3 528 56 0 28 
+9 434 52 0 51 
+8 606 51 1 43 
+9 592 36 0 32 
+7 638 31 0 50 
+9 641 16 1 38 

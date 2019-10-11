@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0080
+datum=13.09.2015
+kurzken=Q 0080/15
+bez=B109 - Schönerlinder Straße (nördl. Schönerlinder Ch.)   (Buch, 13127)
+arm1=Schönerlinder Chaussee,1600,0100
+arm2=Landesgrenze,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 30\, Feld 4b
+data=
+; 1 -> 2
+237	0	2	0	11	23
+182	0	1	0	23	10
+170	0	1	0	8	3
+; 2 -> 1
+614	1	0	0	47	24
+728	0	0	0	41	34
+705	1	0	1	46	34

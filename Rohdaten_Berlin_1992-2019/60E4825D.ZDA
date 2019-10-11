@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 18296
+datum=02.10.1986
+kurzken=Q 18296/86
+bez=Osteweg  westl. Carstennstrasse   ( Berlin 45 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt, trocken
+data=
+; 1 -> 2
+4 1 1 0 0 0 1 0 5 1 1 0 3 0 
+2 0 1 0 3 0 2 0 0 0 
+; 2 -> 1
+9 2 1 0 2 0 1 0 5 2 2 0 4 0 
+3 0 5 0 5 0 1 0 1 0 

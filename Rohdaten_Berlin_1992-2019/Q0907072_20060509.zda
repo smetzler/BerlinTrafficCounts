@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907072
+datum=09.05.2006
+kurzken=Q 0907072/06
+bez=Lise-Meitner-Straße (nördl. Max-Dorn-Straße)   (Charlottenburg, 10589)
+arm1=Goerdeler Steg,50,0100
+arm2=Max-Dorn-Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+21
+25
+12
+13
+11
+11
+16
+14
+24
+27
+25
+17
+; 2 -> 1
+8
+19
+14
+12
+16
+12
+21
+40
+26
+30
+20
+15

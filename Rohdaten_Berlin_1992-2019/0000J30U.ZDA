@@ -1,0 +1,55 @@
+[ZA1001]
+knoten=K 0019
+datum=15.06.1989
+kurzken=K 19/89
+bez=Ludolfingerplatz / Sigismundkorso    ( Berlin 28 )
+arm1=,0,0000
+arm2=Sigismundkorso,1250,0010
+arm3=Ludolfingerplatz,2450,0000
+arm4=Ludolfingerplatz,3050,0110
+art=Kfz
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 2 -> 3
+103
+118
+114
+141
+151
+122
+116
+110
+151
+174
+136
+96
+; 4 -> 2
+88
+119
+101
+117
+128
+129
+109
+83
+110
+115
+144
+114
+; 4 -> 3
+331
+326
+370
+345
+348
+299
+298
+286
+383
+416
+429
+268

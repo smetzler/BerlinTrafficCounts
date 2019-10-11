@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920022
+datum=02.11.1998
+kurzken=Q 0920022/98
+bez=Gorkistraße (westl. Ziekowstraße)   (Tegel, 13509)
+arm1=Buddestraße,950,0100
+arm2=Ziekowstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+356	5	29	8
+345	4	23	6
+261	16	18	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+351	4	24	4
+470	5	23	10
+412	5	22	5
+; 2 -> 1
+258	4	27	2
+283	7	23	2
+266	9	18	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+326	3	20	10
+424	2	23	5
+363	2	22	5

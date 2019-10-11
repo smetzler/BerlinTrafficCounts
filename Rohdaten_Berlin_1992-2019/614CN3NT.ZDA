@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 52295
+datum=10.6.1991
+kurzken=Q 5229.5/91-F
+bez=Exerzierstrasse westlich Gottschedstrasse    ( Berlin 65 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schuel,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+7 0 6 
+11 0 2 
+10 0 0 
+20 0 0 
+16 0 1 
+14 1 6 
+13 0 4 
+10 4 10 
+14 9 12 
+24 12 10 
+22 5 4 
+14 7 1 
+; 2 -> 1
+11 6 7 
+10 6 4 
+17 0 0 
+21 2 0 
+16 0 3 
+24 0 3 
+18 1 6 
+17 3 4 
+18 1 6 
+19 1 1 
+17 3 7 
+9 0 6 

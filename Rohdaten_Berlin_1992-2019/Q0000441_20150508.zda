@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00441
+datum=08.05.2015
+kurzken=Q 00441/15
+bez=A100 - Stadtring (Tunnel Innsbrucker Platz) (Schöneberg, 10715)
+arm1=AS Wexstraße,500,0100
+arm2=AK Schöneberg,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+4606	107	70	11	133
+4158	92	55	10	126
+4160	56	52	17	113
+; 2 -> 1
+3839	101	41	17	95
+3815	69	30	9	59
+3891	48	22	10	67

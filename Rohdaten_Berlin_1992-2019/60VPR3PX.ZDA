@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41103
+datum=22.8.1991
+kurzken=Q 4110.3/91
+bez=Unter den Linden zw. Friedrichstrasse und Charlottenstrasse    ( Mitte )
+arm1=Charlottenstraße,900,0100
+arm2=Friedrichstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Richtung 2 Kfz einschl. Busse\, da keine gesonderte Busspur !
+data=
+; 1 -> 2
+1299 
+1113 
+1286 
+1220 
+1270 
+1171 
+1294 
+1070 
+1327 
+1246 
+983 
+950 
+; 2 -> 1
+736 
+1055 
+1178 
+1170 
+1188 
+1448 
+1301 
+1345 
+1626 
+1400 
+1547 
+1385 

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908041
+datum=22.03.2005
+kurzken=Q 0908041/05
+bez=Heerstraße (östl. Buschower Weg)   (Staaken, 13591)
+arm1=Buschower Weg,700,0100
+arm2=Weidenweg,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+858	67	5	15	14
+807	73	9	20	10
+856	50	6	10	20
+1029	34	6	19	9
+1033	44	7	26	11
+969	21	10	14	4
+; 2 -> 1
+801	61	3	11	15
+894	66	4	10	20
+1020	52	2	14	6
+1193	74	4	14	14
+1073	49	3	12	13
+1001	27	3	14	10

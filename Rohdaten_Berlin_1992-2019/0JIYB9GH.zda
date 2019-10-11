@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0911027
+datum=02.07.2009
+kurzken=K 0911027/09
+bez=A100 Stadtring - Zuf. Wexstraße (Nord)  (Friedenau, 10825)
+arm1=,0,0000
+arm2=BAB A100 (AS Detmolder Str.),1000,0000
+arm3=Wexstraße (Nord)-Innsbrucker Platz,2800,0100
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 2
+335	9	1	9
+380	16	2	8
+444	19	2	9
+427	11	0	6
+437	11	2	6
+477	13	1	6
+428	16	2	14
+435	16	2	12
+514	9	0	10
+484	12	0	13
+529	11	0	15
+578	10	0	6

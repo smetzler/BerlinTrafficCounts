@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5546624
+datum=22.04.2004
+kurzken=Q 5546624/04
+bez=Invalidenstraße (östl. Chausseestraße), (Mitte, 10115)
+arm1=Chausseestraße,400,0010
+arm2=Invalidenstraße,1200,0000
+arm3=Chausseestraße,2150,1000
+arm4=Invalidenstraße,3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=10\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+58	3
+109	11
+138	20
+67	0
+119	11
+149	11
+101	10
+81	11
+105	10
+99	14
+108	18
+135	35
+; 3 -> 1
+50	5
+92	6
+137	11
+100	2
+115	15
+177	19
+116	11
+115	10
+181	14
+159	11
+119	14
+75	4

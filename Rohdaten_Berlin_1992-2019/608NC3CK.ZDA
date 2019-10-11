@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11208
+datum=21.06.1990
+kurzken=Q 11208/90
+bez=Thielenbruecke oestl. Maybachufer    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+3 1 9 0 8 6 3 8 17 17 5 14 
+; 2 -> 1
+0 0 7 5 19 13 19 9 15 32 5 25 

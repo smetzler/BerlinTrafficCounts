@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0921034
+datum=29.05.2006
+kurzken=Q 0921034/06
+bez=Weg nördl. Wuhletalstraße   (Marzahn, 12687)
+arm1=Wuhletalstraße,1700,0100
+arm2=Borkheider Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+17
+11
+24
+7
+15
+21
+20
+33
+23
+23
+22
+17
+; 2 -> 1
+36
+28
+24
+12
+10
+17
+22
+27
+23
+42
+19
+21

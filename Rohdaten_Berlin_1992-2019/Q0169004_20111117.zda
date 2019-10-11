@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 169004
+datum=17.11.2011
+kurzken=Q 169004/11
+bez=Lindenstr.-Zeutherner Str. (südl. Mariannenstr. (Stadtgrenze))   (Köpenick, 12527)
+arm1=Schmöckwitzer Straße (Zeuthen),1450,0100
+arm2=Mariannenstraße ,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+411	3	1	2	7
+363	5	1	0	6
+259	3	1	0	6
+250	8	2	0	10
+255	3	1	0	7
+268	4	1	1	0
+257	4	0	1	10
+261	5	1	1	6
+266	4	2	2	9
+396	0	4	0	16
+341	0	0	0	3
+335	1	0	0	5
+; 2 -> 1
+218	8	1	0	4
+237	4	1	0	3
+233	5	1	0	3
+290	4	0	0	18
+259	12	1	0	4
+229	3	2	0	2
+271	6	1	0	5
+313	6	0	0	2
+309	2	1	2	5
+386	8	0	0	14
+345	1	0	0	2
+346	0	0	0	3

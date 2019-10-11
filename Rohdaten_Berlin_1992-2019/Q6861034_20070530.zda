@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6861034
+datum=30.05.2007
+kurzken=Q 6861034/07
+bez=Zepernicker Straße (nördl. Am Stener Berg)   (Buch, 13125)
+arm1=Alt-Buch,950,0010
+arm2=Schwanebecker Ch.,2200,0000
+arm3=Am Stener Berg,2750,1000
+arm4=Zepernicker Straße,3350,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+1	0
+0	0
+1	0
+1	0
+1	0
+1	0
+2	0
+1	0
+0	0
+1	1
+0	0
+; 3 -> 1
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0

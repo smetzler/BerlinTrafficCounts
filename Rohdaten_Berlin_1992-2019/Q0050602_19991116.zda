@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 050602
+datum=16.11.1999
+kurzken=Q 050602/99
+bez=Eichkampstraße (südl. Dauerwaldweg) (Charlottenburg, 14193)
+arm1=Auerbacher Tunnel,1400,0100
+arm2=Dauerwaldweg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+98	5	0	0
+368	12	6	1
+458	29	6	1
+204	19	4	0
+177	15	8	0
+146	4	4	1
+154	4	3	1
+147	3	4	3
+174	6	6	4
+225	5	5	6
+317	7	7	3
+251	6	4	4
+; 2 -> 1
+106	2	2	0
+182	8	3	1
+264	19	9	0
+189	12	6	0
+134	6	6	0
+126	7	5	0
+166	5	6	1
+151	4	4	4
+172	10	10	4
+432	20	10	4
+697	16	14	8
+421	7	10	4

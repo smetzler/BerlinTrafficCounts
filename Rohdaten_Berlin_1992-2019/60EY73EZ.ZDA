@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19375
+datum=12.09.1990
+kurzken=Q 19375/90
+bez=Ahrensdorfer Strasse westlich Marienfelder Allee    ( Berlin 48 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend klar und trocken !
+data=
+; 1 -> 2
+2 1 4 0 6 0 2 0 13 2 11 4 4 2 
+5 2 17 8 22 4 8 1 4 0 
+; 2 -> 1
+3 0 12 7 9 1 8 0 30 32 21 8 6 7 
+6 3 20 5 20 2 15 2 4 0 

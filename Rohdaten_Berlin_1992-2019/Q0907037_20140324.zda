@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907037
+datum=24.03.2014
+kurzken=Q 0907037/14
+bez=Goerdeler Damm - Zufahrt BAB Stadtring (A100)   (Charlottenburg, 13627)
+arm1=Goerdeler Damm (J.-Kaiser-Platz),900,0100
+arm2=A100 (AD Charlottenburg),2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=BAB-Zufahrt  Siemensdamm von 8:00 - 8:23 Uhr und von 15:10 - 16:55 Uhr gesperrt \, in dieser Zeit erhöhtes VA an diesem Querschnitt
+data=
+; 1 -> 2
+73	9	0	0
+188	17	0	1
+85	7	0	0
+79	10	0	0
+79	19	0	1
+87	7	0	1
+103	12	0	0
+94	12	1	2
+284	17	0	4
+342	16	8	2
+96	4	1	0
+107	3	0	0

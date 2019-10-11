@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907107
+datum=08.05.2007
+kurzken=Q 0907107/07
+bez=Kaiserin-Augusta-Allee (öst. Wernigeroder Straße)   (Charlottenburrg, 10589)
+arm1=Wernigeroder Straße,900,0100
+arm2=Goslarer Platz,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+516	18	9	17	26
+744	21	10	17	35
+566	31	9	10	29
+568	32	10	14	26
+440	20	11	6	19
+469	27	9	8	23
+478	14	13	11	32
+442	23	10	14	20
+468	16	6	24	32
+517	11	9	12	30
+526	14	10	10	22
+432	10	7	6	19
+; 2 -> 1
+313	34	8	4	26
+432	42	9	3	33
+461	43	12	10	21
+422	44	8	10	34
+470	31	9	9	13
+494	38	10	11	20
+501	26	9	11	17
+541	12	10	12	21
+524	26	6	16	32
+683	12	10	18	31
+700	13	8	41	37
+618	4	10	15	29

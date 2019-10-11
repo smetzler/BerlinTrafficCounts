@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916132
+datum=19.06.2017
+kurzken=Q 0916132/17
+bez=Gosener Landstraße (Höhe Neue Fahlenbergbrücke)   (Müggelheim, 12559)
+arm1=Richtung Müggelheim (Westen),950,0100
+arm2=Richtung Gosen (Osten),2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1332,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgänger\, die ausschließlich über die Brücke gehen! \nDurchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 2
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+2	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 2 -> 1
+1	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

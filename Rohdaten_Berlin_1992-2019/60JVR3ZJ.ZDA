@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025767
+datum=16.6.1992
+kurzken=Q 2576.7/92-F
+bez=Kaulsdorfer Straße südlich Gehsener Straße    ( Berlin 1170-Köpenick )
+arm1=Ost,80,0100
+arm2=West,1880,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+12 6 
+4 0 
+6 0 
+2 1 
+5 10 
+9 8 
+14 23 
+7 0 
+8 6 
+12 4 
+7 2 
+7 2 
+; 2 -> 1
+11 48 
+3 4 
+1 0 
+6 0 
+3 2 
+6 1 
+5 3 
+6 0 
+9 4 
+6 0 
+6 3 
+2 6 

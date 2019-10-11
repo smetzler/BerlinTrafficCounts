@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13276
+datum=23.05.1989
+kurzken=Q 13276/89
+bez=Hauptstrasse suedl. Haehnelstrasse    ( Berlin 41 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+35 2 42 7 53 0 63 5 61 0 58 2 30 7 
+31 4 50 15 48 6 53 2 35 0 
+; 2 -> 1
+31 6 61 5 54 5 74 4 41 2 61 9 47 21 
+39 2 57 9 94 18 58 5 42 4 

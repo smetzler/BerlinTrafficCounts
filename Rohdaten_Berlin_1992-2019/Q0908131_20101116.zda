@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908131
+datum=16.11.2010
+kurzken=Q 0908131/10
+bez=Maulbeerstraße (Höhe Nr. 18)   (Spandau, 13593)
+arm1=Baluschekweg,750,0100
+arm2=Racknitzer Steig,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+183	3	6	1	9
+165	4	6	0	1
+115	5	6	0	1
+108	6	6	0	0
+95	5	6	2	1
+106	3	7	1	4
+96	0	5	0	5
+112	1	6	0	2
+158	0	8	0	0
+127	0	6	0	4
+95	0	5	0	2
+102	1	6	0	1
+; 2 -> 1
+80	2	6	0	3
+76	2	6	2	2
+98	0	6	1	1
+95	2	5	2	3
+92	2	6	0	4
+125	1	5	1	4
+122	2	6	1	4
+142	0	6	1	1
+172	2	6	1	2
+186	3	6	0	0
+160	0	7	1	1
+147	0	6	1	8

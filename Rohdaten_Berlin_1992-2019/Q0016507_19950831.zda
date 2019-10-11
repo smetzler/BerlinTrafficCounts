@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 16507
+datum=31.08.1995
+kurzken=Q 16507/95
+bez=Buhrowstraße (südl. Steglitzer Damm)   (Südende, 12169)
+arm1=Grabertstraße,100,0000
+arm2=Steglitzer Damm,800,0001
+arm3=Buhrowstraße,1550,0000
+arm4=Steglitzer Damm,2600,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 14°\, bedeckt\, 27 mm  Niederschlag/Tag. 
+data=
+; 2 -> 4
+46 5
+39 1
+24 4
+16 6
+27 2
+33 9
+32 16
+39 11
+48 12
+33 7
+31 0
+17 2
+; 4 -> 2
+33 23
+29 9
+19 4
+24 2
+25 3
+31 2
+26 1
+24 4
+38 7
+38 4
+40 5
+26 1

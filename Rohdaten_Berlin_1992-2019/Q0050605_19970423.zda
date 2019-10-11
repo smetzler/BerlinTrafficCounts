@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 050605
+datum=23.04.1997
+kurzken=Q 050605/97
+bez=BAB Stadtring  (Tunnel westl. Rathenauplatz)   (Wilmersdorf, 10711)
+arm1=AD Funkturm,300,0100
+arm2=Schwarzbacher Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Richtung Schwarzbacher Str. :\nBehinderungen bis 9:30 Uhr durch stehenden Lkw auf rechtem Fahrstreifen!
+data=
+; 1 -> 2
+3865 496 372 3
+3599 462 342 8
+2994 394 292 2
+3321 395 384 8
+3865 478 482 8
+3663 432 431 1
+4085 450 407 4
+4800 477 315 5
+5313 490 305 7
+5682 506 215 7
+5498 485 212 10
+6051 324 151 18
+; 2 -> 1
+5583 569 298 13
+4882 509 258 13
+4703 474 307 14
+4427 518 401 9
+4133 449 392 5
+3894 453 409 2
+4526 409 420 6
+4924 405 405 12
+5191 373 342 4
+5194 423 243 5
+4800 330 168 9
+5223 275 136 10

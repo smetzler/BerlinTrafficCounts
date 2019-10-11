@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0909050
+datum=06.04.2005
+kurzken=Q 0909050/05
+bez=Westfälische Straße (westl. Eisenzahnstraße)   (Wilmersdorf, 10709)
+arm1=Cicerostraße,600,0100
+arm2=Eisenzahnstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+372	15	19	10	41
+371	6	8	17	32
+459	8	7	24	44
+522	9	5	23	49
+457	1	4	12	50
+359	0	5	12	20
+; 2 -> 1
+384	13	3	12	44
+388	11	9	12	25
+566	15	6	18	55
+664	10	7	27	62
+460	4	6	22	43
+380	1	17	8	34

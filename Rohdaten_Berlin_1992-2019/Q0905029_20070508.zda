@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905029
+datum=08.05.2007
+kurzken=Q 0905029/07
+bez=Wühlischstraße (westl. Böcklinstraße)   (Friedrichshain, 10245)
+arm1=Holteistraße,700,0100
+arm2=Böcklinstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+211	7	0	3	22
+208	12	0	3	18
+247	17	0	1	18
+224	14	0	2	17
+234	5	0	1	13
+282	9	0	3	14
+295	16	0	5	24
+300	13	0	3	23
+371	8	1	6	25
+394	13	0	10	28
+348	7	0	6	38
+306	12	0	3	38
+; 2 -> 1
+402	9	0	5	18
+415	11	0	6	27
+240	11	0	4	21
+117	4	0	1	24
+115	2	0	3	19
+93	5	0	1	13
+120	8	0	2	21
+113	4	0	6	12
+128	7	0	1	25
+132	3	0	2	33
+95	4	0	4	29
+108	0	0	1	30

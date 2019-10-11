@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0903024
+datum=30.10.2003
+kurzken=Q 0903024/03
+bez=Exerzierstraße (Bereich der Mittelinsel, Höhe Nr. 18)   (Wedding, 13357)
+arm1=Schulstraße,850,0100
+arm2=Schwedenstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+262	15	3	5	8
+298	21	4	1	11
+356	20	6	3	16
+364	10	6	2	12
+439	19	6	2	13
+536	31	6	3	15
+575	26	7	4	13
+617	15	7	7	15
+584	16	6	8	18
+639	11	6	7	22
+605	14	6	7	32
+588	6	4	3	19
+; 2 -> 1
+553	27	4	2	7
+540	18	4	7	18
+536	10	6	3	15
+460	20	6	4	5
+385	25	7	6	7
+419	24	5	2	10
+468	16	6	4	17
+425	21	6	1	8
+476	22	5	4	14
+426	9	5	9	22
+378	8	8	5	10
+427	4	4	2	14

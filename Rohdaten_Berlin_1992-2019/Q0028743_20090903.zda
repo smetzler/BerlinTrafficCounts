@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28743
+datum=03.09.2009
+kurzken=Q 28743/09
+bez=Karl-Marx-Allee (östl. Koppenstraße)   (Friedrichshain, 10243)
+arm1=Karl-Marx-Allee (W),800,0000
+arm2=Koppenstraße (S),1750,0001
+arm3=Karl-Marx-Allee (O),2600,0000
+arm4=Koppenstraße (N),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=3 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+41	15
+45	3
+54	4
+68	4
+50	4
+48	1
+61	0
+83	0
+65	0
+61	4
+55	3
+44	0
+; 4 -> 2
+45	25
+68	11
+63	5
+57	1
+56	4
+65	1
+83	3
+35	0
+66	3
+56	4
+47	3
+43	3

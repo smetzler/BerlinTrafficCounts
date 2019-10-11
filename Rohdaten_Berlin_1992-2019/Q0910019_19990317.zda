@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910019
+datum=17.03.1999
+kurzken=Q 0910019/99
+bez=Martin-Buber-Straße (nördl. Königsstraße)   (Zehlendorf, 14163)
+arm1=Königstraße,1700,0100
+arm2=Potsdamer Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+107	7	0	0
+196	7	1	0
+208	8	0	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+358	5	1	5
+351	1	0	3
+230	1	1	1
+; 2 -> 1
+444	12	1	5
+503	14	1	6
+457	15	0	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+461	5	0	4
+439	8	0	3
+451	2	0	6

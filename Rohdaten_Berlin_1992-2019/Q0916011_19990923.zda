@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0916011
+datum=23.09.1999
+kurzken=Q 0916011/99
+bez=Landjägerstraße (westl. Wendenschloßstraße)   (Köpenick, 12559)
+arm1=Amtstraße,800,0000
+arm2=Wendenschloßsstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+28	0	5	0
+6	0	3	0
+14	1	2	0
+17	1	2	0
+47	2	3	2
+257	7	3	5
+336	8	5	13
+364	9	5	8
+330	10	8	2
+296	10	6	0
+321	12	6	2
+249	15	6	3
+215	11	6	1
+248	16	6	3
+252	18	5	2
+288	6	6	6
+309	7	7	6
+310	3	7	4
+220	5	5	8
+183	1	7	7
+157	1	5	2
+107	1	4	2
+61	0	3	1
+35	0	3	0

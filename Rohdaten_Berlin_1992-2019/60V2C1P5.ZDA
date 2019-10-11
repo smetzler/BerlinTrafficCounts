@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40260
+datum=26.04.1985
+kurzken=Q 40260/85
+bez=Oberlandstrasse im Bereich der Grundstuecke Nr. 84 bis 93   ( Berlin 42 )
+Arm1=Sued  ( 1a ),900,0100
+Arm2=Nord  ( 1b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !
+data=
+; 1 -> 2
+4 7 23 11 12 26 18 26 23 20 9 6 
+; 2 -> 1
+10 19 23 32 21 16 30 60 19 8 23 8 

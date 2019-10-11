@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2644
+datum=10.05.2016
+kurzken=Q 2644/16
+bez=Gartenfelder Straße (N) (nördl. Gartenfelder Str. (W))   (Haselhorst, 13599)
+arm1=Gartenfelder Straße (W),950,0010
+arm2=Paulsternstraße,1600,0000
+arm3=(Feuerwache\, Parkweg),2500,1000
+arm4=Gartenfelder Straße (N),3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+9	2
+6	0
+13	0
+5	0
+7	0
+11	0
+12	0
+10	4
+14	2
+22	4
+12	2
+10	1
+; 3 -> 1
+5	8
+3	0
+11	1
+10	0
+16	0
+11	0
+11	4
+22	2
+14	0
+17	0
+9	0
+10	1

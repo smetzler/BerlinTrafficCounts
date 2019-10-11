@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 5566044
+datum=04.06.2009
+kurzken=Q 5566044/09
+bez=Veteranenstraße (nördl. Fehrbelliner Straße)   (Prenzlauer Berg, 10119)
+arm1=Fehrbelliner Straße ,600,0010
+arm2=Veteranenstraße   ,1150,0000
+arm3=Fehrbelliner Straße ,2400,1000
+arm4=Veteranenstraße (Zionskirchpl.),3300,0000
+art=Erw,Jugend
+zeit=1500,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+18	6
+19	8
+25	6
+28	4
+; 3 -> 1
+23	6
+24	4
+19	7
+32	11

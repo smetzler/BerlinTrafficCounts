@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40850
+datum=04.07.1990
+kurzken=Q 40850/90
+bez=Heerstrasse 455    ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+193 267 314 421 433 372 525 501 592 609 852 828 
+; 2 -> 1
+218 370 551 461 376 404 446 510 628 698 489 347 

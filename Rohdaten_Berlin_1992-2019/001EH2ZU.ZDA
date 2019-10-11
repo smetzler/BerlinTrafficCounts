@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 1817
+datum=11.05.1989
+kurzken=K 1817/89
+bez=Tauernallee / Quarzweg    ( Berlin 42 )
+Arm1=,0,0000
+Arm2=Tauernallee,1280,0011
+Arm3=Quarzweg,2370,0101
+Arm4=Tauernallee,3180,0110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Zufahrt 4: Linksabbiegen verboten !
+data=
+; 2 -> 3
+97 89 143 117 155 165 176 230 402 461 342 286 
+; 2 -> 4
+4 11 10 12 10 11 20 13 18 28 28 26 
+; 3 -> 2
+320 206 175 145 133 124 148 154 168 224 254 225 
+; 3 -> 4
+9 4 3 7 7 5 6 6 20 21 19 14 
+; 4 -> 2
+15 18 14 17 13 12 15 12 19 18 14 16 
+; 4 -> 3
+7 4 1 4 4 4 2 2 1 7 6 9 

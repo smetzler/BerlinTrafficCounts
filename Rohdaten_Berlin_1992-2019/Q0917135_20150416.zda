@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917135
+datum=16.04.2015
+kurzken=Q 0917134/15
+bez=Seehausener Straße (Höhe Sporthalle)   (Lichtenberg, 13057)
+arm1=Pablo-Picasso-Straße,1500,0000
+arm2=Vincent-van-Gogh-Straße,3300,0000
+arm3=((Nordwesten)),600,0001
+arm4=((Südosten)),2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Seehausener Str. in Höhe der Sporthalle queren (Sporthalle befindet sich ca. 160m südl. V.-van-Gogh-Str.)\n
+data=
+; 3 -> 4
+7	5
+4	0
+5	0
+2	0
+4	0
+2	0
+10	0
+2	0
+9	17
+2	2
+12	3
+3	2
+; 4 -> 3
+2	0
+6	0
+9	0
+0	0
+6	0
+2	0
+6	0
+7	4
+13	16
+6	6
+5	3
+9	13

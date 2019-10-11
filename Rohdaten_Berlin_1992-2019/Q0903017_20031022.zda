@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0903017
+datum=22.10.2003
+kurzken=Q 0903017/03
+bez=Schulzendorfer Straße (östl. Kunkelstraße, Pankegrünzug)   (Wedding, 13347)
+arm1=Kunkelstraße,1000,0100
+arm2=Neue Hochstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+115	3	7	2	1
+152	9	4	3	6
+175	6	3	3	5
+188	7	5	7	10
+203	4	3	1	6
+211	3	3	2	5
+143	8	4	1	6
+233	12	5	4	8
+302	10	6	4	4
+425	8	6	6	10
+371	6	6	4	13
+242	4	6	4	14
+; 2 -> 1
+333	5	6	4	14
+353	9	5	3	15
+238	2	4	9	11
+268	7	5	6	11
+254	6	3	2	8
+227	7	3	2	5
+178	16	3	3	9
+189	5	6	5	7
+198	4	6	4	4
+274	6	6	4	8
+226	3	7	5	7
+154	4	6	2	4

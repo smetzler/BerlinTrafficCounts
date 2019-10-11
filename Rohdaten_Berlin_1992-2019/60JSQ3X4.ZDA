@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025658
+datum=25.3.1992
+kurzken=Q 2565.8/92-F
+bez=Allee d.Kosmonauten östlich Poelchaustraße    ( Berlin 1141-Marz )
+arm1=Süd,300,0100
+arm2=Nord,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+61 32 
+45 32 
+36 8 
+45 12 
+69 39 
+55 58 
+78 73 
+107 30 
+158 74 
+206 24 
+135 23 
+89 25 
+; 2 -> 1
+82 47 
+72 63 
+63 45 
+79 7 
+86 52 
+68 38 
+77 58 
+89 57 
+79 95 
+83 23 
+90 22 
+48 17 

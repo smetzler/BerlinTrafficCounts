@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41279
+datum=21.4.1993
+kurzken=Q 4127.9/93-F
+bez=Groß-Ziethener-Chaussee in Höhe Nr. 73    (Rudow)
+arm1=Süd,400,0100
+arm2=Nord,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+3 0 
+4 1 
+3 0 
+15 91 
+10 44 
+13 49 
+2 39 
+0 38 
+2 0 
+2 2 
+0 2 
+0 2 
+; 2 -> 1
+14 90 
+15 33 
+3 4 
+6 68 
+10 42 
+6 7 
+3 5 
+0 17 
+1 3 
+2 13 
+2 2 
+0 0 

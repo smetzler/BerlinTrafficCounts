@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920005
+datum=19.05.1998
+kurzken=Q 0920005/98
+bez=Bernauer Straße (westl. Neheimer Straße)   (Tegel, 13507)
+arm1=Maienwerder Weg,880,0100
+arm2=Neheimer Straße,2680,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+521	73	7	23
+492	62	6	45
+415	63	6	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+927	50	8	77
+951	41	6	60
+850	31	6	37
+; 2 -> 1
+1314	77	6	70
+1069	102	15	33
+736	109	7	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+720	64	7	41
+804	39	6	48
+657	28	7	41

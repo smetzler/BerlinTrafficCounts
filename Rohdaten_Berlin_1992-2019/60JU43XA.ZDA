@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025708
+datum=31.3.1992
+kurzken=Q 2570.8/92-F
+bez=Hönower Straße nördlich Am Rosenhag    ( Berlin 1147-Mahlsdorf )
+arm1=Ost,1520,0100
+arm2=West,3320,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+14 4 
+8 2 
+11 0 
+12 1 
+9 2 
+10 3 
+5 6 
+3 7 
+7 5 
+6 11 
+4 4 
+4 5 
+; 2 -> 1
+6 10 
+4 0 
+2 0 
+3 0 
+1 0 
+4 2 
+4 0 
+4 10 
+3 3 
+7 16 
+0 0 
+4 2 

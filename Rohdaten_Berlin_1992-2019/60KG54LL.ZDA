@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 26501
+datum=10.05.1994
+kurzken=Q 26501/94
+bez=Wupperstraße / nördl. Goerzallee (Lichterfelde)
+arm1=Am Rehwechsel,100,0100
+arm2=Goerzallee,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+144,12,0,4,10
+140,23,0,1,7
+109,13,0,1,1
+91,9,0,3,5
+; 2 -> 1
+134,15,0,1,3
+109,8,0,2,2
+78,16,0,0,4
+67,7,0,1,2

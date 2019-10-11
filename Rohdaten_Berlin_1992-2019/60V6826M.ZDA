@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40400
+datum=15.11.1986
+kurzken=Q 40400/86
+bez=Bluecherstrasse  zwischen Mehringdamm (Bluecherplatz) und Zossener Str. (Bln.61)
+Arm1=Mehringdamm,900,0100
+Arm2=Zossener Strasse,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung !
+data=
+; 1 -> 2
+361 406 567 669 741 838 842 628 510 439 461 467 
+; 2 -> 1
+342 352 526 680 851 835 858 845 823 638 625 545 

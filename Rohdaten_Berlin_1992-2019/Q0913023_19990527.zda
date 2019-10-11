@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913023
+datum=27.05.1999
+kurzken=Q 0913023/99
+bez=Teilestraße (westl. Gottlieb-Dunkel-Straße )   (Tempelhof, 12099)
+arm1=Rohdestraße,800,0100
+arm2=Gottlieb-Dunkel-Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+368	56	11	29
+416	72	11	13
+447	69	11	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+828	52	11	58
+835	44	13	51
+601	26	9	44
+; 2 -> 1
+1010	67	14	56
+803	70	15	31
+595	48	12	34
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+503	41	17	38
+513	28	16	36
+477	25	16	28

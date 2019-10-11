@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 109003
+datum=21.10.2002
+kurzken=Q 109003/02
+bez=Eichener Chaussee (nördl. Landsberger Chaussee)   (Hönow, 16356)
+arm1=Landsberger Chaussee,1550,0100
+arm2=Biberstraße,3350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+98	14	12	0	5
+73	16	6	0	6
+84	15	5	0	2
+97	21	5	0	2
+71	17	6	0	1
+92	12	2	0	4
+79	6	3	0	1
+98	12	7	0	4
+104	8	9	0	1
+126	8	2	0	10
+123	18	2	0	5
+134	11	1	0	2
+; 2 -> 1
+129	24	7	1	6
+156	59	9	1	18
+137	21	4	0	5
+149	23	7	0	4
+126	12	7	0	2
+69	17	5	0	2
+87	11	2	0	0
+103	8	2	0	0
+120	12	1	0	2
+122	7	5	0	3
+152	11	1	0	2
+147	6	3	0	8

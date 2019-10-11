@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907096
+datum=20.09.2006
+kurzken=Q 0907096/06
+bez=Schloßstraße (nördl. Horstweg)   (Charlottenburg, 14059)
+arm1=Zillestraße,100,0100
+arm2=Horstweg,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+191	7	4	9	85
+290	10	4	16	96
+263	11	5	9	70
+210	6	12	4	78
+188	8	13	9	61
+218	4	12	7	68
+204	2	11	16	51
+261	1	11	11	75
+294	0	12	16	74
+337	4	13	17	104
+233	1	11	21	108
+284	1	5	14	98
+; 2 -> 1
+209	5	4	10	60
+284	8	2	9	78
+253	12	4	6	56
+288	10	4	10	66
+233	9	5	12	60
+225	8	8	10	63
+228	5	2	8	75
+237	3	3	7	68
+362	4	4	14	128
+361	4	4	26	101
+281	4	4	21	94
+373	5	4	19	104

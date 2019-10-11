@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913008
+datum=28.10.1998
+kurzken=Q 0913008/98
+bez=Komturstraße (nördl. Teilestraße)   (Tempelhof, 12099)
+arm1=Germaniastraße,0,0100
+arm2=Teilestraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+334	43	7	5
+424	48	4	6
+371	42	5	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+696	35	5	12
+647	41	7	14
+454	16	5	6
+; 2 -> 1
+529	42	9	10
+434	58	9	4
+363	38	7	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+418	20	11	9
+415	17	8	11
+376	9	7	4

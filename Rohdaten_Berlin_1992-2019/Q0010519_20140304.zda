@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010519
+datum=04.03.2014
+kurzken=Q 010519/14
+bez=Bundesplatz-Tunnel   (Schöneberg, 10715)
+arm1=Hildegardstraße,50,0100
+arm2=Friedrich-Wilhelm.Platz,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort nördl. Tunnelmund (zw. Hildegardstr. u. Mainzer Str.)\, nur Fahrzeuge im Tunnel zählen!\nCity-Atlas Seite 99\, Feld 8b
+data=
+; 1 -> 2
+274	3	1	2
+352	9	0	2
+371	8	0	1
+414	7	0	6
+445	12	1	7
+498	7	0	4
+535	2	1	5
+628	6	0	10
+897	3	0	12
+980	2	0	20
+980	2	0	20
+869	2	0	17
+; 2 -> 1
+858	13	0	8
+1127	11	0	169
+815	6	0	15
+596	7	0	12
+473	4	0	5
+464	4	1	2
+521	6	1	6
+530	6	0	10
+609	5	0	9
+672	2	0	20
+561	1	0	7
+447	0	0	3

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29984
+datum=20.06.2016
+kurzken=Q 29984/16
+bez=Johannisthaler Chaussee (östl. Kirschnerweg)    (Gropiusstadt, 12351)
+arm1=((Norden)),300,0010
+arm2=Johannisthaler Chaussee (W),1200,0000
+arm3=Kirschnerweg,2100,1000
+arm4=Johannisthaler Chaussee (O),3000,0000
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=es wurden sowohl Fußgängern (Erw\, Jugend) als auch Radfahrer gezählt
+data=
+; 1 -> 3
+22	5	9
+41	13	5
+35	11	3
+60	4	5
+47	11	4
+55	3	11
+54	14	26
+56	8	15
+45	18	12
+70	15	25
+52	10	13
+40	6	0
+; 3 -> 1
+51	15	22
+54	26	14
+56	7	25
+68	8	41
+68	6	34
+62	8	23
+62	5	34
+66	16	24
+81	22	36
+108	16	35
+66	15	25
+108	15	34

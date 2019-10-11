@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919001
+datum=17.06.1998
+kurzken=Q 0919001/98
+bez=Hauptstraße (östl. Mönchmühler Straße)   (Blankenfelde, 13159)
+arm1=Mönchmühler Straße,1000,0100
+arm2=Schildower Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+125	6	0	3
+124	5	0	2
+117	4	0	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+293	11	0	9
+271	5	0	12
+217	9	0	5
+; 2 -> 1
+332	8	0	2
+201	20	0	5
+165	10	0	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+146	5	0	11
+171	12	0	12
+139	15	0	5

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25015
+datum=14.3.1991
+kurzken=Q 2501.5/91-F
+bez=An der Wuhlheide westlich Koepenicker Allee    ( Koepenick )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 0 
+0 0 
+1 0 
+1 0 
+0 0 
+0 0 
+1 0 
+1 0 
+0 0 
+0 0 
+0 0 
+0 0 
+; 2 -> 1
+0 0 
+0 0 
+1 0 
+0 0 
+0 0 
+0 0 
+2 0 
+1 1 
+0 0 
+0 0 
+2 0 
+0 0 

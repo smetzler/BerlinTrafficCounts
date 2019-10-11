@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20201
+datum=13.03.2018
+kurzken=Q 20201/18
+bez=Teltower Damm (nördl. Alt Schönow)     (Schönow, 14167)
+arm1=Teltower Damm (N),100,0000
+arm2=Alt Schönow,950,0001
+arm3=Teltower Damm (S),2100,0000
+arm4=Ein- / Ausf. Gewerbegebiet (Würth),3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+2	1
+2	0
+0	0
+6	0
+6	0
+1	0
+0	0
+0	0
+1	0
+4	0
+1	0
+0	0
+; 4 -> 2
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	1
+0	0
+0	0
+0	0

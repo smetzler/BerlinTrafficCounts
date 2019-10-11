@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909121
+datum=22.05.2017
+kurzken=Q 0909121/17
+bez=Bundesallee (Wilmersdorfer Tunnel)   (Wilmersdorf, 10713)
+arm1=Güntzelstraße,0,0100
+arm2=Waghäuseler Straße,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=4
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=! Gezählt wurde der Verkehr im Tunnel (Wilmersdorfer Tunnel) !\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+398	8	0	7	0
+458	13	2	5	0
+454	16	1	13	0
+538	8	0	18	0
+589	22	2	19	0
+608	10	0	17	0
+687	8	1	21	0
+778	14	2	29	0
+1053	9	0	45	0
+1063	9	6	56	0
+1004	0	2	69	0
+967	2	1	36	0
+; 2 -> 1
+1150	21	0	48	0
+1442	11	2	73	0
+1037	24	6	44	0
+696	20	6	18	0
+674	24	0	21	0
+607	14	3	19	0
+620	27	0	23	0
+719	21	1	24	0
+861	25	1	24	0
+976	23	1	27	0
+792	15	2	34	0
+651	8	1	22	0

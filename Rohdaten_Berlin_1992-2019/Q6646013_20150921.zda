@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6646013
+datum=21.09.2015
+kurzken=Q 6646013/15
+bez=Dorfstraße (südl. Wartenberger Weg)   (Malchow, 13051)
+arm1=Dorfstraße (N),50,0000
+arm2=((Westen)),850,0001
+arm3=Dorfstraße (S),1750,0000
+arm4=Wartenberger Weg,2650,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+3	0
+0	0
+0	0
+1	0
+0	0
+1	1
+2	0
+0	0
+2	0
+0	0
+0	0
+1	0
+; 4 -> 2
+1	1
+2	1
+1	0
+2	0
+1	0
+2	0
+2	1
+0	0
+4	2
+0	0
+0	0
+0	0

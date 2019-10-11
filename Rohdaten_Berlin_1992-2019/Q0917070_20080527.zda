@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917070
+datum=27.05.2008
+kurzken=Q 0917070/08
+bez=Volkradstraße (Höhe Nr. 4, Kastanienhofschule)   (Friedrichsfelde, 10319
+arm1=Schwarzmeerstraße,1600,0100
+arm2=Rummelsburger Straße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+313	4	17	3	22
+282	9	14	4	18
+275	6	10	4	10
+256	8	8	0	20
+228	3	10	5	14
+208	4	9	3	14
+230	9	11	7	21
+302	4	16	5	29
+310	6	12	10	20
+311	1	19	5	20
+314	2	17	9	26
+256	2	12	5	22
+; 2 -> 1
+129	4	15	2	5
+131	6	9	3	10
+112	0	8	3	11
+154	2	8	0	8
+196	6	8	1	19
+172	6	10	3	15
+266	1	12	6	13
+307	4	15	10	27
+378	4	14	12	16
+373	1	15	12	27
+394	2	15	8	25
+302	1	13	9	19

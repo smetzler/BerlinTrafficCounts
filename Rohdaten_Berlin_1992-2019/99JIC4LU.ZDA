@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5484036
+datum=19.05.1994
+kurzken=Q 5484036/94
+bez=Werbellinstraße / westl. Falkstraße (Neukölln)
+arm1=Falkstraße,200,0010
+arm2=Werbellinstraße,1100,0000
+arm3=Falkstraße,2000,1000
+arm4=Werbellinstraße,2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  bedeckt\, Dauerregen
+data=
+; 1 -> 3
+8 2
+12 3
+5 0
+11 0
+13 5
+14 2
+32 11
+18 9
+13 4
+21 7
+17 4
+18 5
+; 3 -> 1
+18 7
+17 1
+19 0
+8 0
+11 2
+16 1
+10 8
+24 12
+22 7
+18 5
+11 3
+18 3

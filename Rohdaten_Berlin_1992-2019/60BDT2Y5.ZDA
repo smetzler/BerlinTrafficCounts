@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 14753
+datum=14.3.1989
+kurzken=Q 1475.3/89-R
+bez=Horst Kohl Strasse westlich Thorwaldsenstrasse    ( Berlin 41 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: wolkig bis bedeckt !
+data=
+; 1 -> 2
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+3 
+0 
+0 
+; 2 -> 1
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+2 
+2 
+1 

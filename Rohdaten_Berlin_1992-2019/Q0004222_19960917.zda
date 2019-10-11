@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4222
+datum=17.09.1996
+kurzken=Q 4222/96
+bez=Allee d. Kosmonauten östl. Märk. Allee  (Zuf. Poliklinik)    (Marzahn, 12681)
+arm1=Märkische Allee,950,0100
+arm2=Luise-Zietz-Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Tram
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+290 15 13 3 16
+303 22 10 1 16
+371 27 6 2 15
+388 20 6 0 7
+410 24 7 2 9
+440 12 6 1 9
+438 27 9 7 10
+544 16 13 8 12
+686 12 14 6 18
+778 15 16 5 18
+699 8 15 12 18
+704 6 16 10 12
+; 2 -> 1
+378 4 15 7 18
+314 18 8 1 15
+316 14 6 1 8
+346 16 6 2 8
+253 11 6 2 13
+213 8 3 1 9
+194 9 8 1 10
+235 5 14 4 18
+205 8 12 2 18
+250 5 15 2 18
+240 1 15 1 17
+181 1 10 0 10

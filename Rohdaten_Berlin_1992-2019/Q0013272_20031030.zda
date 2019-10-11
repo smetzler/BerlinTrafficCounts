@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 13272
+datum=30.10.2003
+kurzken=Q 13272/03
+bez=Hauptstraße (südl. Spohnholzstraße)   (Schöneberg, 12159)
+arm1=Hähnelstraße ,900,0010
+arm2=Hauptstraße,1400,0000
+arm3=Sponholzstraße,1830,1000
+arm4=Hauptstraße,3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6\,5°C; Sonne=0 Std; Niederschlag=9 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+11	4
+25	7
+20	13
+18	0
+25	8
+18	0
+23	2
+29	2
+35	8
+48	1
+35	5
+28	4
+; 3 -> 1
+17	4
+20	2
+29	0
+36	0
+21	0
+32	6
+18	0
+28	0
+40	9
+50	8
+29	1
+22	6

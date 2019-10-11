@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9853
+datum=26.05.2008
+kurzken=Q 9853/08
+bez=Mehringdamm (südl. Obentrautstraße)    (Kreuzberg, 10961)
+arm1=Mehringdamm,50,0000
+arm2=Obentrautstraße,770,0001
+arm3=Mehringdamm,1850,0000
+arm4=Blücherstraße,2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+15	6
+24	11
+45	2
+50	1
+40	0
+53	0
+64	0
+58	0
+72	1
+60	3
+52	2
+42	0
+; 4 -> 2
+50	0
+30	0
+26	0
+50	1
+44	0
+57	1
+52	1
+45	1
+46	2
+46	7
+51	1
+35	0

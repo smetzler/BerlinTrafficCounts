@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 15675
+datum=20.10.1987
+kurzken=Q 15675/87
+bez=Gottlieb-Dunkel-Strasse suedl. Saalburgstrasse   ( Berlin 42 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter : bedeckt und trocken
+data=
+; 1 -> 2
+3 0 2 0 4 0 1 0 0 0 2 0 3 0 
+5 0 9 0 10 0 7 0 1 0 
+; 2 -> 1
+3 0 7 0 8 0 9 0 3 0 5 0 15 0 
+4 0 1 0 0 0 1 0 0 0 

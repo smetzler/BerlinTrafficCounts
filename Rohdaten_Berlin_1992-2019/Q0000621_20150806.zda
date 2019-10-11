@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 00621
+datum=06.08.2015
+kurzken=Q 00621/15
+bez=A115 - AVUS - AS Spanische Allee (Abf. östl. BAB) (Zehlendorf, 14129)
+arm1=BAB (AK Zehlendorf),1600,0100
+arm2=Spanische Allee,3300,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=nur Abfahrt\, ohne Borussenstr.. Standort: Borussenstr. oder Brücke Rosemeyerweg)\nCity-Atlas Seite 128\, Feld 5c
+data=
+; 1 -> 2
+94	2	0	0	9
+103	2	1	0	11
+100	2	0	0	11

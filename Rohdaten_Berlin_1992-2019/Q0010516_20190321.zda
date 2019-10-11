@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010516
+datum=21.03.2019
+kurzken=Q 0010516/19
+bez=Bundesallee (nördl. Südwestkorso, S-Bahnbrücke) (Schöneberg, 14197) 
+arm1=Detmolder Straße,50,0100
+arm2=Varziner Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+303	7	5	3	71
+340	4	3	5	82
+265	5	3	4	64
+310	8	4	20	62
+377	3	3	6	56
+327	5	3	8	49
+332	3	3	8	72
+358	3	3	9	104
+487	7	3	19	114
+466	2	2	26	152
+475	5	3	27	129
+442	2	3	14	151
+; 2 -> 1
+456	2	3	14	132
+575	5	3	27	168
+464	6	3	12	106
+454	4	4	20	58
+416	6	5	10	51
+354	3	3	9	73
+377	7	2	17	68
+402	4	4	12	64
+543	5	5	14	74
+540	2	4	8	84
+519	3	3	12	85
+454	4	3	10	74

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5448117
+datum=19.05.1994
+kurzken=Q 5448117/94
+bez=Hallesche Straße / östl. Möckernstraße (Kreuzberg)
+arm1=,750,0000
+arm2=Süd,1600,0001
+arm3=Hallesche Straße,2550,0000
+arm4=Nord,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  bedeckt\, Dauerregen
+data=
+; 2 -> 4
+35 0
+17 1
+12 1
+15 0
+11 2
+50 2
+33 4
+56 2
+67 9
+29 4
+60 4
+27 3
+; 4 -> 2
+18 0
+18 1
+14 0
+13 0
+13 1
+16 2
+17 4
+36 1
+43 8
+19 6
+29 6
+14 1

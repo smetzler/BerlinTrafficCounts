@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0923001
+datum=24.06.1998
+kurzken=Q 0923001/98
+bez=Chemnitzer Straße (südl. Alt-Kaulsdorf)   (Kaulsdorf, 12621)
+arm1=Am Niederfeld,1700,0100
+arm2=Alt-Kaulsdorf,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+292	16	7	3
+256	16	7	0
+276	25	6	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+390	29	6	3
+412	18	8	3
+356	16	6	1
+; 2 -> 1
+395	54	8	2
+408	30	10	0
+429	55	6	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+787	36	9	7
+789	24	8	10
+764	23	10	10

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-0919327
+datum=09.05.2019
+kurzken=Q-0919327/-2000
+bez=Wiltbergstraße 99/Ludwig-Hoffmann-Quartier)“ (Pankow, Buch, 13125) 
+arm1=Wiltbergstraße 99/Ludwig-Hoffmann-Quartier,450,0010
+arm2=,0,0000
+arm3=Wiltbergstraße,2250,1000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+188	11	1	4	41
+233	6	1	3	25
+191	7	1	3	20
+214	2	2	0	8
+216	11	1	3	10
+254	6	2	2	16
+242	5	1	1	11
+297	7	3	6	24
+374	5	1	5	31
+314	4	4	4	20
+281	1	1	3	21
+272	4	1	0	17
+; 3 -> 1
+439	9	6	4	42
+367	11	7	2	28
+326	12	7	3	13
+274	14	8	4	10
+259	16	8	3	17
+285	7	6	1	11
+330	9	6	5	8
+380	13	7	3	13
+414	10	6	4	33
+436	4	8	14	26
+320	3	5	9	15
+321	2	6	4	7

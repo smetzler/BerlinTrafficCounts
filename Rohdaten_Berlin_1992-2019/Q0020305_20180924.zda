@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020305
+datum=24.09.2018
+kurzken=Q 020305/18
+bez=18Leuschnerdamm (nördl. Waldemarstraße)   (Kreuzberg, 10179)
+arm1=Bethaniendamm,3400,0100
+arm2=Waldemarstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+15	0	0	0	6
+27	0	0	2	30
+21	1	0	2	19
+8	2	0	0	4
+12	0	0	0	8
+20	2	0	3	6
+18	0	0	2	14
+11	0	0	0	22
+12	0	0	0	26
+10	0	0	0	22
+13	0	0	0	17
+19	0	0	0	24
+; 2 -> 1
+102	2	0	1	20
+172	4	0	4	40
+192	1	0	3	37
+280	6	0	4	16
+157	3	0	4	13
+150	2	0	6	12
+187	2	0	3	19
+245	0	0	1	10
+308	2	0	9	23
+386	0	0	4	16
+266	0	0	4	27
+239	0	0	14	38

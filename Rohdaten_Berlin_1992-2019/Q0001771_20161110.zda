@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1771
+datum=10.11.2016
+kurzken=Q 1771/16
+bez=Falkenseer Chaussee (westl.  Am Kiesteich)   (Spandau, 13589)
+arm1=Falkenseer Chaussee (W),700,0000
+arm2=Am Kiesteich,1500,0001
+arm3=Falkenseer Chaussee (O),2500,0000
+arm4=Wasserwerkstraße,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=2 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+19	3
+25	2
+26	1
+50	0
+42	1
+52	2
+39	0
+31	1
+47	7
+37	4
+41	6
+21	0
+; 4 -> 2
+31	11
+36	7
+28	0
+36	1
+47	0
+46	3
+33	1
+71	7
+41	6
+49	4
+40	3
+28	2

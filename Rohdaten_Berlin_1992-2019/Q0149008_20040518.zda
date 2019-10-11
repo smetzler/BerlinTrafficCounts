@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 149008
+datum=18.05.2004
+kurzken=Q 149008/04
+bez=Beethovenstraße - Arcostraße (Stadtgrenze)   (Tempelhof, 12307)
+arm1=Löwenbrucher Weg,200,0100
+arm2=Stadtgrenze,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+16	1	0	0	1
+45	2	0	0	0
+40	7	1	0	6
+57	4	2	0	2
+58	8	3	0	0
+48	5	1	0	4
+54	11	1	0	8
+80	3	0	0	9
+118	10	1	0	9
+169	4	0	0	7
+204	22	4	0	13
+150	11	4	0	16
+; 2 -> 1
+93	15	1	0	4
+204	14	1	0	17
+144	12	3	0	14
+65	7	1	0	6
+57	9	1	0	2
+75	6	0	0	5
+61	2	0	0	3
+60	4	1	0	6
+51	1	0	0	10
+74	4	1	0	9
+70	6	1	0	8
+66	12	3	0	7

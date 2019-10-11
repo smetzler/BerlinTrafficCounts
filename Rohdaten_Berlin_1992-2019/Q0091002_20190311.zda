@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0091002
+datum=11.03.2019
+kurzken=Q 0091002/19
+bez=Dessauer Straße (südl. Ahrensfelder Chaussee) (Marzahn, 12689) 
+arm1=Ahrensfelder Chaussee,300,0100
+arm2=Schwarzwurzelstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+190	0	0	0	0
+119	3	0	1	0
+118	0	0	0	1
+83	2	0	1	0
+115	2	0	0	0
+128	1	0	0	0
+135	2	0	1	0
+160	1	0	2	1
+249	0	0	1	1
+226	0	0	0	1
+221	0	0	1	0
+139	0	0	0	1
+; 2 -> 1
+200	1	0	1	1
+163	3	0	0	0
+114	1	0	1	0
+98	3	0	0	0
+93	1	0	2	1
+103	1	0	0	0
+126	5	0	0	0
+146	2	0	0	0
+190	0	0	0	0
+180	2	0	1	0
+124	0	0	1	1
+100	1	0	0	0

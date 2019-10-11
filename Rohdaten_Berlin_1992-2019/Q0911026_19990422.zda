@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0911026
+datum=22.04.1999
+kurzken=Q 0911026/99
+bez=AK Schöneberg - von Grazer Damm nach A100-Ost   (Schöneb., 10829)
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=Grazer Damm,1700,0010
+arm3=A100-Sachsendamm (Ost),2500,0000
+arm4=A103-Sachsendamm (Nord),3200,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 3
+68	7	0	3
+61	10	0	0
+60	6	0	2
+33	9	0	1
+36	3	0	2
+49	5	0	3
+58	3	0	2
+48	2	0	0
+45	1	0	1
+51	2	0	0
+50	1	0	1
+59	2	0	1

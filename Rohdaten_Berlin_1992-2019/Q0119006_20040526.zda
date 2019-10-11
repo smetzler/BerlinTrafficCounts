@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 119006
+datum=26.05.2004
+kurzken=Q 119006/04
+bez=Schöneicher Landstr. - Friedrichsh. Str.,  Stadtgrenze) (Köpenick, 12587)
+arm1=S-Bhf. Friedrichshagen,1200,0100
+arm2=Friedrichshagener Straße ,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+102	23	10	1	5
+108	21	4	0	3
+134	21	5	0	3
+188	10	6	0	2
+129	18	8	0	11
+149	10	12	0	5
+139	12	2	0	7
+197	15	10	0	13
+204	22	8	0	14
+261	27	5	0	13
+304	42	7	0	21
+286	34	6	0	14
+; 2 -> 1
+197	39	19	0	8
+186	22	14	0	28
+146	24	8	0	13
+150	10	20	0	8
+117	17	7	0	11
+104	8	7	0	5
+119	10	9	0	8
+130	13	2	0	5
+176	14	4	0	4
+125	12	4	0	8
+142	10	3	0	7
+134	14	7	0	14

@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0442
+datum=04.07.1989
+kurzken=K 442/89
+bez=Kaiserin-Augusta-Allee / Mierendorffplatz    ( Berlin 10 )
+Arm1=Kais.-Augusta-Allee,900,0010
+Arm2=Mierendorffplatz,1350,1010
+Arm3=Kais.-Augusta-Allee,2700,1000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 3
+437 346 367 290 286 298 301 336 338 322 251 227 
+; 2 -> 1
+5 11 15 11 8 7 9 12 9 16 22 14 
+; 2 -> 3
+274 274 264 255 280 272 264 254 256 250 246 223 
+; 3 -> 1
+411 443 481 491 469 489 523 547 689 787 528 470 

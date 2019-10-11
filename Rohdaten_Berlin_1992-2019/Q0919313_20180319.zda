@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919313
+datum=19.03.2018
+kurzken=Q 0919313/18
+bez=Königsteinbrücke (über A114; Höhe Königsteinstr.)   (Buchholz, 13127)
+arm1=Straße 74 (W),800,0100
+arm2=Flaischlenstraße (O),2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgängerbrücke; Zählung der Radf u. Fußgänger\, die die Brücke queren\nDurchschnittliche Tagestemperatur:  8° C\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+15	1	0
+10	1	0
+11	1	0
+3	5	1
+8	1	0
+6	3	1
+8	2	0
+6	6	2
+11	5	0
+12	6	0
+7	3	1
+7	3	0
+; 2 -> 1
+11	0	0
+8	2	0
+6	1	1
+2	2	0
+15	3	1
+5	3	0
+7	6	0
+11	4	0
+9	3	1
+24	9	3
+15	5	0
+13	4	0

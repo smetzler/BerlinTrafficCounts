@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29243
+datum=29.11.2012
+kurzken=Q 29243/12
+bez=Schneller Straße (östl. Köllnische Straße)   (Niederschöneweide, 12439)
+arm1=Schneller Straße (W),800,0000
+arm2=Köllnische Straße,1600,0001
+arm3=Schneller Straße (O),2650,0000
+arm4=((Norden)),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0 Std; Niederschlag=17 mm;
+data=
+; 2 -> 4
+3	0
+2	0
+14	0
+12	0
+6	0
+7	3
+6	0
+3	0
+9	3
+0	0
+5	1
+1	0
+; 4 -> 2
+2	0
+9	0
+6	0
+6	0
+3	0
+8	3
+0	0
+3	1
+5	0
+4	2
+3	0
+3	1

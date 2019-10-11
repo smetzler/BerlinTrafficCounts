@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26116
+datum=20.4.1993
+kurzken=Q 2611.6/93-F
+bez=Suhler Straße südlich Gothaer Straße    (Hellersdorf )
+arm1=Ost,450,0100
+arm2=West,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+7 3 
+3 0 
+5 2 
+3 0 
+2 1 
+1 0 
+2 0 
+3 1 
+2 6 
+3 2 
+4 6 
+5 1 
+; 2 -> 1
+2 4 
+6 1 
+7 0 
+6 0 
+1 0 
+4 1 
+11 0 
+4 0 
+9 6 
+4 7 
+1 2 
+3 0 

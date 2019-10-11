@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025618
+datum=18.3.1992
+kurzken=Q 2561.8/92-F
+bez=Dunckerstraße nördlich Stargarder Straße     ( Berlin 1058-PrzlBg )
+arm1=Ost,400,0100
+arm2=West,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+15 12 
+21 2 
+22 3 
+20 2 
+47 3 
+32 4 
+26 5 
+29 8 
+75 13 
+78 10 
+41 9 
+29 4 
+; 2 -> 1
+24 8 
+16 2 
+25 3 
+23 1 
+46 5 
+28 13 
+37 6 
+34 5 
+62 29 
+56 18 
+58 11 
+49 6 

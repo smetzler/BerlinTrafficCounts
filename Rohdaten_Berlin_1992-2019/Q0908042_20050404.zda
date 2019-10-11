@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908042
+datum=04.04.2005
+kurzken=Q 0908042/05
+bez=Heerstraße (östl. Am Postfenn)   (Spandau, 14055)
+arm1=Am Postfenn,950,0100
+arm2=Passenheimer Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+2601	78	21	78	24
+2599	90	20	39	25
+1747	88	21	40	23
+1261	88	17	34	21
+1200	67	19	23	28
+1088	76	20	25	35
+; 2 -> 1
+895	59	22	33	11
+958	73	17	12	12
+1063	68	20	15	11
+1148	93	15	23	13
+1030	62	13	19	13
+888	59	12	17	17

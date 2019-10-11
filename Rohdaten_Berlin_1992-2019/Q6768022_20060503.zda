@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6768022
+datum=03.05.2006
+kurzken=Q 6768022/06
+bez=Wiltbergstraße (nordwestl. Karower Chaussee)   (Buch, 13125)
+arm1=((Nordost)),3400,0010
+arm2=Wiltbergstraße,550,0000
+arm3=Karower Chaussee,1600,1000
+arm4=Lindenberger Weg,2230,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+0	0
+3	0
+2	0
+5	0
+2	0
+0	0
+2	0
+1	0
+1	0
+0	0
+3	0
+; 3 -> 1
+0	0
+0	0
+1	0
+1	0
+2	0
+0	0
+0	0
+0	0
+2	0
+1	0
+1	1
+0	0

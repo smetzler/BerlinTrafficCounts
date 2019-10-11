@@ -1,0 +1,72 @@
+[ZA1001]
+knoten=K 648
+datum=25.11.1997
+kurzken=K 648/97
+bez=Entlastungsstraße / Tiergartenstraße - Bellevuestr.   (Tiergarten, 10785)
+arm1=Entlastungsstraße,150,0101
+arm2=Tiergartenstraße,1050,0000
+arm3=,0,0000
+arm4=Bellevuestraße,2850,1100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0600,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Knotenströme 1>4 und 4>1: Nur Baustellenverkehr!\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+735 36 5 20
+741 53 5 14
+731 63 2 3
+621 63 6 10
+578 47 3 6
+590 59 3 2
+609 59 6 8
+675 46 4 9
+727 67 4 9
+984 56 3 16
+868 26 5 12
+758 25 3 11
+652 9 4 12
+; 1 -> 4
+1 0 0 0
+2 0 0 0
+3 0 0 0
+2 0 0 0
+2 1 0 0
+3 1 0 0
+3 1 0 0
+3 4 0 0
+2 3 0 0
+1 1 0 0
+2 2 0 0
+0 1 0 0
+0 2 0 0
+; 4 -> 1
+3 0 0 0
+4 0 0 0
+5 0 0 0
+4 1 0 0
+6 1 0 0
+4 2 0 0
+3 0 0 0
+0 0 0 0
+1 0 0 0
+1 0 0 0
+0 0 0 0
+0 1 0 0
+1 0 0 0
+; 4 -> 2
+1061 51 12 6
+1389 56 10 7
+1422 51 12 8
+1047 52 11 4
+930 54 9 8
+854 55 10 6
+839 57 6 7
+957 55 8 4
+901 44 6 5
+1127 32 10 13
+1208 24 7 14
+1089 21 8 10
+998 15 7 5

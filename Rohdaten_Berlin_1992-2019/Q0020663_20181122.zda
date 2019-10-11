@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20663
+datum=22.11.2018
+kurzken=Q 20663/18
+bez=Antonienstr. / Eichborndamm - Miraustr. (Reinickendorf, 13403)
+arm1=Eichborndamm  (N),3200,0000
+arm2=Miraustr. (W) ,550,0001
+arm3=Eichborndamm - Antonienstr. (S),1400,0000
+arm4=Osten,2350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 2 -> 4
+5	3
+9	2
+12	4
+8	3
+16	1
+32	0
+24	0
+34	5
+61	3
+75	6
+45	2
+42	3
+; 4 -> 2
+46	12
+39	16
+25	34
+21	5
+18	1
+36	0
+27	0
+29	24
+14	11
+19	4
+15	3
+34	1

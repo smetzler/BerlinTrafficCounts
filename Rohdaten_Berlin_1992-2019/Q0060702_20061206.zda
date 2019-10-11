@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 060702
+datum=06.12.2006
+kurzken=Q 060702/06
+bez=Zufahrt Flughafen Tegel (General-Ganeval-Brücke) (Reinickend., 13627)
+arm1=Flughafen,300,0100
+arm2=Saatwinkler Damm,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Tunnel Flughafen-Tegel gesperrt!
+data=
+; 1 -> 2
+519	11	9	21	1
+628	13	14	24	1
+1038	26	9	25	0
+1314	22	12	28	0
+1163	28	27	29	2
+967	19	22	32	2
+1074	31	27	26	4
+1091	19	24	28	6
+1552	22	32	28	16
+1457	24	26	35	6
+1745	42	59	48	6
+1910	49	47	39	1
+; 2 -> 1
+951	35	23	24	6
+1138	33	17	25	2
+1342	46	30	35	2
+1428	48	22	30	6
+1112	55	22	38	2
+778	34	34	26	4
+928	24	16	31	7
+1026	28	13	27	9
+880	38	22	28	8
+1003	33	18	29	6
+1172	42	16	32	3
+1357	49	11	33	2

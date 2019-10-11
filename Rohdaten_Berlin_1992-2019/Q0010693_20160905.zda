@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10693
+datum=05.09.2016
+kurzken=Q 10693/16
+bez=Helmstraße (östl. Hauptstraße)   (Schöneberg, 10823)
+arm1=,550,0000
+arm2=Hauptstraße (S),1500,0001
+arm3=Helmstraße,2350,0000
+arm4=Hauptstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=2 Std; Niederschlag=4 mm;
+data=
+; 2 -> 4
+28	13
+20	5
+35	3
+76	4
+77	7
+103	11
+127	18
+137	8
+104	10
+130	32
+114	20
+154	14
+; 4 -> 2
+11	2
+7	0
+21	0
+36	2
+54	1
+70	9
+120	3
+105	7
+104	11
+97	9
+103	22
+108	6

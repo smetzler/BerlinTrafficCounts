@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26998
+datum=16.09.1996
+kurzken=Q 26998/96
+bez=Rheinsteinstraße   (östl. Waldowallee)     (Karlshorst, 10318)
+arm1=Waldowallee (Nord),230,0010
+arm2=,1120,0000
+arm3=Waldowallee (Süd),2030,1000
+arm4=,2920,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C\, teils sonnig\, 0\,2 mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 3
+4 2
+0 0
+2 0
+6 0
+3 0
+2 0
+2 0
+0 0
+1 1
+3 1
+1 0
+1 1
+; 3 -> 1
+4 0
+1 0
+1 0
+6 0
+1 0
+3 0
+0 0
+0 1
+2 2
+1 2
+2 0
+4 0

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 15513
+datum=17.09.1987
+kurzken=Q 15513/87
+bez=Alarichstrasse suedl. Attilaplatz        ( Berlin 42 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1001 840 763 713 703 680 653 758 952 937 705 738 
+; 2 -> 1
+719 668 667 675 716 704 933 908 1175 1375 1175 1121 

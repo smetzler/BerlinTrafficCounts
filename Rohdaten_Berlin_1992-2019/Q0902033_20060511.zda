@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0902033
+datum=11.05.2006
+kurzken=Q 0902033/06
+bez=Tiergartenufer (westl. Lichtensteinallee)   (Tiergarten, 10787)
+arm1=(Westen),700,0100
+arm2=Lichtensteinallee,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+27
+57
+42
+24
+42
+34
+36
+55
+77
+91
+124
+92
+; 2 -> 1
+35
+79
+72
+55
+29
+37
+50
+36
+48
+45
+61
+75

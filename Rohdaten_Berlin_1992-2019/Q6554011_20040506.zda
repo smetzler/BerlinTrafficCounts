@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6554011
+datum=06.05.2004
+kurzken=Q 6554011/04
+bez=Ruschestraße (nördl. Bornitzstraße)  (Lichtenberg, 10367)
+arm1=Ruschestraße,30,0000
+arm2=Bornitzstraße,880,0001
+arm3=Ruschestraße,1650,0000
+arm4=Bornitzstraße,2680,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=4 Std; Niederschlag=13 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	0
+20	0
+11	7
+16	0
+9	0
+10	0
+12	1
+8	0
+10	3
+7	2
+9	1
+14	1
+; 4 -> 2
+0	0
+13	0
+8	8
+16	0
+10	0
+12	0
+11	0
+6	0
+19	4
+19	2
+14	7
+26	2

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919014
+datum=13.10.1998
+kurzken=Q 0919014/98
+bez=Hermann-Hesse-Straße (nördl. Tschaikowskistr.)   (Niederschönh., 13156)
+arm1=Tschaikowskistraße,1400,0100
+arm2=Pastor-Niemöller-Platz,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+213	26	6	2
+123	38	4	1
+156	22	3	3
+216	25	4	1
+206	21	2	2
+205	31	5	1
+261	30	4	2
+288	23	8	6
+308	12	6	3
+338	13	8	9
+345	10	5	1
+304	7	6	3
+; 2 -> 1
+690	36	4	10
+462	33	7	7
+303	25	6	5
+244	29	3	1
+215	20	4	2
+250	15	3	0
+281	37	3	6
+280	15	4	4
+324	16	6	3
+409	11	5	9
+298	1	7	2
+249	8	6	1

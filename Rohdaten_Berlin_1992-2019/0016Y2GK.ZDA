@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 1546
+datum=21.09.1987
+kurzken=K 1546/87
+bez=Thorwaldsenstrasse - Prellerweg / Bergstrasse      ( Berlin 41 )
+Arm1=Thorwaldsenstrasse,400,0101
+Arm2=Bergstrasse,950,0001
+Arm3=,0,0000
+Arm4=Prellerweg,2690,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+6 4 9 9 9 6 10 7 10 17 7 5 
+; 1 -> 4
+614 529 464 515 616 646 754 742 1152 1195 986 1052 
+; 2 -> 4
+626 469 360 409 421 474 448 386 738 691 533 522 
+; 4 -> 1
+1457 1146 855 656 640 571 674 679 940 1060 786 599 
+; 4 -> 2
+635 501 370 391 403 376 361 368 537 799 482 357 

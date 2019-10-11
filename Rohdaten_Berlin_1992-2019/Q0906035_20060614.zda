@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906035
+datum=14.06.2006
+kurzken=Q 0906035/06
+bez=Wrangelstraße (östl. Mariannenplatz)   (Kreuzberg, 10997)
+arm1=Mariannenplatz,550,0100
+arm2=Manteuffelstraße,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+18	2	0	2	12
+57	1	0	3	30
+46	2	0	3	44
+48	1	0	1	22
+54	3	0	0	19
+63	7	0	3	38
+65	1	0	6	36
+60	0	0	6	52
+68	5	0	2	57
+77	2	0	8	70
+61	3	0	7	60
+53	2	0	5	99
+; 2 -> 1
+44	2	0	2	51
+68	2	0	5	93
+60	4	0	5	103
+49	1	0	3	33
+43	7	0	6	31
+60	4	0	5	38
+57	4	0	2	44
+86	1	0	3	32
+94	2	0	8	69
+63	1	0	1	67
+72	1	0	3	62
+55	2	0	4	65

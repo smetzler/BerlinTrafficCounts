@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 020706
+datum=12.04.2010
+kurzken=Q 020706/10
+bez=Brunnenstraße (südl. Bernauer Straße)   (Wedding, 10115)
+arm1=Bernauer Straße ,200,0100
+arm2=Schönholzer Straße ,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Brunnenstr. (Mitte) (Baustelle)\nRichtung Rosenthaler Platz zwischen Rheinsberger Str. und Anklamer Str. Baustelle\, ein Fahrstreifen gesperrt
+data=
+; 1 -> 2
+365	14	0	18	19
+415	16	1	17	65
+496	11	0	16	83
+492	28	2	6	78
+412	18	0	8	51
+326	16	0	6	44
+386	14	0	4	48
+394	17	0	8	59
+380	22	0	20	84
+477	6	0	18	87
+504	3	0	19	96
+423	5	0	18	106
+452	1	0	11	102
+; 2 -> 1
+346	8	0	10	16
+395	14	2	18	47
+553	13	2	8	60
+444	14	2	8	74
+372	22	2	7	37
+405	17	3	8	33
+383	20	4	7	36
+427	26	3	11	59
+398	14	2	12	62
+480	14	3	20	55
+479	11	9	29	104
+395	7	4	22	101
+420	8	2	18	98

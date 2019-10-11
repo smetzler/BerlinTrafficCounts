@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20712
+datum=13.12.2018
+kurzken=Q20712/18
+bez=Dietzgenstr./Blankenburger Str. (Niederschönhausen, 13156)
+arm1=Dietzgenstr. (N),150,0000
+arm2=Dietzgenstr. (S),1700,0000
+arm3=Blankenburger Str. (O),2750,0001
+arm4=,0,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4	
+6	15
+7	1
+17	3
+40	0
+17	5
+14	5
+31	0
+23	4
+39	12
+44	2
+28	0
+20	3
+; 4 -> 3	
+13	12
+7	4
+7	1
+14	0
+22	3
+39	7
+39	3
+23	50
+38	22
+34	4
+24	2
+13	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 89862
+datum=19.04.2005
+kurzken=Q 89862/05
+bez=Otisstraße (südl. Wittestraße)   (Reinickendorf, 13403)
+arm1=Wittestraße,790,0010
+arm2=Otisstraße,1490,0000
+arm3=Wittestraße,2610,1000
+arm4=Innungsstraße,3280,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	0
+2	0
+1	0
+1	0
+4	0
+0	0
+1	0
+1	1
+2	0
+3	1
+3	2
+1	0
+; 3 -> 1
+1	0
+5	0
+1	0
+2	0
+0	0
+0	0
+0	0
+2	0
+3	0
+5	1
+1	0
+2	0

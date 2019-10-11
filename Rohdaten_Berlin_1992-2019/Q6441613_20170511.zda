@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6441613
+datum=11.05.2017
+kurzken=Q 6441613/17
+bez=Südostallee (östl. Baumschulenstraße)   (Treptow, 12437)
+arm1=Sonnenallee (NW),600,0000
+arm2=Baumschulenstraße (SW),1400,0001
+arm3=Südostallee (SO),2350,0000
+arm4=Baumschulenstraße (NO),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+15	0
+11	2
+3	1
+10	0
+14	1
+6	0
+11	2
+14	2
+21	5
+24	4
+33	2
+16	1
+; 4 -> 2
+10	0
+10	2
+11	1
+7	0
+5	0
+13	0
+15	0
+8	2
+14	3
+10	4
+25	2
+7	1

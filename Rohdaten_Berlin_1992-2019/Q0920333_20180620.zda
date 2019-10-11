@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920333
+datum=20.06.2018
+kurzken=Q 0920333/18
+bez=Quickborner Straße (nördl. Uhlandstr., Höhe Mauerweg)   (Märkisches Viertel, 13439)
+arm1=Zerpenschleuser Ring,400,0100
+arm2=Uhlandstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\nIst gleichzeitig mit Q 0920334 zu erheben.
+data=
+; 1 -> 2
+153	16	5	6	21
+156	13	6	6	22
+96	15	4	5	16
+90	28	8	2	22
+90	11	5	4	20
+107	17	6	6	12
+137	14	6	6	37
+147	13	6	2	26
+151	8	6	5	35
+140	4	6	8	44
+126	3	6	9	32
+135	7	6	2	22
+; 2 -> 1
+196	19	6	3	76
+165	18	5	2	65
+138	20	5	1	31
+150	12	4	4	12
+110	15	6	1	26
+146	22	5	6	11
+186	12	6	8	17
+202	8	4	6	18
+241	8	6	13	29
+190	6	4	12	16
+211	6	6	15	31
+170	3	6	9	29

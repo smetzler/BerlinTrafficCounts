@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0040901
+datum=21.03.2019
+kurzken=Q 0040901/19
+bez=Pfarrstraße - Schulze-Boysen-Straße (südl. Wiesenweg) (Lichtenberg, 10365) 
+arm1=Buchberger Straße,3300,0100
+arm2=Hauffstraße,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+580	8	0	10	57
+484	12	1	12	65
+414	8	0	5	43
+261	9	1	5	25
+208	8	0	2	32
+260	3	0	6	38
+223	4	0	11	42
+290	2	0	9	72
+317	4	0	11	99
+349	5	0	10	98
+306	4	0	4	81
+270	2	0	9	80
+; 2 -> 1
+315	9	0	9	100
+317	10	0	2	111
+228	8	0	2	67
+260	11	0	3	36
+306	6	0	4	38
+300	7	0	6	39
+365	5	0	11	52
+487	6	0	7	54
+642	2	1	9	85
+607	3	0	17	86
+477	4	0	14	89
+382	0	0	13	79

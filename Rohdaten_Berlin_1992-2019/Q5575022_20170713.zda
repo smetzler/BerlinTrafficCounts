@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5575022
+datum=13.07.2017
+kurzken=Q 5575022/17
+bez=Karl-Liebknecht-Straße (südwestl. Torstraße)   (Mitte, 10178)
+arm1=Torstraße,650,0010
+arm2=Karl-Liebknecht-Straße,1450,0000
+arm3=Mollstraße,2350,1000
+arm4=Prenzlauer Allee,3350,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+18	1
+65	1
+62	3
+59	2
+36	0
+108	0
+144	1
+76	1
+85	4
+107	2
+76	3
+85	1
+; 3 -> 1
+35	1
+57	0
+80	1
+61	0
+75	0
+152	2
+82	0
+69	1
+56	2
+67	3
+66	7
+116	3

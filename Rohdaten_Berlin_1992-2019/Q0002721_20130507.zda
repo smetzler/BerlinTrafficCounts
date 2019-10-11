@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2721
+datum=07.05.2013
+kurzken=Q 2721/13
+bez=Afrikanische Straße (nordwestl. Seestraße)   (Wedding, 13351)
+arm1=Afrikanische Straße,400,0000
+arm2=Seestraße (SW),1300,0001
+arm3=Amrumer Straße,2200,0000
+arm4=Seestraße (NO),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=2 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+10	1
+16	0
+22	25
+12	1
+5	7
+8	0
+10	4
+9	1
+18	8
+9	2
+10	0
+15	2
+; 4 -> 2
+30	4
+26	0
+24	5
+19	2
+12	0
+15	1
+12	0
+15	0
+33	4
+24	0
+15	0
+16	0

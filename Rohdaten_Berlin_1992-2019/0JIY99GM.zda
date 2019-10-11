@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0911025
+datum=07.07.2009
+kurzken=K 0911025/09
+bez=AK Schöneberg - von A100-Nordwest nach Grazer Da.   (Schöneb., 10829)
+arm1=A100-Innsbrucker Platz,300,0100
+arm2=Grazer Damm,1700,0000
+arm3=A100-Sachsendamm (Ost),2500,0000
+arm4=A103-Sachsendamm (Nord),3200,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+385	28	0	8
+405	31	0	15
+335	47	1	8
+328	30	1	4
+321	33	0	12
+329	34	0	7
+396	21	0	10
+416	23	1	20
+473	21	0	25
+436	16	0	21
+447	10	0	10
+539	8	1	15

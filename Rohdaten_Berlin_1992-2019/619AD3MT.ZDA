@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 58693
+datum=6.5.1991
+kurzken=Q 5869.3/91
+bez=Barbarossastrasse oestlich Barbarossaplatz    ( Berlin 30 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+47 
+71 
+61 
+67 
+70 
+46 
+53 
+59 
+90 
+84 
+68 
+53 
+; 2 -> 1
+52 
+54 
+78 
+82 
+83 
+67 
+54 
+77 
+93 
+103 
+75 
+65 

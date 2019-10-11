@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16916
+datum=12.10.1989
+kurzken=Q 16916/89
+bez=Ostpreussendamm suedl. Gaertnerstrasse    ( Berlin 46 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+7 1 1 1 2 1 5 1 0 3 6 0 4 0 
+2 0 4 0 4 0 0 0 4 0 
+; 2 -> 1
+4 0 3 0 4 0 15 29 11 1 8 0 12 0 
+3 1 11 3 18 0 22 1 10 1 

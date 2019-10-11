@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0041003
+datum=14.03.2019
+kurzken=Q 0041003/19
+bez=Alt-Friedrichsfelde (östl. Gensinger Straße) (Lichtenberg, 10315) 
+arm1=Gensinger Straße,900,0100
+arm2=Märkische Allee,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1572	96	2	11	9
+1556	93	1	5	11
+1404	101	2	2	15
+1543	110	4	4	0
+1572	120	1	1	12
+1761	122	2	12	4
+2100	99	0	7	9
+2569	95	1	14	15
+3104	50	0	13	18
+3103	40	0	21	25
+2885	54	2	27	17
+2847	43	1	13	32
+; 2 -> 1
+2835	105	5	26	24
+2493	190	5	14	17
+2087	170	1	6	12
+1751	123	3	9	7
+1779	115	2	7	2
+1821	109	1	6	9
+1894	102	5	16	8
+1829	73	3	2	11
+2175	49	4	13	9
+2216	40	2	5	4
+2070	37	1	14	5
+1818	16	3	2	4

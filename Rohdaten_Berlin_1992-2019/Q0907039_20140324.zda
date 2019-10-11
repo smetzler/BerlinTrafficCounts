@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907039
+datum=24.03.2014
+kurzken=Q 0907039/14
+bez=A100-Stadtring - Abfahrt Tegeler Weg   (Charlottenburg, 13627)
+arm1=A100 (BAB Stadtring),1000,0100
+arm2=Tegeler Weg,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+173	15	0	3
+225	10	0	0
+196	15	0	0
+145	21	0	3
+152	20	0	2
+154	19	0	1
+156	8	0	1
+115	7	0	2
+83	6	0	1
+75	3	0	0
+93	2	1	0
+114	1	0	1

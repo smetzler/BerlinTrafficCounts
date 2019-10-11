@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908093
+datum=11.05.2009
+kurzken=Q 0908093/09
+bez=Seegefelder Straße (östl. Dyrotzer Str. (West))   (Spandau, 13583)
+arm1=Dyrotzer Straße (West),800,0100
+arm2=Wunderwaldstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+655	5	10	36	56
+550	7	5	21	18
+453	11	3	11	23
+340	8	3	6	6
+309	9	3	7	8
+306	16	4	5	17
+293	10	5	6	13
+312	8	4	6	25
+324	12	4	6	18
+375	4	4	13	14
+375	3	3	9	9
+350	0	4	6	22
+; 2 -> 1
+185	11	5	4	23
+194	11	3	8	16
+245	14	3	10	8
+314	16	4	6	22
+365	12	3	5	20
+351	10	4	5	16
+344	9	4	15	24
+441	11	5	12	27
+486	10	3	38	38
+560	12	3	31	26
+581	3	3	20	24
+511	6	3	19	18

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6412078
+datum=31.05.1994
+kurzken=Q 6412078/94
+bez=Saalestraße / östl. Karl-Marx-Straße (S-Bahn-Ausgang) (Neukölln)
+arm1=Nord,1000,1000
+arm2=Süd,2800,0100
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  heiter\, wolkig  ab 17 Uhr leichter Regen
+data=
+; 1 -> 1
+169 98
+179 75
+210 102
+272 28
+236 36
+268 39
+289 55
+245 63
+268 52
+356 119
+347 51
+201 65
+; 2 -> 2
+101 23
+167 56
+255 49
+222 56
+258 73
+225 51
+287 89
+296 103
+362 104
+441 79
+368 75
+263 80

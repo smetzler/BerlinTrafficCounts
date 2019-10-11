@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025557
+datum=17.3.1992
+kurzken=Q 2555.7/92-F
+bez=Friedenstraße östlich Friedrichsberger Straße    ( Berlin 1017-Frdh )
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter ; bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+5 1 
+2 0 
+3 0 
+5 0 
+0 2 
+2 1 
+5 0 
+3 0 
+4 2 
+2 1 
+4 0 
+0 0 
+; 2 -> 1
+2 0 
+2 0 
+4 0 
+6 0 
+4 0 
+2 1 
+1 0 
+3 1 
+2 1 
+1 4 
+6 0 
+0 0 

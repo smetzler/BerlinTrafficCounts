@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7311006
+datum=18.08.1993
+kurzken=Q 731100.6/93-F
+bez=Alter Schönefelder Weg südl. Rudower Straße    ( Alt-Glienicke )
+arm1=West,750,0100
+arm2=Ost,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken 
+data=
+; 1 -> 2
+6 31
+16 2
+10 1
+5 0
+10 2
+15 1
+10 1
+9 0
+12 3
+14 3
+16 1
+7 4
+; 2 -> 1
+15 6
+16 0
+11 3
+24 2
+9 7
+14 7
+16 5
+19 9
+20 14
+18 10
+21 7
+9 1

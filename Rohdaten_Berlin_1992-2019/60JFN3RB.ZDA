@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025187
+datum=8.10.1991
+kurzken=Q 2518.7/91-F
+bez=Kiefholzstraße südlich Elsenstraße    ( Berlin 1193 - Trept.)
+arm1=Ost,1350,0100
+arm2=West,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Zählung erfolgte durch  -  Verkehr Berlin 
+data=
+; 1 -> 2
+55 16 
+35 5 
+38 5 
+36 10 
+48 1 
+41 0 
+33 3 
+41 5 
+70 7 
+63 13 
+48 5 
+27 4 
+; 2 -> 1
+16 5 
+20 4 
+43 4 
+55 16 
+57 3 
+46 1 
+62 28 
+69 8 
+104 15 
+128 9 
+47 2 
+46 12 

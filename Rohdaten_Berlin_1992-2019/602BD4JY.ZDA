@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3001
+datum=15.03.1994
+kurzken=Q 3001/94
+bez=Helmholtzstraße westl. Wattstraße (Oberschöneweide)
+arm1=Nalepastraße,1100,0100
+arm2=Wattstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+0 163 19 0 5
+0 168 20 0 4
+0 147 15 0 3
+0 145 14 0 7
+0 158 12 0 3
+0 132 16 0 2
+0 164 13 0 5
+0 179 16 0 4
+1 158 8 0 4
+2 173 5 0 5
+2 232 6 0 3
+1 208 2 0 2
+; 2 -> 1
+0 131 4 0 4
+0 83 8 0 2
+0 106 4 0 8
+2 43 4 0 5
+0 34 5 0 8
+0 15 3 0 3
+0 31 3 0 8
+0 48 3 0 5
+0 92 1 0 3
+2 167 5 0 4
+0 76 2 0 2
+0 50 1 0 0

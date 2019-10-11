@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10873
+datum=19.04.2007
+kurzken=Q 10873/07
+bez=Kreuzbergstraße (östl. Möckernstraße)   (Kreuzberg, 10965)
+arm1=Kreuzbergstraße,980,0000
+arm2=((Süden)),1800,0001
+arm3=Kreuzbergstraße,2780,0000
+arm4=Möckernstraße,3580,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Kreuzbergstr. bis ca. 50m östl. der Möckernstr. queren!\nWetter: max T= 18°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+2	0
+5	0
+1	0
+7	0
+3	0
+1	0
+1	0
+2	0
+1	0
+1	0
+1	0
+; 4 -> 2
+4	0
+4	0
+7	0
+6	0
+2	0
+1	0
+1	0
+1	0
+1	0
+1	0
+1	0
+0	0

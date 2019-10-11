@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902014
+datum=29.09.1999
+kurzken=Q 0902014/99
+bez=Reichpietschufer (Höhe Hiroshimasteg)   (Tiergarten, 10785)
+arm1=Klingelhöferstraße,800,0000
+arm2=Hildebrandstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+1220	62	9	44
+1442	54	7	41
+1200	49	11	48
+1320	56	6	28
+1187	71	10	37
+1294	59	17	44
+1284	35	12	38
+1346	54	14	48
+1515	28	17	45
+1470	26	12	62
+1531	27	17	45
+1453	25	13	46

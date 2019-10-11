@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906165
+datum=06.12.2018
+kurzken=Q 0906165/18
+bez=Adalbertstraße (Höhe Naunystraße)   (Kreuzberg, 10997)
+arm1=Adalbertstraße (SW),1500,0100
+arm2=Adalbertstraße (NO),3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+203	8	4	1	37
+282	8	6	7	129
+265	12	7	2	153
+182	6	4	6	50
+215	9	7	1	44
+186	7	6	4	57
+234	5	6	3	63
+265	2	8	3	82
+275	2	5	5	87
+322	2	4	10	70
+261	1	7	1	83
+273	1	4	3	96
+; 2 -> 1
+264	6	6	2	32
+250	7	6	2	87
+226	9	6	2	92
+156	6	6	4	58
+168	10	8	1	40
+158	6	7	2	43
+172	2	7	4	38
+187	2	5	3	55
+216	1	5	1	70
+226	4	6	4	94
+188	0	5	7	100
+185	0	5	3	119

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0921001
+datum=23.06.1998
+kurzken=Q 0921001/98
+bez=Märkische Allee (nördl. Raoul-Wallenberg-Straße)   (Marzahn, 12679)
+arm1=Raoul-Wallenberg-Straße,1600,0100
+arm2=Alfred-Döblin-Straße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1415	69	13	15
+1228	94	13	13
+1211	91	6	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2181	70	10	34
+2150	43	10	30
+2103	40	8	14
+; 2 -> 1
+1784	107	11	15
+1409	98	11	12
+1328	103	8	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1648	46	11	18
+1766	55	12	18
+1724	42	9	15

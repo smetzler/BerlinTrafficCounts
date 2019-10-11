@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922003
+datum=23.06.1998
+kurzken=Q 0922003/98
+bez=Wartenberger Straße (nördl. Hauptstraße)   (Hohenschönhausen, 13053)
+arm1=Malchower Weg,0,0100
+arm2=Hauptstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1712	132	31	28
+1577	116	19	18
+1226	113	13	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+916	57	12	15
+921	48	14	16
+937	28	15	19
+; 2 -> 1
+687	86	14	6
+703	72	10	3
+791	83	10	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1161	63	13	24
+1227	38	12	25
+1218	27	11	23

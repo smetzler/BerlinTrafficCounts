@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 131403
+datum=10.11.1999
+kurzken=Q 131403/99
+bez=Töpchiner Weg (südl. Baldersheimer Weg) (Neukölln, 12305)
+arm1=Baldersheimer Weg,3400,0100
+arm2=Rathenower Straße ,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+101	6	2	8
+104	10	7	6
+184	10	6	7
+176	5	6	4
+145	10	7	3
+185	4	13	3
+227	2	8	5
+238	2	6	6
+294	0	2	6
+287	5	8	6
+404	4	6	6
+306	7	7	5
+; 2 -> 1
+254	16	5	8
+417	12	11	6
+331	11	9	6
+210	0	10	2
+209	12	10	4
+190	4	9	4
+214	4	10	3
+208	1	9	3
+204	1	14	8
+269	1	5	7
+311	3	6	7
+261	2	2	6

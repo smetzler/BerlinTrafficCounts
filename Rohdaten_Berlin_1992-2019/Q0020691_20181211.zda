@@ -1,0 +1,45 @@
+[ZA1001]
+knoten=Q 20691
+datum=11.12.2018
+kurzken=Q20691/18
+bez=Eisenzahnstraße (nördl. Hohenzollerndamm) (Wilmersdorf, 10709)
+arm1=Eisenzahnstr. (N),0,0000
+arm2=Hohenzollerndamm (W),900,0010
+arm3=Hohenzollerndamm (O),2700,0100
+arm4=Süden,1800,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 3	
+96	24
+52	5
+33	0
+40	0
+21	8
+30	3
+22	6
+40	5
+68	5
+24	0
+39	1
+23	0
+; 3 -> 2	
+25	4
+32	2
+37	15
+36	0
+24	1
+33	1
+46	20
+41	21
+43	17
+40	0
+46	1
+25	10
+

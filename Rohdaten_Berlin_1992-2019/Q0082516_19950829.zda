@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 82516
+datum=29.08.1995
+kurzken=Q 82516/95
+bez=Klemkestraße (westl. Sommerstraße)   (Reinickendorf, 13409) 
+arm1=Norden,50,0010
+arm2=Klemkestraße,950,0000
+arm3=Sommerstraße,2200,1000
+arm4=Klemkestraße,2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 16°\, bedeckt\, 0 mm  Niederschlag/Tag. 
+data=
+; 1 -> 3
+0 0
+0 0
+3 0
+3 0
+2 0
+0 0
+0 0
+0 0
+0 0
+1 0
+3 0
+0 0
+; 3 -> 1
+2 0
+1 0
+4 0
+1 0
+2 1
+0 0
+0 0
+0 0
+3 0
+1 3
+2 0
+2 0

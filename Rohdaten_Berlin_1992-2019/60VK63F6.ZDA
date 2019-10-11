@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40902
+datum=19.09.1990
+kurzken=Q 40902/90
+bez=Kurfuerstendamm zwischen Karlsruher Str. und Katharinenstr.    ( Berlin 31 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=- nur Fahrspuren ohne Busspuren !
+data=
+; 1 -> 2
+8 525 54 26 3 5 607 56 31 5 3 536 81 57 11 
+9 652 89 48 4 11 717 87 69 5 14 708 72 53 3 
+12 616 51 30 6 9 729 70 41 6 28 786 53 43 4 
+7 611 31 23 2 20 809 20 11 7 19 885 38 6 6 
+; 2 -> 1
+4 623 46 29 4 5 758 56 37 6 9 748 72 40 12 
+8 750 62 44 7 11 707 50 49 9 13 719 45 34 12 
+7 737 46 44 9 21 692 40 25 6 19 718 26 27 15 
+17 691 24 13 8 21 750 25 11 14 14 846 12 9 9 

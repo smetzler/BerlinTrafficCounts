@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917007
+datum=25.06.1998
+kurzken=Q 0917007/98
+bez=Alt-Friedrichsfelde (östl. Uhrigstraße)   (Friedrichsfelde, 10315)
+arm1=Uhrig Straße,850,0100
+arm2=Am Tierpark,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1983	139	8	51
+1845	175	7	45
+1997	143	2	41
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+3006	107	13	73
+3146	79	4	82
+2715	83	6	68
+; 2 -> 1
+2883	143	13	58
+2501	144	28	37
+2487	138	26	51
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2386	108	7	76
+2480	78	14	57
+2274	49	15	67

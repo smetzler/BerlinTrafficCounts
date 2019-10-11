@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031212
+datum=27.09.2018
+kurzken=Q 031212/18
+bez=Treptower Straße (südl. Kiefholzstraße)   (Neukölln, 12059)
+arm1=Heidelberger Straße,1400,0100
+arm2=Kiefholzstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+82	13	0	4	67
+96	5	0	6	108
+104	9	0	10	91
+112	4	0	6	60
+141	14	0	6	62
+126	5	0	3	51
+156	3	0	3	56
+142	7	0	8	62
+174	5	0	11	96
+128	2	0	10	108
+115	2	0	8	147
+152	1	0	7	127
+; 2 -> 1
+441	27	0	13	75
+468	18	0	12	105
+305	15	0	11	76
+246	16	0	8	38
+292	20	0	7	40
+281	22	0	10	45
+287	15	0	6	41
+299	10	0	12	50
+368	12	0	13	87
+262	6	0	14	72
+297	7	0	16	118
+280	10	0	12	125

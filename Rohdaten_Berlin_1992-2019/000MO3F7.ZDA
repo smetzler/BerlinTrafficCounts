@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 0816
+datum=20.09.1990
+kurzken=K 816/90
+bez=Kurfuerstendamm / Giesebrechtstrasse    ( Berlin 15 )
+Arm1=Giesebrechtstrasse,420,0000
+Arm2=Kurfuerstendamm,1020,1011
+Arm3=Kurfuerstendamm,2390,0000
+Arm4=Kurfuerstendamm,2820,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 1
+13 31 52 26 30 27 17 26 25 23 29 18 
+; 2 -> 3
+474 529 431 439 415 419 409 382 502 495 436 452 
+; 2 -> 4
+603 609 563 637 712 630 598 628 693 656 652 656 
+; 4 -> 1
+58 103 111 110 96 138 97 79 136 139 136 150 
+; 4 -> 2
+625 749 849 894 915 951 966 905 939 947 1110 996 
+; 4 -> 3
+2 2 0 2 4 7 3 5 8 5 4 8 

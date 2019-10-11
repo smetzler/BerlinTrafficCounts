@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q005413
+datum=09.04.2019
+kurzken=Q005413/19
+bez=Otto-Suhr-Allee / Richard-Wagner-Straße - Wintersteinstraße (Charlottenburg, 10585)  über Arm3
+arm1=Wintersteinstraße,50,0000
+arm2=Otto-Suhr-Allee,650,0001
+arm3=Richard-Wagner-Straße,1850,0000
+arm4=Otto-Suhr-Allee,2450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+43	16
+94	27
+168	21
+136	12
+179	14
+166	15
+133	6
+134	17
+133	27
+140	32
+135	18
+106	13
+; 4 -> 2
+55	11
+69	16
+145	16
+73	4
+165	9
+132	16
+128	26
+137	11
+166	27
+74	16
+133	27
+119	14

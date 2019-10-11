@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 30141
+datum=19.06.2017
+kurzken=Q 30141/17
+bez=Stormstraße (westl. Baumschulenstraße)    (Baumschulenweg, 12437)
+arm1=Stormstraße,500,0000
+arm2=Baumschulenstraße (S),1500,0001
+arm3=Glanzstraße,2300,0000
+arm4=Baumschulenstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+63	28
+70	12
+57	7
+66	52
+76	4
+48	29
+83	14
+80	20
+121	14
+116	20
+152	24
+95	5
+; 4 -> 2
+94	43
+115	18
+82	5
+48	8
+57	5
+48	3
+86	9
+92	24
+71	12
+86	16
+98	17
+62	14

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3693
+datum=23.09.2002
+kurzken=Q 3693/02
+bez=Ruhlebener Straße (östl. Klosterstraße)   (Spandau, 13581)
+arm1=Brunsbütteler Damm,700,0000
+arm2=Klosterstraße,1550,0001
+arm3=Ruhlebener Straße,2500,0000
+arm4=Klosterstraße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 8°C; Sonne: 0 Std; Niederschlag: 16 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+81	22
+68	9
+88	4
+114	2
+116	2
+74	6
+77	5
+79	8
+106	11
+143	14
+117	8
+93	9
+; 4 -> 2
+45	22
+46	4
+74	5
+56	0
+105	6
+52	4
+104	14
+133	10
+124	6
+142	7
+140	14
+86	5

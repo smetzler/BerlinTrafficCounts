@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0913043
+datum=24.06.2003
+kurzken=Q 0913043/03
+bez=Alt-Mariendorf (westl. Am Heidefriedhof)   (Mariendorf, 12107)
+arm1=Mariendorfer Damm,950,0000
+arm2=Am Heidefriedhof,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+92	1	7	1	2
+52	5	4	0	0
+48	7	4	2	0
+38	8	7	5	1
+95	12	15	6	3
+447	22	21	30	9
+912	66	37	56	33
+1026	103	29	32	43
+1134	99	15	24	37
+1128	78	18	20	24
+969	104	14	32	22
+871	88	17	39	22
+892	69	24	25	27
+902	83	23	39	34
+968	64	28	32	45
+1022	48	28	44	50
+1154	38	22	63	51
+1108	13	21	45	53
+970	14	19	50	22
+823	5	15	40	16
+615	9	10	36	15
+504	2	12	18	16
+404	4	11	21	16
+159	1	7	7	1

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13543
+datum=05.05.1986
+kurzken=Q 13543/86
+bez=Boelckestrasse suedl. Hoeppnerstrasse   ( Unterfuehrung B )      ( Berlin 42 )
+Arm1=Nord (Hoeppnerstr.),900,0100
+Arm2=Sued (Ringbahnstr.),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Radf,Fussg,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Radfahrer- und Fussgaenger-Zaehlung ; ( Benutzer der Unterfuehrung B )
+data=
+; 1 -> 2
+19 15 11 9 20 3 22 3 10 6 12 6 32 19 
+20 20 44 7 53 7 49 10 43 3 
+; 2 -> 1
+38 14 23 7 21 14 22 7 19 9 26 8 24 12 
+30 6 46 7 54 9 38 3 39 6 

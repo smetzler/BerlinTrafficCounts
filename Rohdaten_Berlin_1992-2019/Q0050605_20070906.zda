@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 050605
+datum=06.09.2007
+kurzken=Q 050605/07
+bez=BAB Stadtring (Tunnel nordwestl. Rathenauplatz)  (Wilmersdorf, 10711)
+arm1=AD Funkturm,300,0100
+arm2=Schwarzbacher Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=2>1: 13:05 -13:43 Uhr Unfall\, Stau\, zeitw. Vollsperrung; 15:15-15:35 Unfall\, Teilsperrung!\nnur Fahrzeuge im Tunnel zählen (ohne Zu- Abfahrer)! \nStandort: Brücke Trabener Steg oder Rathenauplatz\,
+data=
+; 1 -> 2
+4533	425	389	6
+4808	371	334	5
+5498	352	408	5
+4875	302	431	14
+3946	270	414	4
+4550	310	474	2
+4224	356	413	6
+4036	286	294	5
+5226	382	328	12
+5426	374	277	11
+5780	332	208	15
+5588	253	153	11
+; 2 -> 1
+4675	464	328	8
+5393	510	290	6
+4787	331	289	13
+4961	387	362	14
+4410	341	400	10
+4441	326	402	7
+4546	425	354	8
+2183	178	134	3
+4319	364	269	6
+4164	389	210	3
+3692	386	146	6
+4404	277	127	9

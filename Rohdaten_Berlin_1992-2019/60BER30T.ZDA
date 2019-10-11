@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 14787
+datum=14.06.1989
+kurzken=Q 14787/89
+bez=Rubensstrasse suedl. Peter Vischer Strasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar uns trocken !
+data=
+; 1 -> 2
+3 4 6 6 3 3 4 8 7 7 8 5 
+; 2 -> 1
+17 3 10 7 11 11 10 9 6 6 6 3 

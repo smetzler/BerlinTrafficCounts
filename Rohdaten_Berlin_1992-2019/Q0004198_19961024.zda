@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4198
+datum=24.10.1996
+kurzken=Q 4198/96
+bez=Allee d. Kosmonauten  etwa 200 m westl. Rhinstr.    (Lichtenberg, 10365)
+arm1=Krankenhaus Königin Elisabeth,1100,0100
+arm2=Rhinstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Tram
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+57 2 0 0 23
+70 4 0 2 21
+73 10 0 4 16
+83 9 0 4 16
+115 17 0 4 15
+89 2 0 3 20
+100 4 0 3 20
+276 2 0 10 20
+275 2 0 4 24
+132 1 0 2 23
+111 4 0 3 19
+67 0 0 2 16
+; 2 -> 1
+311 6 3 12 23
+155 5 0 6 26
+73 5 0 1 19
+65 5 0 1 15
+87 6 1 2 15
+72 2 0 4 17
+82 7 0 2 16
+72 3 0 1 19
+68 2 0 1 22
+42 1 2 2 19
+57 1 0 1 22
+55 0 0 0 27

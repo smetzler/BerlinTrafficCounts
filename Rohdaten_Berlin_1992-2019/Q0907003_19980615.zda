@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907003
+datum=15.06.1998
+kurzken=Q 0907003/98
+bez=Siemensdamm (Höhe S-Bhf. Wernerwerk)   (Siemensstadt, 14050)
+arm1=Ohmstraße,750,0100
+arm2=Zu-Abfahrt BAB A100,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1743	178	0	83
+1564	160	1	59
+1261	156	2	37
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1773	91	0	123
+1634	54	1	79
+1541	31	3	97
+; 2 -> 1
+1639	117	4	72
+1797	139	5	51
+1447	154	2	29
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1660	97	3	92
+1751	49	6	88
+1677	47	7	96

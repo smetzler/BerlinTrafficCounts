@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 139003
+datum=11.09.2006
+kurzken=Q 139003/06
+bez=Waßmannsdorfer Chaussee (Stadtgrenze)   (Rudow, 12355)
+arm1=Großziethen,1600,0100
+arm2=Rhodeländerweg,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Schönefelder Straße gesperrt!
+data=
+; 1 -> 2
+69	18	9	0	1
+79	13	13	0	1
+52	23	12	0	4
+39	14	10	0	4
+44	7	2	0	4
+55	8	7	0	5
+44	14	6	0	7
+64	18	4	0	10
+54	18	4	0	26
+70	9	1	0	6
+72	12	4	0	23
+83	12	3	0	13
+; 2 -> 1
+46	8	6	0	4
+63	12	11	0	3
+44	11	5	0	2
+41	6	15	0	7
+65	14	7	0	0
+64	12	10	0	5
+48	19	6	0	6
+50	23	7	0	7
+72	20	4	0	8
+83	21	6	0	5
+102	7	7	0	14
+92	15	8	0	24

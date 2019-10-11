@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 4904
+datum=18.06.2018
+kurzken=Q 4904/18
+bez=Schloßstraße Ost (südl. Spandauer Damm)   (Charlottenburg, 14059)
+arm1=Schloß-Vorplatz,50,0000
+arm2=Spandauer Damm (W),950,0001
+arm3=Schloßstraße,1850,0000
+arm4=Spandauer Damm (O),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+12	5
+14	0
+54	14
+12	0
+31	2
+39	2
+42	5
+29	6
+44	4
+12	2
+32	8
+43	4
+; 4 -> 2
+11	7
+21	1
+50	4
+9	0
+26	0
+29	0
+24	1
+26	10
+46	6
+13	4
+19	8
+37	10

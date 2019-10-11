@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020709
+datum=04.11.2002
+kurzken=Q 020709/02
+bez=Swinemünder Straße (südl. Bernauer Straße)   (Mitte, 10435)
+arm1=Bernauer Straße,300,0100
+arm2=Rheinsberger Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+4	0	0	0	0
+3	3	1	0	3
+6	1	0	0	4
+5	1	0	0	1
+13	2	1	0	3
+13	3	1	0	5
+13	2	0	0	3
+7	2	0	0	4
+11	0	0	0	4
+14	0	0	0	3
+22	3	0	0	8
+14	0	0	0	2
+; 2 -> 1
+11	0	0	0	0
+15	4	1	0	3
+13	5	0	0	7
+8	1	1	0	3
+7	1	1	0	1
+12	3	2	0	3
+10	3	0	0	3
+10	0	1	0	5
+6	0	1	0	1
+8	0	0	0	3
+10	1	0	0	6
+11	0	0	0	2

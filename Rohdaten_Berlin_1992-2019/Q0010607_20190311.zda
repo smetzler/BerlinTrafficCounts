@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010607
+datum=11.03.2019
+kurzken=Q 0010607/19
+bez=Sömmeringstraße (Caprivibrücke) (Charlottenburg, 10587) 
+arm1=Am Spreebord,0,0100
+arm2=Charlottenburger Ufer,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+428	20	6	2	6
+603	23	6	5	44
+505	21	7	7	41
+408	32	8	6	30
+432	23	7	2	26
+423	20	6	4	22
+466	20	6	1	9
+579	11	6	7	32
+628	8	5	8	31
+632	2	4	8	34
+508	2	7	9	33
+387	4	5	3	26
+; 2 -> 1
+334	10	5	3	27
+478	16	6	4	33
+447	27	7	6	26
+322	10	6	2	26
+338	25	7	2	30
+295	15	7	2	25
+363	11	6	2	12
+400	5	7	3	17
+471	6	5	2	27
+530	4	8	4	26
+431	2	5	4	40
+307	4	5	6	32

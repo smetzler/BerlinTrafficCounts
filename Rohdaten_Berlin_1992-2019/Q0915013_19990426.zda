@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0915013
+datum=26.04.1999
+kurzken=Q 0915013/99
+bez=Am Seegraben (nordöstl. d.nördl. Ausfahrt Grünbergall.) (Bohnsd., 12526)
+arm1=nördl. Ausfahrt Grünbergallee,1400,0100
+arm2=AD Treptow,3200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=nur Fahrtrichtung noch Nordosten gezählt!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+696	91	8	5
+753	140	6	2
+834	127	4	3
+775	109	2	6
+764	131	3	3
+729	116	4	4
+861	102	4	4
+912	104	4	8
+961	116	2	5
+1141	99	2	10
+1162	62	4	10
+961	65	3	11

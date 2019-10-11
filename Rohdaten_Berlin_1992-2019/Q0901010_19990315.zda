@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901010
+datum=15.03.1999
+kurzken=Q 0901010/99
+bez=Brückenstraße (südl. Märkisches Ufer)   (Mitte, 10179)
+arm1=Rungestraße,1600,0100
+arm2=Märkisches Ufer,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+657	40	6	6
+642	54	5	9
+615	52	5	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+721	30	6	9
+783	19	7	16
+654	14	4	11
+; 2 -> 1
+886	45	7	16
+823	62	5	4
+704	47	3	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+866	46	7	18
+930	25	9	15
+709	9	6	12

@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0743
+datum=20.10.1987
+kurzken=K 743/87
+bez=Wilhelmstrasse / Anhalter Strasse  ( Berlin 61 )
+Arm1=Wilhelmstrasse,170,0100
+Arm2=Anhalter Strasse,1100,1000
+Arm3=Wilhelmstrasse,1970,1100
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Zufahrt 1 : Geradeausfahren verboten\nZufahrt 2 : Rechtsabbiegen wegen Bauarbeiten verboten
+data=
+; 1 -> 2
+566 599 675 677 666 682 670 673 916 769 645 602 
+; 2 -> 1
+906 809 782 760 795 736 731 808 919 915 807 582 
+; 3 -> 1
+60 85 84 94 102 84 54 69 85 66 37 34 
+; 3 -> 2
+124 111 108 99 77 73 80 74 75 78 69 57 

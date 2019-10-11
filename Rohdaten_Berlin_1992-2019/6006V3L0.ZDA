@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 00247
+datum=5.3.1991
+kurzken=Q 24.7/91-F
+bez=Ruppiner Chaussee oestlich Kiefheider Weg    ( Berlin 27 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+2 2 2 
+0 2 1 
+2 1 1 
+3 0 2 
+7 0 2 
+2 2 0 
+2 1 0 
+1 2 1 
+3 2 2 
+4 2 2 
+1 0 0 
+1 0 0 
+; 2 -> 1
+2 5 0 
+0 3 0 
+1 2 0 
+2 0 0 
+4 0 0 
+2 0 0 
+1 0 0 
+3 1 1 
+2 1 1 
+2 0 0 
+1 0 0 
+0 0 0 

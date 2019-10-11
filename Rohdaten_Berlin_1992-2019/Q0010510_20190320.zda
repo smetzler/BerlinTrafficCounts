@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010510
+datum=20.03.2019
+kurzken=Q 0010510/19
+bez=Wilhelm-Kabus-Straße (Höhe S-Bahnbrücke) (Schöneberg, 10829) 
+arm1=Torgauer Straße,0,0100
+arm2=Tempelhofer Weg,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+434	19	6	2	54
+587	23	5	8	85
+458	26	6	3	53
+444	30	4	10	40
+489	22	7	5	38
+507	24	6	4	42
+529	23	7	7	46
+531	18	6	11	59
+593	21	7	14	64
+636	24	6	16	86
+612	16	7	6	47
+547	14	6	5	41
+; 2 -> 1
+506	23	6	5	159
+689	19	6	11	274
+476	24	6	11	167
+392	16	6	0	74
+404	27	6	6	62
+417	29	6	7	71
+428	34	7	6	76
+547	24	7	14	63
+601	28	7	18	79
+648	20	6	6	52
+633	15	6	12	52
+552	12	6	10	46

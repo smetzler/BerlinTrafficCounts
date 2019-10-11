@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574034
+datum=20.04.2015
+kurzken=Q 5574034/15
+bez=Alexanderstr.-Grunerstr. (nördl. Karl-Marx-Allee)   (Mitte, 10178)
+arm1=Alexanderplatz,650,0010
+arm2=Alexanderstr.-Grunerstr.,1550,0000
+arm3=Karl-Marx-Allee,2450,1000
+arm4=Otto-Braun-Straße,3350,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+22	1
+25	5
+42	2
+56	2
+87	2
+100	2
+102	2
+98	3
+131	15
+86	15
+83	71
+185	5
+; 3 -> 1
+35	1
+56	0
+101	2
+174	10
+113	1
+116	5
+100	30
+106	4
+149	13
+110	45
+60	40
+88	5

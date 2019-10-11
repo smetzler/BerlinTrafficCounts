@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904901
+datum=13.03.2019
+kurzken=Q 0904901/18
+bez=Kastanienallee (nördl. Schwedter Straße) (Prenzlauer Berg, 10435) 
+arm1=Schwedter Straße,1400,0100
+arm2=Oderberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=3 Std Sonne; 2 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std);   5 Niederschlagtag(e) Vorwoche (>2 mm).  Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+25
+55
+71
+72
+55
+57
+51
+55
+96
+118
+141
+103
+; 2 -> 1
+126
+275
+201
+72
+72
+66
+38
+34
+60
+38
+82
+49

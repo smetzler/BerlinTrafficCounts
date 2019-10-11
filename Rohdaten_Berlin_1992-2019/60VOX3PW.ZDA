@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41073
+datum=21.8.1991
+kurzken=Q 4107.3/91
+bez=Muellerstrasse zw. Amsterdamer Strasse und Utrechter Strasse    ( Berlin 65 )
+arm1=Utrechter Straße,900,0100
+arm2=Amsterdamer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+822 
+797 
+902 
+916 
+1072 
+1044 
+1132 
+1023 
+1346 
+1280 
+1277 
+1214 
+; 2 -> 1
+1255 
+1220 
+1117 
+1028 
+1043 
+1114 
+1183 
+1015 
+1325 
+1175 
+1050 
+892 

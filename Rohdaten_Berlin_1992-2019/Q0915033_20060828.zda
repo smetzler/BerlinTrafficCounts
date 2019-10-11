@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0915033
+datum=28.08.2006
+kurzken=Q 0915033/06
+bez=Rummelsburger Straße (südl. Mentelinstraße)   (Oberschöneweide, 12459)
+arm1=Mentelinstraße,400,0100
+arm2=Treskowallee,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 7 Std Sonne; 2 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+278	17	0	5	13
+352	35	0	6	11
+305	28	0	4	6
+256	28	0	2	10
+312	39	0	2	19
+389	41	0	12	9
+472	34	0	14	18
+575	24	0	9	18
+778	24	1	16	46
+838	22	2	32	30
+602	18	1	13	24
+566	9	0	18	30
+; 2 -> 1
+989	36	0	13	17
+833	38	2	18	17
+678	45	0	13	9
+706	34	0	10	8
+520	53	0	12	8
+528	33	0	14	14
+548	28	1	8	23
+631	31	1	14	16
+650	30	0	8	18
+622	17	0	11	23
+643	11	0	13	21
+642	9	0	13	19

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0051402
+datum=05.03.2019
+kurzken=Q 0051402/19
+bez=Bäkestraße (Teltowkanal-Brücke) (Steglitz,12207) 
+arm1=Hindenburgdamm,500,0100
+arm2=Ostpreußendamm,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+92	0	0	2	36
+146	0	0	2	14
+129	0	0	0	24
+128	0	0	0	12
+118	0	0	3	10
+126	0	0	1	14
+133	0	0	5	21
+115	0	0	4	38
+187	0	0	3	19
+216	0	0	6	6
+0	261	0	0	1
+0	236	0	0	3
+; 2 -> 1
+322	0	0	7	59
+284	0	0	3	20
+167	0	0	5	32
+150	0	0	4	8
+148	0	0	4	12
+130	0	0	0	7
+253	0	0	3	23
+128	0	0	4	15
+139	0	0	3	10
+150	0	0	2	10
+128	0	0	4	22
+115	0	0	1	12

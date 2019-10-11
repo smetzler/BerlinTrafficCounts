@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010204
+datum=12.07.2000
+kurzken=Q 010204/00
+bez=Pariser Platz (Brandenburger Tor), (Mitte, 10557)
+arm1=Entlastungsstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonnenstd.=0\,5; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+104
+223
+195
+101
+141
+171
+264
+221
+272
+299
+289
+288
+; 2 -> 1
+131
+264
+262
+137
+154
+159
+237
+203
+234
+241
+238
+212

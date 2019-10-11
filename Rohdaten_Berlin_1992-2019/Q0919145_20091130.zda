@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919145
+datum=30.11.2009
+kurzken=Q 0919145/09
+bez=Hermann-Hesse-Str. (östl. Pastor-Niemöller-Platz)   (Niederschönh., 13156)
+arm1=Pastor-Niemöller-Platz),1000,0100
+arm2=Ossietzkyplatz,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Einfluss durch Baustellen in der Pasewalker und Blankenburger Str.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+524	35	12	10	27
+536	37	10	5	17
+586	35	5	7	18
+671	34	6	3	13
+746	36	7	6	13
+812	24	6	7	20
+805	42	6	8	33
+936	22	14	8	33
+1127	30	16	15	44
+1181	11	13	22	39
+1115	8	15	11	41
+1033	2	11	14	37
+; 2 -> 1
+1774	45	19	12	51
+1456	39	16	7	33
+1120	37	7	2	37
+859	25	7	9	17
+777	28	7	8	12
+811	23	6	3	15
+860	29	8	12	30
+923	26	11	5	40
+979	22	13	13	56
+892	13	16	18	45
+884	9	16	9	30
+689	8	14	5	18

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915201
+datum=18.05.2017
+kurzken=Q 0915201/17
+bez=Südostallee (Höhe Nr. 134)   (Johannisthal, 12487)
+arm1=Rixdorfer Straße,500,0100
+arm2=Sterndamm,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kfz-Verkehr in Südostallee i. H. Nr. 134 (Jugendzentrum / Haltestelle); \nquerende Fg in Höhe Nr. 134\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+227	20	3	12	114
+216	25	5	5	203
+237	19	2	7	112
+260	28	2	8	62
+250	21	4	5	41
+247	24	4	8	49
+277	25	4	15	35
+309	17	2	18	69
+340	19	3	15	85
+344	14	4	32	94
+308	11	3	24	76
+303	3	3	13	72
+; 2 -> 1
+592	32	4	26	88
+510	49	5	19	66
+370	33	3	14	49
+338	24	2	14	32
+315	18	3	11	32
+267	18	3	19	48
+285	17	3	13	42
+332	18	3	15	64
+382	19	3	10	97
+372	10	2	10	126
+362	3	3	14	185
+296	8	3	13	118

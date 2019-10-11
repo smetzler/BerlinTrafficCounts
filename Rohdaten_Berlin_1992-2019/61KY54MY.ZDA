@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 73805
+datum=27.06.1994
+kurzken=Q 73805/94
+bez=R.-Luxemburg-Straße (südl. Wilhelm-Pieck-Straße) (Mitte, 10119)
+arm1=Wilhelm-Pieck-Straße,50,0100
+arm2=Linienstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+705 42 0 22 29
+640 48 1 13 43
+578 59 1 12 67
+542 71 4 12 49
+518 48 1 13 45
+525 54 2 8 46
+475 42 1 10 49
+503 20 1 11 45
+637 24 3 17 59
+672 11 0 29 59
+581 23 2 25 44
+562 17 0 18 46
+; 2 -> 1
+369 27 0 5 5
+338 19 1 7 10
+346 31 1 6 4
+362 16 1 7 15
+348 27 3 7 10
+350 28 0 13 19
+350 18 0 7 32
+388 17 1 9 42
+436 13 1 22 50
+438 9 1 16 63
+436 9 1 22 41
+400 5 0 21 58

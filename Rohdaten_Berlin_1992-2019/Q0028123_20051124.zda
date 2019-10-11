@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 28123
+datum=24.11.2005
+kurzken=Q 28123/05
+bez=Havemannstraße (östl. Eichhorster Straße) (Marzahn, 12689)
+arm1=Havemannstraße,700,0000
+arm2=Flämingstraße,1600,0001
+arm3=Havemannstraße,2500,0000
+arm4=Eichhorster Straße,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=2°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+22	22
+31	9
+48	8
+41	5
+47	10
+30	3
+42	2
+57	10
+61	7
+54	5
+38	6
+38	2
+; 4 -> 2
+26	30
+19	4
+41	3
+46	2
+52	10
+37	11
+35	4
+40	8
+63	8
+48	6
+51	7
+35	1

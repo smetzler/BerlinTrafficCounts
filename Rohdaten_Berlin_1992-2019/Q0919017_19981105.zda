@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919017
+datum=05.11.1998
+kurzken=Q 0919017/98
+bez=BAB A10 Berliner Ring (Höhe Hobrechtsfelder Ch.)   (Pankow, 13127)
+arm1=AD Pankow,700,0100
+arm2=AS Weißensee,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1208	350	0	0
+1126	293	5	3
+1055	312	3	3
+979	317	2	0
+903	323	3	1
+931	251	2	2
+1034	338	3	2
+1212	293	0	1
+1428	270	0	2
+2115	252	2	4
+1861	224	1	2
+1318	177	0	0
+; 2 -> 1
+1776	309	0	4
+1293	325	0	2
+965	321	3	2
+846	297	1	0
+776	326	0	0
+738	313	3	2
+949	265	2	1
+1079	307	2	1
+1210	274	0	0
+1517	256	0	2
+1356	181	0	2
+1003	177	0	1

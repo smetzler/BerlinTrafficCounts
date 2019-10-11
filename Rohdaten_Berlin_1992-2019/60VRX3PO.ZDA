@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41181
+datum=13.8.1991
+kurzken=Q 4118.1/91-F
+bez=Kurfuerstendamm zw. Joachimstaler Strasse und Tauentzienstrasse    (Berlin 30)
+arm1=Tauentzienstraße,900,0100
+arm2=Joachimstaler Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe "Gloria Palast" !\nWetter: bedeckt und trocken !
+data=
+; 1 -> 2
+78 
+184 
+467 
+933 
+1388 
+1955 
+2258 
+2008 
+2507 
+2364 
+2612 
+2318 
+; 2 -> 1
+129 
+128 
+359 
+777 
+1027 
+1401 
+1729 
+1717 
+2066 
+1404 
+1771 
+1436 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908019
+datum=16.03.1999
+kurzken=Q 0908019/99
+bez=Kladower Damm (südl. Helleberge)   (Gatow, 14089)
+arm1=Kladow,1400,0100
+arm2=Helleberge,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+526	29	15	6
+446	30	10	2
+397	16	11	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+548	23	13	3
+560	11	10	5
+446	2	10	3
+; 2 -> 1
+420	32	9	8
+454	22	11	2
+307	32	11	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+419	13	13	2
+465	8	11	4
+450	2	10	4

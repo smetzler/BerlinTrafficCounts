@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 64242
+datum=31.03.2014
+kurzken=Q 64242/14
+bez=Bachstraße (nördl. Str. d. 17.Juni, nördl. des Absperrgitters am S-Bhf.)   (Tiergarten, 10555)
+arm1=Westseite (Wegelystr.),600,0010
+arm2=,1700,0000
+arm3=Ostseite (S-Bhf.),2700,1000
+arm4=Bachstraße,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Bachstr. nördl. des Absperrgitters überqueren.
+data=
+; 1 -> 3
+11	0
+3	0
+8	0
+12	0
+20	0
+55	0
+20	0
+35	0
+84	1
+147	0
+222	0
+134	0
+; 3 -> 1
+198	0
+320	0
+159	1
+31	0
+36	0
+46	1
+25	0
+10	0
+16	0
+16	0
+24	4
+24	7

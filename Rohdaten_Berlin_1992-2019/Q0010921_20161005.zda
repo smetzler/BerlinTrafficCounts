@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10921
+datum=05.10.2016
+kurzken=Q 10921/16
+bez=Bergmannstraße (westl. Zossener Straße)   (Kreuzberg, 10965)
+arm1=Bergmannstraße (W),750,0000
+arm2=((Süden)),1700,0001
+arm3=Bergmannstraße (O),2550,0000
+arm4=Zossener Straße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+30	33
+54	8
+74	6
+62	3
+120	1
+120	3
+142	8
+67	14
+110	0
+227	18
+180	11
+161	3
+; 4 -> 2
+6	0
+32	2
+64	3
+57	1
+139	10
+151	6
+156	5
+70	21
+86	2
+204	27
+152	10
+159	8

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27603
+datum=25.06.2003
+kurzken=Q 27603/03
+bez=Schwedter Straße (südl. Gleimstraße)   (Prenzlauer Berg, 10435)
+arm1=Schwedter Straße,150,0000
+arm2=Gleimstraße,1000,0001
+arm3=Schwedter Straße (Mauerpark),1950,0000
+arm4=Gleimstraße,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=2\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+10	4
+4	0
+14	0
+9	1
+6	0
+23	0
+10	1
+12	1
+13	0
+4	2
+10	4
+5	0
+; 4 -> 2
+14	1
+11	0
+13	0
+9	0
+17	0
+17	1
+14	2
+10	0
+11	2
+9	4
+15	4
+9	1

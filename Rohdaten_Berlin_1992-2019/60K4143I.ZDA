@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26065
+datum=31.10.1992
+kurzken=Q 2606.5/92-F
+bez=Fürstenwalder Allee westlich Fahlenbergstraße    ( Berlin 1165-Köpenick )
+arm1=Süd,1600,0100
+arm2=Nord,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+0 
+1 
+3 
+3 
+26 
+27 
+0 
+3 
+6 
+12 
+4 
+0 
+; 2 -> 1
+0 
+1 
+2 
+3 
+13 
+9 
+0 
+0 
+1 
+0 
+0 
+0 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904902
+datum=17.10.2012
+kurzken=Q 0904902/12
+bez=Schwedter Straße (nördl. Kastanienallee)   (Prenzlauer Berg, 10435)
+arm1=Griebeowstraße,150,0100
+arm2=Kastanienallee,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=KEINE ZÄHLUNG: Baustelle\, Kastanienallee zw. Oderbruchstr. und Schwedter Str. komplett gesperrt !
+data=
+; 1 -> 2
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+; 2 -> 1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1

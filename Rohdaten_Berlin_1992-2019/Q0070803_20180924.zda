@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 070803
+datum=24.09.2018
+kurzken=Q 070803/18
+bez=Klemkestraße (östl. Sommerstr., S-Bahn-Brücke)   (Reinickendorf, 13158)
+arm1=Büchsenweg,950,0100
+arm2=Straße vor Schönholz,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+287	9	3	2	25
+310	22	3	8	15
+275	10	3	1	16
+348	14	4	1	16
+383	23	3	2	19
+367	12	3	3	37
+438	18	2	5	42
+481	18	4	5	203
+513	3	3	11	115
+508	2	2	14	80
+456	4	3	4	44
+381	2	3	3	38
+; 2 -> 1
+575	9	0	6	276
+573	12	0	11	92
+435	14	0	7	29
+382	16	0	10	12
+303	17	0	8	18
+344	20	0	4	18
+286	14	1	5	19
+319	7	0	6	20
+301	11	0	4	20
+294	6	0	1	10
+306	2	1	6	18
+277	2	0	5	14

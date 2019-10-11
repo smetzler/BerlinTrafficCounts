@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923903
+datum=14.06.2017
+kurzken=Q 0923903/17
+bez=Altentreptower Straße (östl. FGÜ S+U-Bhf. Wuhletal)   (Kaulsdorf, 12619)
+arm1=FGÜ S+U-Bhf. Wuhletal,900,0100
+arm2=P+R-Zufahrt,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 14 Std Sonne; 0\,0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+29
+20
+21
+26
+28
+21
+13
+31
+55
+62
+46
+40
+; 2 -> 1
+51
+51
+24
+50
+17
+13
+24
+11
+36
+50
+25
+29

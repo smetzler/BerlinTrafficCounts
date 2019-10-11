@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 6170
+datum=07.03.1991
+kurzken=K 6170/91
+bez=Johannisthaler Chaussee / Rohrdommelweg    ( Berlin 47 )
+Arm1=Rohrdommelweg,520,0101
+Arm2=Johannisthaler Ch.,1500,1001
+Arm3=,0,0000
+Arm4=Johannisthaler Ch.,3300,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+34 42 8 15 16 32 17 16 16 7 16 10 
+; 1 -> 4
+6 5 2 1 2 6 0 1 0 0 2 3 
+; 2 -> 1
+39 21 13 12 11 29 17 7 8 12 6 6 
+; 2 -> 4
+445 236 288 370 341 355 416 444 581 634 654 661 
+; 4 -> 1
+16 41 2 0 3 11 4 4 2 2 4 1 
+; 4 -> 2
+430 327 330 350 377 352 436 521 654 613 640 440 

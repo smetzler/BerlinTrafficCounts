@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 951
+datum=02.05.2016
+kurzken=Q 951/16
+bez=Roedernallee (nördl. Am Nordgraben)   (Reinickendorf, 13437)
+arm1=Roedernallee (N),250,0000
+arm2=Am Nordgraben (W),1100,0001
+arm3=Roedernallee (S),2050,0000
+arm4=Am Nordgraben (O),2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+5	6
+6	0
+6	1
+7	1
+8	0
+2	0
+7	4
+7	4
+10	3
+17	3
+6	0
+6	0
+; 4 -> 2
+9	1
+0	0
+3	1
+6	0
+5	2
+4	0
+4	0
+6	0
+6	0
+11	4
+3	1
+5	1

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6316025
+datum=18.05.1994
+kurzken=Q 6316025/94
+bez=Fulhamer Allee / westl. Alt-Britz (Britz)
+arm1=Fulhamer Allee,500,0000
+arm2=Alt-Britz,1400,0001
+arm3=Fulhamer Allee,2300,0000
+arm4=Alt-Britz,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  meist sonnig\, bis 9 Uhr Schauer
+data=
+; 2 -> 4
+2 0
+0 0
+1 0
+0 0
+0 0
+3 0
+0 0
+1 1
+0 0
+0 0
+0 0
+1 0
+; 4 -> 2
+0 0
+3 0
+2 0
+1 0
+1 0
+1 0
+3 0
+0 0
+1 0
+0 0
+1 0
+0 0

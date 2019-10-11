@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 85811
+datum=18.11.2010
+kurzken=Q 85811/10
+bez=Barsekowstraße (westl. Klingsorstraße)    (Steglitz, 12167)
+arm1=Barsekowstraße,580,0000
+arm2=Klingsorstraße (S),1480,0001
+arm3=Barsekowstr. (Parkweg),2380,0000
+arm4=Klingsorstraße (N),3320,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=0 Std; Niederschlag=11 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	1
+1	0
+7	0
+4	0
+2	0
+4	0
+5	0
+6	1
+5	2
+9	0
+4	1
+10	0
+; 4 -> 2
+5	0
+9	0
+2	1
+6	0
+3	0
+4	0
+5	5
+9	2
+6	0
+10	1
+11	1
+16	1

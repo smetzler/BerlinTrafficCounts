@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908021
+datum=25.03.1999
+kurzken=Q 0908021/99
+bez=Saatwinkler Damm (westl. Rohrdamm)   (Siemensstadt, 13629)
+arm1=Gartenfelder Straße,950,0100
+arm2=Rohrdamm,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+629	34	4	12
+544	33	1	9
+376	24	0	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+523	17	3	25
+478	16	3	21
+401	5	3	14
+; 2 -> 1
+365	33	2	11
+341	28	1	8
+399	33	0	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+580	25	4	32
+675	21	4	33
+602	9	3	32

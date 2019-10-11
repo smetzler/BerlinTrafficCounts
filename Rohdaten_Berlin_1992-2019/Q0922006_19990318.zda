@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922006
+datum=18.03.1999
+kurzken=Q 0922006/99
+bez=Darßer Straße (westl. Ribnitzer Straße)   (Malchow, 13088)
+arm1=Piesporter Straße,800,0100
+arm2=Ribnitzer Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+517	55	3	9
+437	71	4	5
+448	57	3	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1086	50	3	13
+1254	42	3	17
+1226	21	3	13
+; 2 -> 1
+1341	79	7	4
+992	76	4	3
+907	65	4	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+918	42	4	9
+884	34	4	7
+879	20	3	5

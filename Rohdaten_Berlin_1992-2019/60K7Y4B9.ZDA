@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26206
+datum=22.6.1993
+kurzken=Q 2620.6/93-F
+bez=Modersohnstraße südl. Simplonstraße    ( Friedrichshain )
+arm1=West,450,0100
+arm2=Ost,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+22 74 
+8 34 
+3 6 
+4 2 
+1 2 
+5 4 
+1 11 
+4 6 
+16 22 
+19 6 
+7 8 
+19 3 
+; 2 -> 1
+10 6 
+6 3 
+5 5 
+9 29 
+10 27 
+4 15 
+11 34 
+23 49 
+6 17 
+11 20 
+13 11 
+10 14 

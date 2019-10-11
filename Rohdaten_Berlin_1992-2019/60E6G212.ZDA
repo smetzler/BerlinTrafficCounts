@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 18376
+datum=07.05.1986
+kurzken=Q 18376/86
+bez=Parallelstrasse  ( West )  westl. Oberhofer Platz   ( Berlin 45 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : heiter und trocken
+data=
+; 1 -> 2
+4 0 10 0 13 1 28 3 17 0 11 3 11 2 
+11 0 18 2 10 0 20 3 16 3 
+; 2 -> 1
+8 5 17 0 24 0 19 0 32 3 31 6 1 0 
+5 0 16 2 13 0 4 0 1 0 

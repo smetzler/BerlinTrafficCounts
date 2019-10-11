@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913003
+datum=09.06.1998
+kurzken=Q 0913003/98
+bez=Malteser Straße (nördl. Friedenfelser Straße)   (Marienfelde, 12277)
+arm1=Symeonstraße,150,0100
+arm2=Friedenfelder Straße,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+406	44	12	14
+455	37	16	15
+381	35	7	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+570	26	7	30
+625	23	6	35
+596	17	9	36
+; 2 -> 1
+571	41	13	38
+576	55	17	14
+435	47	8	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+498	30	9	29
+525	10	5	35
+627	15	8	31

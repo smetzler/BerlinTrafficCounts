@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119812
+datum=03.07.2007
+kurzken=Q 119812/07
+bez=Karl-Marx-Str. (nördl. Fuldastr.., Ostseite - Mittelinsel)  (Neukölln, 12043)
+arm1=Karl-Marx-Straße (N),530,0000
+arm2=(Mittelinsel),1100,0001
+arm3=Karl-Marx-Straße (S),2250,0000
+arm4=Fuldastraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die K.-Marx-Str. zw. der östl. Straßenseite und der Mitttelinsel queren! \nWetter: max T=23°C; Sonne=8 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+167	18
+201	19
+266	5
+318	23
+365	7
+399	32
+336	76
+330	73
+349	65
+455	72
+400	64
+376	66
+; 4 -> 2
+268	36
+326	52
+416	30
+376	23
+386	2
+369	14
+327	72
+391	75
+319	56
+415	84
+372	52
+317	28

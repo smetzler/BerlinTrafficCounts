@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6472041
+datum=23.05.2017
+kurzken=Q 6472041
+bez=Rummelsburger Straße (Höhe Mentelinstraße)   (Oberschönweide, 12459)
+arm1=Rummelsburger Straße (NW),400,0000
+arm2=Mentelinstraße ,1000,0001
+arm3=Rummelsburger Straße (SO),2200,0000
+arm4=(Nordosten),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+0	0
+1	0
+0	0
+0	0
+0	0
+0	3
+0	0
+2	0
+0	0
+1	0
+0	0
+4	0
+; 4 -> 2
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+2	0
+0	0
+1	0
+2	0
+0	0

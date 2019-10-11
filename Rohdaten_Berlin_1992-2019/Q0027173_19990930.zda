@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27173
+datum=30.09.1999
+kurzken=Q 27173/99
+bez=Hertzstraße (östl. Hauptstraße)   (Wilhelmsruh, 13158)
+arm1=Hertzstraße,850,0000
+arm2=Hauptstraße,1600,0001
+arm3=Hertzstraße,2500,0000
+arm4=Hauptstraße,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonnenstd.=1\,5; Niederschlag=3\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	34
+10	1
+7	0
+9	0
+8	3
+5	3
+25	16
+24	4
+26	10
+55	12
+34	6
+23	1
+; 4 -> 2
+6	0
+15	6
+5	0
+20	4
+7	1
+4	2
+18	19
+30	15
+19	15
+32	16
+27	4
+16	2

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901018
+datum=15.03.1999
+kurzken=Q 0901018/99
+bez=Behrenstraße (westl.Friedrichstraße)   (Mitte, 10117)
+arm1=Glinkastraße,950,0100
+arm2=Friedrichstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+114	10	0	3
+156	7	0	2
+195	7	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+169	2	2	2
+135	3	0	3
+145	5	0	0
+; 2 -> 1
+57	1	1	1
+69	8	0	1
+87	8	0	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+86	2	1	0
+95	2	0	2
+92	1	1	0

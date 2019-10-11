@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911026
+datum=27.05.2019
+kurzken=Q 0911026/19
+bez=AK Schöneberg - von Grazer Damm nach A100-Ost (Schöneberg, 10829) 
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=Grazer Damm,1700,0010
+arm3=A100-Sachsendamm (Ost) - Tempelh.,2800,0000
+arm4=A103-Sachsendamm (Nord),3300,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 3
+215	4	0	7	0
+198	2	0	4	0
+157	4	0	2	0
+138	5	0	2	0
+151	4	0	2	0
+123	8	0	1	0
+157	8	0	3	0
+202	6	0	2	0
+161	5	0	1	0
+181	0	0	0	0
+140	1	1	1	0
+133	0	0	4	0

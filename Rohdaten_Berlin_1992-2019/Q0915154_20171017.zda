@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915154
+datum=17.10.2017
+kurzken=Q 0915154/17
+bez=Schnellerstraße (östl. Britzer Straße)   (Niederschöneweide, 12439)
+arm1=Britzer Straße,800,0100
+arm2=Rudower Straße,2600,1000
+arm3=,3500,0000
+arm4=,1700,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+231	9	13	6	34
+173	8	4	1	21
+142	8	3	3	16
+157	11	3	2	17
+184	11	3	3	10
+341	9	5	6	14
+330	17	7	6	18
+475	7	6	14	45
+539	10	6	17	58
+560	8	6	18	76
+458	3	6	19	55
+521	5	4	21	35
+; 2 -> 1
+977	19	5	17	82
+759	25	6	19	59
+557	18	5	12	38
+404	18	2	2	34
+382	16	5	10	30
+320	6	3	10	43
+365	15	6	12	32
+335	6	7	5	44
+351	5	5	11	66
+394	2	6	12	50
+348	2	6	14	66
+333	2	4	12	40

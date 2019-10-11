@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041043
+datum=1.4.1992
+kurzken=Q 4104.3/92
+bez=Tauentzienstr. zw. Breitscheidplatz u. Nürnberger Str.    ( Berlin 31 )
+arm1=Nürnberger Straße,600,0100
+arm2=Breitscheidplatz,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=IV-Verkehr ohne Busspur !\n9.25 Uhr - 9.35 Uhr Demo\n13.10 Uhr - 13.25 Demo ; 16.25 Uhr - 16.40 Uhr Demo
+data=
+; 1 -> 2
+579 
+709 
+685 
+646 
+636 
+603 
+432 
+641 
+690 
+569 
+654 
+501 
+; 2 -> 1
+552 
+545 
+446 
+578 
+662 
+631 
+632 
+635 
+734 
+746 
+659 
+647 

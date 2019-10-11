@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919182
+datum=29.08.2011
+kurzken=Q 0919182/11
+bez=Schönhauser Straße (nördl. Kastanienallee)   (Rosenthal, 13158)
+arm1=Kirschstraße,300,0000
+arm2=Kastanienallee,2100,0000
+arm3=((Westen)),1200,0001
+arm4=((Osten)),3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Schönhauser Str. nördl. der Kastanienallee (bis ca. 50m nördl.) queren.\nWetter: max T=20°C; Sonne=3 Std; Niederschlag=0\,5 mm;
+data=
+; 3 -> 4
+1	0
+4	0
+6	0
+2	0
+0	0
+6	0
+1	0
+0	0
+0	0
+8	0
+1	0
+3	0
+; 4 -> 3
+3	1
+6	0
+8	0
+10	2
+1	0
+2	0
+1	0
+0	0
+0	0
+6	2
+2	0
+3	0

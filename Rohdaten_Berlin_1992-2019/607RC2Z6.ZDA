@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10056
+datum=19.04.1989
+kurzken=Q 10056/89
+bez=Liegnitzer Strasse suedl. Wiener Strasse    ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+12 12 16 6 15 12 21 14 17 19 16 25 
+; 2 -> 1
+9 5 9 3 28 15 23 24 12 25 24 43 

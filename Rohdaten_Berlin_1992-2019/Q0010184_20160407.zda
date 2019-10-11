@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10184
+datum=07.04.2016
+kurzken=Q 10184/16
+bez=Hobrechtbrücke (nördl. Maybachufer)   (Kreuzberg, 12047)
+arm1=Maybachufer (W),600,0010
+arm2=Friedelstraße,1750,0000
+arm3=Maybachufer (O),2400,1000
+arm4=Hobrechtstraße,3300,0000
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. u. Radf.\, die die Hobrechtbrücke nördlich des Maybachufers queren.
+data=
+; 1 -> 3
+17	0	8
+31	0	4
+30	2	2
+27	6	1
+45	22	7
+38	2	5
+49	2	5
+30	1	5
+40	12	4
+52	5	7
+41	2	10
+49	2	10
+; 3 -> 1
+27	6	18
+38	0	23
+37	4	8
+44	1	8
+43	3	4
+40	20	6
+43	2	5
+24	2	4
+29	10	13
+31	10	2
+26	0	5
+27	0	5

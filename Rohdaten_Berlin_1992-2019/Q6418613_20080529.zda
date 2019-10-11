@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6418613
+datum=29.05.2008
+kurzken=Q 6418613/08
+bez=Stralauer Allee (östl. Oberbaumbrücke)   (Friedrichshain, 10245)
+arm1=Mühlenstraße,600,0000
+arm2=Oberbaumbrücke,1450,0001
+arm3=Stralauer Allee,2450,0000
+arm4=Warschauer Straße,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=26°C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+41	1
+37	16
+41	13
+37	12
+103	0
+106	1
+140	0
+127	3
+120	0
+155	0
+154	1
+180	0
+; 4 -> 2
+80	0
+131	0
+135	2
+137	0
+80	1
+115	0
+136	0
+88	12
+118	0
+94	0
+80	1
+95	3

@@ -1,0 +1,16 @@
+[ZA1001]
+knoten=Q 07573
+datum=27.10.1987
+kurzken=Q 7573/87
+bez=Luetzowstrasse suedl. Luetzowufer     ( Berlin 30 )
+Arm1=Sued,900,0100
+Arm2=,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+184 164 107 150 164 167 138 157 186 264 171 127 

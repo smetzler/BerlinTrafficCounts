@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3713
+datum=08.09.2009
+kurzken=Q 3713/09
+bez=Stabholzgarten (östl. Altstädter Ring - Klosterstraße)  (Spandau ,13597)
+arm1=Seegefelder Straße,700,0000
+arm2=Klosterstraße,1600,0001
+arm3=Stabholzgarten,2450,0000
+arm4=Altstädter Ring,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=S-Bahn-Verkehr eingestellt\, z.Teil verminderter Fußg.-Verkehr. Wetter: max T=26°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+99	39
+138	10
+213	5
+342	5
+407	3
+362	4
+370	16
+307	24
+362	50
+358	39
+353	54
+218	23
+; 4 -> 2
+18	4
+48	1
+64	1
+134	5
+167	10
+151	6
+190	9
+219	2
+160	13
+188	19
+185	15
+177	4

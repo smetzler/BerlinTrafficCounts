@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919005
+datum=17.06.1998
+kurzken=Q 0919005/98
+bez=Hermann-Hesse-Str. (westl. H.-Mann-Str.)  (Niederschönhausen, 13156)
+arm1=Schützenstraße,1100,0100
+arm2=Heinrich-Mann-Straße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+416	49	15	8
+427	54	12	9
+363	46	10	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+659	37	12	26
+814	30	12	16
+734	22	12	16
+; 2 -> 1
+965	52	17	18
+639	42	13	12
+532	53	11	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+513	37	12	18
+657	39	10	13
+579	23	13	6

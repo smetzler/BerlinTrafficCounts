@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0032
+datum=10.12.1987
+kurzken=K 32/87
+bez=Hermsdorfer Damm / Frohnauer Strasse      ( Berlin 28 )
+Arm1=Frohnauer Strasse,360,0101
+Arm2=Hermsdorfer Damm,1520,1000
+Arm3=,0,0000
+Arm4=Hermsdorfer Damm,3320,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=- Nur Knotenarm 1 gezaehlt !
+data=
+; 1 -> 2
+560 346 249 173 169 140 166 198 218 189 140 177 
+; 1 -> 4
+16 17 35 18 26 28 23 37 32 26 17 41 
+; 2 -> 1
+100 80 129 106 120 164 224 222 269 337 396 370 
+; 4 -> 1
+20 21 29 22 27 42 32 37 29 55 50 40 

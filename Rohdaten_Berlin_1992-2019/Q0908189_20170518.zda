@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908189
+datum=18.05.2017
+kurzken=Q 0908189/17
+bez=Flankenschanze (nördl. Askanierring)   (Spandau, 13585)
+arm1=Falkenseer Damm,3100,0100
+arm2=Askanierring,1300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kfz-Verkehr in Flankenschanze zwischen Askanierring und Falkenseer Damm; \nquerende Fg i. H. Askanierring\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+119	2	0	3	12
+126	3	0	5	19
+135	4	0	4	17
+128	10	0	4	18
+121	2	0	5	14
+82	3	0	10	9
+111	1	0	1	18
+137	3	0	6	17
+152	3	0	6	24
+148	0	0	4	26
+119	1	0	5	25
+116	2	0	5	11
+; 2 -> 1
+143	5	0	4	18
+179	2	0	6	10
+157	3	0	6	15
+162	4	0	4	28
+186	3	0	5	20
+148	3	0	8	13
+217	1	0	8	20
+214	1	0	6	10
+245	0	0	6	16
+218	6	0	8	24
+257	4	0	12	26
+228	4	0	11	23

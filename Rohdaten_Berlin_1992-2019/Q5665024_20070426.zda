@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5665024
+datum=26.04.2007
+kurzken=Q 5665024/07
+bez=Breite Straße - Südseite (östl. Mühlenstraße)   (Pankow, 13187)
+arm1=Mittelinsel,150,0010
+arm2=Breite Straße,1060,0000
+arm3=Mühlenstraße,2000,1000
+arm4=Breite Straße,2860,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Breite Straße zwischen Mittelinsel und Südseite queren!\nWetter: max T=24 °C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+22	50
+56	28
+101	4
+139	5
+115	3
+127	2
+114	15
+155	9
+150	41
+184	31
+156	22
+127	24
+; 3 -> 1
+40	8
+55	11
+102	3
+152	7
+145	6
+110	16
+110	103
+144	46
+147	21
+198	35
+170	22
+139	18

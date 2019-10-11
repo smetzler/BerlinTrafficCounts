@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905046
+datum=02.11.2009
+kurzken=Q 0905046/09
+bez=Mainzer Straße (Höhe Nr. 16)   (Friedrichshain, 10247)
+arm1=Boxhagener Straße ,1700,0100
+arm2=Scharnweberstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+41	2	0	1	5
+65	4	0	1	11
+60	1	0	1	9
+37	4	0	0	9
+31	2	1	0	12
+57	0	0	0	8
+55	0	0	0	17
+74	0	0	0	18
+84	1	0	0	21
+135	1	1	1	18
+123	2	0	1	23
+105	0	0	2	32
+; 2 -> 1
+89	4	0	0	5
+147	1	0	1	8
+98	6	0	0	10
+77	3	1	1	9
+74	1	0	0	6
+63	1	0	0	5
+75	0	0	0	11
+69	1	0	0	13
+67	0	0	3	24
+84	0	0	2	23
+77	2	0	2	20
+87	1	0	2	18

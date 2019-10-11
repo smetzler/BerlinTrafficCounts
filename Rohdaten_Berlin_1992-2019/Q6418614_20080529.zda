@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6418614
+datum=29.05.2008
+kurzken=Q 6418614/08
+bez=Warschauer Straße (nördl. Mühlenstraße)   (Friedrichshain, 10245)
+arm1=Mühlenstraße,600,0010
+arm2=Oberbaumbrücke,1450,0000
+arm3=Stralauer Allee,2450,1000
+arm4=Warschauer Straße,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=26°C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	0
+5	0
+7	0
+3	0
+6	1
+25	0
+27	15
+15	0
+18	0
+28	6
+34	0
+17	0
+; 3 -> 1
+4	0
+17	0
+6	0
+14	0
+8	0
+45	0
+55	1
+34	5
+29	0
+30	0
+20	0
+36	0

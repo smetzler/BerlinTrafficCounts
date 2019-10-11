@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0638
+datum=31.08.1988
+kurzken=K 638/88
+bez=Ernst-Reuter-Platz / Marchstrasse   ( Berlin 10 )
+Arm1=Ernst-Reuter-Platz,1100,0000
+Arm2=,0,0000
+Arm3=Ernst-Reuter-Platz,2200,1001
+Arm4=Marchstrasse,3600,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 3 -> 1
+1904 1871 1832 1997 2013 2231 2343 2225 2877 3022 2516 2329 
+; 3 -> 4
+710 531 440 490 467 441 419 403 487 461 362 312 
+; 4 -> 1
+392 474 445 522 463 528 352 469 647 741 551 370 

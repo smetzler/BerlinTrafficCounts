@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907036
+datum=20.05.2019
+kurzken=Q 0907036/19
+bez=AD Funkturm - von Parkplatz Nordkurve nach A100-Nord (Charlottenburg, 14055) 
+arm1=Parkplatz Nordkurve,0,0100
+arm2=A100 (Nord) / Messedamm,2500,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+70	17	5	1	0
+187	28	7	2	0
+259	22	4	2	0
+72	8	4	0	0
+94	15	3	0	0
+97	7	3	2	0
+137	15	3	0	0
+149	10	4	3	0
+153	6	3	4	0
+129	14	5	5	0
+82	6	3	1	0
+84	4	2	2	0

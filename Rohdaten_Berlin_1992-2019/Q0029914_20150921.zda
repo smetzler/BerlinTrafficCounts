@@ -1,0 +1,48 @@
+[ZA1001]
+knoten=Q 29914
+datum=21.09.2015
+kurzken=Q 29914/15
+bez=Darßer Straße (östl. Nachalbenweg)   (Weißensee, 13088)
+arm1=(Fußweg zum Nachtalbenweg),100,0010
+arm2=Darßer Straße (W),950,0000
+arm3=Nachtalbenweg (S),1900,1000
+arm4=Darßer Straße (O),2750,0000
+art=Erw,Jugend,Radf
+zeit=0600,2000
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=! ZÄHLZEIT 6-20 Uhr !
+data=
+; 1 -> 3
+1	0	0
+0	0	0
+0	0	6
+0	0	0
+2	0	0
+3	0	0
+0	0	0
+1	0	1
+1	0	0
+0	0	1
+1	0	1
+0	0	0
+0	0	0
+1	0	0
+; 3 -> 1
+0	0	0
+0	0	0
+0	0	9
+0	0	5
+1	0	0
+2	0	11
+3	0	2
+3	0	0
+0	0	1
+3	0	1
+0	0	0
+1	0	0
+0	0	1
+0	0	1

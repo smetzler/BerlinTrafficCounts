@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2481
+datum=06.10.2009
+kurzken=Q 2481/09
+bez=Reinickendorfer Straße (nördl. Schulstraße)   (Wedding, 13347)
+arm1=Reinickendorfer Straße (N),200,0000
+arm2=Schulstraße (W),1300,0001
+arm3=Reinickendorfer Straße (S),2000,0000
+arm4=Schulstraße (O),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=0 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+18	0
+66	14
+46	16
+73	49
+56	16
+56	11
+62	3
+57	17
+80	15
+56	11
+46	16
+26	5
+; 4 -> 2
+20	5
+61	3
+57	0
+62	12
+67	61
+61	4
+67	3
+54	8
+62	12
+68	14
+69	15
+47	14

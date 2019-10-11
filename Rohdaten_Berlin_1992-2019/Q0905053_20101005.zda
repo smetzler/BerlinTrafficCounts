@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905053
+datum=05.10.2010
+kurzken=Q 0905053/10
+bez=Jungstraße (nördl. Scharnweberstraße)   (Friedrichshain, 10247)
+arm1=Scharnweberstraße,1750,0000
+arm2=Frankfurter Allee,3550,0000
+arm3=((Westen)),850,0001
+arm4=((Osten)),2650,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Jungstr. nördl. der Scharnweberstr. (bis ca. 50m nördl.) queren.\nWetter: max T=16°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+45	27
+20	1
+42	1
+44	0
+33	0
+6	0
+18	1
+7	0
+24	6
+43	19
+32	12
+24	9
+; 4 -> 3
+39	7
+31	3
+23	1
+40	0
+31	0
+11	0
+9	1
+8	6
+10	2
+24	7
+31	7
+20	4

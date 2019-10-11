@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020705
+datum=23.08.2000
+kurzken=Q 020705/00
+bez=Bornholmer Straße (Bösebrücke) (Wedding, 10439)
+arm1=Sonderburger Straße ,850,0100
+arm2=Norweger Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=9; Niederschlag=0\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+25
+31
+20
+33
+28
+32
+38
+55
+86
+93
+82
+91
+; 2 -> 1
+91
+74
+59
+50
+43
+39
+36
+28
+57
+47
+35
+48

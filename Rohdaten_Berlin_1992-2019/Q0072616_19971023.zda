@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 72616
+datum=23.10.1997
+kurzken=Q 72616/97
+bez=Bülowstraße (östl.  Steinmetzstraße)   (Schöneberg, 10783)
+arm1=Bülowstraße,710,0000
+arm2=Süden,1660,0001
+arm3=Bülowstraße,2490,0000
+arm4=Norden,3480,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, teils heiter\, kein Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+77 22
+43 14
+32 2
+31 3
+19 3
+17 7
+38 8
+23 4
+29 7
+23 5
+30 9
+28 1
+; 4 -> 2
+30 5
+18 3
+8 0
+24 1
+21 0
+27 6
+42 21
+45 35
+61 41
+48 9
+47 7
+41 3

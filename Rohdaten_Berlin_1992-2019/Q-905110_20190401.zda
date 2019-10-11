@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-0905110
+datum=01.04.2019
+kurzken=Q-0905110/-2000
+bez=Bänschstraße (Höhe Zellestraße)   (Friedrichshain, 10247) 
+arm1=Bänschstr. (W),730,0100
+arm2=Bänschstr. (O),2530,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+49	1	0	0	5
+34	0	1	1	19
+29	0	0	3	4
+15	0	1	0	3
+16	0	0	0	2
+16	0	0	2	5
+28	0	0	1	4
+28	1	0	1	3
+36	0	0	2	9
+37	0	0	1	6
+26	0	0	1	6
+39	0	0	2	11
+; 2 -> 1
+36	0	1	0	3
+43	0	0	1	7
+53	0	1	1	3
+25	0	0	2	3
+20	1	0	1	5
+34	1	0	3	2
+32	1	0	1	8
+43	0	0	2	6
+41	0	0	2	7
+42	0	0	1	12
+30	0	0	1	10
+32	0	0	1	8

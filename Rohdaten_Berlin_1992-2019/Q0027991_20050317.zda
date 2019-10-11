@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27991
+datum=17.03.2005
+kurzken=Q 27991/05
+bez=Dietzgenstraße (nördl. Uhlandstraße)   (Niederschönhausen, 13156)
+arm1=Dietzgenstraße (N),0,0000
+arm2=Uhlandstraße (W),950,0001
+arm3=Dietzgenstraße (S),1900,0000
+arm4=Uhlandstraße (O),2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0\,5 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	4
+5	5
+13	12
+9	0
+6	5
+9	2
+8	3
+7	5
+10	6
+24	7
+17	2
+13	1
+; 4 -> 2
+20	9
+16	5
+15	1
+21	2
+20	5
+14	2
+10	5
+12	1
+8	4
+15	8
+21	2
+17	0

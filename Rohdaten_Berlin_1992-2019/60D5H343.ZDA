@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 17045
+datum=04.10.1989
+kurzken=Q 17045/89
+bez=Bruchwitzstrasse westl. Muehlenstrasse    ( Berlin 46 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+3 1 6 0 3 0 4 1 6 6 1 7 6 16 
+4 2 11 9 5 1 6 1 8 2 
+; 2 -> 1
+5 22 11 0 8 2 3 2 13 3 10 2 6 4 
+3 2 13 0 9 3 10 3 9 0 

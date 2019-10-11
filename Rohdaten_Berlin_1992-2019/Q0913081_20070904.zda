@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0913081
+datum=04.09.2007
+kurzken=Q 0913081/07
+bez=Reißeckstraße (östl. Am Heidefriedhof)   (Mariendorf, 12107)
+arm1=Am Heidefriedhof,1000,0100
+arm2=Rixdorfer Straße,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+40	6	10	2	2
+29	4	2	1	1
+17	9	2	0	1
+26	14	2	0	6
+42	12	3	2	0
+229	33	6	11	10
+657	61	10	26	9
+837	68	12	23	22
+832	70	20	16	21
+724	76	8	24	24
+628	85	7	15	9
+717	85	6	19	14
+704	75	6	11	13
+836	56	10	12	21
+858	36	8	22	30
+968	46	9	34	33
+975	24	13	34	37
+998	21	14	21	33
+866	16	20	19	22
+680	14	16	13	30
+487	6	22	13	9
+320	10	12	4	2
+326	6	14	12	5
+152	6	8	7	4

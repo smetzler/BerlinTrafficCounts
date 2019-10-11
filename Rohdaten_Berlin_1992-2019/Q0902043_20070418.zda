@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0902043
+datum=18.04.2007
+kurzken=Q 0902043/07
+bez=Potsdamer Str. (zw. Reichpietschufer u. Scharounstr.)   (Tiergarten, 10785)
+arm1=Reichpietschufer ,1550,0000
+arm2=Scharounstraße,3150,0000
+arm3=((Westen)),550,0001
+arm4=((Osten)),2350,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14 °C; Sonne=5\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+4	3
+9	11
+18	1
+17	1
+38	6
+19	5
+28	1
+14	2
+27	1
+6	1
+23	2
+40	0
+; 4 -> 3
+7	1
+8	0
+17	7
+12	1
+26	15
+34	76
+8	0
+10	3
+22	2
+8	0
+11	1
+30	1

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025678
+datum=26.3.1992
+kurzken=Q 2567.8/92-F
+bez=Louis-Lewin-Str. nördlich Quedlinburger Str.    ( Berlin 1150-Helldf. )
+arm1=Ost,1100,0100
+arm2=West,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+0 5 
+2 5 
+2 3 
+4 0 
+1 2 
+5 3 
+3 5 
+4 3 
+12 0 
+17 0 
+6 6 
+5 2 
+; 2 -> 1
+1 0 
+6 1 
+9 12 
+4 1 
+16 1 
+5 3 
+5 10 
+7 8 
+27 4 
+38 0 
+5 5 
+2 1 

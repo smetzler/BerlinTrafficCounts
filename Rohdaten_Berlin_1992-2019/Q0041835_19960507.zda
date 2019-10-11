@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41835
+datum=07.05.1996
+kurzken=Q 41835/96
+bez=Berliner Straße   (Querung in Höhe Holländische Mühle)    (Zehldf., 14169)
+arm1=Colmarer Weg,1100,0000
+arm2=Schützallee,2900,0000
+arm3=Süd,2000,0001
+arm4=Nord,200,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=11°C\, bedeckt\, 0\,9mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+44 144
+45 60
+34 6
+44 3
+55 3
+31 1
+26 7
+38 17
+51 10
+57 18
+55 10
+26 7
+; 4 -> 3
+21 6
+58 11
+60 6
+46 3
+60 52
+69 116
+71 66
+37 26
+52 15
+73 30
+67 18
+36 11

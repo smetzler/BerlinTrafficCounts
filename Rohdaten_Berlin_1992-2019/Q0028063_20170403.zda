@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28063
+datum=03.04.2017
+kurzken=Q 28063/17
+bez=Daumstraße (südl. Pohlestraße)   (Spandau, 13599)
+arm1=Daumstraße (N),3500,0000
+arm2=Pohlestraße,750,0001
+arm3=Daumstraße (S),1800,0000
+arm4=Rhenaniastraße,2450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 2 -> 4
+11	1
+4	2
+2	0
+1	0
+4	0
+2	2
+5	3
+2	11
+2	2
+2	1
+1	1
+0	0
+; 4 -> 2
+61	21
+20	4
+8	0
+15	0
+8	2
+7	3
+6	2
+2	4
+1	1
+6	0
+9	1
+0	0

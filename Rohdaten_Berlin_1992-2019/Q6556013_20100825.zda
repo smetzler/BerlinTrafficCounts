@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6556013
+datum=25.08.2010
+kurzken=Q 6556013/10
+bez=Vulkanstraße (südl. Landsberger Allee)   (Lichtenberg, 13055)
+arm1=,0,0000
+arm2=Landsberger Allee,960,0001
+arm3=Vulkanstraße,1840,0000
+arm4=Landsberger Allee,2760,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	3
+2	0
+3	0
+5	1
+9	0
+5	0
+5	2
+6	6
+12	3
+5	10
+10	7
+7	3
+; 4 -> 2
+9	5
+7	0
+5	0
+5	1
+7	2
+6	0
+6	2
+12	13
+7	3
+8	5
+11	7
+11	1

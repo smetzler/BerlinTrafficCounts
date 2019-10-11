@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912161
+datum=10.11.2008
+kurzken=Q 0912161/08
+bez=A103 (Höhe Friedenauer Br.- Saarstr., ohne Zu-Abf.)   (Schö'b., 12157)
+arm1=Steglitz,1300,0100
+arm2=Schöneberg,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=nur Fahrzeuge die die Brücke unterqueren!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+2343	36	3	27
+2999	28	4	27
+2166	63	5	17
+1736	16	3	20
+1651	45	3	12
+1570	10	1	13
+1732	70	3	15
+1848	68	1	16
+2224	43	2	24
+2283	21	2	28
+1910	22	1	18
+1841	15	6	13
+; 2 -> 1
+1829	69	0	12
+2050	68	3	13
+1609	70	3	17
+1437	62	1	15
+1446	91	0	19
+1615	54	0	15
+1731	59	1	13
+1909	41	2	10
+2229	39	1	35
+2297	14	1	28
+2337	25	4	32
+2045	6	0	23

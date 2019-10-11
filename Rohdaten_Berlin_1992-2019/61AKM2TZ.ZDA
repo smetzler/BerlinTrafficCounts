@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 60358
+datum=24.11.1988
+kurzken=Q 60358/88
+bez=Motzener Strasse noerdl. Sperenberger Strasse    ( Berlin 48 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweise Regen !
+data=
+; 1 -> 2
+6 2 6 5 3 9 14 1 2 3 0 1 
+; 2 -> 1
+47 0 6 15 16 6 28 35 108 25 5 3 

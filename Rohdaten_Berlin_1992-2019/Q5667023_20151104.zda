@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5667023
+datum=04.11.2015
+kurzken=Q 5667023/15
+bez=Dietzgenstraße (südl. Blankenburger Straße)   (Niederschönhausen, 13156)
+arm1=Dietzgenstraße (N),170,0000
+arm2=((Westen)),1070,0001
+arm3=Dietzgenstraße (S),1890,0000
+arm4=Blankenburger Straße,2860,0100
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=es wurden neben den Fußg. (Erw. Jugend) auch Radfahrer die übern Fußweg fahren gezählt !
+data=
+; 2 -> 4
+20	22	100
+8	6	28
+17	2	2
+34	3	2
+32	22	12
+46	8	13
+26	3	27
+66	20	83
+25	10	29
+45	23	46
+33	14	26
+22	5	11
+; 4 -> 2
+0	0	144
+12	0	18
+17	19	19
+31	5	15
+43	0	18
+21	0	11
+28	4	8
+36	6	15
+39	3	16
+27	19	14
+20	7	12
+13	14	9

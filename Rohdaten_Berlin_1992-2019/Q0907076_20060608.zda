@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907076
+datum=08.06.2006
+kurzken=Q 0907076/06
+bez=Schloßstraße (südl. Schustehrusstraße)   (Charlottenburg, 10585)
+arm1=Neue Christstr. - Schustehrusstraße,50,0100
+arm2=Seelingstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+200	3	6	14	42
+221	4	5	9	47
+220	6	8	9	48
+210	4	12	8	32
+222	8	14	7	47
+217	6	10	13	34
+211	4	14	4	51
+206	6	12	6	31
+240	4	10	12	52
+218	2	11	7	57
+233	1	13	14	53
+228	2	6	6	38
+; 2 -> 1
+209	5	5	3	40
+278	6	2	9	79
+260	9	5	7	54
+242	4	4	12	42
+243	11	3	8	41
+225	6	4	11	47
+194	4	3	4	49
+186	5	4	8	30
+254	16	6	20	58
+253	4	2	5	47
+282	3	4	12	57
+212	3	3	18	52

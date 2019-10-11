@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40069
+datum=28.05.1984
+kurzken=Q 40069/84
+bez=LINTRUPER STRASSE  suedl. Buckower Chaussee  ( Berlin 49 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+0 8 1 0 0 0 4 0 1 0 0 4 0 1 0 
+0 6 0 0 0 0 8 1 1 0 1 16 1 1 0 
+0 23 0 0 0 2 13 2 1 0 1 26 4 2 0 
+2 68 5 1 0 3 47 0 0 0 1 19 0 0 0 
+; 2 -> 1
+0 32 1 0 0 1 15 0 0 0 0 16 1 0 0 
+2 7 1 0 0 0 6 2 0 0 1 5 2 0 0 
+0 9 1 1 0 1 11 1 3 0 1 16 1 0 0 
+1 16 1 0 0 0 13 1 0 0 0 25 1 0 0 

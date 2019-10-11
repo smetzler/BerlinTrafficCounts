@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25007
+datum=14.3.1991
+kurzken=Q 2500.7/91-F
+bez=Salvador-Allende-Strasse suedlich P.-Neruda-Strasse    ( Koepenick )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+30 5 1 
+47 4 3 
+50 0 5 
+75 2 11 
+45 0 1 
+45 3 3 
+44 10 0 
+55 6 9 
+94 15 10 
+84 10 4 
+63 14 8 
+52 6 3 
+; 2 -> 1
+46 2 4 
+33 2 1 
+49 2 3 
+43 3 6 
+38 1 1 
+36 2 3 
+37 8 7 
+38 17 9 
+62 13 8 
+56 10 8 
+68 14 8 
+44 14 0 

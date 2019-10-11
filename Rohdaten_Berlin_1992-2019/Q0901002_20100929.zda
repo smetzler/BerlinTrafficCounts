@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901002
+datum=29.09.2010
+kurzken=Q 0901002/01
+bez=Tunnel Grunerstraße - Otto-Braun-Straße    (Mitte, 10178)
+arm1=Grunerstraße,1400,0100
+arm2=Otto-Braun-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1305,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Otto-Braun-str. (nördl. Karl-Marx-Allee)\, genauer Standort vor Ort festlegen.\nStadtatlas: Seite 13\, Planquadrat A8
+data=
+; 1 -> 2
+834	54	4	13	0
+770	50	3	11	0
+794	59	5	11	0
+868	56	7	17	0
+889	55	2	10	0
+955	45	1	22	0
+1004	61	0	16	3
+1228	55	5	21	0
+1399	32	3	30	1
+1222	40	2	28	0
+1242	25	5	33	1
+1314	17	9	43	1
+; 2 -> 1
+1910	65	2	55	2
+1909	84	15	58	0
+1476	68	5	49	0
+1143	68	1	30	0
+1069	58	5	16	0
+1023	54	3	22	0
+1055	28	2	24	0
+1142	45	4	26	0
+1101	20	3	28	0
+1167	15	2	18	0
+1091	17	7	21	0
+880	8	7	16	1

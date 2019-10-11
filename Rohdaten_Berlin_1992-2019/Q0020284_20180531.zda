@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20284
+datum=31.05.2018
+kurzken=Q 20284/18
+bez=Seehausener Str. (nordöstl. Pablo-Picasso-Str.)  (Lichtenberg, 13057)
+arm1=Pablo-Picasso-Straße (NW),650,0010
+arm2=(Südwesten),1550,0000
+arm3=Pablo-Picasso-Straße (SO),2300,1000
+arm4=Seehausener Straße,3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+0	0
+1	0
+1	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 3 -> 1
+0	0
+1	0
+0	0
+1	0
+3	0
+0	0
+0	0
+2	0
+1	0
+2	0
+0	0
+2	0

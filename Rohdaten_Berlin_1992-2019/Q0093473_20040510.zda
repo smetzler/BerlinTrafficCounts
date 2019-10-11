@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 93473
+datum=10.05.2004
+kurzken=Q 93473/04
+bez=Arnimallee (südl. Königin-Luise-Straße)   (Dahlem, 14195)
+arm1=,0,0000
+arm2=Königin-Luise-Straße,830,0001
+arm3=Arnimallee,1300,0000
+arm4=Königin-Luise-Straße,2850,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=4\,5 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+7	0
+45	0
+32	0
+24	2
+19	0
+23	0
+8	0
+23	2
+26	0
+21	2
+24	0
+7	0
+; 4 -> 2
+2	0
+11	0
+22	0
+14	0
+16	0
+14	0
+10	0
+24	0
+18	0
+19	1
+39	1
+8	0

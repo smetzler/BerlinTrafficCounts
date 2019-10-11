@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41044
+datum=6.8.1991
+kurzken=Q 4104.4/91
+bez=Tauentzienstrasse zw. Breitscheidplatz und Nuernberger Strasse    ( Berlin 30 )
+arm1=Nürnberger Straße,900,0100
+arm2=Breitscheidplatz,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Taxi,Radf,Sonstg,Bus,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Nur Busspur gezaehlt !
+data=
+; 1 -> 2
+51 50 6 32 
+57 112 8 34 
+126 95 31 30 
+118 106 32 30 
+119 110 17 32 
+96 137 21 30 
+108 166 18 32 
+106 107 25 29 
+117 136 11 36 
+108 146 8 29 
+113 130 39 34 
+126 132 25 32 
+; 2 -> 1
+45 9 7 29 
+56 5 11 27 
+107 50 21 35 
+111 39 23 24 
+107 13 30 36 
+98 19 24 30 
+120 103 37 31 
+107 78 35 31 
+115 17 22 30 
+112 64 19 30 
+126 47 15 31 
+126 35 9 27 

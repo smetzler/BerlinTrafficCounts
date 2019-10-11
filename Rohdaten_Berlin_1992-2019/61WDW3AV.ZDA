@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 88628
+datum=24.04.1990
+kurzken=Q 88628/90
+bez=Haenselstrasse oestl. Sonnenallee    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+24 9 28 5 49 8 65 9 47 12 57 29 13 31 
+28 10 44 10 27 26 25 14 28 8 
+; 2 -> 1
+13 38 4 5 32 10 34 1 41 8 48 32 19 11 
+21 16 37 9 27 14 23 7 24 3 

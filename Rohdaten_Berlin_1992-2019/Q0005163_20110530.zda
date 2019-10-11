@@ -1,0 +1,91 @@
+[ZA1001]
+knoten=Q 05163
+datum=30.05.2011
+kurzken=Q 05163/11
+bez=Mühlenstr.-Südfahrb. (rechte Spur, Höhe Am Postbahnhof)   (Friedrichshain, 10243
+arm1=Str. der Pariser Kommune,500,0100
+arm2=Mariane-von-Rantzau-Straße,2300,0000
+arm3=,0,0000
+arm4=,0,0000
+art=üKfz,Lkw
+zeit=0700,1300
+intv=5
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk="Lkw" = alle Fahrz. >6\,5 m Länge;  "üKfz" = alle übrigen mororisierten Fahrzeuge
+data=
+; 1 -> 2
+16	4
+12	1
+22	2
+19	3
+26	6
+22	4
+21	0
+18	4
+21	6
+9	1
+27	1
+19	6
+24	3
+25	4
+27	4
+15	3
+24	3
+26	0
+18	4
+22	2
+24	4
+24	3
+27	5
+24	3
+31	3
+30	2
+30	4
+19	2
+28	3
+25	3
+23	5
+28	5
+27	5
+31	4
+25	4
+34	2
+29	4
+24	2
+24	5
+25	6
+28	5
+26	5
+16	1
+27	3
+24	6
+21	5
+32	2
+34	8
+32	4
+25	4
+34	4
+33	5
+21	4
+14	3
+22	3
+17	8
+30	2
+27	3
+29	4
+21	5
+22	2
+37	7
+36	2
+24	4
+24	3
+31	4
+10	7
+28	5
+31	3
+28	2
+26	5
+25	10

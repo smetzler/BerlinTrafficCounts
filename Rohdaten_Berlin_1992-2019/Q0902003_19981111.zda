@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902003
+datum=11.11.1998
+kurzken=Q 0902003/98
+bez=Schöneberger Ufer (westl. Kluckstraße)   (Tiergarten, 10785)
+arm1=Genthiner Straße,750,0100
+arm2=Kluckstraße,2700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1395	47	8	26
+1680	54	10	16
+1556	49	13	22
+1383	48	11	26
+1315	59	11	13
+1394	52	15	29
+1644	49	21	17
+1998	33	20	25
+2024	27	23	31
+2571	23	8	8
+1720	19	11	14
+1962	8	15	11

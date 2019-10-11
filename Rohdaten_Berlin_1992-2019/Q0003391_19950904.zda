@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3391
+datum=04.09.1995
+kurzken=Q 3391/95
+bez=Heckerdamm (östl. K.-Schumacher-Damm)   (Charlottenburg, 13627) 
+arm1=Kurt-Schumacher-Damm,800,0100
+arm2=Am Heidebusch,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für  
+data=
+; 1 -> 2
+217 14 0 9 12
+229 15 0 4 24
+254 12 0 6 13
+286 10 0 8 32
+302 17 0 7 22
+264 18 0 4 29
+263 18 0 11 41
+265 16 1 6 39
+302 18 0 8 22
+312 9 0 17 24
+294 5 0 7 33
+241 3 0 11 19
+; 2 -> 1
+267 24 2 2 32
+254 21 1 2 9
+234 19 0 4 11
+211 28 0 6 14
+195 21 1 1 10
+221 18 0 2 9
+241 20 1 6 14
+215 16 0 4 18
+292 14 0 10 18
+293 10 1 16 24
+294 3 0 9 26
+203 5 0 8 17

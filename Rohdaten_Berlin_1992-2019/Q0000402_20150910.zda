@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00402
+datum=10.09.2015
+kurzken=Q 00402/15
+bez=A100 - Stadtring (Zu.- u. Abf. südl. Hohenzollendamm)   (Wilmersdorf, 10718)
+arm1=Hohenzollerndamm,400,0100
+arm2=A100 (AS Schmargendorf),2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Hohenzollerndammbrücke
+data=
+; 1 -> 2
+240	7	0	1	1
+259	9	0	0	1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+305	5	0	1	6
+356	2	0	0	5
+309	7	0	0	2
+; 2 -> 1
+312	10	0	0	4
+199	9	0	1	2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+261	4	0	0	7
+224	8	0	0	3
+237	2	1	0	5

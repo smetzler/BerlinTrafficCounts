@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6531025
+datum=21.10.2004
+kurzken=Q 6531025/04
+bez=Boxhagener Str. (Süd) - Wühlischstr. (Nord) zur Mittelinsel (Friedrichsh.,10245)
+arm1=Boxhagener Str. (S) - Wühlischstr. (N),650,0100
+arm2=Mittelinsel,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die die Straße diagonal überquerten\, wurden so erfasst als würden sie korrekt über die Mittelinsel gehen!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+25	1
+29	2
+49	2
+45	0
+46	1
+47	0
+44	8
+57	17
+83	8
+71	12
+94	7
+72	2
+; 2 -> 1
+11	3
+16	2
+10	0
+17	0
+35	0
+41	0
+21	5
+17	4
+51	2
+35	2
+52	1
+33	1

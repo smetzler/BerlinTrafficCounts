@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5564081
+datum=27.04.2015
+kurzken=Q 5564081/14
+bez=Memhardstraße (westl. Karl-Liebknecht-Straße)    (Mitte, 10178)
+arm1=Memhardstraße,700,0000
+arm2=Karl-Liebknecht-Straße (S),1300,0001
+arm3=Alexanderplatz,2500,0000
+arm4=Karl-Liebknecht-Straße (N),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+164	1
+261	1
+245	1
+135	2
+168	1
+191	1
+274	3
+116	1
+104	3
+108	5
+126	7
+134	1
+; 4 -> 2
+41	3
+86	6
+132	3
+126	1
+147	4
+255	2
+180	7
+173	6
+169	4
+285	9
+279	20
+277	7

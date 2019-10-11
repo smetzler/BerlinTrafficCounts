@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908020
+datum=22.03.1999
+kurzken=Q 0908020/99
+bez=Rohrdamm (Höhe Rohrdammbrücke)   (Siemensstadt, 13629)
+arm1=Motardstraße,50,0100
+arm2=Fürstenbrunner Weg,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+891	71	5	16
+945	85	3	12
+769	71	4	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+911	39	2	26
+957	25	7	27
+726	15	4	12
+; 2 -> 1
+803	43	4	16
+654	63	5	11
+554	66	5	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+648	26	6	23
+681	13	3	19
+619	9	3	16

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 2002
+datum=17.11.2005
+kurzken=Q 2002/05
+bez=Osloer Straße (westl. Schwedenstraße)   (Wedding, 13359)
+arm1=Schwedenstraße (N),350,0010
+arm2=Osloer Straße (W),850,0000
+arm3=Schwedenstraße (S),2100,1000
+arm4=Osloer Straße (O),2650,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=3\,5°C; Sonne=0\,5 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+24	35
+25	16
+39	15
+41	7
+30	5
+25	8
+38	5
+44	7
+102	18
+67	13
+30	4
+54	3
+; 3 -> 1
+26	12
+39	8
+72	9
+59	8
+58	7
+55	13
+27	4
+66	10
+100	17
+99	12
+90	10
+66	7

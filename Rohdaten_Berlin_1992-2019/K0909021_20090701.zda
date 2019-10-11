@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0909021
+datum=01.07.2009
+kurzken=K 0909021/09
+bez=A100 Stadtring - Abf. Detmolder Straße (Nord)   (Wilmersdorf, 10713)
+arm1=Detmolder Str. (Nord)-Mecklenb. Str.,700,0000
+arm2=,0,0000
+arm3=,0,0000
+arm4=A100 Stadtring (AS Wexstraße),2600,1000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 4 -> 1
+519	15	0	8
+604	19	0	10
+458	9	0	10
+357	20	0	7
+385	13	0	3
+338	26	0	9
+368	8	0	9
+488	17	0	12
+472	5	1	14
+397	2	0	4
+438	3	0	10
+336	4	0	2

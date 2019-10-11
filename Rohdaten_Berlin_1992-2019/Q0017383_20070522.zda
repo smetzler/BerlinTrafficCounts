@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 17383
+datum=22.05.2007
+kurzken=Q 17383/07
+bez=Berliner Straße (östl. Teltower Damm)   (Zehlendorf, 14169)
+arm1=Potsdamer Straße,700,0000
+arm2=Teltower Damm,1620,0001
+arm3=Berliner Straße,2600,0000
+arm4=Clayallee,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=28°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+34	3
+68	3
+130	12
+160	4
+193	7
+115	5
+150	23
+157	7
+134	13
+135	20
+123	21
+103	7
+; 4 -> 2
+18	19
+41	4
+133	2
+173	11
+184	6
+128	3
+124	15
+113	11
+133	11
+126	4
+110	14
+115	16

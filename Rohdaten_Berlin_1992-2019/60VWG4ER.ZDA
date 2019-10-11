@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41344
+datum=20.10.1993
+kurzken=Q 4134.4/93-F
+bez=Ernst-Barlach-Straße östl. Schweriner Ring    ( Hohenschönhausen )
+arm1=Nord,900,0100
+arm2=Süd,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+9 12
+9 11
+7 4
+17 29
+10 17
+12 11
+9 78
+11 60
+9 35
+17 43
+22 28
+8 5
+; 2 -> 1
+15 57
+7 22
+3 7
+14 14
+11 16
+11 7
+11 32
+17 28
+14 11
+17 35
+26 25
+22 20

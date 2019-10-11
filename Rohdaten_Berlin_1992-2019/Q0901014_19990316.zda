@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901014
+datum=16.03.1999
+kurzken=Q 0901014/99
+bez=Mollstraße (westl. Büschingstraße)   (Mitte, 10178)
+arm1=Otto-Braun-Straße,500,0100
+arm2=Büschingstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+874	98	6	10
+844	84	8	6
+974	93	6	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1417	45	6	26
+1404	35	7	14
+1361	36	7	15
+; 2 -> 1
+984	64	8	15
+1007	56	11	11
+908	70	7	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+867	40	6	13
+856	19	6	10
+824	18	6	8

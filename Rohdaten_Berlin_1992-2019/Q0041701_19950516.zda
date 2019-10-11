@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41701
+datum=16.05.1995
+kurzken=Q 41701/95.2
+bez=Prenzlauer Ch. (Höhe S-Bhf. Pankow - Heinersdorf) (Pankow, 13089) 
+arm1=Unterführung Prenzl. Prom.,0,0000
+arm2=Damerowstraße,1800,0000
+arm3=Westen,900,0001
+arm4=Osten,2700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 15°C; wolkig; kein Niederschlag!\nErhebungen:  - büro für   
+data=
+; 3 -> 4
+115 16
+65 11
+86 9
+78 23
+100 2
+98 1
+105 15
+146 4
+140 15
+287 18
+194 12
+181 3
+; 4 -> 3
+249 38
+147 32
+96 1
+79 1
+64 7
+100 2
+94 30
+115 23
+118 2
+172 5
+110 7
+69 0

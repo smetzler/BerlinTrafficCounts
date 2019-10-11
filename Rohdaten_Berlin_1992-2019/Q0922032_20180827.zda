@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922032
+datum=27.08.2018
+kurzken=Q 0922032/18
+bez=Schlichtallee (Höhe Max-Taut-Schule)  (Lichtenberg, 10317)
+arm1=Haupstraße,1300,0000
+arm2=Fischerstraße,3100,0000
+arm3=Nordwesten,400,0001
+arm4=Südosten,2200,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+502	28	29
+76	4	11
+125	3	9
+24	1	16
+79	1	10
+53	1	13
+40	1	13
+64	3	31
+27	2	38
+48	12	42
+25	3	31
+28	2	23
+; 4 -> 3
+34	35	31
+28	8	30
+35	11	10
+12	1	10
+51	1	12
+50	0	13
+262	4	7
+208	0	17
+337	0	32
+102	2	26
+21	2	28
+23	3	15

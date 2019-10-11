@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920318
+datum=21.11.2017
+kurzken=Q 0920318/17
+bez=Hermsdorfer Straße (südl.Blomberger Weg)   (Waidmannslust, 13469)
+arm1=Alt-Wittenau,1700,0100
+arm2=Blomberger Weg,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+347	9	4	2	31
+275	17	3	1	7
+279	12	2	2	16
+290	12	6	2	6
+315	21	3	2	4
+314	12	3	2	5
+447	18	3	1	7
+392	3	3	4	7
+552	7	3	1	20
+576	6	4	1	12
+470	1	2	6	17
+373	3	2	4	9
+; 2 -> 1
+685	17	3	4	14
+784	27	4	4	24
+449	25	2	1	9
+446	30	4	1	8
+421	33	3	4	11
+389	20	3	3	11
+418	16	4	1	5
+389	9	2	4	21
+404	9	3	1	13
+382	8	4	8	6
+346	8	2	1	10
+325	4	3	1	5

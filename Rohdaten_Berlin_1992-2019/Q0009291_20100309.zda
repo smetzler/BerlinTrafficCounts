@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9291
+datum=09.03.2010
+kurzken=Q 9291/09
+bez=Westfälische Straße (westl. Eisenzahnstraße)   (Wilmersdorf, 10709)
+arm1=Westfälische Straße (W),550,0000
+arm2=Eisenzahnstraße (S),1750,0001
+arm3=Westfälische Straße (O),2450,0000
+arm4=Eisenzahnstraße (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+12	4
+17	3
+21	0
+20	0
+18	0
+24	0
+6	0
+7	5
+8	0
+5	0
+6	0
+4	0
+; 4 -> 2
+12	1
+5	0
+8	1
+22	0
+17	1
+14	0
+6	1
+10	1
+4	0
+9	1
+9	1
+12	1

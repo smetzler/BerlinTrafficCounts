@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 73821
+datum=17.04.2012
+kurzken=Q 73821/12
+bez=Stegerwaldstraße (westl. Marienfelder Allee)   (Marienfelde, 12277)
+arm1=Stegerwaldstraße (W),630,0000
+arm2=Marienfelder Allee (S),1530,0001
+arm3=Stegerwaldstraße (O),2420,0000
+arm4=Marienfelder Allee (N),3320,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+22	7
+14	6
+12	5
+19	2
+17	1
+16	0
+14	6
+6	4
+11	3
+12	7
+13	5
+9	4
+; 4 -> 2
+8	1
+15	3
+16	2
+23	1
+17	4
+22	10
+32	51
+17	5
+28	6
+39	7
+12	7
+16	6

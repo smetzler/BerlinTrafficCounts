@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031211
+datum=25.09.2018
+kurzken=Q 031211/18
+bez=Chris-Gueffroy-Allee (Britzer Allee Brücke)   (Neukölln, 12437)
+arm1=Neuköllnische Allee,50,0100
+arm2=Späthstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+136	9	0	0	35
+93	1	0	2	33
+164	9	0	4	16
+188	12	0	2	4
+171	9	0	2	8
+185	11	0	4	19
+191	10	0	4	22
+189	9	0	5	20
+330	7	0	7	15
+286	4	0	4	14
+169	1	0	2	8
+154	1	0	2	11
+; 2 -> 1
+240	8	0	3	16
+237	9	1	6	7
+151	7	0	5	7
+108	14	0	1	1
+141	6	0	4	9
+147	8	0	5	11
+157	7	0	5	14
+155	8	0	5	15
+114	5	0	6	6
+136	4	0	2	4
+162	3	0	4	12
+116	2	0	2	10

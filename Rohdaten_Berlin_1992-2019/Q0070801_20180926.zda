@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 070801
+datum=26.09.2018
+kurzken=Q 070801/18
+bez=Provinzstraße (Höhe S-Bhf. Schönholz)   (Reinickendorf,13158)
+arm1=S-Bahn-Brücke,3500,0100
+arm2=Seebeckstraße,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+597	22	8	15	189
+538	18	12	14	84
+365	19	7	10	43
+280	10	10	4	22
+229	14	9	5	21
+233	14	9	9	19
+238	11	9	3	24
+244	10	9	3	29
+251	8	9	5	34
+320	4	8	10	14
+216	2	9	8	45
+209	1	11	4	36
+; 2 -> 1
+157	10	6	6	22
+151	9	2	1	17
+166	21	9	1	10
+204	20	6	4	12
+202	9	7	5	11
+242	13	6	5	22
+279	14	6	4	44
+348	16	7	8	92
+510	13	6	12	94
+676	8	6	12	90
+421	7	5	10	90
+381	3	7	13	77

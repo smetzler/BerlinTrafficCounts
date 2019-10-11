@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20763
+datum=10.12.2018
+kurzken=Q 20673/18
+bez=Hermannstr. / südl. Thomasstr. (Neukölln, 12053)
+arm1=Hermannstr. (N),150,0000
+arm2=Thomasstr. (O),2800,0001
+arm3=Hermannstr. (S),1950,0000
+arm4=Richtung West,1050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4	
+3	0
+9	0
+4	0
+8	4
+5	0
+4	1
+4	0
+14	1
+12	1
+4	0
+8	1
+3	0
+; 4 -> 2	
+2	0
+7	0
+3	1
+8	0
+7	0
+3	0
+6	0
+13	0
+14	0
+2	0
+6	0
+2	0

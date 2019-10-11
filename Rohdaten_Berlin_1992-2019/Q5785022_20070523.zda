@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5785022
+datum=23.05.2007
+kurzken=Q 5785022/07
+bez=Triftstraße (westl. Schönerlinder Straße)  (Buchholz, 13127)
+arm1=Schönerlinder Straße,200,0010
+arm2=Triftstraße,800,0000
+arm3=Hauptstraße,1850,1000
+arm4=Bucher Straße,2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	1
+3	0
+0	0
+1	0
+1	0
+2	0
+1	2
+1	0
+7	1
+1	0
+1	0
+3	0
+; 3 -> 1
+2	0
+6	0
+2	0
+2	0
+1	0
+3	0
+1	1
+2	0
+1	0
+1	0
+2	0
+1	1

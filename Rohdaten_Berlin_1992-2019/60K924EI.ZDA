@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26246
+datum=11.10.1993
+kurzken=Q 2624.6/93-F
+bez=Darßer Straße westl. Schwarzelfenweg    ( Weißensee )
+arm1=Nord,30,0100
+arm2=Süd,1830,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+1 1
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+0 0
+0 0
+6 1
+0 1
+0 0
+; 2 -> 1
+0 1
+0 0
+0 0
+2 0
+1 0
+0 0
+2 1
+4 0
+0 0
+3 0
+3 0
+1 0

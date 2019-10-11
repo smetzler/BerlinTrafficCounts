@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 55191
+datum=9.3.1989
+kurzken=Q 5519.1/89-R
+bez=Torweg westlich Klosterbuschweg    ( Berlin 20 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+1 
+0 
+1 
+1 
+4 
+1 
+7 
+6 
+6 
+4 
+8 
+8 
+; 2 -> 1
+7 
+8 
+2 
+3 
+3 
+2 
+4 
+9 
+8 
+8 
+6 
+4 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911034
+datum=26.05.1999
+kurzken=Q 0911034/99
+bez=Saarstraße (östl. Dickhardtstraße)   (Steglitz, 12161)
+arm1=Dickhardtstraße,500,0100
+arm2=Friedenauer Brücke,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+664	23	7	24
+752	32	6	12
+671	31	4	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1186	16	9	64
+1208	13	6	70
+1134	8	7	46
+; 2 -> 1
+1256	42	6	81
+1469	34	6	68
+1111	31	4	50
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+763	11	15	50
+926	11	11	55
+894	9	11	45

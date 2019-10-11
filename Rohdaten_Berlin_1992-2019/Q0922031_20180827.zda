@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922031
+datum=27.08.2018
+kurzken=Q 0922031/18
+bez=Schlichtallee (südwestl. Fischerstraße)  (Lichtenberg, 10317)
+arm1=Haupstraße,1300,0100
+arm2=Fischerstraße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+442	30	2	15	113
+523	37	1	6	49
+361	31	1	13	23
+324	36	0	4	20
+368	21	0	5	22
+397	15	0	14	20
+412	14	0	8	23
+621	35	1	25	61
+950	18	0	24	56
+982	2	0	34	60
+804	4	1	17	70
+570	6	2	22	67
+; 2 -> 1
+383	20	0	13	25
+364	18	2	12	60
+331	2	1	7	37
+340	18	0	16	26
+291	6	0	6	12
+352	16	1	10	15
+370	17	2	5	57
+378	18	0	9	59
+526	16	0	14	63
+348	2	2	8	44
+373	3	0	11	48
+319	1	0	8	55

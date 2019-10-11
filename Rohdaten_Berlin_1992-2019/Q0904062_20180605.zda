@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904062
+datum=05.06.2018
+kurzken=Q 0904062/18
+bez=Schönhauser Allee (nördl. Fehrbelliner Straße)   (Prenzlauer Berg, 10405)
+arm1=Fehrbelliner Straße,1500,0100
+arm2=Saarbrücker Straße,3300,1000
+arm3=,2400,0000
+arm4=,3300,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+176	15	1	5	95
+256	10	0	16	250
+278	12	2	14	267
+290	14	2	26	140
+259	16	3	8	163
+302	12	2	14	186
+326	4	5	11	250
+362	7	2	20	276
+419	7	3	48	491
+382	6	1	44	630
+376	1	1	56	808
+412	1	2	63	1029
+; 2 -> 1
+525	17	0	34	520
+577	19	0	47	1278
+453	18	1	65	758
+442	22	4	32	312
+490	24	3	22	175
+416	12	3	25	168
+377	19	1	19	206
+410	15	3	21	239
+385	12	2	25	151
+474	8	2	32	252
+320	6	4	37	266
+378	4	1	30	371

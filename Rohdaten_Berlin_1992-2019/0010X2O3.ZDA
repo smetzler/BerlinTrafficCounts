@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 1329
+datum=04.05.1988
+kurzken=K 1329/88
+bez=Rheinstrasse / Schmargendorfer Strasse - Dickhardtstrasse   ( Berlin 41 )
+Arm1=Schmargendorfer Str.,890,0000
+Arm2=Rheinstrasse,1440,0000
+Arm3=Dickhardtstrasse,1870,1101
+Arm4=Rheinstrasse,3240,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 12, 21, 24, 41 und 42 nicht erfasst !\nFuer die Gesamtverkehrsstaerke auf der Rheinstrasse (Knotenarm 2)\nvgl. K 1413/88 (Knotenarm 4).
+data=
+; 3 -> 1
+12 9 8 8 12 12 18 5 8 8 17 9 
+; 3 -> 2
+24 12 26 24 25 21 31 25 20 26 24 23 
+; 3 -> 4
+54 30 51 32 32 44 51 30 34 47 43 39 

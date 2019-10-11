@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0015
+datum=12.06.2015
+kurzken=Q 0015/15
+bez=B5 - Heerstraße (westl. Börnicker Straße)   (Spandau, 13595)
+arm1=Gatower Straße ,800,0100
+arm2=Börnicker Straße ,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!OHNE NEBENFAHRBAHN!\, jedoch Radfahrer auf Nebenfahrbahn mitzählen! \nSpuraufteilung und Radfahrer-Zählung vor Ort festlegen. City-Atlas Seite 82\, Feld 4c
+data=
+; 1 -> 2
+1191	18	9	31	34	22
+1233	11	12	30	33	22
+1254	15	5	34	33	33
+; 2 -> 1
+1605	20	21	32	33	49
+1583	11	14	39	42	51
+1522	14	6	35	52	51

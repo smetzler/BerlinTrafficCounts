@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00451
+datum=22.09.2015
+kurzken=Q 00451/15
+bez=A100 - Stadtring (Höhe Unterquerung Sachsendamm)   (Tempelhof, 10829)
+arm1=AK Schöneberg,500,0100
+arm2=AS Alboinstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Nur Fahrzeuge die den Sachsendamm unterqueren\, ohne Abf. zur Alboinstr.! \nStandort: Brücke Reichartstr.\, SPURAUFTEILUNG vor Ort festlegen!\n
+data=
+; 1 -> 2
+5209	182	67	9	69
+6170	262	78	14	53
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+6613	159	56	7	76
+6254	133	52	7	51
+6049	83	43	14	56
+; 2 -> 1
+5919	210	78	4	88
+5677	200	90	12	87
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+4557	105	46	11	74
+4668	74	51	8	79
+5194	66	40	10	68

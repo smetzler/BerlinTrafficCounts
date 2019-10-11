@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40939
+datum=7.3.1991
+kurzken=Q 4093.9/91-F
+bez=Lipschitzallee Nr. 20 (Gesundheitszentrum)    ( Berlin 47 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+12 6 
+24 2 
+54 7 
+69 34 
+49 17 
+39 28 
+25 54 
+46 48 
+50 45 
+41 31 
+44 9 
+30 23 
+; 2 -> 1
+8 50 
+24 17 
+21 2 
+11 0 
+19 27 
+19 1 
+9 4 
+10 21 
+24 9 
+15 7 
+9 8 
+4 5 

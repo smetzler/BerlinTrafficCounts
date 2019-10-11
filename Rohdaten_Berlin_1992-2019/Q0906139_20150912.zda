@@ -1,0 +1,32 @@
+[ZA1001]
+knoten=Q 0906139
+datum=12.09.2015
+kurzken=Q 0906139/15
+bez=Puschkinstraße (Höhe Mittelinsel, südöstl. "Am Flutgraben")   (Kreuzberg, 10997)
+arm1=Am Flutgraben,500,0100
+arm2=Eichenstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1800,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+381	0	8	18	122
+358	0	7	18	126
+285	2	8	9	84
+202	1	4	5	52
+282	2	7	6	62
+245	0	4	6	56
+; 2 -> 1
+535	2	9	20	214
+508	1	8	18	183
+369	1	6	20	131
+233	6	4	4	54
+224	0	6	4	88
+228	0	4	6	49

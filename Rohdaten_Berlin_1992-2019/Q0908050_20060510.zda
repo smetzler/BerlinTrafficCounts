@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908050
+datum=10.05.2006
+kurzken=Q 0908050/06
+bez=Spekteweg (östl. Siegener Straße)   (Spandau, 13583)
+arm1=Siegener Straße,650,0100
+arm2=Wittgensteiner Weg,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=22°C max T; 15 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+84	1	0	4	96
+106	2	0	2	58
+90	2	0	1	46
+72	0	0	6	24
+81	2	0	6	23
+86	4	0	3	24
+134	2	0	7	56
+90	3	0	10	27
+116	2	0	4	82
+106	1	0	7	73
+101	3	0	5	56
+104	1	0	6	57
+; 2 -> 1
+58	4	0	3	19
+90	4	0	5	16
+61	2	0	1	42
+80	0	0	4	22
+100	2	0	5	28
+110	3	0	3	50
+135	2	0	11	117
+110	0	0	6	75
+118	0	0	8	92
+120	4	0	3	87
+115	1	0	7	56
+111	4	0	8	63

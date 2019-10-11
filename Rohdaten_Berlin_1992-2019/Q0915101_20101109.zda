@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915101
+datum=09.11.2010
+kurzken=Q 0915101/10
+bez=Kiefholzstraße (nördl. Mergenthaler Ring)   (Treptow, 12437)
+arm1=Karpfenteichstraße,300,0100
+arm2=Mergenthaler Ring,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+328	36	0	3	30
+321	21	0	4	61
+273	34	0	5	36
+324	38	0	4	18
+352	36	0	4	16
+371	31	0	3	19
+375	37	0	3	26
+362	21	0	6	28
+478	22	0	12	50
+482	14	1	9	42
+391	5	1	8	26
+360	7	0	5	36
+; 2 -> 1
+544	36	0	8	34
+534	30	0	5	31
+392	29	0	7	32
+392	52	0	2	22
+373	30	0	3	15
+324	25	0	2	12
+330	27	0	4	26
+355	22	0	4	34
+288	14	0	4	40
+305	11	0	6	30
+329	4	1	5	37
+328	5	0	8	41

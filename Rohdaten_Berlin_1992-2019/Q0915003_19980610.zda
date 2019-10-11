@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915003
+datum=10.06.1998
+kurzken=Q 0915003/98
+bez=Wegedornstraße (nordwestl. Schönefelder Ch.)   (Altglienicke, 12524)
+arm1=Braunellensteig,450,0100
+arm2=Schönefelder Chaussee,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+141	20	4	1
+151	18	5	2
+169	18	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+472	16	3	11
+581	9	3	9
+509	12	3	8
+; 2 -> 1
+488	22	6	13
+309	31	3	10
+207	14	4	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+184	16	3	10
+199	5	3	3
+197	7	3	1

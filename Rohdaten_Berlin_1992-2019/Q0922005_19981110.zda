@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922005
+datum=10.11.1998
+kurzken=Q 0922005/98
+bez=Gehrenseestraße (östl. Wartenberger Str.)   (Hohenschönhausen, 13053)
+arm1=Wartenberger Straße,1050,0100
+arm2=Wollenberger Straße,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+426	45	10	4
+358	43	5	0
+316	23	7	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+578	29	9	3
+665	24	9	4
+676	31	10	5
+; 2 -> 1
+588	47	10	1
+419	57	9	1
+495	38	5	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+549	31	9	3
+538	19	7	2
+553	21	9	4

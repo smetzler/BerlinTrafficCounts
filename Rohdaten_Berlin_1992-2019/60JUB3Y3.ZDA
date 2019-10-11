@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025715
+datum=28.4.1992
+kurzken=Q 2571.5/92-F
+bez=Hans-Loch-Straße westlich Dolgenseestraße    ( Berlin 1136-Lbg )
+arm1=Süd,1620,0100
+arm2=Nord,3420,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+0 0 
+0 0 
+7 2 
+6 1 
+1 0 
+9 2 
+11 4 
+0 0 
+6 2 
+3 4 
+5 2 
+5 0 
+; 2 -> 1
+2 1 
+0 0 
+11 1 
+8 2 
+0 0 
+11 3 
+13 4 
+0 0 
+8 5 
+19 7 
+21 6 
+16 6 

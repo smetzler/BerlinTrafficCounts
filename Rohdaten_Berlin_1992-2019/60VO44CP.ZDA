@@ -1,0 +1,38 @@
+[ZA1001]
+knoten=Q 41044
+datum=10.08.1993
+kurzken=Q 4104.4/93
+bez=Tauentzienstr. zw. Breitscheidplatz u. Nürnberger Str.   (Charlottenburg)
+arm1=Nürnberger Straße,2650,0100
+arm2=Breitscheidplatz,850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Taxi,Bus,Sonst,Radf
+zeit=0900,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Nur Busspur gezählt !\nDie Busspur ist bis 9.00 Uhr für alle Fahrzeuge offen !
+data=
+; 1 -> 2
+29 112 37 16 73
+21 139 39 17 71
+28 141 30 24 92
+18 125 42 22 88
+21 144 39 23 115
+44 137 47 20 79
+54 120 50 24 92
+19 135 38 20 78
+23 130 42 16 106
+25 147 39 19 80
+; 2 -> 1
+32 122 44 13 43
+22 122 42 13 48
+56 145 45 28 71
+54 142 62 44 76
+38 174 66 22 113
+43 154 54 23 74
+74 150 54 30 101
+50 153 45 24 114
+38 178 42 23 121
+43 170 45 18 107

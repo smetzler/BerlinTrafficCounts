@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906011
+datum=15.03.1999
+kurzken=Q 0906011/99
+bez=Oranienstraße (östl. Alte-Jakob-Straße)   (Kreuzberg, 10969)
+arm1=Alte-Jakob-Straße,650,0100
+arm2=Alexandrinenstraße,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+326	25	15	3
+415	38	13	5
+412	30	12	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+586	30	15	14
+626	20	15	18
+520	9	15	5
+; 2 -> 1
+550	35	11	13
+606	44	10	9
+515	32	8	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+481	27	10	5
+520	21	11	8
+422	13	10	6

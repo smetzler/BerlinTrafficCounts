@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0031409
+datum=21.03.2019
+kurzken=Q 0031409/19
+bez=Mariendorfer Damm (Stubenrauchbrücke) (Tempelhof, 12109) 
+arm1=Ordensmeisterstraße,100,0100
+arm2=Ullsteinstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+658	36	0	6	5
+643	38	2	8	15
+753	48	3	6	10
+816	44	2	10	12
+973	36	1	12	17
+952	44	2	14	11
+900	41	0	14	8
+969	38	0	18	13
+1086	22	0	27	11
+1094	8	0	14	12
+1205	12	4	31	12
+1187	13	1	25	15
+; 2 -> 1
+1385	41	3	25	39
+1235	430	1	26	44
+1154	55	1	12	32
+922	42	0	10	30
+957	38	3	13	18
+963	34	3	17	29
+949	30	6	20	28
+1065	25	1	21	25
+1101	20	1	18	24
+1092	14	0	18	20
+1095	8	2	27	33
+1002	8	1	21	34

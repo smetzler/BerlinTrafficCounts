@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020901
+datum=25.11.1999
+kurzken=Q 020901/99
+bez=Eldenaer Str. (westl. Scheffelstr., S-Bahn.Brücke) (Friedrichshain, 10247)
+arm1=Pettenkoferstraße,1000,0100
+arm2=Scheffelstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+502	110	35	8
+559	123	39	7
+475	81	30	3
+208	30	16	4
+231	37	14	6
+246	45	19	7
+250	50	11	3
+223	41	18	3
+310	44	12	8
+401	60	14	6
+314	47	8	8
+271	44	5	5
+; 2 -> 1
+174	28	11	6
+279	57	14	8
+214	29	19	5
+262	38	24	6
+239	31	24	5
+277	47	17	5
+270	56	22	4
+276	61	23	4
+340	90	32	6
+589	112	24	6
+630	125	16	6
+608	88	13	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3841
+datum=12.06.2014
+kurzken=Q 3841/14
+bez=Schulzendorfer Straße (westl. Am Dachsbau)   (Heiligensee, 13503)
+arm1=Schulzendorfer Straße (W),850,0000
+arm2=Am Dachsbau (S),1700,0001
+arm3=Schulzendorfer Straße (O),2400,0000
+arm4=Am Dachsbau (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+2	4
+1	0
+2	1
+4	0
+4	3
+2	0
+4	3
+5	5
+8	0
+4	4
+6	1
+2	0
+; 4 -> 2
+14	86
+12	23
+5	0
+6	0
+4	0
+0	0
+7	0
+5	0
+1	7
+0	2
+1	4
+0	0

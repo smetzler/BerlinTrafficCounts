@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 61241
+datum=28.08.1986
+kurzken=Q 61241/86
+bez=Glockenblumenweg  westl. Stubenrauchstrasse    ( Berlin 47 )
+Arm1=Ost (Stubenr.str.),900,0100
+Arm2=West (Loewenz.weg),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0600,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+20 20 25 23 28 22 26 21 37 41 78 63 27 
+; 2 -> 1
+98 99 40 33 31 28 30 28 34 36 40 50 37 

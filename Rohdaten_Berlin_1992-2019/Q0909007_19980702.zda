@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909007
+datum=02.07.1998
+kurzken=Q 0909007/98
+bez=Uhlandstraße (südl. Güntzelstraße)   (Wilmersdorf, 10717)
+arm1=Gasteiner Straße,1750,0100
+arm2=Güntzelstraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+546	21	8	26
+865	17	6	16
+682	11	7	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+723	3	5	38
+704	6	7	40
+698	11	7	36
+; 2 -> 1
+327	8	5	11
+441	19	6	22
+484	10	6	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+617	9	7	34
+686	10	6	37
+685	3	6	30

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910029
+datum=27.05.1999
+kurzken=Q 0910029/99
+bez=Berliner Straße (westl. Winfriedstraße)   (Zehlendorf, 14169)
+arm1=Charlottenburger Straße,1300,0100
+arm2=Winfriedstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1287	57	19	43
+1241	55	25	35
+1160	79	17	27
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1093	41	23	49
+1150	33	23	56
+1082	20	23	51
+; 2 -> 1
+1148	50	18	48
+1221	81	17	36
+1183	52	17	37
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1289	44	20	52
+1340	35	24	43
+1362	34	22	54

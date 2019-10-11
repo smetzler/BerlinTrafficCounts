@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0036
+datum=09.12.1987
+kurzken=K 36/87
+bez=Tegeler Strasse / Robinienweg     ( Berlin 28 )
+Arm1=,0,0000
+Arm2=Tegeler Strasse,1250,0010
+Arm3=Robinienweg,2500,0101
+Arm4=Tegeler Strasse,3050,0010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Nur Knotenarm 3 gezaehlt !
+data=
+; 2 -> 3
+237 215 161 144 147 129 174 125 153 168 105 109 
+; 3 -> 2
+108 128 87 118 138 189 174 156 173 210 232 184 
+; 3 -> 4
+14 19 21 22 36 26 29 28 31 35 34 28 
+; 4 -> 3
+23 18 25 25 19 21 19 15 20 16 14 12 

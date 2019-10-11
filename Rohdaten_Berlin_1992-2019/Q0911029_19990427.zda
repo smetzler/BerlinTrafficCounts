@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0911029
+datum=27.04.1999
+kurzken=Q 0911029/99
+bez=Wexstraße (Süd) - Zufahrt BAB A100 (Friedenau, 10825)
+arm1=Wexstraße (Süd),1100,0001
+arm2=,0,0000
+arm3=,0,0000
+arm4=BAB A100 (AS Innsbrucker Platz),2800,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 4
+302	15	0	2
+270	9	0	4
+253	9	0	1
+258	15	0	6
+247	15	0	6
+282	16	0	5
+334	14	0	7
+320	13	0	6
+376	15	0	18
+390	9	0	15
+374	10	0	15
+420	4	0	11

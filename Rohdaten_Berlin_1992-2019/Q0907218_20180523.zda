@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907218
+datum=23.05.2018
+kurzken=Q 0907218/18
+bez=Schillerstraße (westl. Weimarer Straße)   (Charlottenburg, 10625)
+arm1=Krumme Straße,1000,0100
+arm2=Weimarer Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+33	1	0	4	103
+86	4	0	7	192
+61	2	0	3	104
+80	2	0	4	46
+68	6	0	6	62
+87	4	0	6	85
+75	0	0	2	46
+51	2	0	2	41
+72	2	0	8	72
+62	0	0	2	68
+53	0	0	1	96
+45	0	0	4	64
+; 2 -> 1
+33	3	0	0	22
+59	4	0	1	75
+51	2	0	6	72
+74	2	0	6	50
+72	3	0	6	57
+61	4	0	2	61
+60	0	0	2	75
+57	6	0	3	91
+51	1	0	6	86
+54	2	0	8	126
+66	2	0	6	110
+47	0	0	2	131

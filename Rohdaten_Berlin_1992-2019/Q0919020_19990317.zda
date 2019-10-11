@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919020
+datum=17.03.1999
+kurzken=Q 0919020/99
+bez=Germanenstraße (südl. Eisenblätterstraße)   (Schönholz, 13156)
+arm1=Eisenblätterstraße,50,0100
+arm2=Sachsenstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+536	25	7	3
+397	18	7	4
+299	22	7	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+385	10	6	4
+459	14	6	9
+365	6	6	5
+; 2 -> 1
+253	26	7	0
+211	20	8	0
+234	18	7	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+402	12	6	8
+518	13	7	8
+403	7	6	6

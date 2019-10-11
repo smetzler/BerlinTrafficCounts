@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907020
+datum=22.03.1999
+kurzken=Q 0907020/99
+bez=Kaiser-Friedrich-Straße (nördl. Zillestraße)   (Charlottenburg, 10585)
+arm1=Haubachstraße,50,0100
+arm2=Zillestraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+764	20	6	11
+927	21	9	11
+835	24	7	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+660	12	5	17
+651	9	9	18
+602	6	11	16
+; 2 -> 1
+696	19	5	12
+738	30	7	12
+702	31	9	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+739	15	6	16
+806	12	7	16
+760	7	6	20

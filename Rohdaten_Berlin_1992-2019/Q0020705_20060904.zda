@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020705
+datum=04.09.2006
+kurzken=Q 020705/06
+bez=Bornholmer Straße (Bösebrücke) (Wedding, 10439)
+arm1=Sonderburger Straße ,850,0100
+arm2=Norweger Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wisbyer Straße östl. Stahlheimer Straße Richtung Osten gesperrt!
+data=
+; 1 -> 2
+665	58	35	0	21
+777	82	50	3	26
+667	78	54	2	25
+740	77	55	4	18
+727	86	62	2	14
+812	82	76	1	22
+903	57	51	1	36
+935	57	64	2	40
+1029	41	58	0	36
+1181	52	41	1	58
+1153	62	19	2	66
+1083	49	16	4	66
+; 2 -> 1
+1214	117	58	3	34
+1372	104	81	2	66
+1329	94	80	4	57
+1056	68	69	3	33
+966	60	78	2	31
+841	85	66	1	34
+1006	65	75	1	31
+1043	40	58	2	48
+918	45	44	4	38
+1003	48	43	1	54
+984	65	25	0	43
+934	40	24	0	44

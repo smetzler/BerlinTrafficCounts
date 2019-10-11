@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6513025
+datum=18.05.2017
+kurzken=Q 6513025/17
+bez=Straße der Pariser Kommune (nördl. Karl-Marx-Allee)   (Friedrichshain, 10243)
+arm1=Karl-Marx-Allee (W),800,0010
+arm2=Straße der Pariser Kommune (S),1700,0000
+arm3=Karl-Marx-Allee (O),2600,1000
+arm4=Straße der Pariser Kommune (N),3500,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Radf\, die den FG-Überweg weiter nördlich des Kreuzung befahren.\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+21
+23
+29
+16
+22
+33
+21
+42
+35
+68
+29
+43
+; 3 -> 1
+119
+131
+59
+48
+23
+21
+26
+12
+60
+84
+103
+98

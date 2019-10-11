@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913068
+datum=07.06.2006
+kurzken=Q 0913068/06
+bez=Teltowkanal-Uferweg (Nordseite, südl. Ringstraße)   (Mariendorf, 12105)
+arm1=Maulbronner Ufer,1300,0100
+arm2=Ringstraße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 9 Std Sonne; 0 mm Niederschl.; 4 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+30
+23
+14
+22
+18
+19
+23
+21
+18
+15
+25
+32
+; 2 -> 1
+21
+29
+10
+12
+10
+17
+18
+17
+14
+23
+24
+19

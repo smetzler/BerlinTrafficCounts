@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912179
+datum=09.11.2010
+kurzken=Q 0912179/10
+bez=Oberhofer Weg (nördl. Hildburhauser Straße)   (Lichterfelde, 12209)
+arm1=Geraer Straße,200,0100
+arm2=Hildburghauser Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+67	6	1	0	9
+95	1	0	1	5
+79	3	0	0	5
+94	4	0	0	4
+67	4	0	0	5
+115	2	0	3	7
+109	1	0	2	13
+111	2	0	1	10
+112	2	0	2	24
+156	4	0	2	11
+122	2	0	1	11
+152	1	0	0	5
+; 2 -> 1
+238	1	0	4	26
+232	1	0	2	16
+165	0	0	1	14
+156	2	0	0	10
+99	2	0	1	4
+100	0	0	1	6
+108	1	0	0	12
+119	1	0	2	5
+152	2	0	0	14
+149	1	0	2	13
+135	0	0	2	5
+123	0	0	3	1

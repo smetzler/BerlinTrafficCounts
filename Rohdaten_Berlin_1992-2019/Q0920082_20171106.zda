@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920082
+datum=06.11.2017
+kurzken=Q 0920082/17
+bez=Schönfließer Straße (westl. Zeltinger Straße)   (Frohnau, 13465)
+arm1=Mehringer Straße,900,0100
+arm2=Zeltinger Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+66	3	0	2	4
+89	6	0	0	4
+84	6	0	0	2
+80	1	0	0	2
+58	3	0	1	3
+66	4	0	0	4
+90	3	0	0	3
+91	4	0	0	19
+123	5	0	0	10
+54	2	1	1	2
+60	1	0	0	3
+99	0	0	0	0
+; 2 -> 1
+108	3	0	0	17
+73	4	0	0	1
+66	4	0	0	1
+74	4	0	0	1
+66	3	0	1	0
+74	4	0	0	2
+87	1	0	1	2
+85	4	0	0	6
+87	4	0	0	4
+94	2	1	2	6
+103	0	0	1	6
+99	0	0	0	5

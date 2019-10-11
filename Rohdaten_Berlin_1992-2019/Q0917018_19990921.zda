@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917018
+datum=21.09.1999
+kurzken=Q 0917018/99
+bez=Lückstraße (westl. Weitlingstraße)   (Lichtenberg, 10317)
+arm1=Emanuelstraße,750,0100
+arm2=Weitlingstraße,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+357	47	18	5
+363	26	18	4
+431	29	17	3
+403	51	18	5
+440	40	16	8
+417	56	17	12
+575	35	15	7
+729	43	19	8
+932	29	19	19
+997	34	18	25
+986	22	20	26
+852	15	19	20
+; 2 -> 1
+1022	47	15	25
+940	47	21	18
+688	42	14	8
+545	40	14	11
+517	40	16	6
+514	38	15	5
+453	21	18	10
+506	27	19	5
+552	24	19	9
+528	15	19	8
+526	8	19	8
+521	4	16	6

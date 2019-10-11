@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60105
+datum=12.09.1990
+kurzken=Q 60105/90
+bez=Alt Lichtenrade noerdlich Fehlingstrasse    ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+3 0 1 0 2 0 5 0 1 0 4 0 5 0 
+7 1 0 0 0 0 8 7 1 0 
+; 2 -> 1
+1 0 0 0 1 0 1 0 0 0 1 0 0 0 
+4 0 0 0 1 1 9 2 4 0 

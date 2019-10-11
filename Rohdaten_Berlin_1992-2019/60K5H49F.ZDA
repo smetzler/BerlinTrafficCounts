@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26117
+datum=20.4.1993
+kurzken=Q 2611.7/93-F
+bez=Gothaer Straße östlich Suhler Straße    (Hellersdorf )
+arm1=Süd,450,0100
+arm2=Nord,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+1 0 
+2 0 
+2 5 
+1 0 
+5 1 
+6 5 
+1 6 
+3 3 
+2 5 
+5 2 
+9 4 
+0 4 
+; 2 -> 1
+0 0 
+0 0 
+2 0 
+0 0 
+4 0 
+0 0 
+0 0 
+0 0 
+2 0 
+3 0 
+0 2 
+2 1 

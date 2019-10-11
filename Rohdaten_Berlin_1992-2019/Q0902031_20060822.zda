@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902031
+datum=22.08.2006
+kurzken=Q 0902031/06
+bez=Reichpietschufer (östl. Potsdamer Straße)   (Tiergarten, 10785)
+arm1=Potsdamer Straße,900,0000
+arm2=B96-Tunnel Tiergarten,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 7 Std Sonne; 5 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 2 -> 1
+1065	49	9	39	76
+1283	46	13	67	156
+1257	41	23	36	171
+1116	46	20	50	134
+1170	32	12	33	93
+1128	40	12	31	93
+1196	36	14	38	82
+1268	23	16	38	102
+1318	36	18	56	102
+1441	25	15	61	103
+1425	9	14	59	90
+1276	11	17	46	75

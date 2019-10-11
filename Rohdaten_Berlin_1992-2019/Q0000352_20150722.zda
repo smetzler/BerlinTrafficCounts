@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00352
+datum=22.07.2015
+kurzken=Q 00352/15
+bez=A100 - AS Kaiserdamm (Zu- u. Abf. südl. Knobelsdorffstr.)   (Charlottenburg, 140
+arm1=Knobelsdorffstraße,0,0100
+arm2=Kaiserdamm,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Knobelsdorffbrücke
+data=
+; 1 -> 2
+229	4	1	0	5
+212	1	4	1	5
+197	3	2	1	11
+; 2 -> 1
+561	9	4	4	15
+592	8	8	1	17
+599	2	3	4	14

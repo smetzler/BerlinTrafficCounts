@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 05611
+datum=28.10.1987
+kurzken=Q 5611/87
+bez=Strasse des 17.Juni  westl. Grosser Stern    ( Berlin 21 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1059 1046 1039 1131 1071 1037 1163 1247 1628 1732 1406 1060 
+; 2 -> 1
+1033 1141 960 991 1130 1107 1228 1088 1411 1364 1115 825 

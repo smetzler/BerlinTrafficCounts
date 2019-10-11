@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41132
+datum=28.8.1991
+kurzken=Q 4113.2/91-F
+bez=Karl-Marx-Strasse zw. Neckarstrasse und Anzengruberstrasse    ( Berlin 44 )
+arm1=Anzengruberstraße,900,0100
+arm2=Neckarstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe Hertie !\nWetter : bedeckt und trocken !
+data=
+; 1 -> 2
+240 
+221 
+212 
+536 
+701 
+775 
+848 
+825 
+885 
+998 
+1003 
+701 
+; 2 -> 1
+182 
+304 
+433 
+644 
+752 
+815 
+1037 
+988 
+1048 
+956 
+860 
+343 

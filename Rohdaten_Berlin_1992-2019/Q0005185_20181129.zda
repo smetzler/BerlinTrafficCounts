@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5185
+datum=29.11.2018
+kurzken=Q 5185/18
+bez=Mühlenstraße / Masurenstraße (13189 Pankow)
+arm1=Mühlenstraße,300,0000
+arm2=Mühlenstraße,2100,0000
+arm3=Masurenstr. (W),900,0001
+arm4=Masurenstr. (O),2700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+19	7
+51	15
+25	3
+16	0
+22	1
+17	2
+10	2
+52	113
+51	130
+32	20
+32	13
+22	4
+; 4 -> 3
+146	21
+43	23
+22	11
+6	2
+15	2
+8	2
+37	8
+40	19
+47	9
+80	4
+32	6
+23	4

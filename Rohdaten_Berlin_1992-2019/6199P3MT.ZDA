@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 58669
+datum=6.5.1991
+kurzken=Q 5866.9/91-F
+bez=Schwaebische Strasse noerdlich Barbarossaplatz    ( Berlin 30 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+14 2 
+9 3 
+10 2 
+8 1 
+8 1 
+22 7 
+12 3 
+8 2 
+9 3 
+9 5 
+8 2 
+12 2 
+; 2 -> 1
+7 6 
+10 3 
+9 1 
+13 1 
+10 0 
+21 3 
+9 5 
+6 1 
+10 1 
+17 4 
+11 3 
+17 4 

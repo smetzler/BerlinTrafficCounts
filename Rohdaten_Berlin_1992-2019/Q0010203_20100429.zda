@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010203
+datum=29.04.2010
+kurzken=Q 010203/10
+bez=Dorotheenstraße (östl. Ebertstraße)   (Mitte, 10555)
+arm1=Ebertstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wilhelmstr. Sperrung in beiden Richtungen zwischen Dorotheenstr. und Unter den Linden\,
+data=
+; 1 -> 2
+105	2	2	12	7
+178	4	3	15	11
+258	3	7	17	50
+287	1	9	20	45
+244	3	10	12	24
+220	2	14	14	22
+196	2	10	11	26
+226	1	10	16	21
+287	2	10	12	28
+300	2	12	28	10
+243	0	12	12	28
+262	0	14	19	30
+292	0	13	22	42
+; 2 -> 1
+324	2	3	26	3
+440	3	3	33	7
+420	4	7	24	18
+389	6	19	25	24
+327	5	14	16	19
+323	2	15	19	15
+280	1	13	21	31
+286	3	15	14	17
+364	6	17	35	23
+240	2	13	8	23
+346	1	11	34	27
+335	0	8	40	60
+330	0	8	29	39

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091008
+datum=21.04.1997
+kurzken=Q 091008/97
+bez=Ahrensfelder Chaussee    (westl. Märkische All.) (Hohenschönh., 13057)
+arm1=Falkenberg,1300,0100
+arm2=Ahrensfelde,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=BAB A10: AS Hohenschönhausen gesperrt !
+data=
+; 1 -> 2
+333	28	19	7	5
+284	49	39	7	10
+244	44	45	8	2
+300	40	43	5	5
+298	38	38	4	4
+307	48	50	5	6
+336	60	47	6	10
+441	57	49	7	9
+424	49	44	8	16
+617	57	43	8	17
+519	51	22	7	24
+574	29	23	9	24
+; 2 -> 1
+367	37	25	10	4
+283	44	40	8	7
+278	48	62	7	4
+303	50	51	5	6
+294	39	61	7	6
+358	44	54	5	7
+334	46	49	6	12
+387	46	46	8	10
+406	43	36	7	9
+505	51	29	7	16
+556	54	20	9	19
+529	43	19	7	22

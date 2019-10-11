@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 14381
+datum=02.07.2007
+kurzken=Q 14381/07
+bez=Karl-Marx-Straße (nördl. Silbersteinstraße)   (Neukölln, 12055)
+arm1=Karl-Marx-Straße (N),80,0000
+arm2=Silbersteinstraße,1000,0001
+arm3=Karl-Marx-Straße (S),1880,0000
+arm4=Lahnstraße,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=0 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+118	20
+187	3
+224	2
+162	6
+198	8
+189	6
+193	8
+147	8
+120	14
+160	20
+116	9
+86	2
+; 4 -> 2
+118	6
+112	7
+151	5
+186	8
+174	8
+156	5
+121	6
+121	4
+110	12
+127	18
+112	6
+96	8

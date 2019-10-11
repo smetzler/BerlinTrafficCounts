@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 43658
+datum=04.07.1994
+kurzken=Q 43658/94
+bez=Zimmerstraße (östl. Wilhelmstraße) (Mitte, 10117)
+arm1=Nord,180,0010
+arm2=West,960,0000
+arm3=Süd,1980,1000
+arm4=Ost,2760,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  \nWetter: max T = 33°\, vorm. sonnig\, nachm.wolkig\, kein Niederschlag 
+data=
+; 1 -> 3
+7 1
+6 0
+0 0
+0 0
+10 0
+0 0
+3 0
+1 1
+1 0
+4 0
+11 3
+10 0
+; 3 -> 1
+8 0
+8 0
+4 0
+0 1
+11 1
+8 0
+7 0
+1 0
+5 1
+2 0
+2 0
+8 0

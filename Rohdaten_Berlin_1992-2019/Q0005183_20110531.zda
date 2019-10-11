@@ -1,0 +1,91 @@
+[ZA1001]
+knoten=Q 05183
+datum=31.05.2011
+kurzken=Q 05183/11
+bez=Mühlenstr.-Nordfahrb. (rechte Spur, westl. Oberbaumbrücke)   (Friedrichshain, 10
+arm1=Tamara-Danz-Straße,700,0000
+arm2=Oberbaumbrücke,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=üKfz,Lkw
+zeit=0700,1300
+intv=5
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk="Lkw" = alle Fahrz. >6\,5 m Länge;  "üKfz" = alle übrigen mororisierten Fahrzeuge
+data=
+; 2 -> 1
+29	3
+28	3
+40	2
+22	2
+10	4
+36	3
+39	3
+48	1
+26	5
+50	1
+46	0
+20	0
+31	1
+38	5
+22	3
+34	5
+36	3
+29	2
+32	3
+22	4
+13	3
+32	2
+17	2
+34	2
+14	5
+22	4
+11	1
+4	2
+25	6
+28	6
+18	3
+23	5
+36	3
+25	3
+37	1
+23	5
+28	4
+33	4
+16	5
+22	8
+25	3
+5	3
+20	0
+9	0
+9	2
+13	4
+18	1
+21	2
+14	4
+32	2
+21	4
+33	6
+7	4
+14	3
+28	1
+9	3
+17	1
+18	3
+8	3
+14	1
+11	2
+15	3
+20	0
+22	2
+26	2
+21	1
+16	6
+17	2
+13	3
+17	7
+29	1
+21	2

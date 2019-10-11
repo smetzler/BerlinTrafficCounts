@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109032
+datum=28.10.2013
+kurzken=Q 109032/13
+bez=Zossener Straße (südl. Landsberger Chaussee)   (Hellersdorf, 12685)
+arm1=Landsberger Chaussee,0,0100
+arm2=Luckenwalder Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+190	9	0	1	15
+165	9	0	2	11
+201	5	1	1	5
+204	6	2	0	0
+190	4	0	2	3
+198	2	0	1	2
+229	5	0	4	5
+267	7	0	4	6
+248	8	0	4	8
+312	6	0	12	4
+203	3	0	7	4
+253	2	0	2	7
+; 2 -> 1
+169	2	2	3	12
+183	4	0	3	7
+167	5	0	1	4
+166	0	0	6	2
+170	6	0	2	2
+150	2	0	0	6
+95	6	0	4	2
+143	3	0	2	4
+156	6	0	2	9
+242	6	0	6	12
+214	4	0	1	1
+146	0	0	4	2

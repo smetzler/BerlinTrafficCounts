@@ -1,0 +1,34 @@
+[ZA1001]
+knoten=K 2882
+datum=19.04.2015
+kurzken=K 2882/15
+bez=AK Wilmersdorf   (Wilmersdorf, 10707)
+arm1=A100 Stadtring (AS Hohenzollernd.),400,0100
+arm2=A104 (AS Mecklenburg. Str.),1800,1000
+arm3=A100 Stadtring (AS Detmolder Str.),2350,0001
+arm4=A104 (AS Konstanzer Str.),3500,0010
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Hoher Bogen (siehe Skizze !)
+data=
+; 1 -> 2
+847	1	1	1	26
+913	0	0	1	19
+889	0	1	1	27
+; 2 -> 1
+682	1	0	0	18
+647	2	0	0	7
+649	2	0	0	5
+; 3 -> 4
+274	0	0	0	6
+284	0	0	2	6
+293	0	0	0	1
+; 4 -> 3
+198	1	0	1	6
+233	1	0	1	4
+244	0	0	0	2

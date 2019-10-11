@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20033
+datum=04.12.2002
+kurzken=Q 2003/02
+bez=A100 - BAB Stadtring (nördl. Trabener Steg - mittl. li. Spur) (Ch'burg, 10711)
+arm1=AD Funkturm,200,0100
+arm2=AS Kurfürstendamm,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1618	346	47	0	0	8
+1684	313	49	1	1	6
+1594	246	38	3	1	2
+1434	243	18	3	1	5
+1543	259	33	4	1	6
+; 2 -> 1
+1287	282	67	10	0	11
+1409	277	78	22	3	10
+1147	270	71	25	4	6
+1075	247	73	23	4	4
+1191	183	87	30	5	3

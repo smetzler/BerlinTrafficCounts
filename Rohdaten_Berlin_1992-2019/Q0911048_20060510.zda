@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911048
+datum=10.05.2006
+kurzken=Q 0911048/06
+bez=Welserstraße (nördl. Fuggerstraße   (Schöneberg, 10777)
+arm1=Fuggerstraße,1700,0100
+arm2=Lietzenburger Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=22°C max T; 15 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+31
+62
+45
+36
+38
+38
+36
+21
+46
+48
+40
+34
+; 2 -> 1
+18
+24
+20
+34
+40
+38
+41
+49
+54
+56
+87
+104

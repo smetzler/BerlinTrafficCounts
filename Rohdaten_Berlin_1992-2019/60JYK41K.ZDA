@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25868
+datum=25.8.1992
+kurzken=Q 2586.8/92-F
+bez=Hellersdorfer Str. nördlich Alte Hellersdorfer Str.    (Berlin 1144-Hellersd)
+arm1=Ost,180,0100
+arm2=West,1780,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+4 0 
+3 1 
+0 0 
+6 1 
+1 1 
+1 0 
+3 0 
+3 2 
+3 1 
+2 1 
+4 4 
+4 0 
+; 2 -> 1
+0 2 
+0 0 
+3 1 
+6 1 
+5 0 
+3 0 
+4 2 
+8 2 
+2 0 
+1 2 
+1 2 
+3 3 

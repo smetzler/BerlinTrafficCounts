@@ -1,0 +1,16 @@
+[ZA1001]
+knoten=Q 03302
+datum=21.02.1989
+kurzken=Q 3302/89
+bez=Motardstrasse suedlich Nonnendammallee    (Berlin 20 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+187 141 112 107 119 85 140 169 144 118 86 62 

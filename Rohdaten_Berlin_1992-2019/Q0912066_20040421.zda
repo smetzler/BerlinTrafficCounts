@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912066
+datum=21.04.2004
+kurzken=Q 0912066/04
+bez=Klingsorstraße (westl. Dalandweg, Höhe Parkweg)   (Steglitz, 12203)
+arm1=Brahmsstraße,1350,0100
+arm2=Dalandweg,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+257	6	3	4	24
+312	6	3	7	22
+274	8	3	5	23
+297	13	3	8	26
+293	9	3	5	25
+252	12	3	6	23
+283	4	3	12	30
+334	3	4	11	59
+444	4	2	18	54
+407	5	4	20	47
+292	2	3	23	35
+316	1	4	18	36
+; 2 -> 1
+362	8	3	21	67
+427	14	3	8	45
+323	11	3	8	34
+280	9	3	9	11
+312	5	3	13	22
+280	5	3	10	17
+357	7	4	16	40
+328	4	3	8	19
+338	2	3	8	12
+340	5	3	17	27
+302	4	3	21	34
+291	2	3	6	23

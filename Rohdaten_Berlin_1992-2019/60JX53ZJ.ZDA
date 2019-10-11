@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025817
+datum=16.6.1992
+kurzken=Q 25817/92-F
+bez=Kaulsdorfer Straße südlich Argenauer Straße    ( Berlin 1170-Köpenick )
+arm1=Ost,950,0100
+arm2=West,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 1 
+1 0 
+1 0 
+1 0 
+0 1 
+0 0 
+1 0 
+1 1 
+0 1 
+1 0 
+1 0 
+2 0 
+; 2 -> 1
+0 0 
+0 0 
+0 0 
+0 0 
+0 0 
+0 2 
+0 0 
+0 0 
+0 0 
+1 0 
+2 0 
+1 0 

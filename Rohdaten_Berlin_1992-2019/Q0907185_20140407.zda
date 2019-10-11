@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907185
+datum=07.04.2014
+kurzken=Q 0907185/14
+bez=Kaiserin-Augusta-Allee (östl. Goslarer Ufer)   (Charlottenburg, 10589)
+arm1=Goslarer Ufer,950,0000
+arm2=Kaiserin-Augusta-Brücke,2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Kaiserin-Augusta-Allee  östl. der Goslarer Str. (bis ca. 50m östl.) queren.\nWetter: max T=20°C; Sonne=3 Std; Niederschlag=1 mm;
+data=
+; 3 -> 4
+52	38
+23	1
+34	2
+48	8
+45	1
+33	1
+18	0
+19	0
+6	8
+12	0
+15	3
+13	1
+; 4 -> 3
+30	3
+69	2
+72	4
+74	2
+50	2
+54	3
+46	0
+44	0
+15	15
+12	0
+17	0
+7	0

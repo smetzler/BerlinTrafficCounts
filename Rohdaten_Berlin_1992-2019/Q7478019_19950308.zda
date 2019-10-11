@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7478019
+datum=08.03.1995
+kurzken=Q 7478019/95
+bez=Hultschiner Da. (zw. Margaretenstr. u. Rahnsdorfer Str.) (Mahlsdorf, 12623)
+arm1=Hultschiner Damm,150,0000
+arm2=Margaretenstraße,750,0001
+arm3=Hultschiner Damm,1600,0000
+arm4=Rahnsdorfer Straße,2400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; meist sonnig; kein Niederschlag. \n
+data=
+; 2 -> 4
+0 0
+0 0
+0 0
+0 0
+1 1
+0 0
+0 0
+0 2
+0 0
+0 0
+0 0
+0 0
+; 4 -> 2
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 2
+0 0
+0 0
+0 0
+0 0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907090
+datum=19.09.2006
+kurzken=Q 0907090/06
+bez=Bismarckstraße (östl. Schloßstraße)   (Charlottenburg, 10627)
+arm1=Schloßstraße,950,0100
+arm2=Fritschestraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1581	66	7	50	89
+1887	43	13	54	163
+1649	55	21	41	125
+1405	70	15	32	74
+1361	50	19	35	95
+1344	50	12	33	99
+1474	45	13	42	85
+1507	57	16	44	118
+1663	51	11	33	115
+1669	31	14	75	147
+1787	35	16	55	120
+1784	18	19	53	135
+; 2 -> 1
+1229	50	11	44	77
+1470	59	12	38	77
+1429	61	18	24	89
+1199	74	7	27	85
+1303	55	6	19	100
+1413	53	5	38	92
+1602	73	5	42	118
+1626	70	13	54	95
+1964	54	8	82	143
+2070	47	14	64	168
+1872	44	10	64	144
+1854	35	9	80	150

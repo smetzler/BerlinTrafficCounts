@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10192
+datum=09.04.2019
+kurzken=Q-10192/18
+bez=Sedanstraße / Beymestraße  über Arm2
+arm1=Sedanstraße  (SW),1520,0100
+arm2=Sedanstraße (NO),3320,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+41	83
+27	20
+9	1
+16	6
+21	6
+18	2
+26	3
+25	4
+52	11
+62	22
+35	8
+32	5
+; 2 -> 1
+19	6
+9	2
+14	4
+12	4
+23	5
+18	1
+36	89
+37	29
+57	60
+36	20
+39	11
+31	2

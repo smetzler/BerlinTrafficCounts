@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908149
+datum=21.05.2012
+kurzken=Q 0908149/12
+bez=Siegener Straße (südl. Burbacher Weg)   (Spandau, 13583)
+arm1=Ballersdorfer Straße,1750,0100
+arm2=Burbacher Weg,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch Fußgänger (unterschieden nach "Erw" und "Jugend" gezählt!\nWetter: max T=29°C; Sonne=7 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+66	1	0	14	83	31
+98	2	0	20	98	12
+101	0	0	25	85	19
+100	2	0	33	96	4
+89	5	0	25	87	6
+113	0	0	21	84	5
+98	1	0	14	41	25
+84	2	0	22	58	17
+120	1	0	36	76	30
+124	2	0	16	62	46
+88	0	0	18	49	10
+89	0	0	22	59	11
+; 2 -> 1
+64	1	0	21	28	11
+112	5	0	26	66	9
+88	3	0	24	82	7
+106	1	0	25	90	11
+90	3	0	20	90	5
+78	1	0	22	81	6
+108	0	0	26	68	16
+107	1	0	30	79	22
+109	2	0	28	102	46
+126	2	0	28	86	48
+93	0	0	23	68	16
+77	0	0	24	71	21

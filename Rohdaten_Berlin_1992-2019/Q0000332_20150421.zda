@@ -1,0 +1,30 @@
+[ZA1001]
+knoten=Q 00332
+datum=21.04.2015
+kurzken=Q 00332/15
+bez=A100 - Abfahrt Tegeler Weg (Charlottenburg, 13627)
+arm1=BAB A100 (R.-Wissel-Brücke),1000,0100
+arm2=Tegeler Weg,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort Tegeler Weg\nCity-Atlas Seite 70\, Feld 8b
+data=
+; 1 -> 2
+147	10	5	0	5
+199	12	1	0	4
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+68	2	0	0	0
+77	0	1	0	1
+66	1	2	0	1

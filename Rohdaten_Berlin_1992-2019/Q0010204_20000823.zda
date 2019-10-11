@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010204
+datum=23.08.2000
+kurzken=Q 010204/00
+bez=Brandenburger Tor, (Mitte, 10557)
+arm1=Entlastungsstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=9; Niederschlag=0\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+109
+223
+209
+128
+143
+159
+202
+188
+290
+348
+363
+379
+; 2 -> 1
+96
+211
+182
+126
+121
+156
+200
+238
+262
+269
+303
+330

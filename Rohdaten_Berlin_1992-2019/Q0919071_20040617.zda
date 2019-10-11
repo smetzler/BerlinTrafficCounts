@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0919071
+datum=17.06.2004
+kurzken=Q 0919071/04
+bez=AD Pankow - Strom 11  (Schönerlinde, 16352)
+arm1=Norden,200,0000
+arm2=AD Pankow,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 34\, Planquadrat X20
+data=
+; 2 -> 1
+997	207	2	1
+973	228	7	1
+740	208	6	5
+655	237	7	5
+622	237	6	3
+676	182	2	2
+770	190	1	8
+819	186	4	1
+883	197	4	7
+950	184	2	5
+971	145	2	3
+693	143	0	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20113
+datum=25.09.2017
+kurzken=Q 20113/17
+bez=Bellermannstraße (südl. Zu-/Abf. Gesundbrunnen-Center)   (Wedding, 13357)
+arm1=Bellermannstraße,360,0000
+arm2=Zu-/Abf. Gesundbrunnen-Center,1220,0001
+arm3=Bellermannstraße,2160,0000
+arm4=(Osten),3020,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+27	9
+32	7
+15	1
+15	0
+16	0
+22	0
+33	2
+29	6
+66	5
+57	10
+63	5
+29	2
+; 4 -> 2
+87	27
+90	5
+43	0
+34	0
+18	0
+26	0
+21	0
+25	2
+38	7
+42	5
+49	2
+26	0

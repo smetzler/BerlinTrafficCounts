@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25897
+datum=14.11.1995
+kurzken=Q 25897/95
+bez=Zachertstraße (östl. Robert-Uhrig-Straße)   (Lichtenberg, 10315)
+arm1=Zachertstraße,800,0000
+arm2=Robert-Uhrig-Straße,1700,0001
+arm3=Zachertstraße,2600,0000
+arm4=Robert-Uhrig-Straße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: Max T=5°C\, bedeckt\, 0\,5mm Niederschlag
+data=
+; 2 -> 4
+3 3
+10 2
+6 0
+4 0
+6 1
+2 0
+22 4
+21 5
+20 5
+20 4
+10 1
+11 0
+; 4 -> 2
+4 0
+6 2
+7 1
+10 0
+16 0
+6 0
+23 4
+30 6
+27 2
+36 2
+18 3
+13 3

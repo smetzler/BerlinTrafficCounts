@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917001
+datum=22.06.1998
+kurzken=Q 0917001/98
+bez=Landsberger Allee (westl. Weißenseer Weg)   (Lichtenberg, 10369)
+arm1=Marquardstraße,1050,0100
+arm2=Weißenseer Weg,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1436	107	4	17
+1259	122	10	19
+1320	150	6	24
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2145	83	2	25
+2284	71	1	39
+2265	44	2	27
+; 2 -> 1
+2480	147	1	28
+2143	152	5	17
+1837	158	4	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1601	74	2	33
+1736	50	3	28
+1511	40	3	22

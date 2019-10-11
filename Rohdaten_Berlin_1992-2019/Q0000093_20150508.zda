@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0093
+datum=08.05.2015
+kurzken=Q 0093/15
+bez=A113 - (südl. Johannishaler Chaussee)   (Treptow, 12487)
+arm1=AS Johannisthaler Chaussee,500,0100
+arm2=AS Stubenrauchstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+4867	119	66	61	83
+4460	79	51	72	84
+2986	50	41	39	64
+; 2 -> 1
+2604	86	57	42	16
+3216	69	29	36	20
+2958	40	29	46	19

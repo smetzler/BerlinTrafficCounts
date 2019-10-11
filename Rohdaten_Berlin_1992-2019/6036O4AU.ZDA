@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4128
+datum=7.6.1993
+kurzken=Q 4128/93
+bez=Schildhornstraße Abzweig Steglitz    ( Steglitz )
+arm1=Breitenbachplatz,400,0100
+arm2=Paulsenstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+1 125 12 6 30 
+1 149 5 7 25 
+2 168 11 6 24 
+9 175 9 5 14 
+9 214 12 7 23 
+4 183 6 7 26 
+8 180 5 6 15 
+6 186 8 8 31 
+16 271 9 6 34 
+7 258 3 6 42 
+14 236 4 6 57 
+9 206 1 6 34 
+; 2 -> 1
+4 124 8 7 25 
+5 156 9 10 18 
+5 144 12 5 18 
+2 192 13 7 12 
+5 164 8 6 15 
+9 207 9 6 15 
+8 161 9 6 35 
+7 184 6 6 45 
+4 212 4 6 26 
+4 216 2 6 37 
+9 227 3 6 29 
+10 226 1 6 32 

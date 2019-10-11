@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919002
+datum=17.06.1998
+kurzken=Q 0919002/98
+bez=Blankenfelder Chaussee  (südl. Hauptstraße)   (Blankenfelde, 13159)
+arm1=Hauptstraße,100,0100
+arm2=Berliner Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+635	36	6	14
+453	32	4	5
+367	27	4	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+377	28	6	6
+406	15	7	17
+429	5	5	13
+; 2 -> 1
+252	28	6	4
+225	32	4	2
+283	18	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+492	26	6	12
+534	12	6	9
+507	12	6	12

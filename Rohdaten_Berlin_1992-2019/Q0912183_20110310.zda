@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912183
+datum=10.03.2011
+kurzken=Q 0912183/11
+bez=Heinersdorfer Straße (südl. Oberhofer Platz)   (Lichterfelde, 12209)
+arm1=Oscar-Lange-Platz,1600,0100
+arm2=Oberhofer Platz,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+261	4	9	5	14
+249	3	8	2	3
+153	2	5	3	8
+128	4	4	1	10
+143	3	3	2	7
+128	3	5	3	7
+120	1	9	1	4
+113	0	6	0	10
+138	0	5	5	6
+122	0	4	1	6
+140	2	3	4	7
+124	0	3	1	6
+; 2 -> 1
+58	0	6	0	0
+98	2	6	0	2
+94	2	4	0	69
+103	3	3	1	5
+128	0	3	0	5
+92	3	5	1	2
+117	3	8	2	12
+124	2	8	2	10
+199	2	5	1	13
+173	1	4	5	21
+226	2	3	2	6
+192	2	3	3	3

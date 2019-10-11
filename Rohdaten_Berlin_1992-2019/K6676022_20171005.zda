@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=K 6676022
+datum=05.10.2017
+kurzken=Q 6676022/17
+bez=Dorfstr. (südl. Dorfstraße)      (Wartenberg, 13059)
+arm1=Dorfstraße (W),730,0010
+arm2=Dorfstr. (S),1620,0000
+arm3=Dorfstraße (O),2530,1000
+arm4=Lindenberger Straße ,3380,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=! Unwetter (Warnstufe 3) am  Abend (ab ca. 17 Uhr) !\nEs ist keine Beeinflussung durch das Wetter feststellbar.\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+4	3
+2	0
+5	0
+4	0
+0	0
+0	1
+2	4
+0	2
+17	3
+4	2
+15	1
+4	0
+; 3 -> 1
+1	0
+5	0
+4	1
+2	0
+1	0
+5	1
+3	1
+4	2
+6	2
+4	1
+8	2
+3	0

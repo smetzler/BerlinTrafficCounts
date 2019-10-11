@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119001
+datum=01.11.2011
+kurzken=Q 119001/11
+bez=Dahlwitzer Landstraße (Stadtgrenze)   (Friedrichshagen, 12587)
+arm1=Berlin (Mühlenstraße),1400,0100
+arm2=Friedrichshagener Ch. (Bbg.),3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+360	11	0	6	2
+342	24	0	0	3
+314	19	0	2	3
+242	34	0	0	4
+228	26	0	0	2
+293	22	0	3	5
+263	18	0	2	7
+301	13	0	10	4
+346	15	0	6	8
+384	10	0	4	8
+414	10	0	3	5
+309	1	0	4	0
+; 2 -> 1
+374	25	0	6	3
+351	31	0	3	4
+243	23	0	5	2
+280	22	0	2	0
+278	19	0	2	1
+271	18	0	2	2
+297	22	0	3	6
+348	12	0	6	2
+413	16	0	6	5
+498	20	0	2	10
+489	13	0	5	7
+449	4	0	6	2

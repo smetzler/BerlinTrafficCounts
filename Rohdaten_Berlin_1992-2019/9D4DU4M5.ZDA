@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5651058
+datum=30.05.1994
+kurzken=Q 5651058/94
+bez=Ramlerstraße (östl. Swinemünder Straße) (Wedding, 13355)
+arm1=Swinemünder Brücke,300,0010
+arm2=Ramlerstraße,900,0000
+arm3=Swinemünder Straße,2100,1000
+arm4=Ramlerstraße,2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  wolkig
+data=
+; 1 -> 3
+19 65
+16 8
+5 1
+9 0
+7 0
+11 7
+11 12
+14 8
+25 14
+8 10
+16 4
+12 7
+; 3 -> 1
+19 20
+30 10
+25 0
+21 3
+4 21
+11 7
+6 5
+24 13
+22 13
+11 8
+6 8
+13 1

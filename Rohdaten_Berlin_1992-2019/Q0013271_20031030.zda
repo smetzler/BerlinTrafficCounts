@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 13271
+datum=30.10.2003
+kurzken=Q 13271/03
+bez=Hähnelstraße (westl. Hauptstraße)   (Schöneberg, 12159)
+arm1=Hähnelstraße ,900,0000
+arm2=Hauptstraße,1400,0001
+arm3=Sponholzstraße,1830,0000
+arm4=Hauptstraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6\,5°C; Sonne=0 Std; Niederschlag=9 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+19	3
+24	2
+32	0
+53	2
+41	0
+57	0
+38	2
+41	2
+93	2
+75	5
+57	6
+69	8
+; 4 -> 2
+38	11
+58	6
+54	0
+58	1
+62	0
+58	0
+44	2
+57	6
+88	6
+75	9
+65	5
+38	4

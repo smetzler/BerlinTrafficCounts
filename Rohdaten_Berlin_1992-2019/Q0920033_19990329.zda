@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920033
+datum=29.03.1999
+kurzken=Q 0920033/99
+bez=Scharnweberstraße (östl. Schillingstraße)   (Reinickendorf, 13403)
+arm1=Schillingstraße,700,0100
+arm2=Hechelstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+564	32	11	16
+585	23	12	18
+591	36	7	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+746	21	11	25
+705	20	10	32
+645	7	11	23
+; 2 -> 1
+483	37	15	10
+543	27	7	10
+581	38	8	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+795	23	8	31
+936	13	10	42
+929	14	10	32

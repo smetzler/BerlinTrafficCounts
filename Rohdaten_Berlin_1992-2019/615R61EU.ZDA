@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 54114
+datum=07.06.1984
+kurzken=Q 54114/84
+bez=Weimarer Strasse  noerdl.  Kantstrasse   (Berlin 12)
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=City 84
+data=
+; 1 -> 2
+0 22 1 0 0 0 23 2 1 0 0 29 6 3 0 
+0 27 7 2 0 2 29 4 0 0 1 34 4 3 0 
+2 24 2 1 0 1 35 4 0 0 3 31 3 0 0 
+7 74 4 0 0 1 41 2 2 0 0 28 2 0 0 
+; 2 -> 1
+0 10 2 0 0 2 30 4 0 0 0 32 2 0 0 
+0 36 3 2 0 0 44 5 5 0 1 43 13 4 0 
+3 38 2 5 0 1 47 4 5 0 3 52 6 0 0 
+0 70 2 1 0 1 40 2 1 0 1 34 2 0 0 

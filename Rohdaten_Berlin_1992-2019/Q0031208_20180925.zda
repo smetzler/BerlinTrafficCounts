@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031208
+datum=25.09.2018
+kurzken=Q 031208/18
+bez=Elsenstraße (nördl. Heidelberger Straße)   (Neukölln, 12435)
+arm1=Heidelberger Straße ,1400,0100
+arm2=Karl-Kunger-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+294	10	0	9	74
+372	19	1	13	109
+283	13	0	12	81
+296	12	0	4	38
+231	6	0	6	37
+271	4	0	9	43
+237	5	0	5	33
+335	7	1	15	57
+343	4	0	13	67
+416	2	0	26	92
+337	1	1	14	62
+295	1	0	16	67
+; 2 -> 1
+114	5	0	8	54
+134	4	0	7	71
+131	8	0	6	47
+114	6	0	4	28
+114	3	0	4	30
+116	2	0	1	39
+112	6	0	7	38
+149	4	0	7	43
+154	3	0	6	61
+172	1	0	16	74
+151	0	0	9	101
+124	1	0	11	87

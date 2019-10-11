@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0121603
+datum=19.03.2019
+kurzken=Q 0121603/19
+bez=Wegedornstraße (Teltowkanalbrücke) (Treptow, 12489) 
+arm1=Ernst-Ruska-Ufer,0,0100
+arm2=Semmelweisstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+355	19	11	3	20
+396	15	10	4	17
+387	16	9	6	10
+394	19	10	4	12
+441	18	9	2	14
+486	18	8	2	18
+484	24	10	6	22
+650	14	8	6	30
+751	11	13	6	47
+849	8	13	10	44
+674	11	13	16	35
+573	9	10	2	60
+; 2 -> 1
+581	40	15	9	80
+542	16	8	2	49
+501	23	10	4	19
+469	17	9	6	25
+438	24	9	2	8
+385	11	9	4	18
+420	20	10	4	20
+433	15	9	6	20
+420	8	12	10	30
+481	8	13	8	23
+348	6	7	3	31
+395	5	12	3	18

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915088
+datum=11.10.2018
+kurzken=Q 0915088/18
+bez=Rummelsb. Str. - A. d. Wuhlheide (Hochstr. üb. Edisonstr.)  (O'weide, 12459)
+arm1=Rummelsburger Straße,300,0100
+arm2=An der Wuhlheide,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+373	8	0	10	0
+350	11	0	11	0
+369	10	0	13	0
+332	6	0	5	0
+364	16	0	10	0
+374	11	0	8	0
+419	7	0	11	0
+642	14	0	24	0
+748	12	0	24	0
+790	18	0	29	0
+696	11	0	27	0
+627	7	0	24	0
+; 2 -> 1
+958	19	0	27	0
+780	11	0	27	0
+530	17	0	12	0
+382	11	0	12	0
+345	10	0	6	0
+363	11	0	11	1
+381	11	0	9	0
+408	3	0	13	0
+506	3	0	19	0
+486	6	0	19	0
+505	5	0	9	0
+446	2	0	18	0

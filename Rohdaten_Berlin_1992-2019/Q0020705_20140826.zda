@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020705
+datum=26.08.2014
+kurzken=Q 020705/14
+bez=Bornholmer Straße (Bösebrücke)   (Wedding, 10439)
+arm1=Sonderburger Straße ,850,0100
+arm2=Norweger Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Osloer Str.\, in beiden Ri. im Kreuzungsbereich Prinzenallee\, Fahrbahn auf einen Fahrstreifen je Richtung verengt 
+data=
+; 1 -> 2
+786	67	2	18	71
+807	59	4	19	75
+752	62	6	12	62
+848	86	4	20	54
+764	55	2	13	44
+832	71	2	21	42
+888	64	3	23	59
+1014	47	2	32	87
+1031	37	0	29	107
+1116	22	0	40	148
+1059	26	4	34	136
+1028	20	5	26	84
+; 2 -> 1
+929	48	4	27	125
+966	49	3	22	146
+823	47	2	11	62
+728	56	0	26	46
+742	35	1	11	46
+738	50	0	18	53
+766	44	2	33	48
+744	54	1	14	47
+839	32	1	33	68
+858	14	4	20	78
+762	16	2	19	70
+741	27	3	16	89

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025615
+datum=18.3.1992
+kurzken=Q 2561.5/92-F
+bez=Stargarder Straße westlich Duckerstraße     ( Berlin 1058-PrzlBg )
+arm1=Süd,1450,0100
+arm2=Nord,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+29 42 
+22 11 
+31 4 
+25 8 
+20 7 
+20 4 
+31 4 
+38 5 
+27 4 
+25 11 
+46 6 
+28 0 
+; 2 -> 1
+22 19 
+17 4 
+25 53 
+22 11 
+14 4 
+22 6 
+22 36 
+45 46 
+32 26 
+27 14 
+42 2 
+36 5 

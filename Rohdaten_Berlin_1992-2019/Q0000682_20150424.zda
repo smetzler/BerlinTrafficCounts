@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00682
+datum=24.04.2015
+kurzken=Q 00682/15
+bez=A103 - Abzw. Z'dorf - Zu-Abf. Filandastr. (östl. der BAB)  (Schöneberg, 12157)
+arm1=Schildhornstraße,600,0000
+arm2=AS Schloßstraße,1500,0010
+arm3=Filandastraße,2400,0001
+arm4=Feuerbachtunnel,3300,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=\n
+data=
+; 2 -> 3
+306	1	2	0	12
+283	1	0	0	5
+257	1	1	0	6
+; 3 -> 4
+427	7	1	1	18
+419	3	0	1	8
+357	4	0	0	19

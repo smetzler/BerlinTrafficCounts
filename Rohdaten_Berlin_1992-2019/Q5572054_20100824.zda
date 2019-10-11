@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5572054
+datum=24.08.2010
+kurzken=Q 5572054/10
+bez=Lichtenberger Straße (nördl. Holzmarktstraße)   (Mitte, 10179)
+arm1=Holzmarktstraße (W),650,0010
+arm2=An der Michaelbrücke,1450,0000
+arm3=Holzmarktstraße (O),2350,1000
+arm4=Lichtenberger Straße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+13	0
+5	0
+10	0
+15	0
+9	0
+25	0
+14	1
+22	3
+28	1
+44	2
+45	4
+39	2
+; 3 -> 1
+18	3
+26	1
+16	0
+2	0
+10	0
+23	1
+15	3
+21	3
+27	2
+24	0
+26	0
+26	2

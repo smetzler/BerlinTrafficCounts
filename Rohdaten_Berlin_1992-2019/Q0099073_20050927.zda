@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 99073
+datum=27.09.2005
+kurzken=Q 99073/05
+bez=Schwelmer Straße (östl. Ostpreußendamm   (Lichterfelde, 12207)
+arm1=,0,0000
+arm2=Ostpreußendamm,1200,0001
+arm3=Schwelmer Straße,2150,0000
+arm4=Ostpreußendamm,2950,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=7\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	0
+13	4
+16	2
+14	1
+7	1
+6	0
+13	0
+10	0
+8	1
+5	3
+10	0
+11	8
+; 4 -> 2
+6	1
+19	1
+5	1
+11	0
+6	0
+15	1
+7	0
+10	0
+5	0
+3	1
+8	2
+8	0

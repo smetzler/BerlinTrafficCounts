@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912153
+datum=02.07.2008
+kurzken=Q 0912153/08
+bez=Bruchwitzstraße (nördl. Schulstraße)   (Lankwitz, 12247)
+arm1=Langkofelweg,400,0100
+arm2=Schulstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+109	3	4	3	14
+128	8	1	0	15
+103	7	0	3	13
+94	6	2	2	14
+111	5	0	5	7
+126	6	1	3	10
+130	0	5	5	12
+176	5	5	12	9
+174	6	0	18	16
+229	5	0	11	12
+175	6	0	17	18
+155	0	0	16	10
+; 2 -> 1
+147	4	1	8	17
+176	4	3	6	13
+121	11	1	7	7
+114	6	2	2	6
+78	4	2	1	12
+75	1	3	3	8
+84	2	0	6	9
+65	3	1	2	6
+74	2	0	2	8
+78	1	0	4	13
+74	0	0	7	5
+95	1	0	3	16

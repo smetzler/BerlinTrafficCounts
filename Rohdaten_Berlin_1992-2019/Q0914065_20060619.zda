@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914065
+datum=19.06.2006
+kurzken=Q 0914065/06
+bez=Gutschmidtstr. (östl. Wesenberger Ring, Höhe Grünzug)   (Buckow, 12359)
+arm1=Wesenberger Ring,700,0100
+arm2=Fritz-Reuter-Allee,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+406	18	9	15	25
+389	16	16	24	18
+452	16	11	17	20
+458	12	8	22	22
+486	17	10	15	24
+514	14	11	18	32
+531	15	10	25	32
+567	8	10	28	32
+660	10	8	30	40
+655	5	10	35	39
+602	6	10	35	48
+575	2	10	29	26
+; 2 -> 1
+548	23	8	20	21
+570	21	8	17	23
+582	16	10	20	27
+560	22	12	34	38
+523	24	8	24	29
+503	15	9	12	22
+558	14	11	18	28
+504	8	11	17	36
+550	12	10	18	26
+521	5	12	20	32
+509	2	9	29	36
+495	0	9	28	34

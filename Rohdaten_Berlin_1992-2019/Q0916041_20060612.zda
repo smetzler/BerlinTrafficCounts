@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916041
+datum=12.06.2006
+kurzken=Q 0916041/06
+bez=Müggelheimer Damm (südl. Str. zum Müggelhort)   (Köpenick, 12587)
+arm1=Straße zum Müggelhort,400,0100
+arm2=Ludwigshöheweg,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+193	13	7	2	4
+288	14	6	5	8
+416	11	7	5	12
+371	19	7	6	23
+371	8	9	6	25
+383	11	6	17	18
+363	16	6	9	19
+455	12	6	11	31
+490	16	6	14	38
+660	13	7	20	26
+566	3	6	22	28
+477	3	6	19	29
+; 2 -> 1
+694	6	6	16	40
+481	21	6	7	20
+401	9	6	6	13
+428	16	6	2	16
+319	9	6	8	28
+320	11	5	12	15
+271	17	6	10	17
+327	15	7	8	22
+280	12	5	6	18
+333	15	6	12	36
+381	3	7	9	28
+349	4	6	10	16

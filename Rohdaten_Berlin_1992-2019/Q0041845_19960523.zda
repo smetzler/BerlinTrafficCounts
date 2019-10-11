@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41845
+datum=23.05.1996
+kurzken=Q 41845/96
+bez=Hultschiner D.  (Querungen zw. Lutherstr. u. Neud. Str.)    (Mahlsdf., 12623)
+arm1=Neudammer Straße,1600,0000
+arm2=Lutherstraße,3400,0000
+arm3=West,700,0001
+arm4=Ost,2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=15°C\, bedeckt\, 1\,8mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+3 3
+5 2
+2 1
+4 1
+4 2
+6 3
+2 0
+3 1
+2 0
+1 1
+2 0
+1 1
+; 4 -> 3
+0 3
+0 3
+0 0
+0 0
+2 1
+0 0
+1 0
+2 0
+3 16
+2 0
+1 0
+1 0

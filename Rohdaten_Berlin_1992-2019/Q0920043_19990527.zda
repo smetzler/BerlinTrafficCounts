@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920043
+datum=27.05.1999
+kurzken=Q 0920043/99
+bez=Wilhelmsruher Damm (östl. Senftenberger Ring)   (Märk. Viertel, 13435)
+arm1=Senftenberger Ring,1000,0100
+arm2=Treuenbrietzener Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+376	46	36	10
+441	38	30	8
+482	45	22	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+829	32	28	30
+744	37	28	36
+725	25	26	20
+; 2 -> 1
+577	32	36	11
+605	30	25	12
+583	36	25	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+594	40	25	21
+551	25	29	24
+563	15	28	21

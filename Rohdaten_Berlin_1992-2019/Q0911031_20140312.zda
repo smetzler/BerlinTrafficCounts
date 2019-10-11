@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911031
+datum=12.03.2014
+kurzken=Q 0911031/14
+bez=von Wexstraße-West (Prinzregentenstr.) nach Innsbrucker Platz   (Friedenau, 10825)
+arm1=Wexstraße (Prinzregentenstr.),800,0001
+arm2=,0,0000
+arm3=,0,0000
+arm4=Innsbrucker Platz (Hauptstr.),2700,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 4
+137	0	2	3
+219	4	3	2
+201	2	4	8
+146	0	3	4
+190	3	4	4
+144	6	3	2
+109	9	4	9
+193	7	4	8
+216	7	5	9
+348	4	3	9
+350	4	4	8
+140	2	4	2

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 74202
+datum=04.07.1994
+kurzken=Q 74202/94
+bez=Friedenstraße (nördl. Palisadenstraße) (Friedrichshain,10249) 
+arm1=Koppenstraße,450,0100
+arm2=Palisadenstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+331 21 6 4 12
+300 28 6 1 18
+314 32 6 4 12
+329 19 5 4 12
+279 24 7 6 22
+262 21 6 6 14
+312 15 8 4 17
+362 25 7 11 18
+607 15 8 11 35
+904 26 5 23 32
+659 23 7 13 35
+384 8 6 10 36
+; 2 -> 1
+406 16 8 4 43
+335 21 7 4 31
+291 21 7 10 23
+323 16 6 1 23
+346 28 6 2 19
+301 16 5 3 12
+298 18 7 6 18
+310 24 6 5 20
+393 18 6 3 20
+396 13 6 11 31
+277 9 6 0 23
+291 10 6 5 28

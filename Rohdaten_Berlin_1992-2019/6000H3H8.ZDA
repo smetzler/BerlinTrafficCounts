@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 00017
+datum=29.11.1990
+kurzken=Q 17/90
+bez=Oranienburger Chaussee suedlich Hubertusweg    ( Berlin 28 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+7 27 12 9 7 1 0 0 5 0 5 6 8 0 
+6 4 8 0 3 1 0 0 3 1 
+; 2 -> 1
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 

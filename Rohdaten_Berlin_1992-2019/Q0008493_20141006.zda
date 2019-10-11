@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 8493
+datum=06.10.2014
+kurzken=Q 8493/14
+bez=Kleiststraße (östl.  Martin-Luther-Straße - An der Urania)   (Schöneberg, 10787)
+arm1=Kleiststraße (W),700,0000
+arm2=Martin-Luther-Straße,1600,0001
+arm3=Kleiststraße (O),2500,0000
+arm4=An der Urania,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Personalversammlung in der Urania: Beginn 9 Uhr\, Ende gegen 12 Uhr.
+data=
+; 2 -> 4
+8	0
+54	1
+40	0
+35	0
+45	0
+97	1
+45	5
+86	7
+50	2
+48	5
+41	5
+51	1
+; 4 -> 2
+19	12
+26	2
+26	0
+30	2
+77	1
+110	0
+42	0
+40	0
+41	7
+25	0
+31	2
+65	2

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0036
+datum=05.08.2015
+kurzken=Q 0036/15
+bez=A100 - Stadtring (südl. Kaiserdamm)   (Charlottenburg, 14057)
+arm1=Kaiserdamm,3500,0100
+arm2=AS Kaiserdamm-Süd,1700,1000
+arm3=,3500,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Kaiserdammbrücke (oder Dresselsteg-S-Bhf.). Spuraufteilung vor Ort festlegen!\nA100 in beiden Ri. zw. AD Funkturm u. AS Kurfürstend. von 3 auf 2 Fahrstreifen reduziert. \nAS Halenseestr. u. Ausf. Messedamm Ri. Nord gesperrt.\n
+data=
+; 1 -> 2
+3804	104	118	6	105
+3872	56	109	9	131
+3564	58	76	7	101
+; 2 -> 1
+2467	68	113	5	81
+2758	67	85	6	77
+2670	27	59	6	52

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6114
+datum=06.11.2007
+kurzken=Q 6114/07
+bez=FGÜ Schillerstraße  (östl. Wilmersdorfer Straße)   (Charlottenburg, 10627)
+arm1=Wilmersdorfer Str. (N),100,0010
+arm2=Schillerstraße (W),950,0000
+arm3=Wilmersdorfer Str. (S),1900,1000
+arm4=Schillerstraße (O),2850,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=2 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+115	39
+191	29
+318	46
+429	66
+499	35
+573	38
+577	19
+557	41
+568	43
+641	69
+589	65
+402	26
+; 3 -> 1
+41	15
+125	19
+226	15
+340	34
+531	36
+510	21
+658	36
+663	40
+642	39
+723	74
+622	62
+536	36

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 190901
+datum=09.09.2002
+kurzken=Q 190901/02
+bez=Buschgrabenweg (westl. Machnower Straße)  (Zehlendorf, 14165)
+arm1=Buschgrabenweg,700,0000
+arm2=Süd,1650,0001
+arm3=Gutzmannstraße,2550,0000
+arm4=Nord,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 27°C; Sonne: 11 Std; Niederschlag: 0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	2
+0	0
+0	0
+1	0
+1	0
+0	0
+0	3
+3	0
+3	0
+1	2
+1	3
+1	0
+; 4 -> 2
+1	5
+2	0
+2	0
+3	0
+1	0
+2	0
+1	3
+3	1
+1	1
+7	3
+3	0
+3	0

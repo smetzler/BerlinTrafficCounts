@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4181
+datum=12.10.1995
+kurzken=Q 4181/95
+bez=Hauptstraße (Höhe Ausgang S.-Bhf. Ostkreuz)    (Friedrichshain, 10245) 
+arm1=Markgrafendamm,800,0100
+arm2=Kynaststraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+578 84 5 15 7
+546 79 8 7 3
+525 63 5 4 3
+517 94 4 7 2
+539 98 3 10 5
+578 96 5 8 3
+560 77 4 16 11
+677 104 4 11 6
+794 72 6 8 13
+845 49 5 25 18
+796 40 6 18 9
+860 28 8 5 14
+; 2 -> 1
+700 82 6 10 11
+847 104 7 13 20
+808 122 5 12 14
+665 121 3 17 4
+710 125 3 9 9
+659 105 3 7 6
+785 123 4 19 7
+800 79 6 17 9
+970 77 8 22 12
+865 48 6 6 6
+635 41 6 14 9
+682 27 5 10 12

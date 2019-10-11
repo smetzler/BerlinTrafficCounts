@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5543013
+datum=29.08.2018
+kurzken=Q 5543013/18
+bez=Wilhelmstraße (südl. Unter den Linden)   (Mitte, 10117)
+arm1=Wilhelmstraße (N),100,0000
+arm2=Unter den Linden (Pariser Pl.),1000,0001
+arm3=Wilhelmstraße (S),2000,0000
+arm4=Unter den Linden,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+56	0
+66	0
+198	8
+290	46
+478	13
+479	18
+577	38
+582	41
+613	26
+594	20
+476	33
+398	32
+; 4 -> 2
+15	1
+46	13
+260	3
+488	12
+487	26
+440	19
+636	26
+545	21
+552	37
+482	14
+465	27
+328	18

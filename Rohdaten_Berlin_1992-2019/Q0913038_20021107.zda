@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0913038
+datum=07.11.2002
+kurzken=Q 0913038/02
+bez=Friedenstraße (östl. Fritz-Werner-Straße)   (Mariendorf, 12107)
+arm1=Fritz-Werner-Straße,1000,0100
+arm2=Mariendorfer Damm,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+95	3	17	3	0
+61	4	4	0	0
+46	5	3	0	1
+18	4	2	1	0
+78	26	15	0	5
+270	33	28	7	3
+662	44	43	14	11
+894	71	40	5	17
+935	78	40	9	12
+916	100	31	12	8
+844	106	32	4	10
+891	96	33	7	5
+1022	75	34	2	18
+1059	74	38	5	20
+1106	58	44	10	6
+1333	48	46	20	11
+1382	25	42	15	17
+1235	24	39	13	7
+1175	20	40	10	9
+892	10	31	4	10
+698	7	23	7	3
+498	6	26	8	2
+432	5	20	6	4
+256	1	16	2	2

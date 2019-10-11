@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5575011
+datum=04.04.2006
+kurzken=Q 5575011/06
+bez=Mollstraße-Nordfahrbahnen (westl. Otto-Braun-Straße)   (Mitte, 10178)
+arm1=Mollstraße (W),600,0000
+arm2=Otto-Braun-Straße (S),1450,0001
+arm3=Mollstraße (O),2350,0000
+arm4=Otto-Braun-Straße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Nordseite bis Mittelstreifen!\nWetter: max T=8°C; Sonne=3 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+24	14
+25	4
+20	0
+36	5
+39	1
+42	2
+44	1
+37	1
+76	7
+77	0
+71	2
+78	1
+; 4 -> 2
+55	8
+76	14
+77	7
+63	7
+56	3
+56	3
+55	4
+35	4
+79	7
+60	3
+41	1
+48	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0903103
+datum=18.06.2018
+kurzken=Q 0903103/18
+bez=Schulzendorfer Straße (Mittelinsel; östl. Panke)   (Wedding, 13347)
+arm1=Kunkelstraße,1000,0000
+arm2=Neue Hochstraße,2800,0000
+arm3=Süden,1800,0001
+arm4=Norden,0,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\nFußg.\, die die Schulzendorfer Straße im Bereich der Mittelinsel östlich der Panke auf ca. 50m überqueren.\nAuf Grund der hohen Anzahl wurden ab 8:00 Uhr noch zusätzlich Radfahrer mit erhobe
+data=
+; 3 -> 4
+13	2	0
+12	0	13
+22	1	15
+26	62	12
+18	4	9
+23	4	10
+37	2	8
+24	4	15
+24	7	27
+34	16	42
+38	6	51
+40	3	37
+; 4 -> 3
+38	6	0
+58	1	103
+46	1	55
+38	1	24
+27	39	17
+17	2	17
+27	2	6
+15	0	21
+23	1	8
+14	1	6
+17	2	12
+35	1	19

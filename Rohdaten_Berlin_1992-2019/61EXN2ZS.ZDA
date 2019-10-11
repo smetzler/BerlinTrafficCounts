@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 66011
+datum=09.05.1989
+kurzken=Q 66011/89
+bez=Ein- und Ausfahrt Verbrauchermarkt    ( Berlin 20 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Pkw,,,,,,
+zeit=0600,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+2 4 3 5 39 35 31 34 36 41 51 49 14 
+; 2 -> 1
+2 2 1 17 64 70 51 63 60 59 71 102 58 

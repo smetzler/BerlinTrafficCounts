@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905058
+datum=11.04.2011
+kurzken=Q 0905058/11
+bez=Simon-Dach-Straße (südl. Boxhagener Straße)   (Friedrichshain, 10245)
+arm1=Grünberger Straße,1750,0000
+arm2=Boxhagener Straße,3550,0000
+arm3=((Westen)),850,0001
+arm4=((Osten)),2650,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=7\,5 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+7	1
+5	2
+7	1
+10	2
+3	0
+18	6
+56	3
+33	1
+25	5
+30	2
+43	6
+18	1
+; 4 -> 3
+4	0
+16	2
+18	0
+12	0
+11	0
+20	4
+43	2
+24	0
+23	3
+14	0
+19	2
+17	1

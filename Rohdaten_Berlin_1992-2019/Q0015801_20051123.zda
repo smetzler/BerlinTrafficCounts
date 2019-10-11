@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 15801
+datum=23.11.2005
+kurzken=Q 15801/05
+bez=Argentinische Allee (westl. Clayallee)   (Zehlendorf, 14169)
+arm1=Argentinische Allee,850,0000
+arm2=Clayallee,1600,0001
+arm3=Saargemünder Straße,2650,0000
+arm4=Clayallee,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+36	82
+28	25
+28	19
+15	2
+20	19
+26	18
+23	6
+30	3
+45	9
+30	8
+30	6
+27	0
+; 4 -> 2
+20	21
+28	16
+27	4
+37	2
+33	17
+30	15
+48	11
+41	20
+45	28
+45	27
+49	10
+36	4

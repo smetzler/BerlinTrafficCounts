@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910055
+datum=07.06.2006
+kurzken=Q 0910055/06
+bez=Lindenthaler Allee (südl. Clauertstraße)   (Zehlendorf, 14163)
+arm1=Lissabonallee,1700,0100
+arm2=Clauertstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+571	7	11	22	64
+601	4	11	6	44
+385	4	8	14	32
+258	16	6	2	32
+268	8	6	7	25
+197	9	7	8	17
+283	6	10	7	31
+276	7	9	6	21
+384	6	16	8	28
+303	10	8	9	26
+310	8	10	6	43
+357	6	6	10	37
+; 2 -> 1
+208	9	11	4	56
+215	9	8	2	7
+212	8	6	4	19
+220	10	6	4	16
+260	4	6	5	13
+281	12	6	4	21
+316	7	7	6	24
+326	6	7	11	27
+452	12	10	12	32
+352	18	9	10	26
+424	10	9	14	39
+426	6	8	12	31

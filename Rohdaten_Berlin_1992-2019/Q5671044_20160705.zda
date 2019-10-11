@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5671044
+datum=05.07.2016
+kurzken=Q 5671044/16
+bez=Stahlheimer Straße (nördl. Wichertstraße)    (Prenzlauer Berg, 10439 )
+arm1=Wichertstraße (W),660,0010
+arm2=Stahlheimer Straße (S),1430,0000
+arm3=Wichertstraße (O),2350,1000
+arm4=Stahlheimer Straße (N),3260,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+13	10
+21	15
+26	33
+19	3
+28	3
+33	0
+27	2
+21	15
+65	14
+49	20
+67	23
+55	15
+; 3 -> 1
+23	11
+49	27
+41	9
+39	0
+16	1
+16	4
+33	5
+26	7
+42	12
+48	10
+50	12
+46	14

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0906020
+datum=11.04.2005
+kurzken=Q 0906020/05
+bez=Mehringdamm (nördl. Dudenstraße)  (Kreuzberg, 10966)
+arm1=Dudenstraße,1800,0100
+arm2=Schwiebusser Straße,0,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1822	66	3	53	71
+1893	59	2	39	112
+1850	107	5	34	99
+1367	66	1	23	36
+1451	58	4	20	59
+1264	60	3	34	58
+; 2 -> 1
+1520	81	3	56	48
+1358	84	4	34	39
+1228	76	4	34	37
+1137	96	11	27	30
+1117	68	3	30	36
+1140	63	4	40	34

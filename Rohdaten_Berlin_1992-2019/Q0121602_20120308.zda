@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 121602
+datum=08.03.2012
+kurzken=Q 121602/12
+bez=Köpenicker Straße (Altglienicker Brücke)   (Treptow, 12489)
+arm1=Altglienicke,1600,0100
+arm2=Ernst-Ruska-Ufer,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle Glienicker Weg: in beiden Ri. auf 1 Fahrstreifen verengt
+data=
+; 1 -> 2
+481	8	10	0	27
+390	13	8	2	12
+347	6	8	2	8
+292	6	9	0	13
+230	4	8	2	8
+232	4	8	3	11
+299	11	7	2	12
+259	7	9	3	10
+299	1	9	5	13
+318	0	8	0	26
+244	4	14	2	20
+261	6	8	3	10
+; 2 -> 1
+144	2	8	0	6
+157	9	9	0	5
+197	3	8	0	8
+260	7	9	1	4
+232	6	8	1	10
+254	6	9	1	5
+271	6	8	7	8
+358	6	10	1	12
+368	2	9	3	25
+470	4	8	4	24
+400	2	10	8	21
+389	4	8	1	22

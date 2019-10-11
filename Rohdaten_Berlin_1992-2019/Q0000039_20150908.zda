@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0039
+datum=08.09.2015
+kurzken=Q 0039/15
+bez=A100 -Stadtring (Höhe Paulsborner Brücke)   (Wilmersdorf, 10709)
+arm1=AS Schwarzbacher Straße ,400,0100
+arm2=AS Hohenzollerndamm,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!! ZÄHLZEIT 7-9  und  15-18 Uhr !!!!!\nSPURAUFTEILUNG vor Ort festlegen!\n
+data=
+; 1 -> 2
+5174	228	54	8	107
+4997	245	46	16	67
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+5085	219	29	9	167
+5051	122	28	8	146
+4907	120	16	14	124
+; 2 -> 1
+4679	178	110	13	108
+5079	148	147	9	74
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+2122	29	46	4	53
+2047	44	67	0	61
+4500	52	92	17	97

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 11961
+datum=30.03.2006
+kurzken=Q 11961/06
+bez=Hasenheide (westl. Hermannplatz)   (Neukölln, 10967)
+arm1=Hasenheide,720,0000
+arm2=Hermannstraße,1800,0001
+arm3=Karl-Marx-Straße,2330,0000
+arm4=Hermannplatz,3330,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+35	17
+80	5
+150	36
+169	7
+157	10
+166	19
+196	0
+137	10
+163	11
+203	11
+173	10
+119	3
+; 4 -> 2
+40	7
+68	5
+150	16
+188	9
+151	8
+152	33
+232	11
+171	8
+178	14
+206	19
+193	18
+208	13

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907049
+datum=06.04.2005
+kurzken=Q 0907049/05
+bez=Neue Kantstraße (westl. Lietzenseeufer)   (Charlottenburg, 14057)
+arm1=Herbartstraße,900,0100
+arm2=Lietzenseeufer,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+832	22	16	21	27
+1210	29	14	28	28
+1098	24	14	20	22
+896	33	14	15	19
+833	26	12	18	21
+795	25	14	25	28
+; 2 -> 1
+728	21	25	9	32
+899	31	19	8	32
+948	25	16	21	35
+813	22	15	21	29
+836	17	17	23	30
+743	25	17	14	30

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10875
+datum=18.05.1988
+kurzken=Q 10875/88
+bez=Kreuzbergstrasse westlich Moeckernstrasse    ( Berlin 61 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+4 5 7 13 6 11 6 8 6 7 12 14 
+; 2 -> 1
+1 0 2 8 5 19 5 14 9 6 21 9 

@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 02397
+datum=09.04.1986
+kurzken=Q 2397/86
+bez=Antwerpener Strasse  suedl. Seestrasse   ( Berlin 65 )
+Arm1=West  ( 3a ),900,0100
+Arm2=Ost  ( 3b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw>65,Erw<65,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 87 30 0 29 8 3 25 3 12 36 2 8 32 0 
+15 44 3 12 40 6 14 30 5 9 53 4 8 80 4 
+4 55 7 4 54 12 
+; 2 -> 1
+1 43 2 0 26 3 9 30 3 22 34 3 8 52 1 
+3 45 0 13 65 43 6 45 24 5 72 7 9 60 3 
+5 57 14 3 23 1 

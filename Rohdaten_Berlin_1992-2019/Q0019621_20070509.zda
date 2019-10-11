@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 19621
+datum=09.05.2007
+kurzken=Q 19621/07
+bez=Mariendorfer Damm (nördl. Buckower Chaussee)   (Lichtenrade, 12305)
+arm1=Mariendorfer Damm,200,0000
+arm2=Buckower Chaussee,1100,0001
+arm3=Lichtenrader Damm,2000,0000
+arm4=Marienfelder Chaussee,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=7 Std; Niederschlag=8 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+36	14
+45	11
+42	3
+38	1
+25	1
+35	1
+22	3
+30	2
+32	10
+32	3
+16	0
+27	3
+; 4 -> 2
+20	0
+38	1
+27	1
+29	2
+31	1
+32	2
+41	22
+35	24
+35	9
+31	7
+16	2
+23	6

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 72481
+datum=14.04.2016
+kurzken=Q 72481/16
+bez=Friedrich-Karl-Straße (westl. Ottokarstraße)    (Tempelhof, 12103)
+arm1=Friedrich-Karl-Straße (W),860,0000
+arm2=Ottokarstraße,1690,0001
+arm3=Friedrich-Karl-Straße (O),2630,0000
+arm4=Friedrich-Franz-Straße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+6	2
+9	2
+16	2
+6	0
+3	0
+7	0
+13	1
+8	1
+12	5
+11	2
+9	1
+19	2
+; 4 -> 2
+8	3
+9	0
+5	0
+7	0
+11	0
+8	0
+12	0
+12	1
+10	2
+11	1
+8	0
+196	2

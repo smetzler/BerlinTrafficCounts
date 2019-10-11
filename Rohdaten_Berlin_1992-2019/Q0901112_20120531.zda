@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901112
+datum=31.05.2012
+kurzken=Q 0901111/12
+bez=Markgrafenstraße (Höhe Taubenstraße)   (Mitte, 10117)
+arm1=Jägerstraße,100,0000
+arm2=Mohrenstraße,1900,0000
+arm3=((Westen)),1000,0001
+arm4=((Osten)),2800,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Markgrafenstraße zwischen der Mohrenstr. und ca. 50m nördl. der Taubenstr. (mittig zw. Jäger- u. Taubenstr.)  queren.\nWetter: max T=25°C; Sonne=13 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+15	0
+19	0
+18	2
+46	1
+49	3
+226	16
+301	7
+223	3
+206	4
+191	4
+183	4
+110	5
+; 4 -> 3
+18	31
+12	0
+18	0
+51	1
+101	4
+217	11
+312	6
+178	6
+194	7
+163	3
+206	11
+122	4

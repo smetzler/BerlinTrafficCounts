@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5851
+datum=05.10.2009
+kurzken=Q 5851/09
+bez=Königin-Elisabeth-Straße (nördl.  Kaiserdamm)   (Charlottenburg, 14059)
+arm1=Königin-Elisabeth-Str.,60,0000
+arm2=Kaiserdamm,960,0001
+arm3=Messedamm,1660,0000
+arm4=Kaiserdamm,2760,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=7 Std; Niederschlag=0\,2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+64	0
+69	0
+121	1
+130	1
+149	1
+115	0
+139	4
+99	2
+93	10
+125	40
+106	3
+84	1
+; 4 -> 2
+43	5
+75	0
+83	0
+91	0
+129	0
+120	0
+87	0
+91	3
+131	7
+113	38
+113	11
+68	2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919144
+datum=30.11.2009
+kurzken=Q 0919144/09
+bez=Grabbeallee (südl. Pastor-Niemöller-Platz)   (Niederschönhausen, 13156)
+arm1=Pastor-Niemöller-Platz),0,0100
+arm2=Tschaikowskistraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Einfluss durch Baustellen in der Pasewalker und Blankenburger Str.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+896	24	7	10	65
+763	26	11	8	43
+646	30	5	5	32
+760	17	4	7	26
+706	32	3	5	25
+689	17	4	5	14
+576	12	4	6	26
+365	12	8	3	34
+741	12	8	7	34
+640	11	7	12	33
+676	9	10	3	28
+504	6	4	4	35
+; 2 -> 1
+465	20	9	2	31
+491	31	6	3	16
+497	14	5	6	14
+518	31	5	4	8
+605	25	5	7	15
+631	16	4	3	16
+622	14	6	6	25
+715	21	8	7	34
+921	25	8	13	41
+938	14	8	13	27
+846	12	11	6	38
+829	10	8	8	48

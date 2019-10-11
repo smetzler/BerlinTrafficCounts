@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28732
+datum=03.09.2009
+kurzken=Q 28732/09
+bez=Weichselstraße (südl. Frankfurter Allee)   (Friedrichshain, 10247)
+arm1=Frankfurter Allee (W),800,0010
+arm2=Weichselstraße ,1650,0000
+arm3=Frankfurter Allee (O),2600,1000
+arm4=Waldeyerstraße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=3 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+30	26
+38	3
+91	1
+90	4
+95	3
+87	2
+110	12
+115	17
+143	21
+149	26
+166	11
+130	11
+; 3 -> 1
+30	7
+35	1
+43	6
+85	2
+94	4
+89	5
+103	10
+85	8
+121	9
+145	21
+162	10
+133	11

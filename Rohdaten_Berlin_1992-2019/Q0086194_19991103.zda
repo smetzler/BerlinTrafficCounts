@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 86194
+datum=03.11.1999
+kurzken=Q 86194/99
+bez=Ostpreußendamm (nördl. Boothstraße)   (Lichterfelde, 12207)
+arm1=Westen,600,0010
+arm2=Ostpreußendamm,1500,0000
+arm3=Boothstraße,2390,1000
+arm4=Ostpreußendamm,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonnenstd.=7; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+2	2
+1	0
+2	0
+1	1
+0	0
+1	2
+3	5
+0	1
+1	0
+1	0
+0	0
+4	0
+; 3 -> 1
+0	0
+0	0
+1	0
+2	0
+0	0
+1	2
+2	3
+1	0
+0	0
+0	0
+3	3
+3	0

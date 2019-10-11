@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 030509
+datum=14.05.2001
+kurzken=Q 030509/01
+bez=BAB Stadtring (A100) (Höhe Druckenmüller-Brücke) (Schöneberg, 12103)
+arm1=Abfahrt Alboinstraße,550,0100
+arm2=A.-Druckenmüller-Brücke,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Ohne Abfahrt Alboinstraße!! Standort: Fr.-Haak-Brücke\nStadtatlas Seite 92\, Planquadrat R17
+data=
+; 1 -> 2
+4486	434	356	5
+4861	402	292	12
+4367	346	277	13
+3713	251	325	18
+3037	305	341	10
+2858	276	351	10
+3060	189	245	3
+3301	213	222	5
+3533	213	174	6
+3871	216	123	2
+3943	192	99	8
+3679	133	67	3
+; 2 -> 1
+3160	245	241	3
+4175	264	285	10
+3922	303	317	17
+3373	242	310	16
+2903	274	351	8
+2754	276	377	9
+2992	284	330	10
+3309	337	343	15
+3718	326	273	5
+4655	380	213	7
+4859	387	175	9
+4543	236	122	8

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42773
+datum=11.06.2003
+kurzken=Q 42773/03
+bez=Torweg (östl. Finkenkruger Weg)   (Spandau, 13591)
+arm1=Torweg,830,0000
+arm2=Finkenkruger Weg,1740,0001
+arm3=Torweg,2720,0000
+arm4=Finkenkruger Weg,3540,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=27°C; Sonne=9\,5 Std; Niederschlag=0\,3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	1
+1	0
+3	1
+2	0
+1	0
+1	4
+1	1
+0	1
+0	0
+12	1
+6	0
+5	1
+; 4 -> 2
+4	1
+10	6
+10	1
+0	0
+1	7
+0	2
+2	27
+0	0
+0	0
+3	1
+9	4
+7	0

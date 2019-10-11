@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 00322
+datum=19.04.2015
+kurzken=Q 00322/15
+bez=J.-Kaiser-Pl./Goerdeler D. - Zuf. A100 (Ri. Wilmersdorf)   (Ch'burg, 13627)
+arm1=J.-Kaiser-Platz (Goerdeler Damm),900,0100
+arm2=A100 (Ri. Wilmersdorf),1900,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Jakob-Kaiser-Platz\nStadtatlas Seite 71\, Planquadrat 8b-9a
+data=
+; 1 -> 2
+68	2	0	0	0
+63	4	0	1	0
+46	0	0	1	0

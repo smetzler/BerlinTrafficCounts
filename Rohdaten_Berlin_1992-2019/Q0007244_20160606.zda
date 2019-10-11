@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7244
+datum=06.06.2016
+kurzken=Q 7244/16
+bez=Lützowufer (östl. Schillstraße-Lützowplatz)   (Tiergarten, 10785)
+arm1=Herkulesbrücke,50,0010
+arm2=Lützowufer (W),650,0000
+arm3=Schillstr. (Lützowplatz),1550,1000
+arm4=Lützowufer (O),2900,0000
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch RADFAHRER gezählt\, Radfahrer auf den Hauptfahrbahnen wurden bei der Knotenpunktzählung K724 mit erfasst.
+data=
+; 1 -> 3
+14	7	22
+9	1	13
+29	1	20
+21	0	17
+92	1	13
+151	0	23
+103	1	35
+75	3	37
+68	0	47
+107	0	40
+112	2	49
+104	1	60
+; 3 -> 1
+53	7	212
+145	0	532
+110	0	300
+121	1	172
+84	2	126
+89	0	142
+158	0	132
+68	5	118
+67	10	189
+45	9	218
+62	2	197
+40	0	198

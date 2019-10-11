@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6481015
+datum=17.05.1994
+kurzken=Q 6481015/94
+bez=Wilhelminenhofstraße / westl. Laufener Straße
+arm1=Wilhelminenhofstraße,700,0000
+arm2=Laufener Straße,1650,0001
+arm3=Wilhelminenhofstraße,2400,0000
+arm4=Firlstraße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  meist heiter
+data=
+; 2 -> 4
+0 0
+1 1
+4 0
+6 0
+4 0
+1 0
+5 0
+6 0
+6 0
+6 1
+7 3
+3 0
+; 4 -> 2
+3 0
+0 0
+0 0
+0 0
+5 2
+3 1
+9 0
+8 1
+10 4
+6 0
+5 2
+3 2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2411
+datum=08.09.2014
+kurzken=Q 2411/14
+bez=Müllerstraße (nördl. Seestraße)   (Wedding, 13347)
+arm1=Müllerstraße (N),450,0000
+arm2=Seestraße (W),1300,0001
+arm3=Müllerstraße (S),2250,0000
+arm4=Seestraße (O),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+26	3
+24	0
+42	2
+51	0
+55	1
+64	3
+55	1
+25	1
+38	2
+57	7
+53	8
+55	0
+; 4 -> 2
+26	2
+43	3
+57	1
+61	0
+62	1
+82	2
+105	2
+62	3
+35	1
+127	5
+114	6
+114	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923903
+datum=10.04.2019
+kurzken=Q 0923903/18
+bez=Altentreptower Straße (östl. FGÜ S+U-Bhf. Wuhletal) (Kaulsdorf, 12619) 
+arm1=FGÜ S+U-Bhf. Wuhletal,900,0100
+arm2=P+R-Zufahrt,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+23
+10
+21
+9
+7
+10
+12
+16
+23
+24
+13
+6
+; 2 -> 1
+49
+22
+13
+9
+14
+8
+17
+13
+16
+18
+7
+6

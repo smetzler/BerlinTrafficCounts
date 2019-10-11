@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0915034
+datum=29.08.2006
+kurzken=Q 0915034/06
+bez=Schnellerstraße (nördl. Brückenstraße)   (Niederschöneweide, 12459)
+arm1=Karlshorster Straße,400,0100
+arm2=Brückenstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 1\,5 Std Sonne; 2 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1668	138	10	24	32
+1726	127	9	21	28
+1580	124	5	19	28
+1472	151	3	19	24
+1523	165	4	19	19
+1560	122	3	8	20
+1873	141	8	14	19
+1941	143	4	28	35
+2501	116	6	43	51
+2476	98	7	40	47
+2332	65	5	23	37
+2272	51	9	22	31
+; 2 -> 1
+1813	87	4	24	35
+1689	97	5	19	44
+1343	73	9	21	45
+1341	91	8	10	22
+1219	74	6	12	9
+1093	74	7	12	18
+1104	52	3	9	20
+1186	65	6	16	14
+1168	40	2	17	42
+1071	30	3	19	31
+1203	31	8	16	18
+1161	20	6	16	18

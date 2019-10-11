@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908070
+datum=20.09.2006
+kurzken=Q 0908070/06
+bez=Königszelter Straße (südl. Dresdener Straße)   (Falkensee, 14612)
+arm1=Stadtgrenze,1700,0100
+arm2=Dresdener Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+2
+4
+5
+1
+10
+2
+7
+14
+11
+16
+10
+9
+; 2 -> 1
+8
+4
+3
+7
+4
+4
+7
+8
+13
+8
+12
+7

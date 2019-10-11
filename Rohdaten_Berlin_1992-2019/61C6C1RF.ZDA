@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 62436
+datum=12.07.1985
+kurzken=Q 62436/85
+bez=Berliner Strasse suedl. Almutstrasse    ( Berlin 28 )
+Arm1=West  ( 2a ),900,0100
+Arm2=Ost  ( 2b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Kfz-, Radfahrer- und Fussgaenger-Zaehlung ;\n( siehe auch K 6243/85 , Q 6243.7/85 und Q 6243.8/85 )
+data=
+; 1 -> 2
+0 0 1 0 1 0 1 0 3 0 2 0 0 0 
+0 0 1 1 0 0 2 0 1 0 
+; 2 -> 1
+0 0 0 0 2 0 2 0 3 0 4 2 0 0 
+0 0 7 0 0 0 0 0 1 0 

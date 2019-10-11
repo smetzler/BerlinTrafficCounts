@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00973
+datum=16.02.1988
+kurzken=Q 973/88
+bez=Oranienburger Strasse suedl. Am Nordgraben    ( Berlin 26 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Riegel Reinickendorf
+data=
+; 1 -> 2
+1204 925 774 718 810 792 816 751 928 887 845 778 
+; 2 -> 1
+573 597 623 627 642 611 693 738 1059 1066 1041 783 

@@ -1,0 +1,38 @@
+[ZA1001]
+knoten=K 0110
+datum=10.02.1988
+kurzken=K 110/88
+bez=Karolinenstrasse / An der Muehle - Waidmannsluster Damm    ( Berlin 27 )
+Arm1=Karolinenstrasse,400,0111
+Arm2=An der Muehle,900,1011
+Arm3=Karolinenstrasse,2100,1101
+Arm4=Waidmannsluster Damm,2900,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenarm 4: Zufahrt von 15.oo bis 16.30 Uhr wegen polizeilicher Massnahme\n             nur einspurig befahrbar !
+data=
+; 1 -> 2
+6 10 3 5 7 6 4 13 4 7 4 6 
+; 1 -> 3
+757 439 336 330 301 295 332 348 333 318 301 221 
+; 1 -> 4
+671 573 362 309 272 292 295 347 350 298 319 310 
+; 2 -> 1
+3 4 6 3 9 3 2 3 5 12 5 6 
+; 2 -> 3
+43 40 25 26 33 21 31 36 30 31 32 25 
+; 2 -> 4
+60 60 27 29 35 18 33 25 46 32 37 33 
+; 3 -> 1
+227 191 219 275 295 382 367 345 489 569 534 443 
+; 3 -> 2
+22 16 25 33 24 37 31 29 39 45 21 35 
+; 3 -> 4
+190 178 175 205 261 256 254 276 365 424 418 315 
+; 4 -> 1
+238 247 222 285 287 381 416 347 393 495 468 491 
+; 4 -> 2
+22 28 30 29 30 40 28 22 53 62 45 55 
+; 4 -> 3
+588 407 291 221 230 266 256 246 258 261 246 248 

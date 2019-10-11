@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0909097
+datum=02.07.2009
+kurzken=K 0909097/09
+bez=AK Wilmersdorf - von A100-Ost nach A104-Nord  (Wilmersdorf, 10707)
+arm1=A100 Stadtring (AS Hohenzollernd.),400,0000
+arm2=A104 (AS Mecklenburg. Str.),1800,0000
+arm3=A100 Stadtring (AS Detmolder Str.),2350,0001
+arm4=A104 (AS Konstanzer Str.),3500,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+687	11	4	6
+683	6	0	4
+639	15	4	13
+569	12	0	8
+483	15	2	10
+649	10	0	10
+252	6	2	4
+317	10	0	6
+270	3	0	7
+223	6	1	2
+354	3	1	9
+414	3	3	10

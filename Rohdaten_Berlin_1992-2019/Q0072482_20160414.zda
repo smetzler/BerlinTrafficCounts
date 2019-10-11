@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 72482
+datum=14.04.2016
+kurzken=Q 72482/16
+bez=Ottokarstraße (südl. Friedrich-Karl-Straße)    (Tempelhof, 12103)
+arm1=Friedrich-Karl-Straße (W),860,0010
+arm2=Ottokarstraße,1690,0000
+arm3=Friedrich-Karl-Straße (O),2630,1000
+arm4=Friedrich-Franz-Straße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+26	2
+38	1
+36	0
+32	2
+40	0
+43	1
+41	0
+39	4
+36	9
+35	6
+24	3
+31	1
+; 3 -> 1
+8	2
+9	1
+13	0
+27	0
+33	1
+42	0
+24	1
+29	4
+41	8
+27	7
+26	3
+28	2

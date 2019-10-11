@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912122
+datum=23.04.2007
+kurzken=Q 0912122/07
+bez=Drakestraße (südl. Margaretenstraße)   (Lichterfelde, 12203)
+arm1=Margaretenstraße,300,0100
+arm2=Knesebeckstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Unfall: Drakestr. in beiden Richtungen zw. 9:00 und 9:25 gesperrt!\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+554	15	13	16	45
+633	24	12	3	39
+423	16	12	8	24
+572	20	16	12	60
+642	23	12	16	42
+575	17	11	18	43
+617	8	9	17	47
+686	16	10	21	57
+1008	6	12	44	68
+966	6	14	32	74
+828	3	13	18	76
+926	2	11	28	105
+; 2 -> 1
+869	10	15	27	72
+843	22	13	22	90
+528	13	11	4	41
+686	22	10	10	52
+658	11	12	20	52
+619	9	13	12	53
+625	6	12	20	46
+598	14	10	12	44
+592	4	11	14	22
+746	4	14	20	50
+781	3	13	22	81
+646	3	13	20	74

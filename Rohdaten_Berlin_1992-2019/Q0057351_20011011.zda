@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 57351
+datum=11.10.2001
+kurzken=Q 57351/01
+bez=Mühlenstraße (westl. Jänickestraße)   (Zehlendorf, 14167)
+arm1=Mühlenstraße (West),950,0000
+arm2=Süd,1650,0001
+arm3=Mühlenstraße (Ost),2900,0000
+arm4=Nord,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 15°C; Sonne: 0 Std; Niederschlag: 4 mm;\n - büro für   
+data=
+; 2 -> 4
+1 0
+4 0
+0 0
+4 0
+5 0
+3 0
+1 1
+1 0
+0 0
+1 0
+0 0
+1 0
+; 4 -> 2
+0 2
+3 1
+2 0
+2 0
+1 0
+1 0
+0 0
+0 0
+2 0
+3 0
+3 0
+3 0

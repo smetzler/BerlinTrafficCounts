@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29771
+datum=12.03.2015
+kurzken=Q 29771/15
+bez=Reichpietschufer (westl. Hiroshimastraße)   (Tiergarten, 10785)
+arm1=Reichpietschufer (W),850,0000
+arm2=Hiroshimasteg,1670,0001
+arm3=Reichpietschufer (O),2560,0000
+arm4=Hiroshimastraße   ,3470,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die das Reichpietschufer westl. der Hiroshimastr. queren (bis ca. 50m westl.)
+data=
+; 2 -> 4
+15	2
+45	3
+24	2
+23	0
+8	0
+8	0
+35	0
+16	0
+3	0
+10	0
+6	0
+20	0
+; 4 -> 2
+10	1
+8	0
+10	0
+10	0
+2	0
+13	0
+16	1
+33	2
+20	3
+38	1
+22	0
+14	0

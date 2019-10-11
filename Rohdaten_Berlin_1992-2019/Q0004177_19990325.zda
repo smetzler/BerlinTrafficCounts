@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4177
+datum=25.03.1999
+kurzken=Q 4177/99
+bez=Lehrter Straße (südl. Kruppstraße) (Tiergarten, 10557)
+arm1=Lehrter Straße,250,0000
+arm2=Kruppstraße,1150,0001
+arm3=Lehrter Straße,2050,0000
+arm4=Osten,2950,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C\, bewölkt\, 0\,1mm Niederschlag.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	0
+0	0
+1	0
+2	0
+1	0
+3	3
+14	45
+7	0
+10	3
+7	6
+8	1
+3	1
+; 4 -> 2
+17	3
+2	0
+4	0
+3	0
+2	0
+3	0
+4	3
+14	7
+9	2
+10	9
+7	3
+5	7

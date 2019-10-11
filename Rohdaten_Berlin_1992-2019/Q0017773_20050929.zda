@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 17773
+datum=29.09.2005
+kurzken=Q 17773/05
+bez=Clauertstraße (östl. Lindenthaler Allee)  (Zehlendorf, 14163)
+arm1=,0,0000
+arm2=Lindenthaler Allee,1750,0001
+arm3=Clauertstraße,2400,0000
+arm4=Lindenthaler Allee,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=1 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	2
+0	0
+1	1
+0	0
+0	1
+0	0
+; 4 -> 2
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	1
+0	0
+0	0
+0	0
+0	1
+0	0

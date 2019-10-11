@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5546625
+datum=22.04.2004
+kurzken=Q 5546625/04
+bez=Chausseestr. (nördl. Invalidenstraße, Nordostseite bis U-Bahn) (Mitte, 10115)
+arm1=Chausseestraße,400,0000
+arm2=Invalidenstraße,1200,0001
+arm3=Chausseestraße,2150,0000
+arm4=Invalidenstraße,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=10\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+85	2
+78	1
+118	0
+66	0
+100	21
+125	0
+114	0
+72	0
+109	0
+128	3
+119	2
+97	4
+; 4 -> 2
+290	0
+266	0
+164	52
+128	5
+111	1
+158	11
+191	2
+160	6
+192	8
+179	11
+168	5
+115	3

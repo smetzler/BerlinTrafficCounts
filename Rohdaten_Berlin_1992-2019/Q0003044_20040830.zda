@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 03044
+datum=30.08.2004
+kurzken=Q 03044/04
+bez=Gorkistrasse (östl. Miraustrasse)    (Tegel, 13509)
+arm1=((Norden)),80,0010
+arm2=Gorkistrasse,980,0000
+arm3=Miraustrasse,1870,1000
+arm4=Gorkistrasse,2780,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=1 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	18
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 3 -> 1
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+1	6
+1	7
+0	0
+0	3
+0	0
+0	0

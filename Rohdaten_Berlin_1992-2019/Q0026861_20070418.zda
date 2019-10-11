@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 26861
+datum=18.04.2007
+kurzken=Q 26861/07
+bez=Ebertstraße (nördl. Potsdamer Platz)   (Mitte, 10117)
+arm1=Ebertstraße,0,0000
+arm2=Potsdamer Platz,950,0001
+arm3=Stresemannstraße,1900,0000
+arm4=Leipziger Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14 °C; Sonne=5\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	1
+36	1
+35	0
+73	0
+84	1
+135	10
+76	26
+66	19
+101	2
+78	20
+102	14
+114	4
+; 4 -> 2
+17	0
+35	1
+78	2
+106	53
+95	44
+125	30
+171	21
+143	4
+155	9
+135	1
+111	9
+156	5

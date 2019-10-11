@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 62113
+datum=18.04.2005
+kurzken=Q 62113/05
+bez=Senftenberger Ring (südl. Calauer Straße)   (Märkisches Viertel, 13535)
+arm1=Senftenberger Ring,50,0000
+arm2=Calauer Straße,950,0001
+arm3=Senftenberger Ring,1850,0000
+arm4=((Osten)),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Strom 2>4: von 7-8 Uhr querten tatsächlich 545 Jugendliche den Senftenberger Ring!\nWetter: max T=8°C; Sonne=8 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+25	545
+26	34
+16	39
+12	4
+14	19
+9	4
+30	8
+29	16
+17	8
+85	13
+71	3
+34	2
+; 4 -> 2
+28	45
+12	10
+19	14
+11	5
+25	40
+35	56
+36	23
+76	74
+14	15
+27	13
+28	1
+31	2

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q5671046
+datum=5.5.1993
+kurzken=Q 567104.6/93-F
+bez=Stahlheimer Straße südl. Wichertstraße   (Prenzlauer Berg )
+arm1=Ost,660,0100
+arm2=West,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+34 5 
+49 9 
+47 6 
+70 4 
+53 6 
+39 4 
+51 3 
+45 30 
+31 16 
+50 3 
+30 4 
+39 5 
+; 2 -> 1
+18 47 
+37 9 
+40 5 
+60 4 
+49 3 
+34 1 
+75 4 
+56 22 
+34 23 
+75 4 
+34 5 
+9 4 

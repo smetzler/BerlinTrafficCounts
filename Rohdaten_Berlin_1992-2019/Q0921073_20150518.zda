@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921073
+datum=18.05.2015
+kurzken=Q 0921073/15
+bez=Rampe Landsberger Allee (westl. Frank-Schweitzer-Straße  (Marzahn, 12681)
+arm1=Landsberger Allee (West),950,0100
+arm2=Franz-Schweitzer-Str. (zw. Hochstr.),2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+132	6	0	6	6
+127	15	0	4	5
+75	16	0	3	2
+79	16	0	3	0
+88	19	0	3	1
+111	11	0	2	1
+89	19	0	5	1
+104	20	0	2	1
+129	13	0	3	0
+126	9	0	3	3
+100	2	0	3	3
+64	4	0	4	1
+; 2 -> 1
+100	12	0	1	2
+88	12	0	0	0
+63	18	0	0	0
+65	11	0	2	0
+87	11	0	1	0
+67	24	0	1	0
+51	13	0	2	0
+123	12	0	5	0
+74	6	0	4	0
+76	2	0	7	2
+50	1	0	4	0
+38	3	0	1	0

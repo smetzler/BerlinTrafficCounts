@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4242
+datum=21.10.1997
+kurzken=Q 4242/97
+bez=Buschallee (Höhe LSA östl. Sulzfelder Straße)   (Weißensee, 13088)
+arm1=Sulzfelder Straße,800,0100
+arm2=Hansastraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   ;\nÜbernahme der Daten aus der Zählung am Knotenpunkt K 664201!
+data=
+; 1 -> 2
+492 54 7 8
+356 33 4 2
+323 39 5 3
+336 48 4 1
+370 53 5 2
+347 48 4 1
+354 39 5 4
+461 42 5 4
+516 43 5 8
+587 29 6 9
+583 19 7 8
+544 19 5 10
+; 2 -> 1
+739 42 5 14
+484 45 6 2
+459 47 4 3
+451 57 4 6
+413 38 4 4
+405 34 6 4
+396 42 3 4
+473 42 5 3
+536 40 6 6
+575 27 6 9
+625 16 6 11
+503 14 6 8

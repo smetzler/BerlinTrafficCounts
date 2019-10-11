@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6563025
+datum=21.04.1999
+kurzken=Q 6563025/99
+bez=Gotlindestraße (westl. Siegfriedstraße)   (Lichtenberg, 10365)
+arm1=Gotlindestraße (W),820,0000
+arm2=Süden,1740,0001
+arm3=Gotlindestraße (O),2620,0000
+arm4=Norden,3440,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C\, bewölkt\, kein Niederschlag.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	0
+8	1
+14	0
+4	0
+6	0
+16	1
+14	1
+23	8
+12	3
+21	4
+17	1
+26	3
+; 4 -> 2
+16	1
+11	0
+14	3
+10	11
+9	0
+17	2
+22	1
+20	5
+37	3
+23	2
+22	2
+25	7

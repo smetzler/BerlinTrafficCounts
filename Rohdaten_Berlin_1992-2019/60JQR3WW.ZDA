@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025587
+datum=17.3.1992
+kurzken=Q 2558.7/92-F
+bez=Wühlischstraße östlich Holteistraße    ( Berlin 1035-Frdh )
+arm1=Süd,680,0100
+arm2=Nord,2480,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+31 17 
+21 3 
+24 0 
+34 0 
+29 1 
+27 5 
+20 81 
+29 20 
+30 10 
+26 5 
+23 0 
+25 9 
+; 2 -> 1
+27 254 
+19 12 
+19 4 
+30 24 
+23 5 
+25 6 
+19 24 
+23 11 
+29 26 
+30 12 
+13 11 
+34 2 

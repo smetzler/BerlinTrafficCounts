@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 60376
+datum=12.03.1991
+kurzken=Q 60376/91
+bez=Wulfilaufer westlich Alarichstrasse    ( Berlin 42 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+25 33 12 12 24 28 27 23 24 18 37 23 
+; 2 -> 1
+17 8 5 13 18 15 40 32 25 15 22 47 

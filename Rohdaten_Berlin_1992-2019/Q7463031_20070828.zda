@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7463031
+datum=28.08.2007
+kurzken=Q 7463031/07
+bez=Kohlisstraße (westl. Hultschiner Damm),(Mahlsdorf-Süd, 12623)
+arm1=Kohlisstraße,530,0000
+arm2=Hultschiner Damm,1750,0001
+arm3=,0,0000
+arm4=Hultschiner Damm,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=8 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+10	5
+6	0
+12	0
+17	1
+14	0
+7	0
+9	7
+10	2
+18	7
+34	1
+31	0
+15	2
+; 4 -> 2
+9	0
+5	0
+2	1
+4	0
+4	0
+5	0
+5	1
+6	2
+1	0
+2	0
+4	3
+6	0

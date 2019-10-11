@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909037
+datum=18.06.2003
+kurzken=Q 0909037/03
+bez="Hoher Bogen" (Querung der Rudolstädter Straße)   (Wilmersdorf, 10713)
+arm1=Bechstedter Weg,250,0000
+arm2=Kalkhorster Straße,2050,0000
+arm3=Brücke "Hoher Bogen",1150,0001
+arm4=((Nordosten)),2950,0010
+art=Fußg,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+6	7
+11	6
+19	9
+6	8
+4	7
+5	8
+5	4
+7	6
+11	8
+10	10
+11	9
+12	10
+; 4 -> 3
+17	8
+16	15
+6	7
+8	6
+3	1
+6	2
+4	3
+5	6
+9	10
+11	9
+13	12
+14	11

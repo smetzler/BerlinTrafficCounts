@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0904005
+datum=26.05.1999
+kurzken=Q 0904005/99
+bez=Landsberger Allee (westl. Oderbruchstraße)   (Prenzlauer Berg, 10407)
+arm1=Storkower Straße,1000,0100
+arm2=Oderbruchstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1037	101	1	42
+1322	90	4	21
+1253	113	1	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1640	93	1	52
+1833	66	3	65
+1849	40	2	36
+; 2 -> 1
+2131	138	4	45
+2044	139	4	32
+1746	136	2	31
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1644	78	2	51
+1732	55	1	54
+1681	39	2	45

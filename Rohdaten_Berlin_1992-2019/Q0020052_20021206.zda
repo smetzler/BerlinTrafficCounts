@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20052
+datum=06.12.2002
+kurzken=Q 2005/02
+bez=A100 - BAB Stadtring (Höhe Spandauer Da. - mittl. Spur)   (Ch'burg, 14059)
+arm1=AS Siemensdamm,50,0100
+arm2=AS Spandauer Damm,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1139	319	86	8	1	6
+1143	244	99	15	1	3
+1062	209	104	17	3	3
+1212	213	97	34	2	0
+1322	232	89	19	3	2
+; 2 -> 1
+1593	260	66	28	0	1
+1876	177	136	26	6	9
+1457	157	71	43	5	3
+1575	132	104	51	4	7
+1705	220	125	96	5	3

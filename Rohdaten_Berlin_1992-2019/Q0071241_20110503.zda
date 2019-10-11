@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 71241
+datum=03.05.2011
+kurzken=Q 71241/11
+bez=Königin-Elisabeth-Straße (nördl. Crusiusstraße)   (Charlotttenburg, 14059)
+arm1=Königin-Elisabeth-Straße (N),130,0000
+arm2=((Westen)),790,0001
+arm3=Königin-Elisabeth-Straße (S),1840,0000
+arm4=Crusiusstraße,2590,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=10 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+3	0
+5	0
+6	0
+12	2
+10	1
+8	0
+10	0
+6	0
+18	4
+7	1
+10	3
+10	4
+; 4 -> 2
+15	0
+10	1
+11	0
+4	1
+3	1
+22	0
+20	1
+8	1
+14	3
+4	5
+14	3
+4	0

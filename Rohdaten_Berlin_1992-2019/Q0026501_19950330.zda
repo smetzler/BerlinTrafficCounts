@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26501
+datum=30.03.1995
+kurzken=Q 26501/95
+bez=Pablo-Picasso-Straße (Höhe TIP-Discount) (Hohenschönhausen, 13057) 
+arm1=Warnitzer Straße ,400,0000
+arm2=Randowstraße,2200,0000
+arm3=Westen,1300,0001
+arm4=Osten,3100,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 9°\, meist sonnig\, kein Niederschlag. \n
+data=
+; 3 -> 4
+9 0
+8 3
+16 7
+31 0
+31 2
+45 10
+24 16
+28 23
+48 23
+76 34
+51 15
+47 13
+; 4 -> 3
+70 21
+45 7
+45 9
+37 5
+30 3
+35 3
+28 10
+22 19
+26 8
+32 25
+23 18
+12 1

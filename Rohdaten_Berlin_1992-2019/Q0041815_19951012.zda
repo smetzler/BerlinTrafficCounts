@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41815
+datum=12.10.1995
+kurzken=Q 41815/95
+bez=Hauptstraße (Höhe Ausgang S.-Bhf. Ostkreuz)   (Friedrichshain, 10245) 
+arm1=Markgrafendamm,800,0000
+arm2=Kynaststraße,2600,0000
+arm3=Süden,1700,0001
+arm4=Norden,3500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für  ;\nWetter: max T =15°\, bedeckt\, kein Niederschlag. 
+data=
+; 3 -> 4
+55 8
+22 2
+18 1
+29 1
+10 0
+28 0
+26 2
+24 7
+45 3
+29 0
+45 1
+67 3
+; 4 -> 3
+17 0
+7 0
+2 0
+1 2
+6 0
+3 0
+8 1
+3 0
+7 1
+1 1
+6 1
+7 0

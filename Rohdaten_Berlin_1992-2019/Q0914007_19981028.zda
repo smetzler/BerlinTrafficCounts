@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914007
+datum=28.10.1998
+kurzken=Q 0914007/98
+bez=Erkstraße (östl. Karl-Marx-Straße )   (Neukölln, 12043)
+arm1=Karl-Marx-Straße,1000,0100
+arm2=Donaustraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+346	17	11	6
+382	28	13	2
+327	30	10	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+440	15	15	4
+458	12	12	6
+452	9	12	6
+; 2 -> 1
+437	29	11	5
+475	25	13	4
+494	33	13	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+500	15	12	4
+450	12	13	6
+454	11	11	11

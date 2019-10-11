@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20101
+datum=06.12.2002
+kurzken=Q 2010/02
+bez=A111 - BAB Zubringer HH (Höhe Rote Ch. - re. Spur) (Schulzendorf,13503)
+arm1=Landesgrenze,200,0100
+arm2=AS Schulzendorfer Straße ,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+758	156	74	62	2	2
+686	113	60	63	3	0
+588	86	59	65	4	1
+616	67	46	68	5	0
+573	59	48	65	8	0
+; 2 -> 1
+477	62	46	42	8	0
+489	80	74	95	5	0
+500	65	63	76	9	0
+640	92	88	89	12	0
+686	118	78	83	6	-1

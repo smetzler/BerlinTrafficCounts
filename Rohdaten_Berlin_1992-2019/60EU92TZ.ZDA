@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 19233
+datum=24.11.1988
+kurzken=Q 19233/88
+bez=Schichauweg oestl. Motzener Strasse    ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Radf,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweise Regen !
+data=
+; 1 -> 2
+9 0 1 6 6 2 1 1 8 5 0 2 
+; 2 -> 1
+2 0 7 0 2 4 2 2 14 8 6 5 

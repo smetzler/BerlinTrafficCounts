@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41061
+datum=7.8.1991
+kurzken=Q 4106.1/91-F
+bez=Kurfuerstendamm zw. Knesebeckstrasse und Uhlandstrasse     ( Berlin 30 )
+arm1=Uhlandstraße,900,0100
+arm2=Knesebeckstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg gegenueber Mac Donald !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+184 
+179 
+401 
+592 
+653 
+858 
+966 
+910 
+762 
+701 
+717 
+598 
+; 2 -> 1
+70 
+152 
+501 
+712 
+856 
+920 
+1057 
+819 
+928 
+757 
+926 
+730 

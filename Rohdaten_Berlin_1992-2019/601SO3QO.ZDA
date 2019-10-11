@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2328
+datum=17.9.1991
+kurzken=Q 2328/91
+bez=BAB A 100
+arm1=2 : nach A 115,900,0100
+arm2=1 : nach A 100,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1 = Verbindungsfahrbahn von A 100 nach A 115\nRichtung 2 = Verbindungsfahrbahn von A 115 nach A 100
+data=
+; 1 -> 2
+453 44 76 0 
+723 40 78 2 
+678 40 111 4 
+531 31 84 5 
+493 46 75 4 
+408 41 72 3 
+412 33 69 4 
+445 38 51 5 
+449 37 56 4 
+542 42 43 7 
+485 27 35 6 
+515 20 24 7 
+; 2 -> 1
+199 24 16 2 
+261 40 33 2 
+358 49 48 2 
+375 56 55 8 
+368 45 68 2 
+388 49 79 4 
+344 32 57 3 
+309 32 52 5 
+372 37 61 5 
+355 35 54 3 
+448 21 53 2 
+452 23 29 3 

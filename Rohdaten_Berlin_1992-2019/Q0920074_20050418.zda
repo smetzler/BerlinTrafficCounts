@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0920074
+datum=18.04.2005
+kurzken=Q 0920074/05
+bez=Markstraße (südl. Haßlinger Weg)   (Reinickendorf, 13409)
+arm1=Haßlinger Weg,100,0100
+arm2=Osloer Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+872	16	3	31	28
+972	35	5	28	43
+701	29	3	10	33
+630	22	3	24	28
+673	35	3	21	24
+643	22	3	14	20
+; 2 -> 1
+346	21	3	9	12
+489	23	4	9	20
+457	18	4	9	13
+506	26	4	6	16
+589	25	4	15	19
+625	21	5	12	23

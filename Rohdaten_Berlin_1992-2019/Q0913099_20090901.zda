@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913099
+datum=01.09.2009
+kurzken=Q 0913099/09
+bez=Wünsdorfer Straße (nördl. Prinzessinnenstraße)   (Lichtenrade, 12307)
+arm1=Blohmstraße,200,0100
+arm2=Prinzessinnenstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+109	8	8	7	54
+146	6	9	2	23
+163	4	7	5	32
+134	2	8	10	44
+124	7	6	8	19
+150	16	5	8	24
+141	1	6	3	25
+200	5	8	4	43
+228	0	12	4	44
+259	3	10	23	54
+219	1	7	9	39
+180	1	7	6	40
+; 2 -> 1
+296	1	8	17	22
+256	5	11	6	23
+191	2	8	12	25
+162	6	10	10	28
+183	5	6	7	28
+186	3	6	6	27
+184	5	6	6	58
+134	0	8	12	32
+194	2	8	8	42
+182	1	8	20	39
+212	0	9	11	51
+228	0	7	8	47

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0919165
+datum=07.10.2010
+kurzken=Q 0919165/10
+bez=Pastor-Niemöller-Platz 10 (nordwestl. H.-Hesse.Str.(SW))  (Niederschönhaus., 13156)
+arm1=Friedrich-Engels-Straße,300,0100
+arm2=Hermann-Hesse-Straße,2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+857	23	8	27	152
+721	38	8	27	67
+564	30	6	12	54
+474	22	4	6	38
+456	24	4	11	31
+560	22	6	14	26
+562	26	8	7	44
+532	21	15	7	53
+604	10	12	18	74
+710	11	7	21	67
+619	7	8	28	73
+467	5	7	13	61

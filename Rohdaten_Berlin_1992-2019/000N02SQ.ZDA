@@ -1,0 +1,38 @@
+[ZA1001]
+knoten=K 0828
+datum=11.10.1988
+kurzken=K 828/88
+bez=Lietzenburger Strasse / Saechsische Strasse - Bleibtreustrasse   ( Berlin 15 )
+Arm1=Lietzenburger Str.,950,0111
+Arm2=Saechsische Strasse,1720,1011
+Arm3=Lietzenburger Str.,2750,1101
+Arm4=Bleibtreustrasse,3520,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Zufahrten 2 und 4 : Geradeausfahren und Linksabbiegen verboten !
+data=
+; 1 -> 2
+23 30 28 34 47 39 27 22 33 23 31 27 
+; 1 -> 3
+789 938 856 800 749 810 833 769 959 1025 940 714 
+; 1 -> 4
+26 33 40 33 32 30 25 41 20 43 30 15 
+; 2 -> 1
+3 0 2 1 2 4 0 0 2 1 1 1 
+; 2 -> 3
+154 205 154 135 171 127 125 125 159 155 139 100 
+; 2 -> 4
+3 0 2 3 3 1 4 4 2 1 2 2 
+; 3 -> 1
+389 514 637 665 773 840 832 868 929 938 1123 974 
+; 3 -> 2
+52 68 49 57 49 55 110 74 91 105 110 109 
+; 3 -> 4
+42 76 94 71 86 72 80 58 93 92 69 43 
+; 4 -> 1
+27 62 83 78 108 104 92 54 87 123 107 90 
+; 4 -> 2
+1 3 6 6 3 1 4 3 1 0 3 10 
+; 4 -> 3
+0 2 9 7 8 11 4 6 7 13 7 6 

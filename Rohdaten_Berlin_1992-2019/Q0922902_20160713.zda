@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922902
+datum=13.07.2016
+kurzken=Q 0922902/16
+bez=Falkenberger Ch. (westl. Pablo-Picasso-Str.)   (Hohenschönhausen, 13059)
+arm1=S-Bahnhof,1200,0100
+arm2=Pablo-Picasso-Straße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 3 Std Sonne; 18 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+38
+31
+33
+28
+12
+17
+18
+30
+27
+64
+44
+46
+; 2 -> 1
+66
+36
+30
+30
+10
+14
+11
+16
+28
+30
+19
+16

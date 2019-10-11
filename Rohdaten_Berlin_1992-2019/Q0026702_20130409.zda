@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 26702
+datum=09.04.2013
+kurzken=Q 26702/07
+bez=Karower Damm (südl. Treseburger Straße)     (Blankenburg, 13129)
+arm1=Treseburger Straße,600,0010
+arm2=Karower Damm (S),1450,0000
+arm3=Str. 26,2400,1000
+arm4=Karower Damm (N),3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=9°C; Sonne=1\,5 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+0	0
+0	0
+2	0
+0	0
+0	0
+0	0
+6	2
+5	1
+4	7
+10	0
+5	2
+4	1
+; 3 -> 1
+0	2
+1	3
+5	2
+4	1
+3	0
+0	0
+3	1
+3	1
+3	3
+8	0
+4	2
+3	2

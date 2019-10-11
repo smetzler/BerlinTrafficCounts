@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0913120
+datum=30.09.2010
+kurzken=Q 0913120/10
+bez=BAB A100 - AS Gradestraße (nördl. Gradestraße)   (Tempelhof, 12109)
+arm1=BAB A100,300,0100
+arm2=Gradestraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Lkw,G-Lkw
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lkw = alle Lkw (außer G-Lkw) - G-Lkw = Gefahrgut-Lkw \nNur die nördl. Zu.-Abfahrrt wurden erhoben\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+33	5
+37	4
+50	8
+55	7
+; 2 -> 1
+34	9
+72	4
+49	2
+41	1

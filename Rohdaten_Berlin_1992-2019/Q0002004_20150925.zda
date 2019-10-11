@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 2004
+datum=25.09.2015
+kurzken=Q 2004/15
+bez=A103 - Abzw. Zehlendorf (Höhe Saarstraße)   (Steglitz, 12169)
+arm1=AS Filandastraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kontrollzählung Dauerzählstelle Q3546-2004
+data=
+; 1 -> 2
+1870	41	9	1	51
+1830	49	5	4	30
+1760	32	3	3	33
+; 2 -> 1
+2294	13	12	1	59
+2137	10	8	1	44
+2146	10	4	1	56

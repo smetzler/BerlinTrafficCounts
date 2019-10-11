@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921042
+datum=27.05.2008
+kurzken=Q 0921042/08
+bez=Cecilienstraße (westl. Garzauer Str. - Irmfriedstr.)   (Hellersdorf, 12683)
+arm1=Wuhlestraße,700,0100
+arm2=Garzauer Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+244	10	10	7	13
+269	14	6	1	16
+354	14	7	2	20
+420	8	6	6	30
+401	13	6	8	29
+405	10	6	6	17
+385	9	6	10	18
+498	17	8	10	28
+574	14	11	16	34
+786	8	11	31	44
+624	6	9	18	22
+549	4	7	12	18
+; 2 -> 1
+619	16	9	13	46
+465	13	6	8	28
+392	11	6	2	20
+368	6	6	2	30
+330	11	6	5	19
+291	7	6	2	16
+328	9	6	9	22
+314	9	9	11	4
+380	8	10	8	12
+378	7	11	11	25
+380	4	8	7	16
+321	2	9	11	19

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 07285
+datum=28.05.1986
+kurzken=Q 7285/86
+bez=Luetzowufer  noerdl. Budapester Strasse  ( Berlin 30 )
+Arm1=Sued  ( 1a ),900,0100
+Arm2=Nord  ( 1b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend bedeckt und trocken
+data=
+; 1 -> 2
+24 30 40 50 29 57 82 65 62 73 74 41 
+; 2 -> 1
+4 19 63 36 28 40 85 64 40 62 79 45 

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58348
+datum=27.11.1990
+kurzken=Q 58348/90
+bez=Hauptstrasse suedlich Stierstrasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+1 0 3 0 9 1 12 1 8 0 13 3 5 0 
+9 0 9 1 16 1 11 0 5 1 
+; 2 -> 1
+2 1 8 0 11 1 12 1 7 0 8 0 6 0 
+6 0 17 3 16 1 13 0 6 1 

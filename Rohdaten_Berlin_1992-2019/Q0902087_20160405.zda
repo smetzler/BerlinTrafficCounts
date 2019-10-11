@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0902087
+datum=05.04.2016
+kurzken=Q 0902087/16
+bez=Huttenstraße (westl. Berlichingenstraße)   (Tiergarten, 10553)
+arm1=Wiebestraße,850,0000
+arm2=Berlichingenstraße,2650,0000
+arm3=((Norden)),3550,0001
+arm4=((Süden)),1750,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Huttenstraße westl. der Berlichingenstraße queren (bis ca. 50m westl.)
+data=
+; 3 -> 4
+44	4
+65	0
+29	0
+18	0
+43	3
+55	0
+31	2
+29	2
+42	0
+34	0
+33	0
+36	1
+; 4 -> 3
+25	0
+10	0
+15	0
+14	0
+17	0
+30	0
+32	0
+15	0
+9	0
+20	0
+28	0
+13	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910116
+datum=11.11.2010
+kurzken=Q 0910116/10
+bez=Teltower Damm 87-93 (Höhe J.-F.-Kennedy-Schule)   (Zehlendorf, 14167)
+arm1=Schädestraße,150,0000
+arm2=Leo-Baeck-Straße,1950,0000
+arm3=((Westen)),1050,0001
+arm4=J.-F.-Kennedy-Schule,2850,0010
+art=Erw,Schüler
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, unterschieden nach Schüler und Nichtschüler (Erwachsene)\, die den Teltower Damm im Bereich \nder J.-F.-Kennedy-Schule queren.\nStadtatlas: Seite 92\, Planquadrat S31
+data=
+; 3 -> 4
+342	63
+35	45
+30	11
+65	8
+5	63
+2	23
+1	44
+1	21
+18	43
+10	20
+14	92
+11	11
+; 4 -> 3
+5	9
+12	15
+9	11
+3	9
+1	6
+6	7
+13	9
+23	23
+53	13
+26	25
+46	31
+24	18

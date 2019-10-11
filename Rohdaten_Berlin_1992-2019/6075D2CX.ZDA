@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 09265
+datum=18.05.1987
+kurzken=Q 9265/87
+bez=Kurfuerstendamm   westl. Schwarzbacher Str.   ( Berlin 31 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung
+data=
+; 1 -> 2
+5 3 1 0 2 3 4 2 4 5 8 6 
+; 2 -> 1
+0 0 0 0 2 0 5 3 0 0 2 1 

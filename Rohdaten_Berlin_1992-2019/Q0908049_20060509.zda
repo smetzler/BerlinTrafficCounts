@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908049
+datum=09.05.2006
+kurzken=Q 0908049/06
+bez=Quellweg-Verlängerung (nördl. Schuckertdamm)   (Siemensstadt, 13629)
+arm1=W.-v.-Siemens-Park,0,0100
+arm2=Schuckertdamm,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+27
+41
+22
+25
+19
+12
+20
+21
+22
+32
+29
+24
+; 2 -> 1
+16
+20
+12
+18
+12
+18
+25
+20
+29
+31
+37
+26

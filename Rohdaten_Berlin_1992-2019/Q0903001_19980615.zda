@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0903001
+datum=15.06.1998
+kurzken=Q 0903001/98
+bez=Afrikanische Straße  (westl. Müllerstraße)   (Wedding, 13351)
+arm1=Müllerstraße,100,0100
+arm2=Moha-Usambara-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+930	43	0	38
+923	58	0	27
+609	32	1	32
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+558	22	1	28
+585	11	0	23
+483	9	0	24
+; 2 -> 1
+367	27	0	16
+365	23	0	13
+352	29	0	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+695	7	1	48
+698	11	1	52
+658	12	3	31

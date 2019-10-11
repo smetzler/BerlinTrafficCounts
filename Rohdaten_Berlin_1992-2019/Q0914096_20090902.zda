@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914096
+datum=02.09.2009
+kurzken=Q 0914096/09
+bez=Groß-Ziethener Chaussee (Höhe Rudower Fließ)   (Rudow, 12355)
+arm1=Zittauer Straße,950,0100
+arm2=Klein-Zietherner Weg,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+255	7	11	8	59
+280	9	6	11	55
+228	9	7	15	26
+236	10	6	8	32
+180	5	7	8	27
+225	11	9	4	40
+288	6	8	5	62
+316	14	9	14	40
+308	10	8	16	34
+361	7	8	27	32
+351	6	7	20	40
+305	4	8	13	36
+; 2 -> 1
+378	8	8	17	64
+296	7	4	6	33
+216	8	4	7	18
+196	8	4	8	28
+252	7	4	16	48
+206	5	4	11	40
+281	2	5	12	41
+279	6	4	17	32
+236	2	6	10	34
+315	5	5	13	48
+338	4	4	18	47
+285	3	4	17	48

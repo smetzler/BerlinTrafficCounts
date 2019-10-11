@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=K 1850
+datum=17.05.1989
+kurzken=K 1850/89
+bez=Johannisthaler Chaussee / Heidelaeuferweg - Steintraegerweg    (Berlin 47)
+Arm1=Steintraegerweg,150,0000
+Arm2=Johannisthaler Ch.,1200,0011
+Arm3=Heidelaeuferweg,1950,0101
+Arm4=Johannisthaler Ch.,3000,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 3
+65 68 63 64 80 79 91 86 148 166 139 136 
+; 2 -> 4
+788 724 789 744 803 861 852 943 1196 1274 1137 1064 
+; 3 -> 2
+278 158 133 111 94 89 78 78 83 88 98 107 
+; 3 -> 4
+67 33 48 37 31 37 36 46 44 38 40 37 
+; 4 -> 1
+160 101 100 88 72 75 66 50 73 103 89 70 
+; 4 -> 2
+1378 916 908 801 871 862 971 959 917 1102 1128 1067 
+; 4 -> 3
+22 21 40 38 55 51 42 53 61 95 66 87 

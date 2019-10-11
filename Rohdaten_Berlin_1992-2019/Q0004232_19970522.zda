@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4232
+datum=22.05.1997
+kurzken=Q 4232/97
+bez=BAB Stadtring (A100) zw. AS Tempelh. D. u. AS Oberlandstr.  (T'hof,12099)
+arm1=AS Tempelhofer Damm,400,0100
+arm2=AS Oberlandstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+2417 293 3 75
+2712 313 5 89
+2422 372 5 59
+2212 358 5 36
+2058 372 3 36
+2014 365 6 26
+2193 385 5 54
+2578 331 3 54
+2993 275 3 71
+3298 253 4 59
+3301 176 5 67
+2973 98 4 53
+; 2 -> 1
+3556 245 5 62
+3089 284 7 89
+2678 320 5 58
+2331 324 6 78
+2304 294 8 38
+2489 289 7 59
+2801 283 5 65
+2584 261 5 61
+2957 220 6 56
+3045 134 5 49
+3011 108 8 87
+2786 79 5 57

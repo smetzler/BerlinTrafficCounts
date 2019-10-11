@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 31301
+datum=07.09.1993
+kurzken=Q 31301/93
+bez=Kiefheider Weg östl. Ruppiner Chaussee    ( Reinickendorf )
+arm1=Thurbrucher Steig,3150,0100
+arm2=Ruppiner Chaussee,1350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+5 275 6 1 28
+2 270 2 0 16
+2 182 4 0 20
+5 152 7 0 11
+5 125 4 0 16
+6 173 6 0 29
+1 142 4 1 14
+6 116 4 0 15
+9 159 3 0 22
+0 144 3 2 19
+6 159 1 0 26
+7 176 1 0 19
+; 2 -> 1
+2 134 6 1 26
+0 107 1 1 14
+1 130 2 1 12
+5 115 6 0 13
+2 115 3 0 28
+4 139 1 0 8
+2 153 3 0 15
+4 150 3 0 20
+6 188 2 0 15
+6 179 2 2 20
+3 251 0 0 17
+10 263 0 1 22

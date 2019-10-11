@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159241
+datum=30.05.2007
+kurzken=Q 159241/07
+bez=Schloßstraße (Fahrbahn Strom 4>1)   (Steglitz, 12165)
+arm1=Schloßstraße (W),1150,0000
+arm2=((Nordwest)),500,0010
+arm3=((Südost)),2300,0100
+arm4=Schloßstraße (N),3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 3
+20	5
+22	0
+20	24
+24	0
+38	4
+43	2
+71	4
+70	26
+69	19
+51	14
+60	8
+71	7
+; 3 -> 2
+40	20
+34	6
+67	10
+36	3
+44	1
+54	1
+49	9
+50	13
+51	6
+49	8
+42	17
+54	8

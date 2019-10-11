@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6557014
+datum=06.04.2017
+kurzken=Q 6557014/17
+bez=Konrad-Wolf-Straße (östl. Simon-Bolivar-Straße)   (Lichtenberg, 13055)
+arm1=(Nord-Westen),450,0010
+arm2=Konrad-Wolf-Straße (SW),1200,0000
+arm3=Simon-Bolivar-Straße,2250,1000
+arm4=Konrad-Wolf-Straße (NO),3100,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 1 -> 3
+4	5
+6	3
+10	5
+14	4
+17	3
+13	4
+12	1
+21	6
+22	9
+22	0
+16	7
+18	9
+; 3 -> 1
+49	23
+60	11
+49	10
+30	0
+37	0
+17	0
+16	1
+22	1
+31	7
+20	6
+27	1
+16	1

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41113
+datum=27.8.1991
+kurzken=Q 4111.3/91
+bez=Karl-Liebknecht-Strasse zw. Spandauer Strasse und S-Bahn Bruecke Alex  (Mitte)
+arm1=S-Bahn Brücken ,900,0100
+arm2=Spandauer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+2127 
+1566 
+1442 
+1313 
+1370 
+1218 
+1174 
+1075 
+1136 
+1198 
+932 
+869 
+; 2 -> 1
+877 
+1058 
+1366 
+1493 
+1495 
+1591 
+1559 
+1684 
+1852 
+2218 
+2353 
+1637 

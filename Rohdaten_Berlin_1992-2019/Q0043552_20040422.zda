@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 43552
+datum=22.04.2004
+kurzken=Q 43552/04
+bez=Invalidenstraße (westl. Scharnhorststraße)   (Mitte, 10115)
+arm1=Scharnhorststraße,300,0010
+arm2=Invalidenstraße,1120,0000
+arm3=((Süden)),2100,1000
+arm4=Invalidenstraße,2960,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=10\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+32	4
+57	6
+41	0
+28	7
+52	5
+30	2
+35	0
+20	1
+54	1
+52	4
+49	2
+24	0
+; 3 -> 1
+57	11
+69	32
+72	6
+32	5
+58	44
+28	16
+39	3
+27	2
+44	1
+48	3
+29	1
+14	0

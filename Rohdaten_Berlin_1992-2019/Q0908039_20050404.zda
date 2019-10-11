@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908039
+datum=04.04.2005
+kurzken=Q 0908039/05
+bez=Teltower Straße (südl. Ruhlebener Straße)   (Spandau, 13597)
+arm1=Ruhlebener Straße,500,0100
+arm2=Elsgrabenweg,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+278	6	0	8	5
+300	1	0	11	9
+173	9	0	2	10
+166	5	0	10	11
+199	9	0	10	12
+203	7	0	12	10
+; 2 -> 1
+214	3	0	6	10
+246	5	0	4	2
+206	7	0	5	2
+185	4	0	6	10
+174	5	0	6	9
+162	8	0	7	13

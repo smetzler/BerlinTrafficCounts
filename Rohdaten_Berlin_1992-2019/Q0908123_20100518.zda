@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908123
+datum=18.05.2010
+kurzken=Q 0908123/10
+bez=Haselhorster Damm (südl. Lüdenscheider Weg)   (Haselhorst, 13599)
+arm1=Lüdenscheider Weg,150,0100
+arm2=Saatwinklerdamm,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+461	8	5	14	28
+381	9	3	13	32
+224	13	3	2	27
+132	8	5	2	22
+167	4	3	10	20
+142	8	2	10	15
+195	9	3	9	17
+165	7	3	7	22
+228	0	4	12	10
+199	2	3	4	15
+207	4	3	7	24
+138	0	3	7	8
+; 2 -> 1
+168	11	5	9	17
+215	14	3	15	17
+163	11	4	12	28
+206	20	3	8	26
+203	5	3	12	22
+148	10	3	6	9
+226	12	4	13	22
+335	5	3	18	17
+483	6	5	28	26
+348	2	3	22	19
+378	0	3	10	31
+239	3	4	10	18

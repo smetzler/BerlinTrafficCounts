@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58345
+datum=27.11.1990
+kurzken=Q 58345/90
+bez=Stierstrasse westlich Hauptstrasse    ( Berlin 41 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+6 4 26 0 44 0 67 10 81 1 82 5 69 6 
+70 6 73 1 54 5 98 17 50 7 
+; 2 -> 1
+8 6 19 4 21 6 28 3 91 14 102 13 45 8 
+43 6 69 6 100 20 58 7 27 5 

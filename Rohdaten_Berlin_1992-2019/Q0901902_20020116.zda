@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901902
+datum=16.01.2002
+kurzken=Q 0901902/02
+bez=Spandauer Straße (nördl. Karl-Liebknecht-Straße)   (Mitte, 10178)
+arm1=Anna-Loisa-Karsch-Straße,300,0100
+arm2=Karl-Liebknecht-Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=0°C max T; 6 Std Sonne; 0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 1 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+10
+32
+44
+29
+30
+33
+37
+44
+42
+35
+50
+44
+; 2 -> 1
+22
+40
+40
+31
+39
+45
+39
+41
+38
+51
+38
+41

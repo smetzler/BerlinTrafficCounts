@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26704
+datum=21.06.2004
+kurzken=Q 26704/04
+bez=Karower Damm (nördl. Straße 26)     (Blankenburg, 13129)
+arm1=Treseburger Straße,600,0010
+arm2=Karower Damm,1450,0000
+arm3=Straße 26,2400,1000
+arm4=Karower Damm,3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 20°C; Sonne: 12 Std; Niederschlag: 2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+5	0
+4	0
+3	0
+1	0
+6	0
+1	0
+2	0
+3	0
+10	1
+9	1
+4	0
+; 3 -> 1
+3	0
+2	0
+2	0
+4	0
+2	0
+4	0
+1	0
+1	0
+1	0
+7	1
+7	1
+4	1

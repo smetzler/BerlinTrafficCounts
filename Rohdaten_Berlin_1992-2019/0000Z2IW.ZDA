@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0035
+datum=09.12.1987
+kurzken=K 35/87
+bez=Tegeler Strasse / Ulmenstrasse      ( Berlin 28 )
+Arm1=Ulmenstrasse,340,0101
+Arm2=Tegeler Strasse,1250,1000
+Arm3=,0,0000
+Arm4=Tegeler Strasse,3050,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=- Nur Knotenarm 1 gezaehlt !\n- Strassenzug Schlossstrasse - Glienicker Strasse - Ulmenstrasse ist zwischen\n  Hermsdorfer Damm und Wachsmuthstrasse nur in suedl. Richtung befahrbar !
+data=
+; 1 -> 2
+18 15 17 23 27 18 26 16 17 18 16 13 
+; 1 -> 4
+2 2 2 3 1 0 2 3 0 1 1 2 
+; 2 -> 1
+14 20 22 24 27 28 33 25 27 29 26 39 
+; 4 -> 1
+4 2 3 5 8 3 5 1 7 2 0 1 

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00321
+datum=17.04.2015
+kurzken=Q 00321/15
+bez=A100 - Stadtring (AS J.-Kaiser-Pl., Zu-Abf. südl. Reichweind). (Chbg., 13405)
+arm1=J.-Kaiser-Platz - Reichweindamm,800,0100
+arm2=A100 (AS Beusselstraße),2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Reichweindamm/Gördeler Damm. Zu- u. Abfahrt  A100 (von bzw. nach  Seestr./Beusselstr.).\nStadtatlas Seite 71\, Planquadrat 9a
+data=
+; 1 -> 2
+501	5	6	0	11
+487	5	2	0	9
+398	3	0	0	6
+; 2 -> 1
+814	9	9	0	12
+662	4	6	0	11
+458	3	4	0	7

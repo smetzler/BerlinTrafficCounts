@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 6036
+datum=24.11.1988
+kurzken=K 6036/88
+bez=Motzener Strasse / Poleigrund    ( Berlin 49 )
+Arm1=,0,0000
+Arm2=Motzener Strasse,1720,0010
+Arm3=Poleigrund,2820,0101
+Arm4=Motzener Strasse,3520,0010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 24 und 42 nicht erfasst;\nfuer die Gesamtverkehrsstaerken auf der Motzener Strasse\nvgl. K 1923/88.
+data=
+; 2 -> 3
+2 0 2 4 5 3 2 7 5 2 3 2 
+; 3 -> 2
+3 0 5 2 2 2 2 1 2 1 0 0 
+; 3 -> 4
+31 22 20 18 23 18 29 23 46 58 33 17 
+; 4 -> 3
+44 38 29 28 22 22 16 22 24 18 11 11 

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0078
+datum=08.05.2015
+kurzken=Q 0078/15
+bez=A114/B109 - Prenzlauer Promenade (nördl. Neukirchstraße)   (Pankow, 13089)
+arm1=BAB- Zubr. Abzw. Pankow (A114),0,0100
+arm2=Neukirchstraße,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=4
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+1846	39	10	5	43
+1765	32	20	4	36
+1994	21	11	2	29
+; 2 -> 1
+2068	56	20	6	49
+2170	39	14	4	55
+2220	32	14	6	51

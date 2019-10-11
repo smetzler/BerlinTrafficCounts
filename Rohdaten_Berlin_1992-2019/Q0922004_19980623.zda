@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922004
+datum=23.06.1998
+kurzken=Q 0922004/98
+bez=Rhinstraße (südl. Hauptstraße)   (Hohenschönhausen, 13053)
+arm1=Hauptstraße,150,0100
+arm2=Marzahner Straße,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1221	80	5	20
+1020	89	4	13
+891	90	6	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1078	55	4	14
+1062	57	5	15
+996	28	7	14
+; 2 -> 1
+784	103	5	5
+691	106	4	3
+771	112	4	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1055	68	3	16
+1078	66	3	26
+983	31	5	12

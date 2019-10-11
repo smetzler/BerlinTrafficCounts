@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26188
+datum=22.4.1993
+kurzken=Q 2618.8/93-F
+bez=Bötzowstraße nördl. Pasteurstraße    (Prenzlauer Berg )
+arm1=Ost,500,0100
+arm2=West,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+14 2 
+11 3 
+14 1 
+20 3 
+21 5 
+25 4 
+8 9 
+21 12 
+30 27 
+17 13 
+26 14 
+24 10 
+; 2 -> 1
+11 4 
+14 1 
+18 0 
+16 2 
+23 1 
+32 1 
+12 3 
+16 12 
+38 7 
+41 31 
+32 16 
+29 12 

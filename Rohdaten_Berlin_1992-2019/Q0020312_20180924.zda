@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020312
+datum=24.09.2018
+kurzken=Q 020312/18
+bez=Charlottenstraße (südl. Zimmerstraße)   (Kreuzberg, 10117)
+arm1=Zimmerstraße,100,0100
+arm2=Rudi-Dutschke-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+59	0	0	4	23
+107	2	0	6	62
+153	3	0	7	64
+118	1	0	1	24
+129	3	0	2	28
+141	1	0	6	32
+128	1	0	6	40
+149	0	0	5	28
+154	0	0	6	77
+114	0	0	6	80
+156	1	0	12	109
+138	0	0	11	126
+; 2 -> 1
+77	0	0	3	18
+124	0	0	4	67
+161	1	0	5	72
+148	1	0	4	18
+124	4	2	2	14
+116	1	0	4	36
+136	1	1	9	49
+127	1	0	5	25
+129	2	0	4	39
+150	0	0	4	56
+146	0	1	5	62
+125	0	1	4	56

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907007
+datum=30.06.1998
+kurzken=Q 0907007/98
+bez=Bachstraße (Höhe nördlicher S-Bahn-Ausgang)   (Charlottenburg, 10557)
+arm1=Sigismundhof,1600,0100
+arm2=Flotowstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+576	11	0	30
+637	16	1	25
+547	13	0	2
+489	18	0	20
+539	15	0	25
+486	9	1	25
+536	13	0	21
+606	14	0	24
+812	19	2	26
+832	7	2	44
+801	7	2	32
+628	8	0	24
+; 2 -> 1
+704	21	3	26
+899	18	0	46
+727	27	0	42
+603	18	0	39
+639	21	0	28
+619	16	0	28
+635	9	0	15
+629	11	0	21
+733	3	0	30
+946	7	0	40
+787	2	2	27
+622	3	0	13

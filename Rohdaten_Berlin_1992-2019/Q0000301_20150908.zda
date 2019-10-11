@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00301
+datum=08.09.2015
+kurzken=Q 00301/15
+bez=A100 - Stadtring (östl. Goerdeler-Damm-Brücke)   (Moabit, 10553)
+arm1=Goerdeler-Da.-Brücke,1000,0100
+arm2=Seestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=\nUnfall A100 Ri. Wedding Höhe Funkturm\, ab 14:12 mittlerer u. linker Fahrstreifen gesperrt
+data=
+; 1 -> 2
+1971	71	37	4	42
+1910	75	39	3	26
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+2081	63	18	3	41
+2124	50	18	3	77
+1816	36	21	6	54
+; 2 -> 1
+2636	131	26	11	57
+2655	125	45	16	54
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+2317	74	27	8	71
+2150	54	24	10	59
+1997	59	22	5	53

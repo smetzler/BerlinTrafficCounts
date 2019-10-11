@@ -1,0 +1,16 @@
+[ZA1001]
+knoten=Q 40370
+datum=22.05.1986
+kurzken=Q 40370/86
+bez=Suedstern ; noerdl. Nebenfahrbahn zwischen Koertestr. und Fontaneprom. (Bln. 61)
+Arm1=West,900,0100
+Arm2=,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+183 213 229 244 244 229 275 275 335 305 275 244 

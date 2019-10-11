@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139005
+datum=19.09.2018
+kurzken=Q 139005/18
+bez=Waltersdorfer Chaussee (B179) (Stadtgrenze)   (Neukölln, 12355)
+arm1=Hiltrud-Dudek-Weg,300,0100
+arm2=Flughafen Schönefeld,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+315	21	15	6	7
+316	19	16	15	7
+288	15	17	5	6
+314	24	14	12	18
+331	21	16	6	6
+278	24	11	11	16
+345	18	17	11	18
+229	36	13	13	5
+460	28	13	14	14
+488	4	16	22	14
+417	13	15	9	18
+410	4	14	15	12
+; 2 -> 1
+478	27	17	8	15
+343	30	171	10	10
+270	17	16	6	9
+258	16	14	2	10
+298	8	16	11	5
+308	27	15	8	9
+355	26	15	11	13
+334	19	16	11	2
+511	14	12	20	9
+614	20	14	12	16
+463	5	15	14	17
+409	2	16	16	14

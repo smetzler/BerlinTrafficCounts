@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915140
+datum=30.10.2012
+kurzken=Q 0915141/12
+bez=Spathstraße (südl. Chris-Gueffroy-Allee)   (Johannisthal, 12437)
+arm1=Ligusterweg,1600,0100
+arm2=Chris-Gueffroy-Allee,3400,1000
+arm3=,700,0000
+arm4=,2500,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Chris-Gueffroy-Allee ist die ehemallige Britzer Allee ! \n
+data=
+; 1 -> 2
+570	43	5	5	2
+532	48	7	5	1
+544	73	4	2	1
+502	44	2	2	0
+479	70	3	4	5
+518	52	4	0	1
+686	61	5	7	8
+746	51	4	9	5
+720	50	3	4	10
+668	22	3	12	2
+772	18	3	8	8
+684	21	3	6	5
+; 2 -> 1
+860	60	3	4	6
+730	50	4	7	4
+693	54	4	2	0
+552	64	4	4	0
+554	48	5	2	3
+606	52	4	7	5
+628	51	4	12	6
+725	40	4	14	7
+745	34	4	5	9
+806	26	4	6	6
+628	13	4	6	6
+503	33	4	7	7

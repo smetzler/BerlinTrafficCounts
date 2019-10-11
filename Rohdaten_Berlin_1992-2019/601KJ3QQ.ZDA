@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2035
+datum=19.9.1991
+kurzken=Q 2035/91
+bez=BAB A 100
+arm1=2 : von A 100,900,0100
+arm2=1 : nach A 100,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1 = Einfahrt von Schwarzbacher Str. nach A 100\nRichtung 2 = Ausfahrt nach Schwarzbacher Str. von A 100
+data=
+; 1 -> 2
+51 9 10 0 
+115 21 12 4 
+174 25 19 1 
+150 37 11 0 
+105 18 14 0 
+95 18 18 1 
+184 21 12 0 
+141 18 13 0 
+181 26 12 0 
+176 20 10 1 
+196 9 3 0 
+205 7 4 1 
+; 2 -> 1
+144 15 7 0 
+186 39 15 2 
+237 30 14 1 
+177 41 36 1 
+206 41 25 0 
+202 28 22 1 
+224 39 17 0 
+164 32 24 2 
+186 15 10 0 
+208 21 8 2 
+270 24 5 1 
+245 19 11 0 

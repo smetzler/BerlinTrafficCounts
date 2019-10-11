@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920903
+datum=12.06.2019
+kurzken=Q 0920903/18
+bez=Scharnweberstraße (südöstl. Kapweg) (Tegel, 13403) 
+arm1=Kapweg,450,0100
+arm2=Afrikanische Straße,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+114
+133
+71
+52
+81
+86
+80
+92
+117
+168
+152
+145
+; 2 -> 1
+60
+83
+66
+44
+71
+57
+66
+75
+109
+142
+135
+148

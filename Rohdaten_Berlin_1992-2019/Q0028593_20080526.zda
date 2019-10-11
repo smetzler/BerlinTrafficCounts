@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28593
+datum=26.05.2008
+kurzken=Q 28593/08
+bez=Ortlofstraße (westl. Bohnsdorfer Weg  (Alt-Glienicke, 12524)
+arm1=Bohnsdorfer Weg,400,0000
+arm2=Auerswaldstraße   ,800,0001
+arm3=Ortolfstraße,1700,0000
+arm4=Bohnsdorfer Weg,2200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	5
+3	0
+2	0
+3	0
+2	0
+2	0
+3	0
+0	0
+1	0
+3	1
+0	0
+0	0
+; 4 -> 2
+1	0
+1	0
+1	0
+0	0
+4	0
+3	1
+1	0
+2	1
+2	1
+2	1
+1	1
+0	0

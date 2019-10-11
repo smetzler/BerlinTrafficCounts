@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0906002
+datum=05.11.1998
+kurzken=Q 0906002/98
+bez=Tempelhofer Ufer (westl. Mehringbrücke)   (Kreuzberg, 10963)
+arm1=Großbeerenstraße,800,0100
+arm2=Mehringbrücke,2600,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1575	86	3	25
+1483	98	3	18
+1506	113	4	18
+1290	111	3	16
+1424	89	3	16
+1394	82	5	13
+1402	75	6	18
+1574	61	3	15
+1830	69	5	22
+1690	45	3	27
+1719	35	5	33
+1771	16	6	30

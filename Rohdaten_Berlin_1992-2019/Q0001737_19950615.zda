@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 1737
+datum=15.06.1995
+kurzken=Q 1737/95
+bez=Soldiner Straße (östl. Provinzstraße), (Wedding, 13357)
+arm1=Provinzstraße,900,0100
+arm2=Holzstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+425 32 12 2 15
+375 38 13 4 12
+274 26 10 5 5
+308 24 7 5 10
+419 38 9 3 10
+286 26 9 1 9
+350 23 10 4 1
+325 24 8 9 11
+402 10 10 4 11
+436 17 13 5 7
+385 10 11 6 5
+393 9 9 8 3
+; 2 -> 1
+223 12 0 0 4
+209 13 0 1 2
+161 20 0 0 6
+159 15 0 4 3
+220 19 0 1 0
+202 26 0 4 4
+171 6 0 0 4
+274 13 0 8 5
+343 14 0 4 17
+364 9 0 8 11
+300 11 0 13 13
+296 3 0 8 2

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41143
+datum=29.8.1991
+kurzken=Q 4114.3/91-F
+bez=Mehringdamm zw. Hagelberger Strasse und Yorckstrasse    ( Berlin 61 )
+arm1=Yorckstraße,900,0100
+arm2=Hagelberger Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1438 
+1217 
+1227 
+1126 
+1247 
+1121 
+1278 
+1359 
+1523 
+1460 
+1512 
+1534 
+; 2 -> 1
+1546 
+1456 
+1416 
+1287 
+1376 
+1325 
+1521 
+1470 
+1598 
+1579 
+1742 
+1331 

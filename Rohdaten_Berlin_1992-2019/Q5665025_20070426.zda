@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5665025
+datum=26.04.2007
+kurzken=Q 5665025/07
+bez=Breite Straße - Nordseite (östl. Mühlenstraße)   (Pankow, 13187)
+arm1=Ein-/Ausfahrt Rathaus-Center,150,0010
+arm2=Breite Straße,1060,0000
+arm3=Mittelinsel,2000,1000
+arm4=Breite Straße,2860,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Breite Straße zwischen Nordseite und Mittelinsel queren!\nWetter: max T=24 °C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+78	45
+129	27
+145	6
+275	3
+271	4
+283	12
+330	27
+358	29
+374	59
+379	45
+391	29
+355	32
+; 3 -> 1
+84	17
+125	29
+257	3
+343	8
+293	3
+255	12
+286	52
+317	38
+330	32
+415	54
+338	32
+222	16

@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40289
+datum=17.09.1985
+kurzken=Q 40289/85
+bez=Habsburgerstrasse zwischen Winterfeldtstr. u. Luitpoldstr.   ( Berlin 30 )
+Arm1=Winterfeldtstrasse,900,0100
+Arm2=Luitpoldstrasse,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+0 89 6 4 0 0 70 2 4 0 1 64 9 5 0 
+1 65 10 4 0 1 65 8 6 0 1 71 8 2 0 
+4 76 7 3 0 2 75 9 1 0 4 107 9 3 1 
+4 110 16 2 0 5 97 0 0 0 1 86 5 3 0 
+; 2 -> 1
+0 17 3 0 0 0 14 1 1 0 1 12 1 2 0 
+0 20 2 0 0 0 12 1 1 0 0 13 1 0 0 
+0 14 2 0 0 0 18 3 0 0 0 25 1 1 0 
+0 36 2 0 0 0 37 0 0 0 1 16 0 0 0 

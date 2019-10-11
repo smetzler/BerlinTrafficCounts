@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40979
+datum=6.5.1991
+kurzken=Q 4097.9/91-F
+bez=Wilhelm-Pieck-Strasse in Hoehe Nr. 214    ( Mitte )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+11 3 2 
+14 10 2 
+22 8 3 
+19 7 14 
+21 1 1 
+15 28 0 
+29 67 31 
+15 7 6 
+25 20 2 
+28 17 3 
+22 11 3 
+18 5 2 
+; 2 -> 1
+40 86 0 
+17 13 1 
+37 14 6 
+32 11 5 
+31 5 1 
+22 3 4 
+26 12 7 
+20 14 8 
+29 7 4 
+31 13 5 
+46 11 4 
+21 5 2 

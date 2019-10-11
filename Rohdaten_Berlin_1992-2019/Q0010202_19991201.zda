@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010202
+datum=01.12.1999
+kurzken=Q 010202/99
+bez=Leipziger Platz (östl. Stresemannstraße) (Mitte, 10117)
+arm1=Stresemannstraße,900,0100
+arm2=Leipziger Straße ,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Einbahnstraße wegen Baustelle!
+data=
+; 1 -> 2
+739	108	35	21
+895	126	64	16
+1079	128	56	18
+1066	138	58	34
+849	145	47	28
+950	135	57	31
+906	114	75	21
+1043	126	53	20
+1052	116	67	44
+1285	126	34	22
+1148	132	36	28
+1449	102	33	24
+; 2 -> 1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1

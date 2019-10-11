@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907001
+datum=15.06.1998
+kurzken=Q 0907001/98
+bez=Saatwinkler Damm (östl. Zu-Abfahrt BAB A111)   (Charlottenburg, 13627)
+arm1=BAB A111 ,850,0100
+arm2=Friedrich-Olbricht-Damm,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+738	62	4	27
+889	64	5	18
+769	70	0	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+529	44	0	20
+523	32	0	27
+481	23	3	20
+; 2 -> 1
+633	82	4	14
+692	90	4	6
+735	66	0	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+908	59	1	38
+1028	49	1	40
+878	27	4	21

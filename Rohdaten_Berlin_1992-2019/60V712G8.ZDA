@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 40429
+datum=09.09.1987
+kurzken=Q 40429/87
+bez=Marienfelder Allee in Hoehe Haus Nr. 70   ( Berlin 48 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter : bedeckt und trocken
+data=
+; 1 -> 2
+20 1 33 6 39 1 31 2 87 19 83 17 68 47 
+48 15 71 16 74 7 127 18 25 3 
+; 2 -> 1
+31 57 60 7 56 2 89 2 105 4 114 10 67 8 
+57 13 113 12 77 8 105 6 51 0 

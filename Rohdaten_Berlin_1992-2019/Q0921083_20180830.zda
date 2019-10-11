@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921083
+datum=30.08.2018
+kurzken=Q 0921083/18
+bez=Kastanienallee (nördl. Havelländer Ring Nord)  (Hellersdorf, 12627)
+arm1=Zossener Straße,70,0100
+arm2=Henny-Porten-Straße,1870,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+70	1	0	0	22
+39	0	0	3	4
+47	0	0	0	6
+38	0	0	0	6
+36	0	0	0	5
+49	2	0	0	6
+53	1	0	0	5
+60	2	0	0	8
+46	0	0	0	7
+34	0	0	0	6
+37	0	0	3	5
+56	0	0	2	12
+; 2 -> 1
+66	0	0	1	18
+47	0	0	0	4
+53	0	0	1	8
+54	0	0	4	1
+50	0	0	0	9
+39	0	0	1	7
+46	0	0	0	14
+48	1	0	2	15
+51	1	0	1	12
+48	0	0	2	14
+41	0	0	4	6
+53	0	0	3	5

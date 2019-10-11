@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920066
+datum=29.04.2004
+kurzken=Q 0920066/04
+bez=Heinsestraße (nördl. Fellbacher Platz)   (Hermsdorf, 13467)
+arm1=Backnanger Straße,250,0100
+arm2=Fellbacher Platz,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+92	1	0	1	9
+196	2	0	1	20
+177	0	0	1	21
+184	1	0	3	31
+185	3	0	9	27
+212	1	2	1	29
+195	1	1	5	38
+177	2	0	3	37
+168	5	3	5	47
+178	1	0	8	73
+169	1	0	2	31
+174	1	1	6	29
+; 2 -> 1
+307	0	0	1	65
+318	4	0	6	31
+221	2	0	3	19
+184	3	0	5	19
+153	1	0	4	20
+187	2	2	4	74
+246	4	2	6	83
+222	2	2	8	70
+242	2	3	7	57
+312	0	3	2	59
+285	2	1	5	44
+262	0	1	8	33

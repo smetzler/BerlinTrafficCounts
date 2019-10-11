@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16918
+datum=12.10.1989
+kurzken=Q 16918/89
+bez=Siemensstrasse noerdl. Gaertnerstrasse    ( Berlin 46 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+4 0 1 0 4 1 2 0 0 0 3 0 4 0 
+1 0 2 0 1 0 2 0 1 0 
+; 2 -> 1
+8 0 7 0 2 0 3 0 1 0 1 0 7 1 
+5 3 5 0 3 2 8 1 11 1 

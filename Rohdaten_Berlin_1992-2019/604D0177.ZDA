@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 05652
+datum=20.10.1983
+kurzken=Q 5652/83
+bez=Wilhelmstrasse    suedl. Weinmeisterhornweg  (Berlin 20)
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Verkehrsuntersuchung Spandau
+data=
+; 1 -> 2
+2 175 12 23 1 1 156 9 26 2 1 119 12 25 1 
+6 147 21 16 1 2 170 17 30 2 2 193 13 25 2 
+11 266 15 26 2 10 220 9 31 1 7 285 13 11 1 
+7 374 14 6 0 8 455 6 2 0 4 409 6 3 0 
+; 2 -> 1
+11 563 28 23 5 5 422 22 21 3 5 261 13 18 2 
+4 179 14 26 1 5 142 23 32 1 2 144 17 22 1 
+6 201 17 33 2 2 164 17 26 5 13 224 16 29 4 
+6 271 8 16 2 3 251 6 5 0 6 201 3 1 1 

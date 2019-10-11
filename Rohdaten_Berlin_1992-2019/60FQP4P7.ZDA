@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020401
+datum=12.09.1994
+kurzken=Q 020401/94
+bez=Markgrafenda. - Hauptstr. (westl. S-Bhf. Ostkreuz) (Friedrichsh., 10245) 
+arm1=Laskerstraße,1600,0100
+arm2=S-Bhf. Ostkreuz ,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Erheblicher Rückstau: Baustelle\, Stralauer Straße westl. Markgrafendamm in Richtung Westen gesperrt.\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+261,32,20,1,11
+251,25,17,0,4
+234,24,16,0,4
+166,42,32,1,1
+152,42,37,0,8
+210,38,50,1,12
+236,43,28,0,8
+322,18,42,1,13
+333,16,30,0,12
+226,13,10,1,10
+212,16,12,1,7
+194,9,10,0,8
+; 2 -> 1
+722,76,29,0,15
+613,82,47,0,19
+492,75,68,1,11
+459,73,54,0,4
+430,69,48,0,9
+387,71,61,0,5
+374,49,64,0,8
+375,50,68,0,13
+346,42,42,2,10
+502,52,40,0,12
+411,30,24,0,16
+333,29,15,1,11

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28673
+datum=24.03.2009
+kurzken=Q 28673/09
+bez=Scharnweberstraße (östl. Weichselstraße)   (Friedrichshain, 10247)
+arm1=Scharnweberstraße (W),800,0000
+arm2=Weichselstraße (S),1600,0001
+arm3=Scharnweberstraße (O),2600,0000
+arm4=Weichselstraße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=3 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+6	0
+6	0
+7	0
+2	0
+4	0
+8	1
+9	2
+10	2
+16	6
+16	0
+19	2
+; 4 -> 2
+7	1
+8	0
+5	0
+10	0
+12	0
+3	0
+7	1
+7	0
+12	2
+14	1
+8	0
+12	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901052
+datum=21.09.2006
+kurzken=Q 0901052/06
+bez=Unter den Linden (westl. Charlottenstraße)   (Mitte, 10117)
+arm1=Friedrichstraße,950,0100
+arm2=Charlottenstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=24°C max T; 11 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+399	47	19	19	46
+485	31	20	17	157
+605	42	30	31	173
+651	27	41	21	110
+667	39	39	23	114
+565	32	32	15	145
+584	32	41	29	210
+656	24	38	32	234
+746	28	37	49	269
+743	27	31	53	345
+737	15	33	48	389
+793	10	36	33	456
+; 2 -> 1
+881	66	19	46	186
+1078	62	27	42	439
+911	71	41	40	307
+782	64	48	37	189
+681	56	48	27	154
+716	55	47	21	170
+712	36	46	40	272
+705	25	47	29	185
+779	30	49	40	257
+783	19	44	43	283
+740	13	47	39	312
+758	6	40	49	285

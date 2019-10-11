@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907038
+datum=15.09.1999
+kurzken=Q 0907038/98
+bez=BAB A100 Stadtring Zu-Abfahrt Siemensdamm   (Charlottenburg, 13627)
+arm1=Siemensdamm,900,0100
+arm2=BAB A100,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+595	47	2	19
+495	69	1	14
+442	57	0	6
+394	70	1	8
+447	83	2	8
+433	66	1	18
+555	71	0	5
+754	54	0	36
+753	43	0	30
+757	27	1	28
+667	21	0	25
+610	17	0	22
+; 2 -> 1
+684	65	1	29
+623	66	0	27
+548	95	0	16
+349	58	0	10
+443	68	1	18
+488	75	0	8
+535	52	0	25
+444	56	0	8
+324	22	0	12
+402	13	0	13
+407	16	1	9
+502	12	0	16

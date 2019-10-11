@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7311035
+datum=18.08.1993
+kurzken=Q 731103.5/93-F
+bez=Köpenicker Straße südl. Grünauer Straße    ( Alt-Glienicke )
+arm1=West,700,0100
+arm2=Ost,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+8 13
+2 0
+11 0
+9 0
+5 0
+8 3
+16 2
+4 3
+13 3
+14 7
+17 2
+12 10
+; 2 -> 1
+10 32
+4 1
+18 3
+19 0
+2 0
+4 1
+18 12
+16 6
+6 0
+17 7
+16 8
+3 0

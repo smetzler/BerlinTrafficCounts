@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41865
+datum=07.05.1996
+kurzken=Q 41865/96
+bez=Teltower D. südl. Schädestr. (Querungen Fußgängerüberweg) (Z'df., 14167)
+arm1=Nord,200,0000
+arm2=Süd,2100,0000
+arm3=West,1100,0001
+arm4=Ost,2900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=11°C\, bedeckt\, 0\,9mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+3 1
+11 1
+6 0
+9 0
+14 0
+13 4
+7 4
+18 9
+10 3
+7 2
+2 2
+2 0
+; 4 -> 3
+29 35
+25 17
+10 0
+8 2
+15 0
+14 1
+11 1
+11 0
+6 3
+8 3
+8 4
+6 0

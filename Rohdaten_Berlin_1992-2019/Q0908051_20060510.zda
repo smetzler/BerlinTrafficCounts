@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908051
+datum=10.05.2006
+kurzken=Q 0908051/06
+bez=Parkweg am Spektesee (ca. 100 m östl.  Am Kiesteich)   (Spandau, 13589)
+arm1=(Westen),500,0100
+arm2=(Osten),2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=22°C max T; 15 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+98
+56
+50
+32
+21
+55
+73
+50
+42
+63
+48
+52
+; 2 -> 1
+35
+17
+19
+28
+27
+47
+53
+33
+44
+50
+45
+55

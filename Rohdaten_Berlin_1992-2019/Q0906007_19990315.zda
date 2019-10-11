@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906007
+datum=15.03.1999
+kurzken=Q 0906007/99
+bez=Wilhelmstraße (nördl. Stresemannstraße)   (Kreuzberg, 10963)
+arm1=Franz-Klühs-Straße,50,0100
+arm2=Stresemannstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+497	28	4	15
+509	47	0	9
+479	38	0	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+632	23	1	16
+654	28	2	23
+586	17	1	15
+; 2 -> 1
+585	48	2	8
+754	61	4	13
+765	37	1	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+878	27	1	13
+914	19	0	21
+735	8	0	15

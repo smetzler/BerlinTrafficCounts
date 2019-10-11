@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091007
+datum=01.09.2003
+kurzken=Q 091007/03
+bez=Rhinstraße (nördl. Landsberger Allee) (Hohenschönhausen, 13053)
+arm1=Allendorfer Weg,250,0100
+arm2=Landsberger Allee,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Rhinstr. zw. Hauptstr. u. Landsberger Allee Fahrbahn auf einen Fahrstreifen verengt !\nDurchführung der Erhebung: büro 
+data=
+; 1 -> 2
+726	61	70	5	18
+906	57	77	3	10
+866	65	90	2	8
+837	87	71	1	4
+784	111	116	1	7
+778	122	83	2	6
+766	102	90	1	8
+820	122	84	1	4
+865	75	82	7	10
+1069	62	57	4	8
+1040	90	28	5	5
+987	80	34	5	4
+; 2 -> 1
+812	93	51	4	7
+930	77	50	4	7
+844	98	85	1	4
+781	138	100	7	1
+719	146	88	3	0
+805	139	102	2	1
+823	128	108	0	7
+910	80	110	1	5
+932	65	90	3	11
+1081	88	81	4	10
+1117	91	67	4	25
+1053	58	51	4	10

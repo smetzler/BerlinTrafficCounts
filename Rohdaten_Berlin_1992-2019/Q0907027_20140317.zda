@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907027
+datum=17.03.2014
+kurzken=Q 0907027/14
+bez=AD Funkturm - von A115-AVUS nach A100-Süd   (Charlottenburg, 14055)
+arm1=A115-AVUS ,1400,0100
+arm2=A100-Sü (Halenseestr./Rathenauplatz),2200,0000
+arm3=A100-Nord (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+909	51	0	5
+655	63	1	2
+806	54	2	3
+891	47	5	2
+919	50	5	3
+864	46	2	2
+823	41	2	2
+576	37	5	1
+741	30	4	1
+619	14	4	0
+720	14	3	6
+760	23	2	2

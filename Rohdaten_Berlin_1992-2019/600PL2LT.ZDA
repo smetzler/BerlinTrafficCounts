@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00921
+datum=18.02.1988
+kurzken=Q 921/88
+bez=Holzhauser Strasse suedl. Triftstrasse    ( Berlin 27 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Riegel Reinickendorf
+data=
+; 1 -> 2
+774 510 472 449 441 387 698 605 676 645 487 405 
+; 2 -> 1
+474 417 450 413 501 522 492 559 858 842 623 434 

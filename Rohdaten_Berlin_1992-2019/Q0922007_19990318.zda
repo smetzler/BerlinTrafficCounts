@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922007
+datum=18.03.1999
+kurzken=Q 0922007/99
+bez=Konrad-Wolf-Straße (westl. Sommerstraße)   (Hohenschönhausen, 12681)
+arm1=Weißenseer Weg,1100,0100
+arm2=Sommerstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+332	14	0	1
+338	35	2	1
+389	31	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+706	21	0	11
+751	17	0	14
+719	26	0	13
+; 2 -> 1
+574	60	0	5
+580	42	2	9
+490	30	3	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+484	14	0	5
+515	12	2	11
+471	8	0	10

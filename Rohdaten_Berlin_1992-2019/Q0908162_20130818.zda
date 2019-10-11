@@ -1,0 +1,32 @@
+[ZA1001]
+knoten=Q 0908162
+datum=18.08.2013
+kurzken=Q 0908162/13
+bez=Wilhelmstraße (Höhe Nr. 73)   (Spandau, 13593)
+arm1=Weinmeisterhornweg,1600,0100
+arm2=Rodensteinstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf,Erw,Jugend
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Radfahrer und Fußgänger (Erw. und Jugend) erfasst.\nFußgänger auf dem Geweg\, nach Geh-Richtung unterschieden\, nicht nach Gehwegseite.\n
+data=
+; 1 -> 2
+32	2	0
+21	7	0
+16	7	2
+10	6	6
+14	2	0
+4	2	0
+; 2 -> 1
+20	0	0
+19	2	0
+9	2	0
+0	0	0
+3	0	0
+4	2	1

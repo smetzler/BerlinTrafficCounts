@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919008
+datum=17.06.1998
+kurzken=Q 0919008/98
+bez=Blankenburger Str. (östl. Buchholzer Str.)   (Niederschönhausen, 13156)
+arm1=Buchholzer Straße,1000,0100
+arm2=Siegfriedstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+409	47	12	4
+431	57	7	10
+456	53	8	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+659	26	13	18
+679	19	11	11
+684	10	12	14
+; 2 -> 1
+557	54	9	12
+488	38	6	3
+459	46	5	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+509	27	9	12
+547	23	8	15
+569	18	8	17

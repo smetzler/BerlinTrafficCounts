@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7583
+datum=16.03.2015
+kurzken=Q 7583/15
+bez=Oranienstraße (östl. Moritzplatz)   (Kreuzberg, 10969)
+arm1=Moritzplatz (N),150,0100
+arm2=Moritzplatz (W),1050,1000
+arm3=Oranienstraße (O),2400,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Oranienstr. östl. des Moritzplatzes queren.\nWetter: max T=12°C; Sonne=6 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+4	0
+9	0
+12	0
+8	0
+17	0
+34	1
+19	1
+24	0
+32	0
+14	2
+34	0
+28	0
+; 2 -> 1
+2	0
+5	0
+7	0
+18	4
+15	0
+20	0
+29	1
+17	1
+22	3
+24	0
+20	2
+27	2

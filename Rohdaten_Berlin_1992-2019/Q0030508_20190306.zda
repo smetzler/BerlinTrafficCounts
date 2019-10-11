@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 0030508
+datum=06.03.2019
+kurzken=Q 0030508/19
+bez=Preller Weg (östl. Sembritzkistraße) (Schöneberg, 12157) 
+arm1=Sembritzkistraße,800,0100
+arm2=Röblingstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+; 2 -> 1

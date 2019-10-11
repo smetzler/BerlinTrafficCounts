@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0031403
+datum=19.03.2019
+kurzken=Q 0031403/19
+bez=Gersdorfstraße (Techowbrücke) (Tempelhof, 12105) 
+arm1=Attilastraße,300,0100
+arm2=Kurfürstenstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+270	6	8	4	15
+282	13	6	0	13
+255	5	7	1	9
+364	10	12	2	12
+328	20	8	4	4
+376	16	7	6	12
+339	8	6	2	12
+416	9	8	4	9
+530	3	8	10	14
+506	0	8	10	30
+425	1	4	8	17
+381	2	2	6	26
+; 2 -> 1
+560	7	7	9	26
+474	10	7	4	31
+381	8	7	3	13
+290	6	12	4	8
+257	4	8	5	10
+249	5	7	4	11
+283	9	6	4	16
+384	9	8	3	14
+342	4	7	8	18
+322	4	10	8	18
+330	0	4	4	14
+272	1	7	3	24

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 72432
+datum=28.11.2005
+kurzken=Q 72432/05
+bez=Altmarkstraße (westl. Thorwaldsenstraße)   (Steglitz, 12157)
+arm1=Thorwaldsenstraße,450,0010
+arm2=Altmarkstraße,1350,0000
+arm3=Thorwaldsenstraße,2200,1000
+arm4=Canovastraße,2820,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=2°C; Sonne=0\,5 Std; Niederschlag (Schneeschauer)=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+6	1
+24	5
+16	1
+13	1
+14	2
+11	1
+7	0
+7	0
+11	3
+6	1
+6	0
+18	1
+; 3 -> 1
+7	3
+17	3
+13	0
+10	1
+17	1
+12	2
+5	0
+13	2
+13	3
+16	1
+10	0
+12	0

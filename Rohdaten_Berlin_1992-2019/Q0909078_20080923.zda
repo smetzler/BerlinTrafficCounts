@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909078
+datum=23.09.2008
+kurzken=Q 0909078/08
+bez=Cunostraße (südl. Reichenhaller Str.)   (Schmargendorf, 14199)
+arm1=Friedrichshaller Straße,1750,0100
+arm2=Reichenhaller Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+79	1	0	3	9
+52	2	0	0	5
+51	0	0	1	6
+48	2	0	0	2
+51	3	0	0	2
+50	1	0	1	7
+70	2	0	0	7
+82	0	0	3	4
+86	2	0	2	6
+102	0	0	1	15
+76	0	0	1	16
+62	0	0	1	13
+; 2 -> 1
+75	2	0	3	6
+71	0	0	0	4
+60	3	0	0	7
+84	0	0	0	6
+56	2	0	0	3
+77	0	0	0	5
+89	0	0	2	14
+69	1	0	2	8
+120	2	0	2	2
+132	2	0	4	8
+97	0	0	5	16
+69	0	0	1	9

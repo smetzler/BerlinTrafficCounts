@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0904022
+datum=09.05.2006
+kurzken=Q 0904022/06
+bez=Schwedter Steg (südl. Behmstraße) (Prenzlauer Berg, 10439)
+arm1=Behmstraße,100,0100
+arm2=Kopenhagener Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+62
+114
+97
+55
+61
+53
+48
+49
+72
+91
+104
+117
+; 2 -> 1
+40
+41
+51
+36
+44
+44
+41
+57
+66
+113
+114
+151

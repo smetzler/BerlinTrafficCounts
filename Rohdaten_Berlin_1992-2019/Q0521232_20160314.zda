@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 521232
+datum=14.03.2016
+kurzken=Q 521232/16
+bez=Müllerstraße (südl. Burgsdorfstr., Ostseite bis Mittelstreifen)   (Wedding, 13353)
+arm1=Müllerstraße (N),450,0000
+arm2=Burgsdorfstraße,1350,0001
+arm3=Müllerstraße (S),2250,0000
+arm4=((Osten)),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+59	2
+83	5
+101	1
+99	7
+70	0
+65	4
+50	0
+66	2
+76	11
+62	9
+41	2
+60	2
+; 4 -> 2
+44	9
+86	4
+90	1
+82	1
+91	2
+66	1
+49	0
+86	1
+71	3
+52	0
+25	3
+31	0

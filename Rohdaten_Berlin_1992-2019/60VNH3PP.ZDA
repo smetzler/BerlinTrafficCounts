@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41021
+datum=14.8.1991
+kurzken=Q 4102.1/91-F
+bez=Schlosstrasse zw. Treitschkestrasse und Feuerbachstrasse    ( Berlin 41 )
+arm1=Feuerbachstraße,900,0100
+arm2=Treitschkestraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe Karstadt !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+39 
+85 
+325 
+482 
+1011 
+1084 
+1081 
+811 
+892 
+1035 
+655 
+343 
+; 2 -> 1
+38 
+117 
+446 
+564 
+771 
+943 
+898 
+927 
+826 
+866 
+788 
+482 

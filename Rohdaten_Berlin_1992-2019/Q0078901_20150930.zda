@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 78901
+datum=30.09.2015
+kurzken=Q 78901/15
+bez=Laubenheimer Straße (nordwestl. Südwestkorso)   (Friedenau, 14197)
+arm1=Laubenheimer Straße (NW),370,0000
+arm2=Südwestkorso (SW),1180,0001
+arm3=Laubenheimer Straße SO),2050,0000
+arm4=Südwestkorso (NO),3040,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+2	3
+7	1
+16	0
+13	0
+12	0
+16	0
+15	2
+11	0
+12	0
+18	4
+19	1
+29	0
+; 4 -> 2
+9	0
+13	1
+16	0
+19	0
+29	0
+17	0
+10	2
+7	2
+14	2
+11	0
+9	1
+12	3

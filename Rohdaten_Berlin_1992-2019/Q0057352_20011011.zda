@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 57352
+datum=11.10.2001
+kurzken=Q 57352/01
+bez=Jänickestraße (südl. Mühlenstraße)   (Zehlendorf, 14167)
+arm1=West,950,0010
+arm2=Jänickestraße (Süd),1650,0000
+arm3=Ost,2900,1000
+arm4=Jänickestraße (Nord),3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 15°C; Sonne: 0 Std; Niederschlag: 4 mm;\n - büro für   
+data=
+; 1 -> 3
+1 0
+2 1
+0 0
+1 0
+1 0
+0 0
+8 3
+0 0
+5 6
+3 3
+3 5
+4 3
+; 3 -> 1
+2 6
+2 1
+0 0
+2 0
+3 0
+4 2
+2 3
+1 3
+7 3
+4 4
+3 2
+5 0

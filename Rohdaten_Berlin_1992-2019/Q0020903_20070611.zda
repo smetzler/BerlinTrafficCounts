@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020903
+datum=11.06.2007
+kurzken=Q 020903/07
+bez=Gürtelstraße (nördl. Scharnweberstraße) (Friedrichshain, 10247)
+arm1=Frankfurter Allee,3300,0100
+arm2=Scharnweberstraße,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: zw. Scharnweberstr. und Oderstr. Einbahnstr. Ri. Frankfurter Allee.
+data=
+; 1 -> 2
+500	35	43	1	33
+470	34	26	2	46
+469	20	23	1	40
+400	28	27	1	40
+369	19	22	0	35
+366	36	34	0	29
+409	33	26	0	42
+456	26	28	1	40
+406	30	15	2	60
+420	28	11	1	80
+407	31	6	2	98
+413	24	6	0	94
+; 2 -> 1
+435	27	20	0	41
+490	33	16	3	81
+444	36	27	4	72
+484	24	27	2	43
+469	25	31	0	42
+442	28	25	0	43
+430	25	38	1	55
+464	25	24	0	57
+557	25	24	1	65
+611	36	15	0	66
+635	35	21	1	93
+550	37	6	0	80

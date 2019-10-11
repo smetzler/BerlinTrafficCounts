@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58215
+datum=27.03.1990
+kurzken=Q 58215/90
+bez=Courbierestrasse noerdl. Kleiststrasse    ( Berlin 30 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+13 1 13 0 14 0 33 6 77 7 66 4 33 0 
+35 4 80 4 78 17 45 1 25 0 
+; 2 -> 1
+11 5 42 2 25 6 13 2 63 2 70 2 32 11 
+31 6 76 9 117 27 77 15 48 16 

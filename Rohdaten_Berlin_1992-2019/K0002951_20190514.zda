@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=K 2951
+datum=14.05.2019
+kurzken=K 2951/19
+bez=A111 - Zu.- Abf. Kurt-Schumacher-Damm (nördl. J.-Kaiser-Pl.) (Charlottenburg, 13627) 
+arm1=Kurt-Schumacher-Damm (Westfahrb.),250,0100
+arm2=A111 (AD Charlottenburg),1700,0010
+arm3=Kurt-Schumacher-Damm (Ostfahrb.),3150,0000
+arm4=A111 (Nord),3500,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+721	23	3	6	0
+567	36	0	5	0
+624	37	1	10	0
+104	6	0	2	0
+163	7	0	4	0
+101	4	1	1	0
+156	9	0	2	0
+422	28	4	7	0
+561	19	2	4	0
+142	4	0	2	0
+104	0	0	2	0
+127	0	0	2	0
+; 2 -> 3
+675	34	17	7	0
+715	41	23	12	0
+741	37	29	10	0
+730	40	22	6	0
+788	43	29	12	0
+818	50	28	14	0
+917	32	28	22	0
+1119	28	27	28	0
+1525	23	32	37	0
+1638	28	30	38	0
+1642	30	33	29	0
+1154	11	27	19	0

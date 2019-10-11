@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922001
+datum=22.06.1998
+kurzken=Q 0922001/98
+bez=I.-Gandhi-Straße (nördl. Hansastraße)   (Hohenschönhausen, 13053)
+arm1=Gounodstraße,150,0100
+arm2=Hansastraße,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1143	105	12	16
+952	89	21	8
+891	112	13	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1248	72	7	18
+1588	51	8	17
+1337	38	8	18
+; 2 -> 1
+983	84	14	12
+964	92	10	10
+934	98	12	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1172	65	5	14
+1190	42	6	18
+1109	28	5	24

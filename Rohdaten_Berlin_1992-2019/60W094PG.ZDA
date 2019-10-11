@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41481
+datum=21.09.1994
+kurzken=Q 41481/94
+bez=Ortolanweg (Höhe Hochspannungsweg) (Rudow, 12359) 
+arm1=Wendehalsweg,450,0000
+arm2=Schirmvogelweg,2250,0000
+arm3=Osten,3150,0001
+arm4=Westen,1350,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T =15°\, wolkig\, kein Niederschlag\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 3 -> 4
+9,13
+5,1
+0,0
+2,28
+1,15
+9,43
+2,23
+0,5
+0,0
+1,5
+6,0
+4,4
+; 4 -> 3
+8,50
+7,28
+1,10
+0,0
+2,0
+4,3
+1,5
+6,11
+2,4
+7,2
+5,2
+0,0

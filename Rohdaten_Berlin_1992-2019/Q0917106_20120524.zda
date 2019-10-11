@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917106
+datum=24.05.2012
+kurzken=Q 0917106/12
+bez=(Alte) Frankfurter Allee (Höhe U-Bhf.-Eingang, gegenüber Nr. 241)   (Lichtenberg, 10365)
+arm1=Hubertusstraße,1100,0000
+arm2=Siegfriedstraße,2900,0000
+arm3=((Norden)),200,0001
+arm4=((Süden)),2000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. (unterteilt in Erw. u. Jugend)\, die die "Alte Frankf. A."in Höhe Nr. 5  (ca. 50m westl. bis zur Siegfriedstr\,) überqueren.\nWetter: max T=25°C; Sonne=14 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+284	59
+265	44
+331	50
+274	8
+249	24
+214	23
+233	12
+284	25
+414	44
+344	42
+275	30
+228	15
+; 4 -> 3
+373	47
+350	35
+310	29
+268	8
+298	18
+278	36
+318	58
+346	41
+419	38
+458	56
+432	39
+356	21

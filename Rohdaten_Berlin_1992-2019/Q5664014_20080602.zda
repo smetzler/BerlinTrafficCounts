@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5664014
+datum=02.06.2008
+kurzken=Q 5664014/08
+bez=Masurenstraße (östl. Mühlenstraße)  (Pankow, 13189)
+arm1=Mühlenstraße,450,0010
+arm2=,0,0000
+arm3=Mühlenstraße,2070,1000
+arm4=Masurenstraße,2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=31°C; Sonne=15 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+2	2
+8	0
+6	0
+10	0
+12	38
+10	0
+1	0
+7	0
+3	4
+4	4
+13	4
+3	0
+; 3 -> 1
+10	7
+7	1
+9	0
+6	0
+5	0
+9	0
+7	2
+3	2
+4	3
+5	4
+12	2
+1	1

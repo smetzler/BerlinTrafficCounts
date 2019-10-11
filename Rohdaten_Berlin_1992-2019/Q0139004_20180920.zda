@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139004
+datum=20.09.2018
+kurzken=Q 139004/18
+bez=Buckower Damm - Karl-Marx-Str. (südl. Stuthirtenweg)   (Neukölln, 12349)
+arm1=Stuthirtenweg,100,0100
+arm2=W.-Simon-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+189	6	3	7	9
+226	9	2	7	11
+213	9	3	8	10
+276	4	2	4	14
+325	5	3	8	17
+286	5	4	9	16
+366	11	3	10	15
+432	6	4	14	25
+572	1	3	30	25
+544	4	2	14	36
+452	2	3	7	23
+453	0	3	20	15
+; 2 -> 1
+612	11	1	19	28
+436	9	0	9	19
+351	10	0	5	12
+288	28	1	20	10
+327	10	0	8	15
+226	5	0	10	7
+326	4	0	15	24
+280	7	0	8	12
+338	5	0	12	20
+370	1	1	14	14
+337	5	0	10	28
+343	1	0	9	21

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0051405
+datum=11.03.2019
+kurzken=Q 0051405/19
+bez=Wismarer Straße (Eugen-Kleine-Brücke) (Steglitz, 12207) 
+arm1=Goerzallee,400,0100
+arm2=Ostpreußendamm,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+367	25	8	2	26
+438	29	9	1	37
+399	30	9	2	25
+480	20	8	2	14
+471	30	9	4	11
+422	29	12	3	8
+493	31	9	2	7
+567	39	10	3	16
+794	23	11	3	14
+634	20	10	2	12
+603	9	11	5	21
+472	7	9	0	24
+; 2 -> 1
+836	33	11	3	48
+844	36	9	2	43
+569	39	9	3	24
+528	28	8	4	12
+502	29	9	5	13
+409	31	12	3	13
+403	27	9	1	16
+384	21	10	0	13
+491	29	12	5	26
+424	22	10	0	20
+396	3	10	2	17
+317	6	8	4	15

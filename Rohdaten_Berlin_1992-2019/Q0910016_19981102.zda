@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910016
+datum=02.11.1998
+kurzken=Q 0910016/98
+bez=Habelschwerdter Allee (südl. Thielallee)   (Zehlendorf, 14169)
+arm1=Thielallee,300,0100
+arm2=Schwendener Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+261	11	12	1
+341	8	13	2
+298	21	12	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+510	12	12	5
+506	11	12	8
+464	5	13	2
+; 2 -> 1
+570	17	10	8
+540	19	15	10
+473	18	12	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+400	10	10	2
+457	3	11	5
+354	2	12	1

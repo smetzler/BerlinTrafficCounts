@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26167
+datum=30.3.1993
+kurzken=Q 2616.7/93-F
+bez=Rüdigerstraße östl. Atzpodienstraße    (Lichtenberg )
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+29 71 
+13 3 
+25 3 
+30 3 
+36 7 
+18 2 
+17 6 
+21 3 
+38 12 
+40 14 
+38 11 
+15 11 
+; 2 -> 1
+27 17 
+15 1 
+13 0 
+26 1 
+28 19 
+21 13 
+27 13 
+24 8 
+18 17 
+31 26 
+27 19 
+13 8 

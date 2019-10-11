@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0911027
+datum=27.04.1999
+kurzken=Q 0911027/99
+bez=Wexstraße (Nord) - Zufahrt BAB A100 (Friedenau, 10825)
+arm1=,0,0000
+arm2=BAB A100 (AS Detmolder Str.),1000,0000
+arm3=Wexstraße (Nord)-Innsbrucker Platz,2800,0100
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 2
+438	18	0	15
+503	21	0	7
+491	20	1	16
+359	16	1	4
+477	25	0	4
+510	19	2	9
+499	28	1	14
+521	19	1	10
+571	19	0	10
+487	14	1	17
+492	6	1	9
+556	5	1	6

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28891
+datum=04.05.2010
+kurzken=Q 28891/10
+bez=Trelleborger Straße (nördl. Elsa-Brändström-Straße)    (Pankow, 13189)
+arm1=Trelleborger Straße (N),50,0000
+arm2=Elsa-Brändström-Straße (W),900,0001
+arm3=Trelleborger Straße (S),1850,0000
+arm4=Elsa-Brändström-Straße (O),2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+7	1
+11	1
+14	0
+11	1
+11	1
+7	0
+13	5
+7	2
+5	0
+8	3
+11	4
+17	2
+; 4 -> 2
+22	2
+35	3
+23	2
+16	0
+11	0
+16	15
+16	9
+16	10
+13	3
+5	0
+5	2
+16	0

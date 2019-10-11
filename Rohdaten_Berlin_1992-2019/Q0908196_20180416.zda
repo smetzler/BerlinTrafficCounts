@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908196
+datum=16.04.2018
+kurzken=Q 0908196/18
+bez=Falkenseer Damm (südl. Askanierring; Höhe zw. Nr.18 u. 20)   (Spandau, 13585)
+arm1=Askanierring,300,0000
+arm2=Flankenschanze,2100,0000
+arm3=(Südwesten),1200,0001
+arm4=(Nordosten\, Höhe zw. 18 u. 20),3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=VZ auf Höhe zwischen den Hausnummer 18 u. 20!\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+3	2
+1	0
+2	0
+1	0
+0	1
+2	0
+2	4
+1	0
+1	0
+11	3
+4	0
+7	2
+; 4 -> 3
+2	5
+2	0
+1	0
+2	0
+0	0
+4	1
+2	0
+1	0
+3	0
+2	5
+6	0
+6	3

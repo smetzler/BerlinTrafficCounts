@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914903
+datum=14.06.2017
+kurzken=Q 0914903/17
+bez=Karl-Marx-Straße (nördl. Saalestraße)   (Neukölln, 12055)
+arm1=Braunschweiger Straße,50,0100
+arm2=Saalestraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 14 Std Sonne; 0\,0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+64
+66
+69
+44
+34
+53
+68
+45
+68
+76
+73
+78
+; 2 -> 1
+46
+81
+85
+48
+59
+59
+70
+71
+103
+100
+122
+91

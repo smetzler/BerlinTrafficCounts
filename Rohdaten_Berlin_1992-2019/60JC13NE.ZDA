@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25057
+datum=27.5.1991
+kurzken=Q 2505.7/91-F
+bez=Malmoeer Strasse suedlich Bornholmer Strasse    ( Prenzl.Berg )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+6 1 0 
+18 0 1 
+31 0 2 
+22 1 3 
+31 0 0 
+24 1 0 
+26 2 0 
+22 1 1 
+33 5 3 
+27 6 3 
+17 4 2 
+20 2 1 
+; 2 -> 1
+4 1 0 
+9 1 0 
+26 0 1 
+25 2 1 
+31 1 1 
+40 1 0 
+36 1 3 
+34 2 3 
+43 0 0 
+41 2 1 
+39 3 1 
+38 2 2 

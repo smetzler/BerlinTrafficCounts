@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 6169
+datum=24.05.1989
+kurzken=K 6169/89
+bez=Lipschitzallee / Hugo-Heimann-Strasse    ( Berlin 47 )
+Arm1=Hugo-Heimann-Strasse,600,0000
+Arm2=Lipschitzallee,1580,1001
+Arm3=,0,0000
+Arm4=Lipschitzallee,3380,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 1
+61 30 15 16 29 39 33 23 37 38 51 28 
+; 2 -> 4
+192 122 173 136 184 150 182 219 256 251 276 197 
+; 4 -> 1
+48 34 21 33 32 38 34 33 52 50 39 54 
+; 4 -> 2
+244 198 213 240 236 206 231 256 297 372 372 334 

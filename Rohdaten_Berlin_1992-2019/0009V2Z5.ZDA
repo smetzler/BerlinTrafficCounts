@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0355
+datum=18.04.1989
+kurzken=K 355/89
+bez=Perleberger Strasse / Quitzowstrasse    ( Berlin 21 )
+Arm1=Quitzowstrasse,850,0101
+Arm2=Perleberger Strasse,1290,0001
+Arm3=,0,0000
+Arm4=Perleberger Strasse,3090,0100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+13 17 26 32 28 18 17 19 18 31 24 23 
+; 1 -> 4
+281 311 266 283 263 256 283 338 378 399 299 205 
+; 2 -> 4
+568 628 518 552 527 473 679 663 900 1014 747 714 
+; 4 -> 2
+921 705 549 587 579 522 560 541 869 868 722 650 

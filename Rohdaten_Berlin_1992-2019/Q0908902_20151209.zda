@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908902
+datum=09.12.2015
+kurzken=Q 0908902/15
+bez=Schönwalder Straße (westl. Neuendorfer Straße)   (Spandau, 13585)
+arm1=Müllerstraße,300,0100
+arm2=Neuendorfer Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 9°C max T; 0 Std Sonne; 1 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+26
+21
+10
+8
+9
+11
+11
+15
+13
+8
+10
+8
+; 2 -> 1
+9
+9
+6
+6
+10
+16
+21
+22
+17
+14
+8
+14

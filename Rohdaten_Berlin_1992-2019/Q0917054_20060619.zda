@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917054
+datum=19.06.2006
+kurzken=Q 0917054/06
+bez=Buchberger Straße (Weg zum S-Bhf. Nöldnerplatz)   (Lichtenberg, 10365)
+arm1=Coppistraße (West),800,0000
+arm2=Coppistraße (Nordost),2900,0000
+arm3=((Norden)),100,0001
+arm4=(zum S-Bhf. Nöldnerplatz),1900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger \, die von/zum S-Bhf. die Buchberger Str. überqueren!\nWetter: max T=31°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+79	35
+80	12
+93	2
+30	2
+73	3
+40	8
+34	9
+36	4
+38	2
+44	10
+47	6
+22	7
+; 4 -> 3
+36	9
+26	7
+19	4
+28	2
+32	6
+54	3
+31	5
+41	5
+42	14
+66	6
+58	7
+76	11

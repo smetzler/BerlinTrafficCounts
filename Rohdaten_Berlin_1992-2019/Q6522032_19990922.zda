@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6522032
+datum=22.09.1999
+kurzken=Q 6522032/99
+bez=Simon-Dach-Straße (südl. Boxhagener Straße)  (Friedrichshain, 10245)
+arm1=Boxhagener Straße,700,0010
+arm2=Simon-Dach-Straße,1650,0000
+arm3=Boxhagener Straße,2540,1000
+arm4=Niederbarnimstraße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3\,5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+10	4
+6	3
+20	5
+12	2
+21	1
+16	0
+24	1
+17	2
+12	0
+22	2
+19	3
+14	0
+; 3 -> 1
+11	1
+10	0
+19	1
+12	1
+19	0
+23	1
+7	0
+18	0
+11	0
+19	0
+17	1
+10	0

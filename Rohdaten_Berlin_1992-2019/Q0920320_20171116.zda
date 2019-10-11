@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920320
+datum=16.11.2017
+kurzken=Q 0920320/17
+bez=Alt-Wittenau (östl. Rosentreterpromenade)   (Wittenau, 13437)
+arm1=Rosentreterpromenade,700,0100
+arm2=Hermsdorfer Straße - Triftstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+218	5	8	4	8
+221	10	6	2	12
+173	8	5	2	9
+181	4	7	3	6
+218	4	5	5	1
+200	1	7	3	9
+160	4	6	2	11
+198	6	6	3	9
+233	4	6	3	9
+206	1	6	2	11
+172	0	6	2	11
+151	0	10	1	9
+; 2 -> 1
+167	9	9	1	13
+160	9	6	0	7
+140	6	7	2	5
+166	3	7	1	4
+181	11	6	2	6
+190	7	5	2	8
+194	5	6	1	9
+223	1	6	7	11
+173	5	6	2	6
+171	1	6	4	7
+189	0	7	3	6
+113	0	4	1	7

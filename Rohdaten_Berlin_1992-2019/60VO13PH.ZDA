@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41041
+datum=6.8.1991
+kurzken=Q 4104.1/91-F
+bez=Tauentzienstrasse zw. Breitscheidplatz und Nuernberger Strasse    ( Berlin 30 )
+arm1=Nürnberger Straße,900,0100
+arm2=Breitscheidplatz,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe "Betten Rutz" !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+63 
+235 
+384 
+785 
+1032 
+1269 
+1275 
+1268 
+1036 
+1335 
+1235 
+1065 
+; 2 -> 1
+114 
+227 
+368 
+738 
+1131 
+1513 
+1334 
+1353 
+1349 
+1367 
+1270 
+973 

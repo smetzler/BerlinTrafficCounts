@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 18522
+datum=18.04.2005
+kurzken=Q 18522/05
+bez=Lipschitzallee (westl. Fritz-Erler-Allee),(Buckow, 12351)
+arm1=Fritz-Erler-Allee,500,0010
+arm2=Lipschitzallee,1350,0000
+arm3=Fritz-Erler-Allee,2300,1000
+arm4=Lipschitzallee,3150,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=11\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+12	13
+7	5
+16	23
+15	1
+16	0
+14	2
+20	5
+23	5
+26	17
+29	46
+20	2
+20	7
+; 3 -> 1
+21	20
+16	10
+24	5
+18	0
+17	1
+19	5
+25	35
+27	4
+24	7
+20	8
+11	1
+22	4

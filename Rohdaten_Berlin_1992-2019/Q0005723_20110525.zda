@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5723
+datum=25.05.2011
+kurzken=Q 5723/11
+bez=Heerstraße (östl. Teufelsseechaussee)   (Westend, 14055)
+arm1=Heerstraße (W),950,0000
+arm2=Teufelsseechaussee,1700,0001
+arm3=Heerstraße (O),2750,0000
+arm4=Nebenfahrbahn-Heerstr.,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+122	28
+111	31
+64	8
+48	1
+147	20
+138	47
+58	86
+85	124
+72	55
+132	24
+97	6
+139	2
+; 4 -> 2
+175	56
+120	6
+88	1
+76	0
+134	26
+86	158
+67	111
+95	96
+110	55
+91	24
+120	9
+84	8

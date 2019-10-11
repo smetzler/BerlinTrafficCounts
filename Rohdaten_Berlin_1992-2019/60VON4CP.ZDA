@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41063
+datum=10.8.1993
+kurzken=Q 4106.3/93
+bez=Kurfürstendamm zw. Knesebeckstr. u. Uhlandstr.    ( Charlottenburg )
+arm1=Knesebeckstraße,850,0100
+arm2=Uhlandstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=IV-Verkehr ohne Busspur !
+data=
+; 1 -> 2
+428 
+469 
+585 
+599 
+664 
+686 
+708 
+693 
+713 
+685 
+757 
+659 
+; 2 -> 1
+387 
+488 
+587 
+613 
+705 
+714 
+684 
+689 
+691 
+604 
+736 
+674 

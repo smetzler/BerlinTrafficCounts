@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0910025
+datum=26.04.1999
+kurzken=Q 0910025/99
+bez=AK Zehlendorf - von Potsdamer Ch. (W) nach A115 (N) (Zehlendorf, 14129)
+arm1=A115 (AS Spanische Allee),50,0000
+arm2=Potsdamer Chaussee (West),950,1000
+arm3=A115 (Stadtgrenze),1850,0000
+arm4=Potsdamer Chaussee (Ost),2900,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+636	16	0	2
+585	28	1	4
+438	15	0	2
+349	27	4	4
+374	13	1	7
+372	16	0	1
+398	12	1	7
+490	22	3	10
+669	12	1	7
+665	10	5	9
+809	4	6	13
+615	2	6	12

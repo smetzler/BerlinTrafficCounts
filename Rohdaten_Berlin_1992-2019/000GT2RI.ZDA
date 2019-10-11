@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0605
+datum=31.08.1988
+kurzken=K 605/88
+bez=Ernst-Reuter-Platz / Otto-Suhr-Allee   ( Berlin 10 )
+Arm1=Otto-Suhr-Allee,680,0100
+Arm2=Ernst-Reuter-Platz,1600,0000
+Arm3=,0,0000
+Arm4=Ernst-Reuter-Platz,2900,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1268 1163 965 1010 991 943 1013 1021 1094 1014 969 938 
+; 4 -> 1
+981 850 924 932 950 905 1109 1033 1331 1392 1222 1022 
+; 4 -> 2
+1305 1421 1346 1538 1530 1767 1756 1673 2238 2416 1908 1647 

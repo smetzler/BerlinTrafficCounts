@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 30144
+datum=19.06.2017
+kurzken=Q 30144/17
+bez=Baumschulenstraße (nördl. Stormstraße-Glanzstraße)    (Baumschulenweg, 12437)
+arm1=Stormstraße,500,0010
+arm2=Baumschulenstraße (S),1500,0000
+arm3=Glanzstraße,2300,1000
+arm4=Baumschulenstraße (N),3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+8	4
+9	0
+5	0
+8	4
+10	0
+4	1
+4	0
+4	1
+13	0
+20	2
+4	0
+7	0
+; 3 -> 1
+9	2
+6	0
+16	0
+6	0
+16	0
+5	1
+11	0
+10	3
+10	0
+14	0
+9	0
+12	1

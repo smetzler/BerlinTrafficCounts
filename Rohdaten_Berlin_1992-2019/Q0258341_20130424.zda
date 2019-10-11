@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 258341
+datum=24.04.2013
+kurzken=Q 258341/13
+bez=Rosenfelder Straße - Westfahrbahn (nördl. Frankfurter Allee)   (Lichtenberg, 10315)
+arm1=Frankfurter Allee,840,0010
+arm2=Rosenfelder Straße (S),1450,0000
+arm3=Alt-Friedrichsfelde,2640,1000
+arm4=Rosenfelder Straße (N),3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, zwischen dem westl. Gehweg Rosenfelder Str. und der Mittelinsel
+data=
+; 1 -> 3
+11	1
+16	0
+34	1
+30	0
+27	0
+30	0
+26	1
+57	3
+61	6
+88	11
+65	11
+51	4
+; 3 -> 1
+14	1
+27	2
+20	0
+29	0
+29	0
+20	1
+24	8
+39	5
+34	5
+55	7
+82	9
+46	9

@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0919111
+datum=06.06.2007
+kurzken=Q 0919111/07
+bez=Grumbkowstraße (südl. Blankenburger Str.)   (Niederschönhausen, 13156)
+arm1=Blankenburger Straße,200,0000
+arm2=Rolandstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Einbahnstraße zwischen Schloßallee und Blankenburger Str.!\nDurchführung; der Erhebungen:  - büro für   
+data=
+; 2 -> 1
+2	0	2	1	0
+1	0	0	0	0
+0	0	0	0	0
+1	0	0	0	0
+8	0	1	0	1
+29	2	3	0	1
+44	2	6	0	6
+86	1	5	2	7
+80	1	5	2	9
+64	0	3	2	2
+50	1	4	0	7
+46	4	2	1	8
+35	5	2	0	10
+29	6	3	3	9
+42	2	4	0	6
+54	0	5	1	14
+57	1	6	1	12
+50	0	7	2	13
+43	0	3	0	8
+29	0	3	0	5
+17	0	3	0	6
+14	0	3	0	2
+10	1	3	0	0
+6	0	2	0	0

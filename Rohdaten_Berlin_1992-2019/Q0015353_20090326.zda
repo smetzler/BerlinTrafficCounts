@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15353
+datum=26.03.2009
+kurzken=Q 15353/04
+bez=Albrechtstraße (östl. Schloßstraße)  (Steglitz, 12165)
+arm1=Grunewaldstraße,600,0000
+arm2=Schloßstraße,1450,0001
+arm3=Albrechtstraße,2400,0000
+arm4=Schloßstraße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=1 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+135	61
+223	19
+320	36
+414	28
+429	14
+468	12
+450	36
+431	30
+508	24
+463	36
+503	34
+345	19
+; 4 -> 2
+133	67
+218	34
+254	10
+350	13
+373	35
+441	20
+539	25
+485	58
+532	42
+500	32
+505	38
+382	21

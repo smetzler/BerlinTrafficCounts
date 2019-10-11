@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27203
+datum=29.09.1999
+kurzken=Q 27203/99
+bez=Kaulsdorfer Straße (südl. Hoppendorfer Straße)   (Köpenick, 12555)
+arm1=Kaulsdorfer Straße,250,0000
+arm2=Hoppendorfer Straße,1200,0001
+arm3=Kaulsdorfer Straße,2050,0000
+arm4=Hoppendorfer Straße,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=5; Niederschlag=0\,2 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+0	0
+1	0
+1	0
+1	0
+0	0
+0	0
+0	0
+0	0
+1	0
+1	0
+4	0
+; 4 -> 2
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	1
+0	0
+0	0
+0	0
+0	0
+0	0

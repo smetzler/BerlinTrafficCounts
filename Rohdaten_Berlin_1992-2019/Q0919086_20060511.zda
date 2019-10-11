@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919086
+datum=11.05.2006
+kurzken=Q 0919086/06
+bez=Ossietzkystraße (südl. Wolfshagener Straße)   (Niederschönhausen, 13187)
+arm1=Wolfshagener Straße,200,0100
+arm2=Breite Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+109	2	0	2	158
+92	0	0	3	121
+81	2	0	2	118
+98	2	0	0	58
+68	0	0	2	62
+48	1	0	0	51
+71	0	0	1	93
+62	2	0	3	132
+80	2	0	0	91
+98	1	0	3	161
+68	0	0	2	137
+67	1	0	4	155
+; 2 -> 1
+163	3	0	2	54
+149	3	0	3	48
+148	6	0	1	30
+174	8	0	4	76
+158	3	0	4	34
+146	4	0	4	52
+152	4	0	3	142
+148	4	0	3	201
+160	0	0	2	220
+186	1	0	11	191
+203	0	0	8	194
+174	3	0	5	209

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919099
+datum=23.04.2007
+kurzken=Q 0919099/07
+bez=Hermann-Hesse-Straße (südl. Homeyerstraße)  (Niederschönhausen, 13156)
+arm1=Heinrich-Mann-Straße,1500,0100
+arm2=Homeyerstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+192	19	6	8	13
+209	12	4	3	19
+244	20	4	5	11
+248	18	2	10	32
+309	11	4	4	17
+316	20	3	8	15
+348	24	3	8	27
+410	19	6	20	20
+478	14	8	28	40
+484	16	6	21	31
+489	10	6	12	25
+458	5	6	18	20
+; 2 -> 1
+790	17	8	24	53
+711	13	8	12	26
+487	19	2	13	16
+338	14	4	8	6
+274	14	5	7	10
+289	19	4	12	17
+258	18	4	12	16
+235	20	4	8	10
+302	14	4	16	10
+273	5	7	18	16
+282	7	5	13	17
+263	2	7	12	20

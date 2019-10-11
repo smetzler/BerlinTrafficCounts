@@ -1,0 +1,30 @@
+[ZA1001]
+knoten=Q 0910013
+datum=03.11.1998
+kurzken=Q 0910013/98
+bez=Potsdamer Chaussee (östl. Nibelungenstraße)   (Nikolassee, 14109)
+arm1=Nibelungenstraße,950,0100
+arm2=Isoldestraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=1200,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+894	42	9	5
+886	38	11	8
+1069	50	8	7
+1249	27	13	11
+1487	18	11	10
+1450	14	17	8
+; 2 -> 1
+861	36	7	8
+867	43	9	10
+898	25	9	5
+926	17	14	6
+1040	28	12	4
+969	17	6	6

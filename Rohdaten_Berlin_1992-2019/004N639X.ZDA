@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 6018
+datum=22.03.1990
+kurzken=K 6018/90
+bez=Gross-Ziethener-Strasse / Nahariyastrasse    ( Berlin 49 )
+Arm1=,0,0000
+Arm2=Gross-Ziethener-Str.,980,0011
+Arm3=Nahariyastrasse,1880,0101
+Arm4=Gross-Ziethener-Str.,2780,0110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 3
+96 144 116 131 127 162 135 159 214 275 271 247 
+; 2 -> 4
+21 28 35 26 38 40 54 56 78 96 107 93 
+; 3 -> 2
+206 200 142 165 145 142 154 122 140 151 167 176 
+; 3 -> 4
+9 6 14 14 15 10 10 10 9 17 32 19 
+; 4 -> 2
+77 61 51 43 41 29 31 56 49 50 68 40 
+; 4 -> 3
+6 13 9 6 3 9 7 16 10 20 19 12 

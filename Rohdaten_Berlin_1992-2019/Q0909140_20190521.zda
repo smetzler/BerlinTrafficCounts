@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0909140
+datum=21.05.2019
+kurzken=Q 0909140/19
+bez=Zufahrt BAB (A100) (Auguste-Viktoria-Straße - Schwarzbacher Straße) (Wilmersdorf, 10711) 
+arm1=Zufahrt BAB (A100),700,0000
+arm2=Auguste-Viktoria-Straße - Schwarzb. Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+280	5	1	5	0
+310	9	1	1	0
+261	7	1	1	0
+268	12	0	0	0
+263	5	0	3	0
+241	9	0	4	0
+243	7	0	4	0
+329	7	1	0	0
+314	6	1	2	0
+131	3	0	1	0
+223	3	0	5	0
+312	2	1	6	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910901
+datum=21.07.2004
+kurzken=Q 0910901/04
+bez=Teltower Damm (nördl. Schönower Straße)   (Zehlendorf, 14167)
+arm1=Herberger Weg,100,0100
+arm2=Schönower Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=25°C max T; 5 Std Sonne; 0 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+13
+32
+28
+94
+85
+83
+59
+80
+74
+107
+121
+78
+; 2 -> 1
+45
+42
+46
+86
+80
+56
+54
+54
+78
+75
+73
+63

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 60355
+datum=24.11.1988
+kurzken=Q 60355/88
+bez=Sperenberger Strasse westl. Motzener Strasse    ( Berlin 48 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweise Regen !
+data=
+; 1 -> 2
+16 9 13 48 12 13 17 25 0 3 6 6 
+; 2 -> 1
+1 2 9 27 10 9 18 4 4 3 1 5 

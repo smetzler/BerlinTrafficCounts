@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26225
+datum=18.10.1993
+kurzken=Q 2622.5/93-F
+bez=Schnellerstraße westl. Rudower Straße    ( Treptow )
+arm1=Nord,1750,0100
+arm2=Süd,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+3 1
+1 0
+6 0
+5 2
+5 1
+4 1
+7 0
+5 2
+5 1
+11 6
+16 3
+0 0
+; 2 -> 1
+4 1
+2 0
+12 0
+7 1
+15 2
+11 2
+8 4
+3 0
+2 1
+6 3
+3 0
+3 2

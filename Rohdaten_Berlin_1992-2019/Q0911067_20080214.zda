@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911067
+datum=14.02.2008
+kurzken=Q 0911067/08
+bez=BAB-Abf. Alboinstr. (westl. Sachsenda., H.Druckenm.-Br.)  (Sch'berg, 10829)
+arm1=Kreuz Schöneberg,800,0100
+arm2=Sachsendamm,2600,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+656	28	0	3	0
+729	45	0	4	0
+720	29	0	3	0
+545	24	0	1	0
+703	22	0	3	0
+745	46	0	0	0
+740	32	0	5	0
+788	29	0	8	0
+833	14	0	6	0
+879	14	0	12	0
+754	8	0	0	0
+791	6	0	3	0

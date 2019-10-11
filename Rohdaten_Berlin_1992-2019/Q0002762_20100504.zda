@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2762
+datum=04.05.2010
+kurzken=Q 2762/10
+bez=Schönwalder Straße (westl. Neue Hochstraße)    (Wedding, 13353)
+arm1=,0,0000
+arm2=Schönwalder Straße,1000,0000
+arm3=Neue Hochstraße (S),1800,0001
+arm4=Neue Hochstraße (N),3200,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+9	5
+11	0
+16	1
+14	0
+13	0
+13	1
+15	1
+20	5
+12	6
+29	15
+17	15
+10	7
+; 4 -> 3
+0	2
+9	5
+14	1
+17	0
+7	0
+13	0
+12	2
+21	3
+23	6
+38	18
+19	20
+21	9

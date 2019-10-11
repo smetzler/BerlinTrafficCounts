@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0607
+datum=24.08.1988
+kurzken=K 607/88
+bez=Theodor-Heuss-Platz / Masurenallee   ( Berlin 19 )
+Arm1=Theodor-Heuss-Platz,700,0011
+Arm2=,0,0000
+Arm3=Masurenallee,2400,0001
+Arm4=Theodor-Heuss-Platz,3410,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 3
+2055 1664 1279 1071 1139 1252 1284 1296 1468 1623 1335 1305 
+; 1 -> 4
+1725 1223 865 816 807 804 804 801 986 1071 843 778 
+; 3 -> 4
+1244 1016 890 898 976 1085 1137 1161 1566 1719 1504 1359 

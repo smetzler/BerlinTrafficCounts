@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904901
+datum=15.03.2017
+kurzken=Q 0904901/17
+bez=Kastanienallee (nördl. Schwedter Straße)   (Prenzlauer Berg, 10435)
+arm1=Schwedter Straße,1400,0100
+arm2=Oderberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 13°C max T; 8 Std Sonne; 0\,0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+27
+65
+66
+36
+50
+63
+83
+127
+170
+182
+234
+264
+; 2 -> 1
+130
+259
+230
+90
+63
+101
+120
+95
+123
+136
+117
+123

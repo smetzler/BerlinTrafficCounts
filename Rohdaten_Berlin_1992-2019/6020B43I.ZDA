@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2603
+datum=31.10.1992
+kurzken=Q 2603/92
+bez=Fürstenwalder Allee 48    ( Berlin 1165-Köpenick )
+arm1=Püttbergeweg,700,0100
+arm2=Fichtenauer Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,Radf,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+163 10 
+222 7 
+411 5 
+561 32 
+437 34 
+456 12 
+389 5 
+429 19 
+449 27 
+569 6 
+481 6 
+310 2 
+; 2 -> 1
+152 6 
+271 7 
+498 5 
+709 22 
+652 17 
+501 16 
+442 5 
+512 6 
+430 7 
+251 6 
+283 3 
+208 2 

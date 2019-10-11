@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 58342
+datum=27.10.2003
+kurzken=Q 58342/03
+bez=Hauptstraße (nordöstl. Stierstraße)   (Schöneberg, 121599)
+arm1=Stierstraße,0,0010
+arm2=Hauptstraße,1400,0000
+arm3=((Südosten)),2200,1000
+arm4=Hauptstraße,3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=9\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+11	9
+21	1
+3	0
+19	0
+11	1
+9	4
+7	1
+17	2
+19	3
+22	6
+28	1
+4	0
+; 3 -> 1
+9	4
+13	2
+10	0
+13	0
+18	0
+14	1
+12	3
+23	3
+24	7
+11	0
+20	4
+7	0

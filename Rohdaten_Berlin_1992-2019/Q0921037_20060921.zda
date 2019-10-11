@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0921037
+datum=21.09.2006
+kurzken=Q 0921037/06
+bez=Alle der Komonauten (westl. Marzahner Chaussee)   (Marzahn, 12681)
+arm1=Beilsteiner Straße,900,0100
+arm2=Marzahner Chaussee,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=24°C max T; 11 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+165	8	0	2	16
+182	7	0	4	10
+266	13	0	3	10
+325	4	0	4	8
+302	11	0	13	10
+379	14	0	5	19
+400	18	0	13	33
+563	10	3	17	47
+649	11	0	20	49
+601	8	0	9	58
+570	8	0	9	56
+475	8	0	12	32
+; 2 -> 1
+620	11	0	7	37
+276	26	0	8	17
+475	18	0	7	18
+460	12	0	10	16
+342	27	0	12	18
+453	18	0	5	20
+548	25	0	19	28
+459	7	0	14	21
+527	25	1	12	36
+457	6	0	11	21
+427	8	0	8	30
+403	2	0	13	21

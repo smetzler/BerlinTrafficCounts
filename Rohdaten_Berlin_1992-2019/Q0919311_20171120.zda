@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919311
+datum=20.11.2017
+kurzken=Q 0919311/17
+bez=Buchholzer Straße (nördl. Blankenburger Str.; Höhe Nr. 3)   (N'schönhausen, 13156)
+arm1=Blankenburger Straße,1500,0000
+arm2=Wackenbergstraße,3300,0000
+arm3=(Nordwesten),700,0001
+arm4=(Nr. 3\, Schule; Südosten),2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fußgänger über Buchholzer Straße i. H. Nr. 3 (zukünftige Schule) auf 50m\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+2	0
+0	0
+3	0
+2	0
+0	0
+0	0
+0	0
+1	1
+1	0
+0	0
+0	0
+0	0
+; 4 -> 3
+2	1
+4	1
+3	2
+1	0
+0	0
+0	0
+1	0
+2	1
+4	0
+2	0
+2	1
+1	0

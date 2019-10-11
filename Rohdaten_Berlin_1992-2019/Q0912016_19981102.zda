@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912016
+datum=02.11.1998
+kurzken=Q 0912016/98
+bez=Lorenzstraße (südl. Lange Straße)  (Lichterfelde, 12209)
+arm1=Lange Straße,200,0100
+arm2=Geraer Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+211	17	15	4
+248	14	13	2
+217	11	12	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+458	13	14	5
+567	8	12	8
+573	3	13	4
+; 2 -> 1
+453	8	15	11
+512	11	14	7
+348	17	12	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+314	14	12	4
+321	4	13	3
+334	5	12	10

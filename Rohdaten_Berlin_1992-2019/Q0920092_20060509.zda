@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920092
+datum=09.05.2006
+kurzken=Q 0920092/06
+bez=Welzower Steig (nördl. Königshorster Straße)   (Waidmannslust, 13435)
+arm1=Packereigraben,50,0100
+arm2=Königshorster Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+27
+14
+18
+18
+19
+8
+10
+13
+18
+14
+19
+16
+; 2 -> 1
+10
+8
+11
+12
+15
+7
+11
+13
+14
+19
+21
+18

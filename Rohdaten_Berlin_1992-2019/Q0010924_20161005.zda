@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10924
+datum=05.10.2016
+kurzken=Q 10924/16
+bez=Zossener Straße (nördl. Bergmannstraße)   (Kreuzberg, 10965)
+arm1=Bergmannstraße (W),750,0010
+arm2=,1700,0000
+arm3=Bergmannstraße (O),2550,1000
+arm4=Zossener Straße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+15	18
+43	3
+140	3
+130	6
+166	4
+300	2
+380	6
+290	18
+340	40
+321	55
+368	33
+274	17
+; 3 -> 1
+7	9
+40	16
+118	4
+164	6
+193	2
+371	9
+374	36
+353	36
+317	24
+382	50
+405	24
+390	15

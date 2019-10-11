@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020302
+datum=23.08.2000
+kurzken=Q 020302/00
+bez=Oberbaumbrücke (nördl. Gröbenufer) (Kreuzberg, 10243)
+arm1=Gröbenufer,1500,0100
+arm2=Stralauer Allee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=9; Niederschlag=0\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+65
+94
+75
+80
+69
+83
+90
+127
+195
+224
+254
+258
+; 2 -> 1
+101
+159
+160
+112
+80
+126
+136
+134
+122
+168
+121
+135

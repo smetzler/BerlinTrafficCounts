@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41451
+datum=05.07.1994
+kurzken=Q 41451/94
+bez=Storkower Straße (Höhe Nr. 134 / 139c) (Prenzlauer Berg, 10407) 
+arm1=Ost,300,1000
+arm2=West,2100,0100
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  \nWetter: Max T.=25°\, vorm. sonnig\, nachm. bewölkt\, kein Niederschlag.
+data=
+; 1 -> 1
+14 0
+19 0
+44 0
+44 2
+55 2
+61 0
+40 1
+33 1
+38 1
+48 0
+17 0
+2 0
+; 2 -> 2
+68 0
+32 0
+28 0
+44 0
+67 3
+82 0
+33 0
+18 1
+32 0
+13 0
+3 0
+0 0

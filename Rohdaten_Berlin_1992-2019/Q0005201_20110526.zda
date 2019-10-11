@@ -1,0 +1,91 @@
+[ZA1001]
+knoten=Q 05201
+datum=26.05.2011
+kurzken=Q 05201/11
+bez=Oberbaumstraße-Nordfahrb. (linke Spur, westl. Falckensteinstr)    (Kreuzberg, 10
+arm1=Bevernstraße,850,0000
+arm2=Falckensteinstr.,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=üKfz,Lkw
+zeit=0700,1300
+intv=5
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Abbruch der Zählung gegen 12:50 wegen Straßensperrung (Bomebewnfund)\n"Lkw" = alle Fahrz. >6\,5 m Länge;  "üKfz" = alle übrigen mororisierten Fahrzeuge
+data=
+; 2 -> 1
+45	0
+57	0
+49	0
+42	4
+47	1
+45	2
+51	2
+62	0
+48	0
+51	1
+54	3
+56	2
+49	3
+52	0
+48	0
+46	1
+54	0
+54	2
+37	2
+44	1
+58	1
+65	0
+52	0
+55	0
+49	0
+38	7
+47	0
+58	1
+46	2
+30	1
+52	0
+55	1
+44	2
+43	4
+47	4
+49	1
+26	2
+37	2
+31	4
+36	1
+30	4
+37	1
+25	2
+46	1
+24	3
+36	3
+37	1
+30	3
+28	0
+37	1
+32	0
+36	0
+32	2
+41	3
+40	0
+32	1
+22	0
+48	0
+32	5
+37	2
+31	4
+24	5
+19	0
+35	2
+36	2
+26	6
+18	1
+25	2
+40	0
+16	1
+2	0
+0	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 13695
+datum=21.05.1996
+kurzken=Q 13695/96
+bez=Karl-Marx-Straße  nördl.  Schierker Straße     (Neukölln, 12055)
+arm1=,110,0000
+arm2=West,1000,0001
+arm3=,1910,0000
+arm4=Ost,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=19°C\, meist sonnig\, 1\,8mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+12 32
+31 12
+26 5
+35 8
+44 12
+35 6
+59 11
+57 16
+63 9
+61 21
+78 19
+43 14
+; 4 -> 2
+16 10
+54 9
+44 21
+52 5
+45 6
+41 3
+73 19
+63 22
+65 23
+84 20
+82 27
+50 9

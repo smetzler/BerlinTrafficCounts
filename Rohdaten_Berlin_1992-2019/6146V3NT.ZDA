@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 52087
+datum=10.6.1991
+kurzken=Q 5208.7/91-F
+bez=Exerzierstrasse oestlich Schulstrasse    ( Berlin 65 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schuel,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig trocken !
+data=
+; 1 -> 2
+12 0 10 
+11 1 0 
+12 2 3 
+13 2 0 
+16 2 2 
+12 1 0 
+17 3 1 
+12 2 7 
+16 6 0 
+21 2 2 
+18 0 2 
+13 2 8 
+; 2 -> 1
+7 1 0 
+12 11 1 
+9 2 1 
+10 1 0 
+7 3 0 
+9 1 1 
+9 2 1 
+12 1 1 
+15 0 3 
+18 2 0 
+23 2 1 
+11 0 2 

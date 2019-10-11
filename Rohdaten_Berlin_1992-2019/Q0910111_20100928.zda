@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910111
+datum=28.09.2010
+kurzken=Q 0910111/10
+bez=Onkel-Tom-Str. (zw. Siebenendenweg u. Sophie-Charlotte-Str.)   (Zehlendorf, 14169)
+arm1=Siebendenweg,100,0000
+arm2=Sophie-Charlotte-Straße,1900,0000
+arm3=((Westen)),1000,0001
+arm4=((Osten)),2800,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. und Radf.\, die die Onkel-Tom-Str. zwischen Siebenendenweg u. Sophie-Charlotte-Str. queren.\nWetter: max T=12°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+3	0	4
+4	0	1
+7	0	2
+6	0	2
+1	0	6
+2	0	1
+5	0	2
+6	0	2
+5	0	7
+10	3	5
+20	24	11
+18	25	7
+; 4 -> 3
+1	0	6
+5	0	1
+6	0	2
+6	0	0
+1	0	2
+3	3	4
+6	0	7
+9	0	5
+12	10	8
+20	10	26
+28	5	7
+15	5	4

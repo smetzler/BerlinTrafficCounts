@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 010302
+datum=04.03.2014
+kurzken=Q 010302/14
+bez=Reichpietschufer (westl. Köthener Brücke)   (Kreuzberg, 10785)
+arm1=Linkstraße,400,0000
+arm2=Köthener Brücke,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+1518	54	8	31	60
+1402	53	12	27	135
+1153	47	18	12	109
+1169	56	13	8	64
+1692	57	22	14	54
+1679	75	13	18	44
+1532	45	16	24	45
+1683	38	14	33	44
+2173	31	13	21	42
+2159	30	11	22	40
+2479	16	14	34	31
+1941	10	13	34	47

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27595
+datum=19.06.2003
+kurzken=Q 27595/03
+bez=Curtiusstraße (östl. Kadettenweg)   (Lichterfelde, 12205)
+arm1=Kadettenweg (N),200,0010
+arm2=Curtiusstraße (W),1100,0000
+arm3=Kadettenweg (S),2000,1000
+arm4=Curtiusstraße (O),2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	0
+2	0
+0	0
+3	0
+1	1
+1	0
+1	0
+3	0
+4	0
+9	1
+12	0
+7	0
+; 3 -> 1
+3	0
+13	45
+5	1
+2	0
+1	1
+2	0
+0	0
+1	0
+0	0
+3	0
+1	0
+1	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0026
+datum=23.09.2015
+kurzken=Q 0026/15
+bez=B96a - Adlergestell (südl. Teltowkanal)    (Adlershof, 12489)
+arm1=Teltowkanal,500,0100
+arm2=Adlerhorst,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählzeit: 7 - 9 und 15 - 18 Uhr. City-Atlas Seite 137\, Feld5a\nRADFAHRER-Strom 1>2 bitte vom Zähler 2>1 zusätzl. mit erfassen (auf Extrablatt)\, \nda vom Zähler der Gegenrichtung nicht einsehbar !
+data=
+; 1 -> 2
+1436	32	61	3	13	13
+1305	47	45	4	7	6
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+1793	36	53	1	21	31
+1938	23	34	4	26	35
+1776	21	18	1	39	33
+; 2 -> 1
+2047	60	51	3	18	38
+1737	64	68	5	21	29
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+1559	34	31	0	20	22
+1761	37	16	7	21	19
+1571	25	18	3	21	17

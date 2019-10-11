@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 85144
+datum=12.09.2000
+kurzken=Q 85144/00
+bez=Hindenburgdamm (nördl. Krahmerstraße)   (Lichterfelde, 12207)
+arm1=Mittelinsel,680,0010
+arm2=Hindenburgdamm,1540,0000
+arm3=Krahmerstraße,2510,1000
+arm4=Hindenburgdamm,3380,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=6; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	3
+10	3
+5	2
+1	0
+0	0
+2	0
+0	1
+2	0
+1	1
+3	0
+1	0
+1	1
+; 3 -> 1
+2	6
+5	2
+1	0
+2	0
+8	2
+3	0
+7	0
+8	1
+0	0
+8	2
+5	0
+0	0

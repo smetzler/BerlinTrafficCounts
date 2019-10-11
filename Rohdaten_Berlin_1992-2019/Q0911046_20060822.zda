@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911046
+datum=22.08.2006
+kurzken=Q 0911046/06
+bez=Innsbrucker Straße (südl. Voßbergstraße)   (Schöneberg, 10825)
+arm1=Voßbergstraße,150,0100
+arm2=Innsbrucker Platz,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 7 Std Sonne; 5 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+38
+39
+38
+30
+26
+46
+60
+35
+74
+76
+56
+59
+; 2 -> 1
+62
+68
+58
+40
+33
+24
+51
+33
+58
+48
+54
+50

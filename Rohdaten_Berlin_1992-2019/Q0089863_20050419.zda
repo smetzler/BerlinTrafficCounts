@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 89863
+datum=19.04.2005
+kurzken=Q 89863/05
+bez=Wittestraße (östl. Otisstraße)   (Reinickendorf, 13403)
+arm1=Wittestraße,790,0000
+arm2=Otisstraße,1490,0001
+arm3=Wittestraße,2610,0000
+arm4=Innungsstraße,3280,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+17	5
+14	4
+10	3
+4	0
+8	0
+7	0
+9	1
+5	2
+4	1
+8	1
+5	0
+8	0
+; 4 -> 2
+6	0
+6	0
+3	0
+3	0
+5	1
+2	0
+9	5
+5	5
+7	2
+13	2
+7	3
+16	2

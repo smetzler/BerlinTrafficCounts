@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010611
+datum=13.03.2019
+kurzken=Q 0010611/19
+bez=Spandauer Damm (westl. Sophie-Charlotten-Straße) (Charlottenburg, 14059) 
+arm1=Zu- u. Abfahrt BAB,930,0100
+arm2=Sophie-Charlotten-Straße,2730,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1183	48	14	13	43
+1351	56	18	15	40
+1014	60	14	16	24
+913	49	11	9	20
+862	57	12	13	22
+789	61	13	6	20
+729	40	10	10	19
+851	38	10	7	22
+973	23	10	23	36
+1004	15	13	15	33
+888	12	12	13	23
+821	4	12	7	35
+; 2 -> 1
+890	68	10	8	48
+1051	67	11	9	43
+950	67	13	7	29
+866	53	14	7	16
+891	68	11	6	19
+1019	65	11	12	15
+1234	70	10	17	18
+1515	55	12	10	23
+1589	23	10	10	26
+1619	22	10	20	35
+1356	16	14	7	40
+1248	4	9	15	25

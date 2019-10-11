@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0013
+datum=18.09.2015
+kurzken=Q 0013/15
+bez=B5 - Heerstraße (östl. Magistratsweg)   (Spandau, 13593)
+arm1=Magistratsweg,800,0100
+arm2=Sandstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 81\, Feld 5a
+data=
+; 1 -> 2
+942	18	10	21	17	17
+954	13	11	26	23	17
+973	13	10	27	23	20
+; 2 -> 1
+1280	12	13	23	28	12
+1166	11	16	24	24	22
+1079	2	15	24	30	20

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025525
+datum=12.3.1992
+kurzken=Q 2552.5/92-F
+bez=Karl-Kunger-Straße nördlich Wildenbruchstraße    ( Berlin 1193 Trept.)
+arm1=Ost,1350,0100
+arm2=West,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+10 172 
+15 9 
+24 4 
+6 0 
+5 1 
+1 2 
+0 0 
+2 0 
+2 0 
+10 2 
+4 0 
+3 0 
+; 2 -> 1
+7 4 
+16 2 
+9 0 
+4 0 
+11 0 
+2 4 
+3 2 
+4 4 
+11 0 
+2 0 
+4 2 
+6 0 

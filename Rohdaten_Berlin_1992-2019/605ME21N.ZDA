@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 07286
+datum=28.05.1986
+kurzken=Q 7286/86
+bez=Budapester Strasse  suedl. Luetzowstrasse   ( Berlin 30 )
+Arm1=Ost  ( 2a ),900,0100
+Arm2=West  ( 2b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend bedeckt und trocken
+data=
+; 1 -> 2
+16 24 13 21 13 17 11 11 20 24 21 19 
+; 2 -> 1
+11 7 9 11 15 18 9 10 11 10 9 8 

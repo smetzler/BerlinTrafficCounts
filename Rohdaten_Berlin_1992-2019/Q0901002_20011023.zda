@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0901002
+datum=23.10.2001
+kurzken=Q 0901002/01
+bez=Tunnel Grunerstraße (Höhe Spandauer Straße)   (Mitte, 10178)
+arm1=Mühlendamm,1400,0100
+arm2=Alexanderplatz,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+755	61	9	21
+811	42	5	17
+778	43	5	11
+705	51	3	15
+772	47	3	15
+719	67	3	12
+845	61	2	17
+971	35	4	21
+1252	49	4	29
+1171	35	7	38
+1192	24	5	27
+1349	18	11	36
+; 2 -> 1
+1728	55	6	44
+1815	88	5	21
+1324	52	4	29
+1006	43	5	21
+791	35	3	18
+855	45	3	19
+929	42	5	15
+825	49	5	19
+810	37	3	15
+897	25	2	21
+855	14	2	22
+931	19	5	21

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 307
+datum=14.11.1995
+kurzken=Q 307/95
+bez=Schulzendorfer Straße (nördl. Heiligenseestraße)   (Reinickendorf, 13503)
+arm1=Alt-Heiligensee,1320,0000
+arm2=Heiligenseestraße,2090,0001
+arm3=Schulzendorfer Str.,2960,0000
+arm4=Hennigsdorfer Str.,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: Max T=5°C\, bedeckt\, 0\,5mm Niederschlag
+data=
+; 2 -> 4
+4 21
+7 5
+6 0
+2 0
+7 2
+6 1
+5 4
+2 6
+7 1
+18 7
+20 0
+9 0
+; 4 -> 2
+13 9
+9 3
+7 0
+3 0
+5 0
+4 0
+6 2
+2 1
+7 4
+8 2
+14 2
+16 0

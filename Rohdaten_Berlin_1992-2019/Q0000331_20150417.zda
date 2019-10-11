@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00331
+datum=17.04.2015
+kurzken=Q 00331/15
+bez=A100 - Zu- u. Abfahrt Siemensdamm (Charlottenburg, 13627)
+arm1=Siemensdamm,900,0100
+arm2=BAB A100 (AS Spandauer Damm),1700,1000
+arm3=BAB A100 (AD Charlottenburg),3000,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zufahrt von 15-17 Uhr gesperrt
+data=
+; 1 -> 2
+0	0	0	0	0
+0	0	0	0	0
+431	7	5	0	9
+; 2 -> 1
+321	8	7	1	6
+403	6	2	1	11
+459	3	3	0	5

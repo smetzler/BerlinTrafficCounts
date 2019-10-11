@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0918026
+datum=04.04.2005
+kurzken=Q 0918026/05
+bez=Bucher Chaussee (Höhe BAB A10 - Berliner Ring)   (Karow, 13125)
+arm1=Nerthusweg,1500,0100
+arm2=Max-Burghardt-Straße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+401	27	6	8	56
+508	20	6	17	85
+602	28	7	13	56
+711	34	6	18	42
+610	15	6	17	51
+460	14	6	18	64
+; 2 -> 1
+428	25	6	12	75
+484	10	6	10	128
+544	15	6	15	97
+590	11	6	23	106
+552	11	5	22	98
+517	3	6	16	73

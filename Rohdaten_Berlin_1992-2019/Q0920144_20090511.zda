@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920144
+datum=11.05.2009
+kurzken=Q 0920144/09
+bez=Namslaustraße (östl. Sterkrader Straße)   (Tegel, 13507)
+arm1=Sterkrader Straße,920,0100
+arm2=Beckumer Straße,2720,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+53	4	0	1	14
+53	1	0	2	8
+58	1	1	0	6
+54	2	0	0	2
+70	0	0	1	6
+62	4	0	2	4
+45	3	0	3	2
+66	3	0	2	3
+46	4	0	4	4
+79	1	0	6	10
+77	1	0	2	1
+61	0	2	0	3
+; 2 -> 1
+58	4	0	1	7
+74	2	0	0	5
+61	0	0	2	8
+38	4	0	2	6
+56	0	0	2	5
+67	1	0	0	7
+55	4	0	5	5
+71	3	0	2	4
+92	2	0	5	7
+79	1	0	3	7
+83	0	0	0	2
+69	2	0	1	3

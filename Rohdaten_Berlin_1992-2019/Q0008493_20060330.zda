@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8493
+datum=30.03.2006
+kurzken=Q 8493/06
+bez=Kleiststraße (östl. An der Urania)   (Schöneberg, 10787)
+arm1=Kleiststraße,700,0000
+arm2=Martin-Luther-Str.,1600,0001
+arm3=Kleiststraße,2500,0000
+arm4=An der Urania,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+21	2
+26	1
+33	1
+44	0
+46	0
+53	3
+30	14
+41	9
+49	3
+41	5
+69	25
+56	8
+; 4 -> 2
+22	19
+23	5
+31	2
+59	2
+46	0
+59	2
+37	3
+40	9
+45	5
+75	7
+57	5
+53	10

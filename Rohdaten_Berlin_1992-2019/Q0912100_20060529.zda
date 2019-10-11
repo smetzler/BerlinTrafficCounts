@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912100
+datum=29.05.2006
+kurzken=Q 0912100/06
+bez=Ebenkobener Steig (Teltowkanalbrücke)   (Lankwitz, 12247)
+arm1=Albrechtstraße,0,0100
+arm2=Edenkobener Weg,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+28
+29
+11
+16
+14
+12
+15
+19
+16
+29
+17
+23
+; 2 -> 1
+37
+24
+19
+26
+17
+15
+13
+19
+24
+24
+22
+18

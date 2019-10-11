@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27211
+datum=26.05.2008
+kurzken=Q 27211/08
+bez=Schönhauser Straße (nördl. Kastanienallee)    (Rosenthal, 13158)
+arm1=Schönhauser Straße,300,0000
+arm2=Kastanienallee,1000,0001
+arm3=Schönhauser Straße,2100,0000
+arm4=Kastanienallee,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+1	0
+0	0
+3	0
+1	0
+1	1
+1	1
+4	0
+0	0
+3	1
+0	0
+1	1
+; 4 -> 2
+1	0
+0	0
+0	0
+1	0
+1	0
+0	0
+2	0
+4	1
+0	0
+0	0
+6	1
+7	0

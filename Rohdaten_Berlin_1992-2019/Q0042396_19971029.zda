@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42396
+datum=29.10.1997
+kurzken=Q 42396/97
+bez=Unter den Linden (östl. Charlottenstraße)   (Mitte, 10117)
+arm1=Charlottenstraße,950,0000
+arm2=Universitätsstraße,2750,0000
+arm3=Süden,1850,0001
+arm4=Norden,50,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=5°C\, bedeckt\, 0\,2mm Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+8 0
+8 0
+5 0
+13 0
+36 2
+31 0
+30 0
+40 1
+31 3
+15 3
+19 0
+16 0
+; 4 -> 3
+9 0
+11 0
+11 0
+8 0
+21 0
+24 0
+24 0
+28 0
+33 0
+22 2
+7 0
+10 0

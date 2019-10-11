@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 089007
+datum=01.10.2002
+kurzken=Q 089007/02
+bez=Schönerlinder Straße (B109) (Stadtgrenze) (Pankow, 13159)
+arm1=Schönerlinde,3500,0100
+arm2=Schönerlinder Chaussee,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Einbahnstraße wegen Bauarbeiten!
+data=
+; 1 -> 2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+; 2 -> 1
+178	24	13	0	2
+233	33	24	0	1
+175	38	41	1	2
+332	34	52	1	7
+365	31	50	1	5
+369	22	40	0	8
+346	29	39	0	6
+309	42	37	3	8
+386	38	48	2	8
+489	45	42	0	10
+507	61	32	2	9
+493	46	20	1	8

@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 6005
+datum=24.11.1988
+kurzken=K 6005/88
+bez=Motzener Strasse / Nunsdorfer Ring (Nord)    ( Berlin 48 )
+Arm1=Motzener Strasse,420,0001
+Arm2=,0,0000
+Arm3=Motzener Strasse,2220,0001
+Arm4=Nunsdorfer Ring,3060,1010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 13 und 31 nicht erfasst;\nfuer die Gesamtverkehrsstaerken auf der Motzener Strasse\nvgl. K 6006/88.
+data=
+; 1 -> 4
+68 63 36 66 56 66 81 62 51 58 29 8 
+; 3 -> 4
+3 6 20 23 21 29 23 18 7 12 15 1 
+; 4 -> 1
+30 37 53 100 93 91 105 131 152 186 141 42 
+; 4 -> 3
+2 4 27 20 14 14 35 15 16 12 24 11 

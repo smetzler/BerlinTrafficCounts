@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6623031
+datum=16.03.2015
+kurzken=Q 6623031/15
+bez=Rennbahnstraße (westl. Gustav-Adolf-Straße)   (Weißensee, 13086)
+arm1=Rennbahnstraße (W),540,0000
+arm2=Gustav-Adolf-Straße,1260,0001
+arm3=Rennbahnstraße (O),2340,0000
+arm4=((Norden)),3060,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+11	1
+10	1
+26	2
+19	0
+27	4
+13	1
+19	2
+12	69
+10	24
+36	26
+23	4
+13	2
+; 4 -> 2
+14	0
+13	5
+21	0
+4	0
+23	2
+16	1
+17	12
+7	7
+7	5
+16	3
+12	0
+8	5

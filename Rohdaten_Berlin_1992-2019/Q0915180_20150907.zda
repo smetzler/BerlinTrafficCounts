@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915180
+datum=07.09.2015
+kurzken=Q 0915180/15
+bez=Porzer Straße (nördl. Coloniaallee)   (Altglienicke, 12524)
+arm1=Coloniaallee,1300,0100
+arm2=Müngersdorfer Straße,3100,1000
+arm3=,2200,0000
+arm4=,400,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+24	0	3	1	0
+28	0	3	2	2
+20	0	3	0	3
+10	0	3	0	4
+27	0	3	0	0
+17	0	3	2	2
+23	0	4	0	2
+39	2	3	3	6
+52	0	3	0	7
+56	0	3	0	16
+71	2	3	0	8
+44	0	3	0	3
+; 2 -> 1
+9	0	3	0	3
+24	0	3	0	2
+14	0	3	0	1
+16	0	3	0	0
+18	0	3	0	0
+33	0	3	1	6
+24	3	3	1	0
+36	1	4	1	6
+63	0	2	2	10
+50	0	4	1	7
+42	0	2	0	8
+33	0	2	2	7

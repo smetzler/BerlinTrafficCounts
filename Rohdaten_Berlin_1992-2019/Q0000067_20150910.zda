@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0067
+datum=10.09.2015
+kurzken=Q 0067/15
+bez=A103 - Abzw. Zehlendorf (südl. der Feuerbachbrücke)   (Steglitz, 12169)
+arm1=AS Filandastraße,1400,0100
+arm2=Feuerbachstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Feuerbachbrücke\nCity-Atlas Seite 115\, Feld 3c
+data=
+; 1 -> 2
+3201	51	22	2	62
+4066	51	8	2	48
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+2675	30	4	2	58
+2976	23	6	1	41
+2324	20	2	1	31
+; 2 -> 1
+2034	33	30	2	36
+1842	33	26	1	42
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+2413	21	13	1	49
+2269	13	9	0	41
+2076	12	5	1	49

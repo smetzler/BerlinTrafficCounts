@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907170
+datum=30.05.2012
+kurzken=Q 0907170/12
+bez=Wilmersdorfer Straße (Höhe Nr. 42)   (Charlottenburg, 10627)
+arm1=Bismarckstraße,100,0100
+arm2=Schillerstraße,1900,1000
+arm3=,1000,0000
+arm4=,2800,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch Fußgänger (unterschieden nach "Erw" und "Jugend") gezählt!\nWetter: max T=31°C; Sonne=12 Std; Niederschlag=0 mm
+data=
+; 1 -> 2
+73	3	0	56	118	9
+95	0	0	67	319	38
+149	2	0	72	571	32
+165	2	0	85	775	23
+170	3	0	77	951	43
+126	3	0	63	858	37
+171	4	0	97	743	39
+165	1	0	86	798	37
+170	0	0	88	730	52
+179	0	0	92	865	77
+239	0	0	144	837	70
+225	0	0	0	787	49
+; 2 -> 1
+54	7	0	41	120	23
+86	1	0	55	223	40
+76	3	0	58	391	22
+106	1	0	76	621	24
+112	2	0	71	829	34
+106	1	0	76	780	59
+122	4	0	87	902	34
+113	0	0	84	796	45
+135	2	0	105	1005	51
+127	0	0	85	918	71
+128	1	0	87	983	65
+126	0	0	94	972	57

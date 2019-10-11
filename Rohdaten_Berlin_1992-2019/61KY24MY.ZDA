@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 73802
+datum=27.06.1994
+kurzken=Q 73802/94
+bez=Schönhauser Allee (nördl. Senefelderplatz) (Prenzlauer Berg, 10435) 
+arm1=Wörther Straße ,0,0100
+arm2=Senefelderplatz,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+375 20 1 13 20
+296 35 0 7 30
+284 36 0 8 47
+299 38 2 5 35
+259 33 1 11 26
+277 33 0 5 28
+238 23 0 6 30
+281 15 0 9 41
+285 14 2 16 45
+364 11 0 12 45
+254 12 0 13 40
+268 5 0 9 36
+; 2 -> 1
+342 29 1 1 9
+364 27 0 5 12
+390 43 4 7 8
+448 27 6 7 16
+408 31 4 12 20
+488 27 1 11 27
+437 30 0 6 21
+464 27 1 9 36
+639 25 0 14 54
+797 21 2 20 36
+668 15 0 21 41
+563 15 1 21 51

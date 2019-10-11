@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574033
+datum=19.10.2017
+kurzken=Q 5574033/17
+bez=Karl-Marx-Allee (östl. Otto-Braun-Straße)   (Mitte, 10178)
+arm1=Alexanderplatz,650,0000
+arm2=Alexanderstr.-Grunerstr.,1550,0001
+arm3=Karl-Marx-Allee,2450,0000
+arm4=Otto-Braun-Straße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+18	1
+22	2
+30	0
+63	1
+51	2
+152	12
+124	5
+110	10
+149	16
+90	9
+101	7
+57	2
+; 4 -> 2
+58	5
+91	2
+132	17
+156	3
+120	4
+134	8
+101	5
+111	25
+150	7
+108	8
+112	3
+119	4

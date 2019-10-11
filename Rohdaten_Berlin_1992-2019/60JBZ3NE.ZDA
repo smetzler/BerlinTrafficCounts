@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25055
+datum=27.5.1991
+kurzken=Q 2505.5/91-F
+bez=Bjoernsonstrasse noerdlich Bornholmer Strasse    ( Prenzl.Berg )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und trocken !
+data=
+; 1 -> 2
+27 0 4 
+8 0 0 
+18 3 29 
+33 1 0 
+21 2 0 
+23 0 0 
+30 0 0 
+28 8 0 
+30 5 0 
+32 3 3 
+42 5 0 
+24 0 0 
+; 2 -> 1
+24 8 0 
+32 0 0 
+3 0 0 
+2 0 0 
+10 0 0 
+2 0 0 
+7 0 0 
+4 0 0 
+10 0 1 
+6 0 0 
+8 1 0 
+5 1 0 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25028
+datum=14.3.1991
+kurzken=Q 2502.8/91-F
+bez=Jessnerstrasse noerdlich Scharnweberstrasse    ( Friedrichshain )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+5 
+0 
+7 
+1 
+5 
+2 
+5 
+6 
+5 
+2 
+7 
+12 
+; 2 -> 1
+5 
+2 
+10 
+4 
+7 
+5 
+7 
+7 
+5 
+8 
+19 
+4 

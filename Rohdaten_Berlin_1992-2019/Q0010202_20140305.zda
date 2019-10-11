@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010202
+datum=05.03.2014
+kurzken=Q 010202/14
+bez=Leipziger Platz (östl. Stresemannstraße)   (Mitte, 10117)
+arm1=Stresemannstraße,900,0100
+arm2=Leipziger Straße ,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Stresemannstr. vor Potsdamer Str. jeweils ein Fahrstreifen in der Zufahrt zur Kreuzung gesperrt.\nVoßstr. zw. Wilhelmstr. und Ebertstr. gesperrt.\n
+data=
+; 1 -> 2
+1184	52	14	14	40
+1261	58	17	13	75
+1239	56	17	10	73
+1220	36	14	12	42
+1150	45	18	6	32
+1125	43	21	12	36
+1328	61	16	14	47
+1318	38	16	19	60
+1349	27	13	18	73
+1291	28	13	25	98
+1342	11	20	21	81
+1420	6	30	16	123
+; 2 -> 1
+1626	63	9	14	51
+1491	64	16	17	127
+1511	62	35	15	109
+1568	70	16	10	44
+1408	48	19	9	26
+1411	54	14	18	42
+1467	42	20	16	71
+1476	34	19	11	60
+1631	26	18	29	60
+1628	20	17	18	72
+1718	8	22	26	71
+1363	7	21	24	61

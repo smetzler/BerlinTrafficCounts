@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907034
+datum=17.03.2014
+kurzken=Q 0907034/14
+bez=AD Funkturm - von Messedamm / Halenseestr. nach A100 (Süd)  (Charlottenburg, 14055)
+arm1=A115 AVUS ,1400,0000
+arm2=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+arm3=A100 (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 4 -> 2
+905	31	6	15
+874	32	1	5
+678	25	2	1
+636	30	3	6
+551	38	1	4
+574	40	5	1
+763	42	5	4
+797	31	4	4
+945	31	7	12
+883	33	1	7
+882	15	5	9
+851	10	7	6

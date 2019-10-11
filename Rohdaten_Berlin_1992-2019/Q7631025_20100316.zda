@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7631025
+datum=16.03.2010
+kurzken=Q 7631025/10
+bez=Raoul-Wallenberg-Str. (westl. J.-Petersen-Str.-Nordseite)   (Marzahn, 12679)
+arm1=Raoul-Wallenberg-Straße,740,0000
+arm2=Zufahrt Wohngebiet,1500,0001
+arm3=Raoul-Wallenberg-Straße,2350,0000
+arm4=Jan-Petersen-Straße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die R.-Wallenberg-Str. westl. der J.Petersen-Str. zw. der Nordseite und der Mittelinsel (Tram) queren.\nWetter: max T=5°C; Sonne=1 Std; Niederschlag=0 mm; Durchführung der Erhebungen: 
+data=
+; 2 -> 4
+68	38
+58	5
+81	4
+89	5
+91	42
+86	17
+121	4
+122	17
+143	42
+110	22
+151	13
+108	23
+; 4 -> 2
+86	9
+62	9
+71	6
+61	2
+52	4
+83	7
+48	19
+52	15
+79	26
+40	18
+58	9
+39	22

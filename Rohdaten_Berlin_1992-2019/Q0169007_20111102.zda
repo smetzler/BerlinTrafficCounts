@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 169007
+datum=02.11.2011
+kurzken=Q 169007/11
+bez=Waltersdorfer Straße (Stadtgrenze)   (Bohnsdorf, 12526)
+arm1=Waltersdorf,1700,0100
+arm2=Waldstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: zw. A 113 und Grünbergallee Fahrbahn in beiden Ri. auf einen Fahrstreifen verengt.\n
+data=
+; 1 -> 2
+146	19	3	2	2
+156	29	2	2	2
+141	17	3	1	0
+130	8	3	2	4
+231	20	3	3	4
+254	16	4	2	17
+236	18	2	4	10
+296	13	2	6	16
+338	12	3	5	12
+294	4	4	12	14
+399	6	3	4	9
+347	2	2	1	8
+; 2 -> 1
+235	13	3	4	9
+192	17	2	2	3
+239	16	4	3	7
+264	8	4	6	2
+218	7	2	2	5
+228	16	3	2	6
+245	16	2	3	11
+231	10	3	1	11
+258	11	3	2	9
+338	6	4	8	6
+294	4	1	3	3
+167	3	2	2	3

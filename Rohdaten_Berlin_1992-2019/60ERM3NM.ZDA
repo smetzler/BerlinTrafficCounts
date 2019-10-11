@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 19138
+datum=3.6.1991
+kurzken=Q 1913.8/91-F
+bez=Wittelsbacherstrasse oestlich Kirchhainer Damm    ( Berlin 49 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+7 2 
+11 6 
+0 0 
+3 0 
+1 1 
+1 0 
+2 0 
+3 0 
+1 2 
+2 0 
+13 0 
+7 0 
+; 2 -> 1
+1 1 
+6 1 
+0 0 
+0 0 
+2 1 
+3 0 
+5 0 
+2 2 
+1 0 
+1 0 
+5 0 
+3 2 

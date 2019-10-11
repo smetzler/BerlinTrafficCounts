@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6523031
+datum=30.05.2011
+kurzken=Q 6523031/11
+bez=Frankfurter Allee (westl. Proskauer Straße)   (Friedrichshain, 10247)
+arm1=Frankfurter Allee (W),850,0000
+arm2=Niederbarnimstraße,1600,0001
+arm3=Frankfurter Allee (O),2650,0000
+arm4=Proskauer Straße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=31°C; Sonne=15 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+20	1
+15	4
+42	5
+32	3
+49	23
+31	2
+33	2
+44	4
+47	7
+34	1
+37	4
+56	2
+; 4 -> 2
+22	2
+33	1
+36	4
+55	27
+44	4
+40	1
+44	3
+50	2
+62	10
+36	3
+47	5
+59	3

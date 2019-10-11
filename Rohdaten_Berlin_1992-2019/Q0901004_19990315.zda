@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901004
+datum=15.03.1999
+kurzken=Q 0901004/99
+bez=Invalidenstraße (östl. Hessische Straße)   (Mitte, 10115)
+arm1=Hessische Straße,1300,0100
+arm2=Chaussestraße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+542	23	6	11
+681	31	8	7
+725	43	9	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+612	21	8	4
+608	17	7	5
+531	19	9	4
+; 2 -> 1
+391	38	7	2
+689	45	8	3
+745	51	10	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1028	27	8	12
+1019	30	8	13
+907	14	9	10

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923080
+datum=20.10.2011
+kurzken=Q 0923080/11
+bez=Gülzower Straße (westl. Heinrich-Grüber-Straße)   (Kaulsdorf-Nord, 12619)
+arm1=Lily-Braun-Straße,850,0000
+arm2=Heinrich-Grüber-Straße,2650,0000
+arm3=((Norden)),3550,0001
+arm4=((Süden)),1750,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Gülzower Str. westl. der Heinrich-Grüber-Straße (bis ca. 50m westl.) queren.\nWetter: max T=10°C; Sonne=3 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+8	0
+6	0
+11	44
+4	0
+5	0
+6	0
+4	0
+7	0
+7	1
+10	0
+9	5
+12	1
+; 4 -> 3
+7	1
+11	0
+9	1
+2	0
+5	0
+12	44
+9	2
+7	0
+19	3
+16	2
+14	2
+21	1

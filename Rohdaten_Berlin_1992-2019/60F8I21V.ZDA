@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19746
+datum=04.06.1986
+kurzken=Q 19746/86
+bez=Hildburghauser Strasse  westl. Kruseweg   ( Berlin 48 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend Regen
+data=
+; 1 -> 2
+4 0 3 0 53 2 61 1 71 5 49 7 50 3 
+57 5 64 3 81 10 55 15 20 3 
+; 2 -> 1
+7 0 5 0 46 0 42 0 45 3 33 2 52 12 
+37 6 46 1 64 9 68 21 6 3 

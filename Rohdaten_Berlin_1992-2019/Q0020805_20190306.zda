@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0020805
+datum=06.03.2019
+kurzken=Q 0020805/19
+bez=Prenzlauer Promenade (nördl. Wisbyer Straße) (Prenzlauer Berg, 13189) 
+arm1=Gustav-Adolf-Straße,100,0100
+arm2=Wisbyer Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1492	62	6	13	185
+1324	69	7	10	222
+1208	74	7	20	135
+952	66	8	10	72
+927	57	6	7	44
+895	51	10	11	33
+773	50	7	10	42
+769	35	5	7	49
+895	21	6	12	51
+886	24	8	10	66
+847	14	5	11	48
+540	11	3	4	25
+; 2 -> 1
+716	41	1	4	46
+731	38	3	3	62
+760	42	5	2	58
+690	60	0	0	32
+908	55	1	0	28
+820	82	2	4	37
+742	60	3	8	24
+934	60	0	6	43
+940	42	1	9	56
+926	20	0	4	80
+956	13	3	11	46
+840	10	0	4	30

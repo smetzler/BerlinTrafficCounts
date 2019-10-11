@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11207
+datum=21.06.1990
+kurzken=Q 11207/90
+bez=Maybachufer suedl. Pannierstrasse    ( Berlin 44 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+3 5 14 20 12 18 17 9 21 12 26 18 
+; 2 -> 1
+6 3 13 29 13 21 20 21 18 26 42 30 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908006
+datum=04.06.1998
+kurzken=Q 0908006/98
+bez=Heerstraße (westl. Wilhelmstraße)   (Spandau, 13593)
+arm1=Steinmeisterweg,800,0100
+arm2=Wilhelmstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1040	70	30	42
+950	61	19	22
+777	52	20	24
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+793	41	18	25
+854	25	19	26
+798	21	21	26
+; 2 -> 1
+562	56	33	7
+748	49	22	14
+835	70	16	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1192	37	16	42
+1164	36	16	41
+1128	30	16	31

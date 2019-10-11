@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020316
+datum=05.11.2002
+kurzken=Q 020316/02
+bez=Melchiorstraße (westl. Engeldamm)   (Mitte, 10179)
+arm1=Adalbertstraße,700,0100
+arm2=Engeldamm,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+4	0	0	0	0
+0	1	0	0	3
+4	1	2	0	5
+4	0	0	0	5
+10	2	1	0	2
+6	1	0	0	1
+13	1	0	0	0
+2	0	0	0	3
+6	0	0	0	4
+9	1	0	0	6
+11	2	0	0	3
+14	1	0	0	7
+; 2 -> 1
+5	3	1	0	3
+4	1	1	0	3
+3	2	1	0	7
+8	5	1	0	12
+6	2	1	0	4
+11	3	1	0	3
+4	2	1	0	3
+8	1	4	0	6
+10	3	0	0	9
+15	4	0	0	1
+20	6	0	0	3
+19	4	0	0	8

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913001
+datum=27.05.1998
+kurzken=Q 0913001/98
+bez=Lichtenrader Damm (nördl. Bahnhofstraße)   (Lichtenrade, 12305)
+arm1=Löptener Straße,300,0100
+arm2=Bahnhofstraße,2150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+739	99	9	10
+813	88	10	9
+858	125	13	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1126	71	7	37
+1281	64	7	39
+1221	41	9	50
+; 2 -> 1
+1149	114	7	28
+1012	120	10	17
+854	100	9	18
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+809	66	6	19
+903	48	8	34
+1004	33	6	31

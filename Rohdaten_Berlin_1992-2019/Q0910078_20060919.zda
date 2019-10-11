@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910078
+datum=19.09.2006
+kurzken=Q 0910078/06
+bez=Argentinische Allee (südwestl. Sven-Hedin-Straße)   (Zehlendorf, 14163)
+arm1=Mexikoplatz,1400,0100
+arm2=Sven-Hedin-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=27°C max T; 9 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1088	26	11	15	98
+1625	13	9	8	35
+812	14	8	6	24
+534	4	4	6	22
+547	16	7	3	8
+577	11	7	7	17
+521	14	8	7	68
+620	8	11	18	73
+716	6	12	14	74
+673	2	10	12	52
+633	4	13	7	74
+610	0	6	19	62
+; 2 -> 1
+420	13	14	11	111
+578	14	12	7	46
+452	13	8	9	53
+416	26	6	8	40
+568	17	10	6	39
+550	16	8	11	38
+562	10	9	19	61
+607	11	8	14	84
+634	12	10	12	70
+792	11	10	16	63
+708	6	11	16	88
+639	3	8	28	61

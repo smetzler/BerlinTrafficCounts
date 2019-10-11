@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912901
+datum=14.11.2012
+kurzken=Q 0912901/12
+bez=Schloßstraße (nördl. Grunewaldstraße)   (Steglitz, 12163)
+arm1=Grunewaldstraße,1500,0100
+arm2=Muthesiusstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=NICHT GEZÄHLT\, da das Ordnungsamt erhebliche Probleme bereitete und eine ordnungsgemäße Zählung nicht möglich war.
+data=
+; 1 -> 2
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+; 2 -> 1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1

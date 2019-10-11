@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109036
+datum=03.11.2011
+kurzken=Q 109036/11
+bez=Stendaler Straße (südl. Landsberger Chaussee)   (Hellersdorf, 12629)
+arm1=Zossener Straße,1850,0100
+arm2=Landsberger Chaussee,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Risaer Str. (Verlängerung der Stendaler Str.) Höhe U-Bhf. Hellersdorf Ri. Süd gesperrt!\n
+data=
+; 1 -> 2
+352	12	3	5	5
+367	9	3	4	12
+418	20	3	2	12
+468	14	3	4	8
+467	10	3	3	7
+460	9	4	7	10
+409	7	3	4	18
+383	5	4	6	7
+446	2	3	2	11
+476	2	4	2	8
+494	8	3	3	9
+335	6	2	4	5
+; 2 -> 1
+189	7	3	1	5
+185	5	3	2	3
+293	3	3	3	9
+348	16	3	4	6
+394	13	3	4	7
+344	5	3	3	7
+336	10	3	2	12
+389	9	4	2	9
+489	2	4	7	18
+428	0	4	4	12
+457	5	3	2	9
+380	3	3	3	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918059
+datum=09.03.2011
+kurzken=Q 0918059/11
+bez=Schönstraße (Höhe Amalienstraße)   (Weißensee, 13086)
+arm1=Oestreichstraße,1350,0000
+arm2=Blechenstraße,3150,0000
+arm3=((Nordwesten)),450,0001
+arm4=((Südosten)),2250,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Schönstraße im Bereich der Amalienstraße (ca. 50m südl. bis 50m nördl.) queren.\nWetter: max T=14°C; Sonne=5\,5 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+13	28
+8	0
+10	0
+8	0
+8	0
+8	0
+23	5
+14	4
+11	2
+14	14
+5	1
+2	0
+; 4 -> 3
+13	0
+4	0
+5	2
+4	0
+11	0
+16	2
+16	8
+24	10
+18	6
+16	14
+13	7
+7	0

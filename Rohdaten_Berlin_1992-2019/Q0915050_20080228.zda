@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915050
+datum=28.02.2008
+kurzken=Q 0915050/08
+bez=Oberspreestraße (westl. Friedlander Straße)   (Köpenick, 12555)
+arm1=Friedlander Straße,700,0100
+arm2=Bernstaedter weg,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+256	17	5	3	13
+335	22	4	9	7
+327	10	3	2	9
+374	14	3	2	12
+346	20	4	3	3
+388	22	4	6	9
+495	15	3	2	17
+586	20	4	6	22
+704	19	3	5	38
+725	10	3	9	30
+661	12	4	10	18
+642	4	3	5	12
+; 2 -> 1
+995	31	5	7	28
+748	23	2	6	15
+535	16	5	7	22
+396	25	4	2	16
+370	16	3	8	17
+404	21	3	3	11
+432	10	3	9	21
+451	12	3	5	20
+439	8	3	1	7
+451	4	4	1	15
+402	6	4	2	10
+333	4	3	1	3

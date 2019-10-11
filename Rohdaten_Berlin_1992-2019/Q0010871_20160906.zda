@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10871
+datum=06.09.2016
+kurzken=Q 10871/16
+bez=Kreuzbergstraße (westl. Möckernstraße)   (Kreuzberg, 10965)
+arm1=Kreuzbergstraße (W),980,0000
+arm2=((Norden)),1780,0001
+arm3=Kreuzbergstraße (O),2780,0000
+arm4=Möckernstraße,3580,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=11 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+1	0
+0	0
+0	0
+0	0
+1	0
+1	0
+5	0
+13	0
+1	0
+2	0
+4	0
+1	0
+; 4 -> 2
+0	7
+0	0
+0	0
+1	0
+0	0
+2	0
+4	0
+8	0
+5	1
+6	0
+1	0
+1	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906047
+datum=05.06.2007
+kurzken=Q 0906047/07
+bez=Prinzenstraße (Mittelinsel nördl. Moritzplatz)   (Kreuzberg, 10969)
+arm1=Moritzplatz,1600,0000
+arm2=Heinrich-Heine-Straße,3400,0000
+arm3=((Westen)),700,0001
+arm4=((Osten)),2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Prinzenstraße in Höhe der Mittelinsel queren!Durchführung; der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+11	2
+24	6
+39	5
+44	4
+38	4
+27	5
+30	3
+30	6
+44	10
+30	5
+54	5
+46	12
+; 4 -> 3
+17	4
+38	0
+40	5
+16	0
+38	0
+50	1
+44	2
+52	7
+71	16
+47	13
+29	3
+32	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119006
+datum=18.04.2016
+kurzken=Q 119006/16
+bez=Schöneicher Landstraße (Stadtgrenze, südl. Waldweg)   (Köpenick, 12587)
+arm1=S-Bhf. Friedrichshagen,1200,0100
+arm2=Friedrichshagener Straße ,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+127	10	0	1	4
+111	9	0	2	5
+113	10	0	2	7
+94	8	0	0	0
+130	8	0	0	9
+144	13	0	1	16
+165	12	0	5	9
+222	13	0	4	10
+278	9	0	10	16
+298	10	0	6	20
+295	6	0	3	11
+268	5	0	3	17
+; 2 -> 1
+179	1	0	7	15
+155	11	0	4	11
+153	5	0	1	10
+114	2	0	0	4
+102	5	0	2	5
+118	9	0	3	12
+92	6	0	1	8
+120	7	0	0	3
+132	4	0	4	8
+150	4	0	0	2
+134	4	0	1	8
+112	2	0	2	0

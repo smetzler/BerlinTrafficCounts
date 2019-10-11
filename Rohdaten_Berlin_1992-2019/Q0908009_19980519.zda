@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908009
+datum=19.05.1998
+kurzken=Q 0908009/98
+bez=Kladower Damm (nördl. Helleberge)   (Gatow, 14089)
+arm1=Helleberge,1400,0100
+arm2=Groß-Glienicker-Weg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+614	27	15	21
+517	20	8	20
+472	27	11	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+480	8	10	24
+552	14	7	26
+541	5	9	20
+; 2 -> 1
+405	18	9	19
+416	28	8	15
+364	32	9	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+504	8	9	26
+532	9	8	22
+572	5	11	23

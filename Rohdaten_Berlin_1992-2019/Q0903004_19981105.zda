@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0903004
+datum=05.11.1998
+kurzken=Q 0903004/98
+bez=Nordufer (östl. Föhrer Straße)   (Wedding, 13353)
+arm1=Föhrer Straße,800,0100
+arm2=Buchstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+224	12	0	2
+297	6	0	2
+188	16	0	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+310	7	0	8
+311	8	0	8
+221	3	0	2
+; 2 -> 1
+323	11	0	2
+324	25	0	8
+222	8	0	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+276	7	0	8
+288	13	0	1
+252	1	0	6

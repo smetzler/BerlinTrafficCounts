@@ -1,0 +1,35 @@
+[ZA1001]
+knoten=Q 0902082
+datum=30.06.2015
+kurzken=Q 0902082/15
+bez=Hofjägerallee (Zufahrt nördl. Stülerstr., geradeaus+rechts-Spur)   (Tiergarten, 10787)
+arm1=Großer Stern,100,0100
+arm2=Stülerstraße,1900,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1700
+intv=15
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Straße des 17. Juni zwischen Ebertstr. und Yitzhak-Rabin-Str. gesperrt.
+data=
+; 1 -> 2
+71	2	9	3	5
+68	2	7	3	6
+61	2	5	4	6
+66	1	5	1	5
+65	2	9	5	8
+69	3	6	4	6
+58	4	11	1	0
+96	1	8	4	0
+90	1	5	9	3
+113	1	5	5	0
+123	2	9	1	1
+126	0	12	6	0
+168	1	10	2	3
+117	1	7	7	0
+130	6	6	3	0
+149	2	7	2	0

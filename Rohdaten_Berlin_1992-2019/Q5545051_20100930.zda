@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5545051
+datum=30.09.2010
+kurzken=Q 5545051/10
+bez=Hessische Straße (nördl. Hannoversche Straße)   (Mitte, 10115)
+arm1=Hessische Straße,300,0000
+arm2=Hannoversche Straße (W),850,0001
+arm3=Hannoversche Straße (SO),2400,0000
+arm4=((Osten)),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	0
+4	0
+5	0
+7	0
+23	0
+30	0
+9	0
+5	0
+10	0
+13	0
+11	0
+11	0
+; 4 -> 2
+3	0
+13	0
+11	0
+17	0
+13	0
+12	0
+6	0
+12	2
+12	1
+9	1
+4	1
+5	1

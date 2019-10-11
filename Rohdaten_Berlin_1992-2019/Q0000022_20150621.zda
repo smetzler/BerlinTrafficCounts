@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0022
+datum=21.06.2015
+kurzken=Q 0022/15
+bez=B5 - Heerstraße (westl. Nennhauser Damm)   (Spandau, 13591)
+arm1=Landesgrenze,900,0100
+arm2=Nennhauser Damm,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 80\, Feld 2c
+data=
+; 1 -> 2
+1246	0	0	1	24	19
+1529	2	2	1	44	8
+1314	3	1	2	55	7
+; 2 -> 1
+645	3	1	1	28	9
+560	1	0	0	15	17
+507	1	2	0	15	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29983
+datum=20.06.2016
+kurzken=Q 29983/16
+bez=Kirschnerweg (südl. Johannisthaler Chaussee)    (Gropiusstadt, 12351)
+arm1=,0,0000
+arm2=Johannisthaler Chaussee (W),1200,0001
+arm3=Kirschnerweg,2100,0000
+arm4=Johannisthaler Chaussee (O),3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+16	0
+16	2
+40	3
+63	5
+71	1
+85	2
+63	6
+77	11
+60	5
+78	9
+69	10
+89	9
+; 4 -> 3
+60	21
+53	8
+77	6
+99	4
+80	4
+69	5
+84	4
+82	14
+50	12
+71	10
+72	7
+53	3

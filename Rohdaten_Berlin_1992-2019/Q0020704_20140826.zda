@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020704
+datum=26.08.2014
+kurzken=Q 020704/14
+bez=Gartenstraße (südl. Bernauer Straße)   (Wedding, 13355)
+arm1=Bernauer Straße,400,0100
+arm2=Invalidenstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Chausseestr.\, Vollsperrung in beiden Richtungen zw. Invalidenstr. u. Zinnowitzer Str. \n
+data=
+; 1 -> 2
+497	29	0	10	86
+417	13	0	21	150
+418	22	1	13	151
+400	12	0	10	66
+391	11	4	14	65
+394	12	0	10	84
+395	12	2	14	55
+405	7	0	26	73
+425	6	0	22	83
+462	3	0	28	8
+437	4	0	17	121
+411	5	1	25	131
+; 2 -> 1
+227	2	0	14	50
+161	6	0	7	62
+183	6	0	7	80
+220	2	0	4	22
+176	7	0	9	41
+164	13	1	5	51
+180	3	0	14	51
+211	3	0	7	71
+213	2	0	14	85
+218	0	2	22	92
+226	2	0	22	116
+200	7	0	11	153

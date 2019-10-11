@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60188
+datum=04.12.1990
+kurzken=Q 60188/90
+bez=Gross-Ziethener Strasse oestlich Nahariyastrasse    ( Berlin 49 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+12 16 8 4 8 2 9 0 3 6 2 4 3 0 
+2 2 0 2 3 4 10 6 9 1 
+; 2 -> 1
+0 0 1 1 1 0 2 0 0 0 0 0 0 0 
+0 0 2 0 0 1 4 1 0 0 

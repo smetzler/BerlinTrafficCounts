@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914056
+datum=29.05.2006
+kurzken=Q 0914056/06
+bez=Parkweg entlang U7 (südl. Martin-Luther-King-Weg)   (Buckow, 12351)
+arm1=Martin-Luther-King-Weg,300,0100
+arm2=Anna-Siemsen-Weg,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+14
+19
+11
+34
+26
+37
+23
+22
+16
+26
+26
+20
+; 2 -> 1
+23
+21
+31
+34
+27
+17
+19
+22
+22
+27
+26
+9

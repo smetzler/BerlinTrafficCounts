@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 2258018
+datum=17.05.1994
+kurzken=Q 2258018/94
+bez=Königsstraße / östl. Nikolskoer Weg (Wannsee)
+arm1=Nikolskoer Weg,100,0010
+arm2=Königsstraße,950,0000
+arm3=Am Waldrand,1900,1000
+arm4=Königsstraße,2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  meist heiter
+data=
+; 1 -> 3
+0 0
+0 0
+0 0
+0 0
+2 0
+0 0
+0 0
+0 0
+1 1
+0 0
+5 3
+1 0
+; 3 -> 1
+1 0
+1 0
+0 0
+0 0
+1 0
+0 0
+0 0
+3 1
+1 0
+3 0
+0 0
+1 0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 19561
+datum=30.09.1999
+kurzken=Q 19561/99
+bez=Osdorfer Straße (nördl. Reaumurstraße - Scheelestr.) (Lichterfelde, 12207)
+arm1=Osdorfer Straße,350,0000
+arm2=Reaumurstraße,1250,0001
+arm3=Osdorfer Straße,2150,0000
+arm4=Scheelestraße,3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonnenstd.=2; Niederschlag=3\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+14	8
+30	4
+33	3
+28	3
+31	4
+34	13
+29	25
+31	34
+52	37
+50	24
+52	20
+39	7
+; 4 -> 2
+15	3
+31	12
+33	2
+19	3
+19	0
+9	3
+17	7
+21	15
+35	17
+28	13
+25	5
+30	2

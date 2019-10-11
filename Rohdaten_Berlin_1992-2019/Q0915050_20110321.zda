@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915050
+datum=21.03.2011
+kurzken=Q 0915050/11
+bez=Rampe Landsberger Allee (westl. Frank-Schweitzer-Straße  (Marzahn, 12681)
+arm1=Landsberger Allee,1000,0100
+arm2=Franz-Schweitzer-Str. (zw. Hochstr.),2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=SIEHE beigefügte SKIZZE! \nFahrzeuge die die Rampe Landsberger Allee von/zur Franz-Schweitzer-Str. (zwischen den Hochstraßen der Landsberger Allee) befahren. \n
+data=
+; 1 -> 2
+130	13	0	1	2
+114	11	0	1	1
+102	27	0	1	2
+96	18	1	2	0
+108	27	0	0	0
+112	31	0	3	1
+146	13	1	4	0
+139	18	0	0	0
+208	14	0	4	0
+255	7	0	9	0
+129	5	0	2	0
+118	3	0	2	0
+; 2 -> 1
+99	21	0	0	0
+92	12	0	1	0
+77	16	0	2	0
+62	12	0	2	0
+78	21	0	1	1
+85	18	0	1	2
+87	6	0	0	0
+139	15	0	7	0
+144	16	0	6	0
+113	5	1	2	0
+75	0	0	3	1
+91	3	0	3	0

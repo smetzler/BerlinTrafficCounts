@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923063
+datum=09.11.2009
+kurzken=Q 0923063/09
+bez=Neue Grottkauer Straße (westl. Maxie-Wander-Straße)   (Hellersdorf, 12619)
+arm1=Peter-Edel-Straße,850,0100
+arm2=Maxie-Wander-Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+125	4	0	1	4
+127	4	0	0	3
+145	4	0	0	6
+176	2	1	2	8
+159	2	0	1	7
+144	1	0	0	6
+120	4	0	0	10
+218	4	0	2	5
+250	0	0	2	6
+250	1	0	1	13
+286	1	0	3	7
+256	2	0	1	5
+; 2 -> 1
+297	2	0	2	12
+219	4	0	1	6
+168	2	0	0	7
+170	4	0	4	8
+115	2	0	0	5
+124	6	1	1	9
+147	5	1	0	7
+141	3	0	2	6
+160	0	0	10	4
+170	3	0	1	4
+188	2	0	0	5
+137	0	0	0	5

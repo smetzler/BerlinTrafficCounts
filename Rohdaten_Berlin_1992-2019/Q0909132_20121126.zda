@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0909132
+datum=26.11.2012
+kurzken=Q 0909132/12
+bez=Johann-Georg-Straße (Höhe Nr. 26)   (Wilmersdorf, 10709)
+arm1=Joachim-Friedrich-Straße,400,0000
+arm2=Nestorstraße,2200,1000
+arm3=((Südwesten)),1300,0000
+arm4=((Nordosten)),3100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+72	3	0	1	10
+173	1	0	1	21
+123	4	0	0	24
+196	2	0	0	26
+158	3	0	3	17
+115	3	0	1	9
+146	5	0	0	10
+145	2	0	0	15
+171	2	0	1	17
+198	2	0	2	28
+167	0	0	2	8
+115	0	0	1	24

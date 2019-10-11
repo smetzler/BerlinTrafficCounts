@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 10253
+datum=28.09.1999
+kurzken=Q 10253/99
+bez=Salzbrunner Straße (südl. Paulsborner Str.)  (Wilmersdorf, 14199)
+arm1=Caspar-Theyß-Str.,770,0000
+arm2=Paulsborner Straße,1300,0001
+arm3=Salzbrunner Straße,1800,0000
+arm4=Paulsborner Straße,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	1
+4	3
+4	0
+1	0
+2	0
+1	0
+2	1
+4	0
+10	0
+5	2
+5	0
+4	0
+; 4 -> 2
+2	0
+1	0
+1	0
+0	0
+0	0
+0	0
+2	0
+2	0
+4	0
+7	0
+1	0
+0	0

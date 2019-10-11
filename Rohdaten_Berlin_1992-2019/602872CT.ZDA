@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 02887
+datum=14.05.1987
+kurzken=Q 2887/87
+bez=Hussitenstrasse  suedl. Scheringstrasse    ( Berlin 65 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 1 2 5 0 7 3 2 4 19 9 6 
+; 2 -> 1
+6 4 1 2 5 10 15 6 58 23 4 4 

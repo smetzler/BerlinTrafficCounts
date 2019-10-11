@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29773
+datum=12.03.2015
+kurzken=Q 29773/15
+bez=Reichpietschufer (östl. Hiroshimastraße)   (Tiergarten, 10785)
+arm1=Reichpietschufer (W),850,0000
+arm2=Hiroshimasteg,1670,0001
+arm3=Reichpietschufer (O),2560,0000
+arm4=Hiroshimastraße   ,3470,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+20	4
+31	1
+26	0
+15	0
+19	21
+12	1
+28	0
+9	0
+15	0
+8	0
+9	0
+24	0
+; 4 -> 2
+15	1
+14	1
+14	1
+9	1
+6	0
+12	0
+22	0
+20	0
+29	1
+29	2
+69	0
+20	0

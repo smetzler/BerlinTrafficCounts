@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40099
+datum=15.09.1984
+kurzken=Q 40099/84
+bez=Buckower Damm  noerdl. Steintraegerweg  (Berlin 47); Mittelstreifendurchfahrt
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0900,2100
+intv=60
+bemerk=Mittelstreifendurchfahrt nur fuer BVG frei!
+data=
+; 1 -> 2
+0 2 0 0 0 0 6 0 0 0 0 7 0 0 0 
+0 8 0 0 0 0 6 0 0 0 0 4 0 0 0 
+0 5 1 0 0 0 7 0 0 0 0 2 0 0 0 
+0 4 1 0 0 0 7 0 0 0 0 2 0 0 0 
+; 2 -> 1
+0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 
+0 0 0 0 0 0 1 0 0 0 1 2 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 

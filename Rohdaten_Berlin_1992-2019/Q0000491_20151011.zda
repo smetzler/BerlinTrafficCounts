@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00491
+datum=11.10.2015
+kurzken=Q 00491/15
+bez=A102 - Abzw. Tempelhof (nördl. der Gradestraße) (Tempelhof, 12099)
+arm1=AS Oberlandstraße,200,0100
+arm2=AS Gradestraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Unfall A100 zw. Alboinstr. u. Tempelhofer D.\n
+data=
+; 1 -> 2
+360	0	1	0	10
+164	2	0	1	5
+141	3	0	0	2
+; 2 -> 1
+429	1	0	0	6
+445	4	1	0	9
+398	2	0	0	4

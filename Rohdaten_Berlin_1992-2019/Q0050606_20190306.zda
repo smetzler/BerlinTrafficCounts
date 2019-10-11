@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0050606
+datum=06.03.2019
+kurzken=Q 0050606/19
+bez=Halenseestr. (Ortsfahrbahnen nordwestl. Rathenauplatz) (Wilmersdorf, 14193) 
+arm1=Trabener Steg,300,0100
+arm2=Rathenauplatz,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1542	49	5	8	11
+1737	48	7	3	20
+1476	43	17	2	12
+-170	-7	-2	-1	-1
+1174	41	9	5	12
+1109	44	4	8	13
+1147	23	4	14	10
+1303	32	3	10	30
+1852	24	8	21	24
+-254	-2	-4	-1	-4
+1756	15	34	10	34
+1523	8	41	11	22
+; 2 -> 1
+1420	46	8	11	27
+1724	35	17	8	20
+1623	38	39	9	26
+1090	44	26	4	20
+1010	46	10	5	12
+1102	45	7	10	13
+1268	37	3	11	8
+1516	49	6	18	14
+1974	34	10	19	15
+1722	18	14	14	20
+1763	18	26	12	12
+1609	15	24	13	7

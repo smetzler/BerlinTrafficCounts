@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914002
+datum=10.06.1998
+kurzken=Q 0914002/98
+bez=Grenzallee (östl. Karl-Marx-Straße)   (Neukölln, 12057)
+arm1=Karl-Marx-Straße,950,0100
+arm2=Ballinstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+306	43	0	13
+320	61	0	9
+276	51	1	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+321	32	3	16
+301	21	1	11
+315	20	0	5
+; 2 -> 1
+342	64	3	12
+373	56	10	7
+394	78	3	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+600	41	1	29
+554	36	1	16
+454	26	3	9

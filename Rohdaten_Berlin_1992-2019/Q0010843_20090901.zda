@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10843
+datum=01.09.2009
+kurzken=Q 10843/09
+bez=Bergmannstraße (östl. Mehringdamm)   (Kreuzberg, 10961)
+arm1=Kreuzbergstraße,900,0000
+arm2=Mehringdamm (S),1700,0001
+arm3=Bergmannstraße,2700,0000
+arm4=Mehringdamm (O),3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=32°C; Sonne=8 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+29	22
+44	37
+55	2
+75	1
+79	2
+87	3
+91	5
+86	5
+102	10
+102	29
+85	16
+145	46
+; 4 -> 2
+15	3
+48	6
+61	0
+49	0
+63	3
+84	4
+102	12
+76	19
+87	10
+90	15
+103	17
+96	8

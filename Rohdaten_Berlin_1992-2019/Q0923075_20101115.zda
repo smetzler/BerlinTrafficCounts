@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923075
+datum=15.11.2010
+kurzken=Q 0923075/10
+bez=Apollofalterallee (südl. Lindenstraße)   (Biesdorf, 12683)
+arm1=Lindenstraße,1500,0000
+arm2=Lauinger Straße,3300,0000
+arm3=((Westen)),600,0001
+arm4=((Osten)),2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Apollofalterallee südl. der Lindenstr. (bis ca. 50m südl.) queren.\nWetter: max T=14°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+2	1
+1	0
+3	0
+1	0
+0	0
+2	0
+1	0
+2	0
+3	1
+2	0
+3	0
+2	0
+; 4 -> 3
+11	0
+6	0
+9	1
+2	0
+1	0
+2	1
+2	0
+3	5
+7	2
+6	2
+2	0
+3	0

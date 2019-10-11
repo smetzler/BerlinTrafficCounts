@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 20042
+datum=11.09.2015
+kurzken=Q 20042/15
+bez=A103 - Abzw. Zehlendorf (Zu- u. Abfahrt, nördl. Saarstraße)   (Steglitz, 12169)
+arm1=Saarstraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Saarstraße\, 1>2 = Zuf.von Saarstr. nach AK Schöneberg\, 2>1 = Abf. von AK Schöneberg zur Saarstr.\nCity-Atlas Seite 115\, Feld 3d
+data=
+; 1 -> 2
+268	9	1	0	4
+278	12	1	2	4
+291	5	0	3	1
+; 2 -> 1
+267	5	1	1	3
+324	3	0	0	5
+336	5	0	0	6

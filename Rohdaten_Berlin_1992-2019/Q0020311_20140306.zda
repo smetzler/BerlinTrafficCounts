@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020311
+datum=06.03.2014
+kurzken=Q 020311/14
+bez=Niederkirchnerstraße (östl. Stresemannstraße)   (Mitte, 10117)
+arm1=Stresemannstraße,950,0100
+arm2=Wilhelmstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wilhelmstr. in beiden Richtungen Höhe Kreuzung Zimmerstr.\, veränderte Verkehrsführung\, eingeschränkte Abbiegemöglichkeiten\n
+data=
+; 1 -> 2
+148	2	1	5	51
+242	6	2	6	119
+200	4	5	4	75
+128	4	10	2	18
+126	5	14	3	27
+155	1	10	4	57
+132	1	11	4	47
+175	2	14	4	38
+181	2	8	5	81
+172	0	16	6	94
+180	2	6	6	92
+187	0	2	4	97
+; 2 -> 1
+101	2	1	3	41
+109	6	0	5	130
+141	2	1	1	107
+76	2	0	4	76
+88	3	0	0	147
+104	3	0	0	84
+102	1	0	3	69
+116	2	2	2	57
+153	1	0	3	59
+142	0	2	4	62
+142	0	0	5	136
+144	0	1	6	96

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q6425035
+datum=10.3.1993
+kurzken=Q 642503.5/93-F
+bez=Harzer Straße westl. Elsenstraße    (Neukölln)
+arm1=Süd ,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+15 5 
+18 5 
+22 2 
+27 3 
+29 4 
+36 3 
+28 7 
+24 6 
+31 7 
+31 12 
+39 5 
+26 2 
+; 2 -> 1
+6 7 
+11 1 
+29 2 
+33 4 
+33 1 
+39 3 
+39 4 
+32 6 
+32 9 
+46 6 
+39 10 
+10 1 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 19235
+datum=6.3.1991
+kurzken=Q 1923.5/91-F
+bez=Schichauweg westlich Egestorffstrasse    ( Berlin 49 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+6 4 0 
+3 7 0 
+1 1 0 
+0 0 0 
+2 0 1 
+1 0 0 
+1 0 0 
+0 1 1 
+2 2 0 
+0 0 0 
+2 1 1 
+1 1 1 
+; 2 -> 1
+3 8 0 
+2 10 1 
+2 0 0 
+1 0 0 
+2 2 0 
+2 1 1 
+6 5 0 
+3 5 1 
+2 5 3 
+5 8 3 
+3 1 0 
+2 1 0 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025537
+datum=12.3.1992
+kurzken=Q 2553.7/92-F
+bez=Platz am Königstor östlich Hans-Beimler-Straße    ( Berlin 1055 Friedrh. )
+arm1=Süd,3230,0100
+arm2=Nord,1430,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+26 1 
+19 0 
+18 0 
+14 0 
+17 2 
+34 1 
+18 3 
+43 4 
+37 5 
+44 3 
+35 7 
+22 5 
+; 2 -> 1
+62 24 
+43 4 
+28 1 
+26 0 
+42 0 
+33 0 
+41 4 
+32 8 
+51 1 
+71 6 
+41 10 
+24 4 

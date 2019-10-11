@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907901
+datum=08.05.2019
+kurzken=Q 0907901/18
+bez=Joachimstaler Straße (nördl. Lietzenburger Straße) (Charlottenburg, 10623) 
+arm1=Lietzenburger Straße,1750,0100
+arm2=Augsburger Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+93
+167
+137
+48
+72
+55
+34
+25
+33
+26
+30
+45
+; 2 -> 1
+22
+68
+48
+36
+41
+66
+50
+31
+25
+30
+33
+45

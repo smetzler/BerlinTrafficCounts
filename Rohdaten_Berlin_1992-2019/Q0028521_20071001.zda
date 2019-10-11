@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28521
+datum=01.10.2007
+kurzken=Q 28521/07
+bez=Fehrbelliner Straße (westl. Schönhauser Allee)   (Prenzlauer Berg, 10405)
+arm1=Fehrbelliner Straße,600,0000
+arm2=Schönhauser Allee (S),1500,0001
+arm3=,0,0000
+arm4=Schönhauser Allee (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	3
+27	0
+40	6
+34	2
+31	1
+43	1
+92	2
+62	1
+75	10
+63	7
+96	8
+69	3
+; 4 -> 2
+19	9
+34	4
+37	8
+53	0
+62	1
+78	2
+81	0
+58	2
+59	9
+80	5
+61	6
+58	6

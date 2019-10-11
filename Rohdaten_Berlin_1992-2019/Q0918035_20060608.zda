@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0918035
+datum=08.06.2006
+kurzken=Q 0918035/06
+bez=Parkstraße (Höhe Grundschule am Weißen See)   (Weißensee, 13086)
+arm1=Amalienstraße,1600,0100
+arm2=Blechenstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+52	2	6	1	6
+56	5	2	4	6
+62	0	4	0	8
+74	2	6	6	10
+75	2	4	3	7
+86	3	2	3	7
+124	4	3	4	36
+149	8	5	4	30
+214	8	4	10	46
+236	5	3	11	76
+207	3	4	5	27
+223	0	3	7	21
+; 2 -> 1
+244	3	9	5	24
+195	8	7	6	15
+182	7	6	7	12
+194	8	8	4	8
+162	5	8	4	11
+137	3	7	3	13
+157	7	3	2	25
+163	5	5	7	32
+170	3	6	4	40
+184	6	4	8	33
+145	2	3	6	38
+138	1	3	5	68

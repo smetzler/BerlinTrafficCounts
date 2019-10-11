@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908099
+datum=07.09.2009
+kurzken=Q 0908099/09
+bez=Päwesiner Weg (Höhe Bullengraben)   (Spandau, 13581)
+arm1=Altonaer Straße,0,0100
+arm2=Lazarusstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Einbahnstraße Richtung Süden.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+124	2	0	6	24
+138	9	0	2	17
+181	6	0	8	14
+184	4	0	2	40
+206	7	0	7	19
+184	7	1	6	31
+164	11	0	10	19
+201	9	0	7	14
+198	4	0	16	22
+243	17	0	24	15
+235	4	0	14	10
+204	2	0	21	21
+; 2 -> 1
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0

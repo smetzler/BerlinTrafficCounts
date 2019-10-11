@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 16011
+datum=09.08.2012
+kurzken=Q 16011/12
+bez=A100 - Abzw. Neukölln (nördl. Gradestraße)   (Tempelhof, 12099)
+arm1=Zu.-Abfahrt A100,200,0000
+arm2=Gradestraße (W),800,0001
+arm3=,2000,0000
+arm4=Gradestraße (O),2810,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=5\,5 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+0	0
+0	0
+1	0
+0	0
+1	0
+2	0
+0	0
+1	0
+2	0
+0	0
+2	0
+0	0
+; 4 -> 2
+0	0
+2	0
+4	0
+2	0
+3	0
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0

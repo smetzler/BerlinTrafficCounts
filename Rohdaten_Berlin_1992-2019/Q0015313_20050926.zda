@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 15313
+datum=26.09.2005
+kurzken=Q 15313/05
+bez=Albrechtstraße (östl. Kuhligkshofstraße)   (Steglitz, 12165)
+arm1=Albrechtstraße,600,0000
+arm2=Kuhligkshofstraße,1380,0001
+arm3=Albrechtstraße,2400,0000
+arm4=Düppelstraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=4 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+65	38
+73	11
+77	3
+70	0
+80	0
+95	2
+104	25
+93	32
+85	18
+103	43
+89	19
+83	26
+; 4 -> 2
+40	3
+42	3
+58	4
+69	0
+70	4
+76	3
+65	45
+54	66
+78	39
+77	32
+72	3
+71	52

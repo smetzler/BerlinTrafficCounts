@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0020903
+datum=14.03.2019
+kurzken=Q 0020903/19
+bez=Gürtelstraße (nördl. Scharnweberstraße) (Friedrichshain, 10247) 
+arm1=Frankfurter Allee,3300,0100
+arm2=Scharnweberstraße,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+601	18	0	5	53
+623	30	2	4	82
+555	19	1	1	44
+536	28	0	4	36
+537	22	0	2	33
+540	32	0	5	26
+572	21	0	2	38
+597	34	0	6	51
+649	15	1	4	74
+616	8	0	4	58
+677	6	1	8	48
+636	4	0	3	42
+; 2 -> 1
+471	22	1	1	71
+380	20	0	1	80
+426	27	0	3	43
+434	33	0	0	36
+423	29	0	0	36
+444	32	0	1	25
+487	15	0	0	45
+518	13	1	4	31
+569	15	0	0	46
+584	18	0	4	70
+522	8	0	5	52
+435	5	0	2	63

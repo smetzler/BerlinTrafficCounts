@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 61605
+datum=24.3.1993
+kurzken=Q 616-05/93
+bez=Schönhauser Allee südl. Eberswalder Straße   (Prenzlberg )
+arm1=Oderberger Straße,1850,0100
+arm2=Eberswalder Straße,50,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+4 542 38 1 6 
+1 587 67 0 8 
+4 662 63 1 8 
+4 690 57 0 8 
+6 795 41 2 13 
+9 825 62 0 21 
+8 751 54 1 8 
+3 817 35 0 10 
+8 1153 42 4 16 
+15 1466 32 0 28 
+7 1434 21 2 25 
+4 1147 9 0 18 
+; 2 -> 1
+4 844 38 0 16 
+1 618 44 0 10 
+1 663 37 0 9 
+1 566 45 0 14 
+1 541 44 1 17 
+8 549 44 0 12 
+10 640 43 0 12 
+4 482 28 1 15 
+7 563 19 0 19 
+2 544 9 0 21 
+6 636 19 0 17 
+3 550 8 0 8 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912062
+datum=18.06.2003
+kurzken=Q 0912062/03
+bez=Ostpreußendamm (Höhe Zugang Stadion Lichterfelde)  (Lichterfelde, 12207)
+arm1=Devrientweg,1400,0100
+arm2=Gärtnerstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+472	14	12	20	11
+528	19	8	17	9
+455	23	9	9	5
+422	19	9	13	16
+398	15	9	9	5
+399	19	9	4	6
+440	13	10	12	22
+435	10	11	11	16
+463	9	11	7	15
+465	17	16	14	16
+528	4	10	19	23
+483	4	10	27	29
+; 2 -> 1
+339	20	11	14	17
+365	19	10	6	18
+412	28	9	10	18
+418	20	9	11	12
+461	18	9	6	11
+473	20	9	8	3
+467	22	11	15	13
+568	11	14	13	7
+597	22	17	23	17
+678	10	11	33	33
+644	15	10	29	11
+573	7	11	21	14

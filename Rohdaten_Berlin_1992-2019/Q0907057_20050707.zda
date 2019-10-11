@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0907057
+datum=07.07.2005
+kurzken=Q 0907057/05
+bez=Hardenbergplatz (nördl. Hardenbergstraße)   (Charlottenburg, 10623)
+arm1=Hardenbergstraße,1600,0100
+arm2=Hardenbergplatz ,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfzs,Bus,BVG-Bus,Radf
+zeit=0900,2000
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1200
+bemerk=KFZs = alle Kfz\,außer Busse; Bus = alle Busse\, außer BVG-Busse.\nDurchführung der Erhebung: büro 
+data=
+; 1 -> 2
+447	11	59	58
+448	11	55	39
+450	12	56	35
+396	17	58	44
+424	12	57	21
+431	11	57	23
+549	5	58	38
+512	7	58	49
+547	10	62	47
+487	7	60	56
+449	7	59	50
+; 2 -> 1
+403	15	64	64
+451	2	71	57
+397	5	74	40
+432	19	71	34
+487	5	89	33
+434	9	81	37
+454	5	73	17
+473	10	76	33
+465	7	75	42
+515	6	66	37
+425	4	73	35

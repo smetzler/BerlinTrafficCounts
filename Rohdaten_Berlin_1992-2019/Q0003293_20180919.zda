@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 3293
+datum=19.09.2018
+kurzken=Q 3293/18
+bez=Otternbuchtstraße (südl. Nonnendammallee)   (Siemensstadt, 13629)
+arm1=Paulsternstraße,100,0000
+arm2=Nonnendammallee (W),850,0001
+arm3=Otternbuchtstraße,1900,0000
+arm4=Nonnendammallee (O),2650,0100
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+2	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+10	0
+4	0
+5	0
+5	0
+9	0
+23	0
+9	0
+9	0
+13	0
+16	0
+12	0
+6	0
+0	0
+4	0
+2	0
+1	0
+0	0
+; 4 -> 2
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+2	0
+9	0
+9	0
+6	0
+3	0
+3	0
+12	0
+6	1
+5	0
+1	0
+32	0
+6	1
+5	0
+3	0
+1	0
+2	0
+0	0
+0	0

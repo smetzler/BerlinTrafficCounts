@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58048
+datum=27.11.1990
+kurzken=Q 58048/90
+bez=Hauptstrasse oestlich Fregestrasse    ( Berlin 41 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+9 2 12 8 14 1 15 0 13 3 20 10 13 3 
+16 5 17 6 8 0 25 3 18 0 
+; 2 -> 1
+10 3 8 2 18 0 19 0 13 2 10 7 14 8 
+13 2 20 9 17 3 12 4 16 0 

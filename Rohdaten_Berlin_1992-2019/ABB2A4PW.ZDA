@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7246018
+datum=05.10.1994
+kurzken=Q 7246018/94
+bez=Dahmestraße (östl. Waltersdorfer Straße ) (Bohnsdorf, 12526)
+arm1=Waltersdorfer Straße,60,0010
+arm2=Dahmestraße,1040,0000
+arm3=Waltersdorfer Straße,1940,1000
+arm4=Dahmestraße,2840,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 12°\, wolkig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 3
+2,0
+1,0
+1,0
+1,0
+0,0
+2,6
+2,1
+1,1
+4,3
+1,0
+2,0
+3,0
+; 3 -> 1
+3,5
+2,2
+1,2
+2,0
+1,2
+2,0
+1,3
+0,0
+1,1
+2,1
+0,0
+0,0

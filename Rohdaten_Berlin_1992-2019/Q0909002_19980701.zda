@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909002
+datum=01.07.1998
+kurzken=Q 0909002/98
+bez=Kurfürstendamm (westl. Joachim-Friedrich-Straße)   (Wilmersdorf, 10711)
+arm1=Karlsruher Straße,1050,0100
+arm2=Joachim-Friedrich-Straße,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+834	31	19	18
+1199	36	21	19
+941	23	20	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+846	12	22	20
+932	9	27	11
+966	7	23	26
+; 2 -> 1
+594	26	24	7
+774	21	22	9
+765	27	23	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+860	22	19	14
+923	19	16	25
+908	7	24	27

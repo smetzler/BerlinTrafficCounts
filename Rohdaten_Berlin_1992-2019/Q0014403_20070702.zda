@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 14403
+datum=02.07.2007
+kurzken=Q 14403/07
+bez=Karl-Marx-Straße (südl. Emser Straße - Saalestraße)  (Neukölln, 12055)
+arm1=Karl-Marx-Straße (N),80,0000
+arm2=Emser Straße,1000,0001
+arm3=Karl-Marx-Straße (S),1880,0000
+arm4=Saalestraße,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=0 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+133	26
+134	28
+143	13
+136	30
+125	24
+167	51
+136	26
+153	13
+164	26
+173	15
+144	28
+141	11
+; 4 -> 2
+65	30
+74	35
+90	10
+96	16
+115	33
+95	19
+60	13
+131	14
+60	5
+137	16
+103	7
+117	11

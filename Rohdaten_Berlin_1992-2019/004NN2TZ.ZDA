@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 6035
+datum=24.11.1988
+kurzken=K 6035/88
+bez=Motzener Strasse / Sperenberger Strasse    ( Berlin 48 )
+Arm1=Sperenberger Strasse,850,0101
+Arm2=Motzener Strasse,1720,1000
+Arm3=,0,0000
+Arm4=Motzener Strasse,3520,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 24 und 42 nicht erfasst;\nfuer die Gesamtverkehrsstaerken auf der Motzener Strasse\nvgl. K 6006/88 und K 1923/88.
+data=
+; 1 -> 2
+14 19 27 22 36 39 16 20 60 26 15 7 
+; 1 -> 4
+24 60 68 74 70 82 64 125 156 103 68 32 
+; 2 -> 1
+25 23 22 19 32 30 22 13 7 8 7 11 
+; 4 -> 1
+82 77 73 61 72 64 120 71 35 21 25 21 

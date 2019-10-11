@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919135
+datum=13.11.2008
+kurzken=Q 0919135/08
+bez=Bucher Chaussee (nördl. Schönerlinder Weg)   (Karow, 13125)
+arm1=Schönerlinder Weg,1600,0100
+arm2=Teichbergstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+376	24	7	6	33
+369	18	9	4	25
+408	15	5	4	32
+428	22	8	0	36
+413	9	6	1	33
+381	22	6	3	30
+367	19	6	9	31
+441	12	7	4	29
+440	20	4	8	18
+542	8	6	15	18
+540	3	7	11	22
+433	6	6	4	17
+; 2 -> 1
+391	16	6	11	17
+378	21	7	2	14
+378	23	7	4	15
+414	14	8	0	12
+423	33	6	0	23
+402	15	10	7	25
+399	34	3	7	21
+464	21	6	9	24
+420	8	8	6	20
+537	11	5	8	27
+486	2	6	2	14
+422	8	9	6	25

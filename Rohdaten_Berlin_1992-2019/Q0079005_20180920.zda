@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 079005
+datum=20.09.2018
+kurzken=Q 079005/18
+bez=B96 - Oranienburger Chaussee (Stadtgrenze)   (Reinickendorf, 13467)
+arm1=Hohenneuendorf,150,0100
+arm2=Kniggeweg (Utestraße),1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+369	6	0	4	23
+374	13	1	4	8
+415	19	1	9	3
+418	18	0	4	1
+420	17	0	16	2
+452	17	0	15	11
+480	11	0	11	6
+559	18	0	13	5
+592	26	2	24	10
+560	15	0	26	19
+486	7	0	24	14
+527	0	0	17	8
+; 2 -> 1
+601	24	0	14	7
+498	28	0	14	7
+394	18	1	8	2
+335	13	0	1	1
+344	12	1	9	9
+365	5	0	4	3
+429	12	0	5	7
+437	13	0	12	1
+530	10	0	11	14
+479	6	0	11	7
+465	5	1	13	9
+439	4	0	19	2

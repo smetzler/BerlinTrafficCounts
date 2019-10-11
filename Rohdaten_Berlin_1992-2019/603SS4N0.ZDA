@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4924
+datum=29.06.1994
+kurzken=Q 4924/94
+bez=Friedrichstraße (nördl. Zimmerstraße) (Kreuzberg, 10969) 
+arm1=Schützenstraße,50,0100
+arm2=Zimmerstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   \nBaustelle südl. Zimmerstr. (Sackgasse nach Norden)
+data=
+; 1 -> 2
+82,8,1,4,10
+93,9,1,2,27
+76,5,3,2,17
+68,8,1,4,20
+98,9,1,3,28
+71,6,0,2,23
+90,1,0,1,40
+73,1,1,3,35
+81,4,2,3,47
+83,0,0,2,31
+70,2,0,1,56
+75,2,0,1,24
+; 2 -> 1
+86,2,2,1,16
+75,4,0,0,25
+74,1,3,1,35
+62,3,1,2,35
+56,1,0,0,44
+71,2,0,0,33
+65,0,0,1,25
+63,3,6,1,33
+69,0,1,0,42
+83,1,2,1,16
+56,1,1,1,19
+44,0,0,1,36

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25025
+datum=14.3.1991
+kurzken=Q 2502.5/91-F
+bez=Scharnweberstrasse westlich Jessnerstrasse    ( Friedrichshain )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+67 
+57 
+51 
+63 
+41 
+121 
+60 
+36 
+103 
+101 
+58 
+36 
+; 2 -> 1
+116 
+49 
+20 
+48 
+78 
+65 
+24 
+25 
+116 
+145 
+86 
+53 

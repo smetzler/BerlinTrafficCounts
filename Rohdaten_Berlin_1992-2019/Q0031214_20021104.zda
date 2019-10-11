@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031214
+datum=04.11.2002
+kurzken=Q 031214/02
+bez=Onckenstraße (nördl. Harzer Straße)   (Neukölln, 12435)
+arm1=Harzer Straße,1400,0100
+arm2=Heidelberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+9	2	1	0	1
+11	1	0	0	1
+4	3	2	0	1
+12	1	0	0	2
+21	4	1	0	4
+26	1	1	0	2
+12	2	0	0	4
+16	3	1	0	3
+14	1	0	0	1
+20	1	0	0	2
+19	2	0	0	4
+20	3	0	0	4
+; 2 -> 1
+6	3	0	0	3
+14	1	0	0	1
+10	1	0	0	2
+7	1	0	0	1
+14	4	0	0	6
+25	1	0	1	4
+12	4	0	0	1
+17	3	0	0	2
+10	3	0	0	3
+21	1	0	1	2
+16	2	0	0	5
+15	0	0	0	1

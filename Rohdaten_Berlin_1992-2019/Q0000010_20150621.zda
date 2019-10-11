@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0010
+datum=21.06.2015
+kurzken=Q 0010/15
+bez=B1 - Königsstraße (Höhe Schäferberg) (Zehlendorf, 14109)
+arm1=Nikolskoer Weg,900,0100
+arm2=Friedenstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+626	1	0	6	40	103
+725	1	0	8	56	88
+620	0	0	6	50	82
+; 2 -> 1
+380	1	0	3	26	51
+314	0	0	3	19	31
+321	1	0	3	14	23

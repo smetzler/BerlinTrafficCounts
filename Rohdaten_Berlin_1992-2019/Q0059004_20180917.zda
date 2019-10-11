@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 059004
+datum=17.09.2018
+kurzken=Q 059004/18
+bez=Neue Kreisstraße (Höhe Landesgrenze)   (Zehlendorf, 14109)
+arm1=Rudolf-Breitscheid-Straße,1150,0100
+arm2=Stubenrauchstraße,2950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+90	4	0	5	13
+123	0	0	2	14
+121	1	0	2	6
+80	2	0	1	6
+81	1	0	2	11
+82	3	0	2	13
+95	3	0	1	12
+112	4	0	1	19
+126	2	1	0	17
+128	6	0	0	28
+142	4	0	9	16
+113	0	0	2	13
+; 2 -> 1
+187	1	1	1	12
+141	4	0	1	13
+108	0	0	2	5
+78	0	0	1	4
+64	0	0	1	10
+74	4	0	1	6
+81	3	0	2	10
+105	5	0	0	21
+116	0	0	5	17
+156	2	0	4	42
+120	0	0	4	26
+91	0	0	3	15

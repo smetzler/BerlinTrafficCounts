@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 020703
+datum=13.04.2010
+kurzken=Q 020703/10
+bez=Chausseestraße (südl. Liesenstraße)   (Wedding, 10115)
+arm1=Liesenstraße,400,0100
+arm2=Wöhlertstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: in beiden Richtungen zw. Liesenstr. und Boyenstr. Fahrbahn auf einen Fahrstreifen verengt.
+data=
+; 1 -> 2
+414	28	8	32	37
+443	28	6	22	66
+396	14	11	19	116
+451	35	12	10	103
+379	24	11	8	74
+385	23	9	14	58
+365	21	8	6	67
+328	24	12	15	80
+312	5	6	11	70
+329	11	7	25	57
+311	11	6	13	92
+336	10	9	11	121
+415	3	5	14	126
+; 2 -> 1
+391	19	7	21	31
+457	25	6	8	84
+443	26	7	6	119
+507	28	10	13	83
+549	37	5	6	72
+466	28	7	8	63
+491	28	8	11	89
+325	27	6	15	63
+448	20	8	24	64
+447	23	8	31	100
+474	15	8	31	130
+424	25	9	18	154
+448	12	7	22	168

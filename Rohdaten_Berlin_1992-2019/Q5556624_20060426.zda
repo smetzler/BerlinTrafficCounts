@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5556624
+datum=26.04.2006
+kurzken=Q 5556624/06
+bez=Veteranenstraße (östl. Brunnenstraße)   (Mitte, 10119)
+arm1=Brunnenstraße,150,0010
+arm2=Invalidenstraße,1000,0000
+arm3=Brunnenstraße,2000,1000
+arm4=Veteranenstraße,2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=4\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+10	5
+44	8
+44	4
+38	0
+49	0
+66	0
+86	4
+61	5
+88	4
+76	7
+78	10
+72	3
+; 3 -> 1
+12	6
+50	6
+28	0
+33	1
+32	0
+37	1
+58	1
+69	8
+55	25
+57	5
+63	2
+65	3

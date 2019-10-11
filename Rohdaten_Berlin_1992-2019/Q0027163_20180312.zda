@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27163
+datum=12.03.2018
+kurzken=Q 27163/18
+bez=Wendenschloßstraße (südl. Dregerhoffstraße)   (Köpenick, 12557)
+arm1=Wendenschloßstraße,150,0000
+arm2=Westen,1050,0001
+arm3=Wendenschloßstraße,1950,0000
+arm4=Dregerhoffstraße,2850,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+60	61
+42	19
+36	2
+68	4
+37	0
+28	1
+17	10
+16	4
+18	2
+12	2
+36	2
+14	0
+; 4 -> 2
+13	8
+27	2
+17	0
+24	2
+8	0
+10	0
+33	3
+38	4
+47	6
+20	1
+16	3
+7	0

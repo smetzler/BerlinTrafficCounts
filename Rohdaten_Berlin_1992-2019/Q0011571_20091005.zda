@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11571
+datum=05.10.2009
+kurzken=Q 11571/09
+bez=Prinzregentenstraße (nördl. Badensche Straße)    (Wilmersdorf, 10713)
+arm1=Prinzregentenstraße (N),0,0000
+arm2=Badensche Straße (W),850,0001
+arm3=Prinzregentenstraße (S),1800,0000
+arm4=Badensche Straße (O),2650,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=7 Std; Niederschlag=0\,2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+76	8
+38	4
+65	1
+48	1
+52	0
+36	0
+38	1
+35	2
+48	4
+30	6
+62	5
+31	2
+; 4 -> 2
+28	7
+29	4
+45	4
+33	1
+42	0
+31	0
+52	0
+77	4
+85	15
+61	7
+71	9
+32	5

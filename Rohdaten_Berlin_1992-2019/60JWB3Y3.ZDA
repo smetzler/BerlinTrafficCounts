@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025787
+datum=28.4.1992
+kurzken=Q 2578.7/92-F
+bez=An der Wuhlheide östlich Triniusstraße    ( Berlin 1160-Köp )
+arm1=Süd,1430,0100
+arm2=Nord,3230,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+2 
+24 
+79 
+102 
+68 
+34 
+9 
+51 
+5 
+4 
+12 
+8 
+; 2 -> 1
+1 
+2 
+31 
+130 
+78 
+39 
+4 
+58 
+6 
+3 
+22 
+15 

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0905018
+datum=03.05.2005
+kurzken=Q 0905018/05
+bez=Elsenbrücke  (Friedrichshain, 10245)
+arm1=An den Treptowers,1500,0100
+arm2=Stralauer Allee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Erhebungszeitraum: 7-13 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1776	73	8	45	21
+1906	83	8	50	46
+2213	62	9	68	68
+2227	58	11	74	88
+2338	48	10	60	51
+2272	31	18	38	43
+; 2 -> 1
+1611	93	8	42	50
+1580	101	7	61	55
+1708	73	17	65	52
+1794	48	14	59	47
+1650	44	13	43	33
+1559	27	12	31	42

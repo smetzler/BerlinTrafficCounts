@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3694
+datum=07.06.2006
+kurzken=Q 3694/06
+bez=Klosterstr. (nördl. Brunsbütteler Da. - Ruhlebener Str.)   (Spandau, 13581)
+arm1=Brunsbütteler Damm,700,0010
+arm2=Klosterstraße,1550,0000
+arm3=Ruhlebener Straße,2500,1000
+arm4=Klosterstraße,3350,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+22	8
+43	1
+33	24
+42	7
+86	12
+47	4
+67	3
+63	5
+63	5
+75	9
+65	7
+48	9
+; 3 -> 1
+108	26
+103	6
+97	1
+142	10
+142	6
+134	38
+140	12
+142	17
+160	16
+173	25
+177	20
+118	20

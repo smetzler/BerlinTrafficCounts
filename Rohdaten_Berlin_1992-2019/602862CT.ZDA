@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 02886
+datum=14.05.1987
+kurzken=Q 2886/87
+bez=Scheringstrasse  westl. Hussitenstrasse    ( Berlin 65 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+20 57 4 4 9 7 12 5 19 11 20 4 
+; 2 -> 1
+19 12 13 4 31 11 13 7 21 20 8 13 

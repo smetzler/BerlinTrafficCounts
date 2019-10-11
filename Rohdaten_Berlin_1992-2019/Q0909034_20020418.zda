@@ -1,0 +1,66 @@
+[ZA1001]
+knoten=Q 0909034
+datum=18.04.2002
+kurzken=Q 0909034/02
+bez=Joachim-Friedrich-Straße (nördl. Seesener Straße)   (Wilmersdorf, 10711)
+arm1=Seesener Straße,1750,0100
+arm2=Westfälische Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Ab 22 Uhr: Erhöhtes Verkehrsaufkommen (insbes. Lkw) Ri. Süd infolge Teilsperrung BAB Stadtring.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+146	18	10	1	4
+70	6	20	0	0
+40	10	6	1	2
+51	8	18	0	0
+138	37	43	2	0
+67	6	9	1	4
+91	13	1	0	0
+263	32	7	0	16
+384	49	8	0	20
+312	44	8	0	8
+252	47	11	1	13
+237	42	15	2	13
+266	36	8	1	14
+247	42	11	2	11
+258	28	12	1	7
+399	30	4	1	13
+341	22	1	1	20
+307	26	3	0	22
+289	14	3	0	16
+206	4	3	0	16
+144	6	2	0	5
+114	6	2	1	10
+89	6	0	0	5
+64	1	0	0	1
+; 2 -> 1
+39	1	0	0	1
+18	1	0	0	1
+7	0	2	0	0
+10	0	2	0	0
+10	2	1	0	0
+55	3	1	0	1
+137	9	0	0	2
+196	22	8	0	11
+216	24	6	0	14
+182	26	4	0	14
+176	19	8	0	11
+162	33	11	1	18
+178	30	10	0	13
+202	19	6	0	11
+226	24	8	0	5
+245	20	7	0	15
+279	15	0	0	23
+248	20	4	0	25
+240	10	7	0	17
+193	6	4	0	16
+197	6	2	0	8
+252	6	2	0	10
+235	13	14	1	7
+187	9	7	0	1

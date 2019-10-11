@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 468410
+datum=17.8.1993
+kurzken=Q 468410.5/93-F
+bez=Gotthardstraße westl. Holländerstraße    ( Reinickendorf )
+arm1=Nord,1150,0100
+arm2=Süd,2950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken 
+data=
+; 1 -> 2
+0 0
+1 0
+0 0
+0 1
+1 0
+2 0
+3 0
+2 0
+2 0
+3 0
+2 0
+3 0
+; 2 -> 1
+1 0
+2 0
+0 1
+2 0
+0 0
+0 0
+2 0
+3 0
+1 0
+3 0
+4 0
+2 0

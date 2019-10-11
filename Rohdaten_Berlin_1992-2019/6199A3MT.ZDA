@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 58654
+datum=6.5.1991
+kurzken=Q 5865.4/91
+bez=Eisenacher Strasse noerdlich Barbarossaplatz    ( Berlin 30 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+69 
+170 
+138 
+131 
+145 
+145 
+117 
+136 
+141 
+156 
+123 
+92 
+; 2 -> 1
+68 
+107 
+110 
+110 
+120 
+140 
+128 
+113 
+199 
+194 
+169 
+108 

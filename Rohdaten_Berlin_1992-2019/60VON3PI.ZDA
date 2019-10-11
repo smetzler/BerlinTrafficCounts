@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41063
+datum=7.8.1991
+kurzken=Q 4106.3/91
+bez=Kurfuerstendamm zw. Knesebeckstrasse und Uhlandstrasse    ( Berlin 30 )
+arm1=Uhlandstraße,900,0100
+arm2=Knesebeckstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+432 
+547 
+654 
+775 
+697 
+708 
+618 
+577 
+651 
+605 
+527 
+597 
+; 2 -> 1
+484 
+552 
+746 
+785 
+751 
+557 
+759 
+697 
+649 
+460 
+702 
+656 

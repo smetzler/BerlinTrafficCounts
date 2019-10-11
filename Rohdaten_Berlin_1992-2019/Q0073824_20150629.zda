@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 73824
+datum=29.06.2015
+kurzken=Q 73824/15
+bez=Marienfelder Allee (nördl. Stegerwaldstraße)   (Marienfelde, 12277)
+arm1=Stegerwaldstraße (W),630,0010
+arm2=Marienfelder Allee (S),1530,0000
+arm3=Stegerwaldstraße (O),2420,1000
+arm4=Marienfelder Allee (N),3320,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+0	0
+12	1
+12	0
+17	2
+6	0
+6	0
+27	2
+17	3
+33	6
+17	0
+23	3
+16	2
+; 3 -> 1
+1	0
+3	0
+0	0
+5	0
+0	0
+7	0
+15	2
+11	7
+28	12
+33	10
+15	0
+13	2

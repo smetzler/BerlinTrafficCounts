@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25936
+datum=25.8.1992
+kurzken=Q 2593.6/92-F
+bez=Wolfener Straße südlich Bitterfelder Straße    ( Berlin 1140-Marzahn )
+arm1=Ost,800,0100
+arm2=West,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+3 
+1 
+5 
+2 
+2 
+4 
+2 
+2 
+1 
+1 
+2 
+2 
+; 2 -> 1
+1 
+2 
+2 
+1 
+2 
+0 
+0 
+3 
+13 
+11 
+4 
+2 

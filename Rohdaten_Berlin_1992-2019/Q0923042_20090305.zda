@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923042
+datum=05.03.2009
+kurzken=Q 0923042/09
+bez=Wodanstraße (westl. Hönower Straße)   Mahlsdorf, 12623)
+arm1=Hörselbergstraße,950,0100
+arm2=Hönower Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+58	0	5	1	0
+40	1	6	0	1
+61	2	5	0	2
+54	2	7	0	2
+64	2	6	0	1
+65	0	5	1	2
+65	1	6	1	3
+67	2	6	1	1
+117	0	6	5	2
+81	1	4	0	1
+93	0	6	0	2
+60	0	6	1	1
+; 2 -> 1
+97	1	0	0	1
+74	1	0	0	3
+57	1	0	0	3
+45	4	0	0	3
+70	1	0	0	7
+60	2	0	1	0
+52	2	0	3	1
+78	1	0	2	3
+93	1	0	4	0
+86	1	0	2	3
+68	0	0	2	2
+61	0	0	0	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25562
+datum=23.09.1999
+kurzken=Q 25562/99
+bez=Simon-Dach-Straße (südl. Grünberger Straße)   (Friedrichshain, 10245)
+arm1=Grünberger Straße (W),800,0010
+arm2=Simon-Dach-Straße (S),1700,0000
+arm3=Grünberger Straße (O),2600,1000
+arm4=Simon-Dach-Straße (N),3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonnenstd.=5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+10	1
+15	2
+22	0
+25	1
+24	1
+47	0
+44	4
+35	7
+56	10
+59	15
+50	10
+62	4
+; 3 -> 1
+11	3
+14	0
+11	0
+18	1
+21	2
+53	0
+53	3
+47	1
+39	4
+28	4
+41	7
+32	4

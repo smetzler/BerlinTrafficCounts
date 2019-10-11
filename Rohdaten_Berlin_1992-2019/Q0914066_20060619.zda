@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914066
+datum=19.06.2006
+kurzken=Q 0914066/06
+bez=Gutschmidtstr. (östl. Wesenberger Ring, Höhe Grünzug)   (Buckow, 12359)
+arm1=Wesenberger Ring,700,0000
+arm2=Fritz-Reuter-Allee,2600,0000
+arm3=((Norden)),0,0001
+arm4=((Süden)),1800,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=31°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+2	0
+8	0
+14	0
+14	2
+3	0
+8	0
+5	0
+1	0
+6	0
+3	0
+3	5
+8	0
+; 4 -> 3
+3	0
+1	0
+0	0
+0	0
+0	0
+1	0
+1	1
+0	0
+0	0
+1	0
+0	0
+0	0

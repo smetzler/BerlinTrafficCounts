@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2571
+datum=12.04.2018
+kurzken=Q 2571/18
+bez=Askanierring (nördl. Falkenseer Chaussee)   (Spandau, 13585)
+arm1=Askanierring,120,0000
+arm2=Falkenseer Chaussee,760,0001
+arm3=Falkenseer Damm,2240,0000
+arm4=Ackerstraße,3000,0100
+art=Erw,Jugend,Mobil-Ein
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=FG-Zählung unterteilt in Erw\, Jugend und Mobilitätseingeschränkte Fußgänger.\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+38	52	0
+54	51	1
+14	4	1
+10	38	2
+18	5	0
+7	5	0
+8	36	0
+15	40	0
+17	29	3
+18	32	1
+14	8	0
+15	9	1
+; 4 -> 2
+27	16	1
+37	20	0
+28	7	2
+8	14	1
+12	2	1
+13	37	2
+18	10	0
+16	12	6
+20	9	1
+30	20	4
+18	6	0
+14	13	0

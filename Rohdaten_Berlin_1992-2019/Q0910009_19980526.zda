@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910009
+datum=26.05.1998
+kurzken=Q 0910009/98
+bez=Potsdamer Chaussee (westl. Quantzstraße)  Nikolassee, 14129)
+arm1=BAB A115,1100,0100
+arm2=Quantzstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+978	66	9	17
+973	77	9	17
+836	86	8	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1094	41	10	21
+1139	32	11	27
+1153	19	7	25
+; 2 -> 1
+1182	52	9	22
+1305	57	15	34
+1026	91	5	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1171	36	7	24
+1341	51	8	31
+1062	38	7	23

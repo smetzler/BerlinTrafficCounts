@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00401
+datum=23.04.2015
+kurzken=Q 00401/15
+bez=A100 - Stadtring (Zu.- u. Abf. nördl. Hohenzollendamm)   (Wilmersdorf, 10718)
+arm1=A100 (AS Kurfürstendamm),400,0100
+arm2=Hohenzollerndamm,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+235	11	0	0	3
+260	14	3	0	2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+184	4	1	0	4
+217	4	0	0	4
+288	2	2	0	8
+; 2 -> 1
+567	17	1	3	10
+738	19	3	5	11
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+667	7	2	3	17
+507	6	0	0	9
+683	4	3	0	22

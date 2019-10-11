@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 12363
+datum=25.11.1987
+kurzken=Q 12363/87
+bez=Laubacher Strasse suedl. Hanauer Strasse      ( Berlin 33 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+478 488 341 343 309 393 366 336 413 414 411 389 
+; 2 -> 1
+261 265 305 325 367 371 394 464 641 698 601 557 

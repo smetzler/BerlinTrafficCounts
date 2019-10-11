@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916045
+datum=19.06.2006
+kurzken=Q 0916045/06
+bez=Friedrichshagener Str. (Höhe Nr. 5b, Durchgang zur Kita)  (Köpenick, 12555)
+arm1=Bahnhofstraße,750,0100
+arm2=Am Krusenick,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+336	26	8	12	46
+432	26	6	9	41
+441	30	6	8	53
+454	27	3	9	45
+451	26	3	11	52
+461	24	3	20	41
+413	27	3	9	36
+573	21	7	16	79
+608	16	10	16	84
+680	14	6	19	67
+623	7	7	22	69
+602	4	5	13	67
+; 2 -> 1
+703	9	9	16	47
+554	17	5	14	33
+539	20	3	5	34
+482	18	6	4	42
+473	14	3	4	38
+358	18	4	14	37
+396	20	3	8	55
+393	23	6	11	51
+378	5	8	26	34
+401	8	7	13	64
+402	2	6	14	66
+406	2	6	15	56

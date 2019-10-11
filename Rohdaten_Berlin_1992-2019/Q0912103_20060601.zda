@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912103
+datum=01.06.2006
+kurzken=Q 0912103/06
+bez=Sedanstraße (südl. Goebenstraße)   (Steglitz, 12167)
+arm1=Rezonvillestraße,1600,0100
+arm2=Goebenstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 3 Std Sonne; 0\,5 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 6 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+27
+15
+19
+4
+12
+7
+12
+14
+16
+23
+12
+8
+; 2 -> 1
+41
+17
+12
+8
+16
+10
+19
+21
+10
+11
+14
+23

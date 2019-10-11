@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0909023
+datum=23.05.2019
+kurzken=Q 0909023/19
+bez=Detmolder Straße (Süd) - Abfahrt BAB A100 (Wilmersdorf, 10713) 
+arm1=,0,0000
+arm2=BAB A100 (AK Wilmersdorf),700,0010
+arm3=Detmolder Straße,2800,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 3
+368	12	1	8	0
+543	25	1	13	0
+420	12	1	7	0
+398	8	2	14	0
+415	2	1	9	0
+240	4	1	1	0
+281	2	1	13	0
+268	4	0	6	0
+410	6	0	10	0
+534	6	0	14	0
+334	1	0	8	0
+356	2	0	1	0

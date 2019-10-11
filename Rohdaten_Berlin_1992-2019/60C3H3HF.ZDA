@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 15677
+datum=04.12.1990
+kurzken=Q 15677/90
+bez=Saalburgstrasse suedlich Gottlieb-Dunkel-Strasse    ( Berlin 42 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+5 1 0 0 0 0 2 0 1 0 2 0 1 0 
+3 0 4 0 4 0 5 0 1 0 
+; 2 -> 1
+9 1 1 1 2 0 4 0 1 0 3 0 1 0 
+2 0 5 0 3 0 4 0 2 0 

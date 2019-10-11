@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908015
+datum=03.11.1998
+kurzken=Q 0908015/98
+bez=Seegefelder Weg (östl. Klosterbuschweg)   (Spandau, 13591)
+arm1=Klosterbuschweg,800,0100
+arm2=Straße 396,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+481	15	7	4
+361	12	5	6
+337	19	3	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+316	12	6	5
+369	14	6	5
+310	9	5	4
+; 2 -> 1
+171	11	13	2
+227	13	8	2
+264	27	5	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+434	14	5	5
+486	10	5	3
+547	16	6	7

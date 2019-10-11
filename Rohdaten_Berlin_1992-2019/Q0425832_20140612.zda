@@ -1,0 +1,116 @@
+[ZA1001]
+knoten=Q 425832
+datum=12.06.2014
+kurzken=Q 425832/14
+bez=F32 - Friedrichstr. (südl. Zimmerstr. bis südl. Checkpoint)   (Mitte, 10117)
+arm1=West-Gehweg Friedrichstr.,950,0000
+arm2=Checkpoint (auf der Mittelinsel),1850,0000
+arm3=Ost-Gehweg Friedrichstr.,2750,1100
+arm4=,0,0000
+art=Fußg,mobFuß,KiwaFuß
+zeit=0700,1900
+intv=15
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die vom Ost-Gehweg-Friedrichstr. zur Checkpoint-Mittelinsel (3>2) oder zum West-Gehweg-Friedr. (3>1) gehen.\nGesamter Bereich F3 beachten (südl. Zimmerstr. bis ca. Mitte bis Kochstr.\, siehe Skizze)
+data=
+; 3 -> 1
+0	0	0
+1	0	0
+0	0	0
+0	0	0
+4	0	0
+5	0	0
+0	0	0
+7	0	0
+6	0	0
+0	0	0
+7	0	0
+6	0	0
+5	0	0
+15	0	0
+86	0	0
+44	0	1
+63	0	0
+24	0	0
+78	0	0
+54	0	0
+86	0	0
+152	0	0
+58	0	0
+36	0	0
+104	0	0
+102	0	0
+59	0	0
+55	0	0
+47	0	0
+66	0	0
+65	0	0
+45	0	0
+53	0	1
+21	0	0
+34	0	0
+44	0	0
+47	0	1
+55	0	0
+29	0	0
+44	0	0
+32	0	1
+77	0	0
+21	0	0
+37	0	0
+25	0	1
+31	0	0
+23	0	0
+23	0	0
+; 3 -> 2
+0	0	0
+2	0	0
+0	0	0
+2	0	0
+1	0	0
+6	0	0
+6	0	0
+5	0	0
+6	0	0
+27	0	0
+42	0	0
+32	0	0
+44	0	0
+39	0	0
+26	0	0
+136	0	2
+151	0	0
+135	0	0
+41	1	0
+43	0	0
+99	0	2
+88	0	0
+36	0	0
+77	0	0
+29	0	1
+76	0	0
+58	0	0
+67	0	0
+29	0	0
+26	0	0
+26	0	0
+39	0	0
+41	0	0
+29	1	0
+43	1	0
+36	0	0
+48	0	0
+35	0	0
+35	0	0
+26	0	0
+20	0	0
+32	0	0
+18	0	0
+23	0	0
+3	0	0
+11	0	0
+34	0	0
+21	0	0

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03442
+datum=22.02.1989
+kurzken=Q 3442/89
+bez=Friedrich-Krause-Ufer westlich Torfstrassen-Bruecke    ( Berlin 65 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+183 151 139 150 119 113 138 138 88 96 100 70 
+; 2 -> 1
+132 123 144 160 151 134 147 137 210 195 137 132 

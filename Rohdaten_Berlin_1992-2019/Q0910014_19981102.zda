@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910014
+datum=02.11.1998
+kurzken=Q 0910014/98
+bez=Sundgauer Straße (östl. Clayallee)   (Zehlendorf, 14169)
+arm1=Clayallee,300,0100
+arm2=Lützelsteiner Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+137	1	1	1
+127	6	4	0
+86	8	2	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+248	10	0	1
+264	6	0	2
+210	5	1	1
+; 2 -> 1
+351	7	1	5
+285	8	0	2
+183	9	0	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+197	8	0	2
+175	7	0	2
+159	5	0	2

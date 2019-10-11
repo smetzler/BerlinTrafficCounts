@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7463036
+datum=08.03.1995
+kurzken=Q 7463036/95
+bez=Hultschiner Damm (südl. Kohlisstraße) (Mahlsdorf-Süd, 12623)
+arm1=Kohlisstraße,530,0010
+arm2=Hultschiner Damm,1750,0000
+arm3=Osten,2650,1000
+arm4=Hultschiner Damm,3550,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; meist sonnig; kein Niederschlag. \n
+data=
+; 1 -> 3
+4 0
+3 0
+0 0
+0 0
+1 1
+2 1
+3 0
+7 2
+16 6
+22 7
+8 2
+4 1
+; 3 -> 1
+3 0
+0 0
+1 0
+2 0
+1 0
+3 0
+5 4
+1 2
+6 2
+1 0
+2 2
+3 0

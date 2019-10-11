@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q-10113
+datum=08.04.2019
+kurzken=Q-10113/18
+bez=Osteweg /Carstennstraße - Luzernstraße (Lichterfelde, 12205)  über Arm3
+arm1=Carstennstraße,200,0100
+arm2=Osteweg,1100,1000
+arm3=Luzernstraße,2600,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+1	0
+1	0
+2	0
+1	0
+0	0
+0	0
+2	0
+2	0
+0	0
+2	0
+0	0
+0	0
+2	0
+0	0
+2	0
+0	0
+1	0
+0	0
+; 2 -> 1
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+2	0
+0	0
+0	0
+5	0
+1	0
+2	0
+1	0
+1	0
+2	0
+1	0
+0	0
+0	0

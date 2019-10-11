@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=K 5337
+datum=27.09.1984
+kurzken=K 5337/84
+bez=Paul-Lincke-Ufer / Liegnitzer Strasse  (Berlin 36)
+Arm1=Paul-Lincke-Ufer,600,0011
+Arm2=,0,0000
+Arm3=Paul-Lincke-Ufer,2400,1001
+Arm4=Liegnitzer Strasse,3300,1010
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Unregelmaessige Verkehrsverhaeltnisse wegen voruebergehender\nSperrung der Forster Strasse!\nKnotenarm 3: Sackgasse
+data=
+; 1 -> 3
+0 3 0 1 0 0 3 2 0 0 0 13 0 2 0 
+0 9 0 1 0 0 11 4 3 0 0 3 1 1 0 
+0 8 1 2 0 0 18 1 2 0 1 23 2 4 0 
+2 16 0 1 0 0 18 0 0 0 0 11 0 0 0 
+; 1 -> 4
+0 7 1 2 0 2 10 1 1 0 0 8 2 3 0 
+0 4 2 3 0 0 3 6 4 0 0 3 3 1 0 
+0 12 2 1 0 0 29 2 4 0 0 20 0 0 0 
+1 19 4 0 0 0 20 2 1 0 0 15 0 0 0 
+; 3 -> 1
+0 15 1 1 0 0 12 1 2 0 0 13 1 0 0 
+2 15 4 2 0 1 16 2 3 0 0 11 3 4 0 
+1 17 3 1 0 1 15 3 1 0 0 24 5 5 0 
+1 22 1 2 0 0 6 0 0 0 0 11 0 0 0 
+; 3 -> 4
+1 9 0 0 0 0 13 1 3 0 0 14 1 1 0 
+0 8 1 1 0 1 10 0 3 0 0 15 2 2 0 
+0 5 1 1 0 0 11 0 3 0 0 21 1 4 0 
+0 20 0 0 0 0 16 1 0 0 0 11 0 0 0 
+; 4 -> 1
+0 11 1 1 0 0 6 3 2 0 0 12 2 2 0 
+0 5 3 0 0 0 10 0 3 0 0 12 3 2 0 
+1 9 1 3 0 1 19 2 2 0 1 50 4 2 0 
+0 34 5 1 0 1 18 0 0 0 0 13 1 0 0 
+; 4 -> 3
+0 3 1 0 0 0 5 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 3 1 0 0 1 5 2 1 0 
+0 2 0 1 0 0 3 0 0 0 1 3 1 1 0 
+1 5 1 0 0 0 3 0 0 0 0 6 0 0 0 

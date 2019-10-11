@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6513021
+datum=21.05.2007
+kurzken=Q 6513021/07
+bez=Karl-Marx-Allee (westl. Straße der Pariser Kommune)   (Friedrichshain, 10243)
+arm1=Karl-Marx-Allee (W),800,0000
+arm2=Straße der Pariser Kommune (S),1700,0001
+arm3=Karl-Marx-Allee (O),2600,0000
+arm4=Straße der Pariser Kommune (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=30°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+6	2
+20	1
+42	1
+47	1
+70	0
+52	0
+62	1
+53	7
+38	1
+59	0
+53	8
+48	3
+; 4 -> 2
+16	1
+32	0
+66	1
+106	0
+80	0
+60	0
+65	3
+50	1
+54	2
+56	5
+43	5
+40	3

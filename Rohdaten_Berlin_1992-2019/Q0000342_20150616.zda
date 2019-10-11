@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00342
+datum=16.06.2015
+kurzken=Q 00342/15
+bez=A100 - Stadtring (Zu.- u. Abf. südl. Spandauer Da.)   (Charlottenburg, 14059)
+arm1=Spandauer Damm,200,0100
+arm2=AS Kaiserdamm,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Spandauer Damm-Brücke
+data=
+; 1 -> 2
+1099	47	0	0	19
+895	40	10	4	13
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+820	15	14	0	22
+839	9	14	1	16
+903	8	9	0	17
+; 2 -> 1
+450	37	2	2	23
+491	21	14	0	12
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+267	3	9	0	6
+322	4	4	2	5
+505	4	12	0	13

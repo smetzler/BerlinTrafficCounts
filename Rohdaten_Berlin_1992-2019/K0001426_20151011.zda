@@ -1,0 +1,34 @@
+[ZA1001]
+knoten=K 1426
+datum=11.10.2015
+kurzken=K 1426/15
+bez=A100 - Stadtring - Zu- und Abfahrt Tempelhofer Damm   (Tempelhof, 12099)
+arm1=Tempelhofer Damm,0,0100
+arm2=Zu- und Abfahrt BAB,860,0010
+arm3=Tempelhofer Damm,1800,0001
+arm4=Zu- und Abfahrt BAB,2660,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Unfall: zw. Alboinstr. u. Tempelhofer Damm Teilsperrung\nCity-Atlas Seite 117\, Feld 1a
+data=
+; 1 -> 2
+1139	1	0	2	19
+1217	1	0	1	14
+1107	0	0	2	10
+; 2 -> 3
+567	0	0	4	8
+666	2	0	1	6
+584	1	0	2	4
+; 3 -> 4
+508	0	0	0	6
+675	2	0	3	8
+671	2	4	0	5
+; 4 -> 1
+660	1	1	1	4
+75	3	1	0	3
+63	0	0	1	2

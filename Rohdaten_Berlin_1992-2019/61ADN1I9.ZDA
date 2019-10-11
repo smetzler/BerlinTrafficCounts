@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60107
+datum=02.10.1984
+kurzken=Q 60107/84
+bez=Alt Lichtenrade  suedl. Fehlingstrasse  (Berlin 49)
+Arm1=West (3a),900,0100
+Arm2=Ost (3b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+14 9 13 4 7 2 6 1 5 2 7 0 6 0 
+2 0 10 2 3 1 5 0 2 0 
+; 2 -> 1
+5 0 10 0 5 0 7 0 7 0 10 4 11 13 
+6 10 12 2 9 2 16 1 14 1 

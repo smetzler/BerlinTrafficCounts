@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909076
+datum=28.02.2008
+kurzken=Q 0909076/08
+bez=Württembergische Straße (südl. Pommersche Straße)   (Wilmersdorf, 10707)
+arm1=Fehrbelliner Platz,1700,0100
+arm2=Pommersche Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+123	0	0	2	14
+260	1	0	5	25
+166	2	0	2	13
+156	0	0	2	28
+124	3	0	1	13
+147	3	0	6	15
+115	6	0	5	21
+165	4	0	3	16
+180	12	0	2	20
+176	3	0	4	17
+180	1	0	3	17
+135	2	0	1	14
+; 2 -> 1
+179	3	1	2	18
+215	1	0	3	25
+136	2	1	1	8
+193	0	0	5	12
+182	1	2	4	9
+228	2	2	3	16
+241	4	0	2	14
+225	3	1	1	15
+244	0	2	4	16
+272	1	0	6	19
+255	4	0	1	14
+251	2	0	3	12

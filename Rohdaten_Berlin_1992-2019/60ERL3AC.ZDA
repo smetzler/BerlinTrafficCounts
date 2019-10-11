@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19137
+datum=05.04.1990
+kurzken=Q 19137/90
+bez=Kirchhainer Damm suedl. Horstwalder Strasse    ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 0 2 0 1 1 2 0 1 1 2 1 2 2 
+1 0 11 3 5 1 8 0 6 0 
+; 2 -> 1
+0 0 3 1 4 1 4 0 2 0 3 2 5 6 
+12 5 9 2 7 4 13 5 11 0 

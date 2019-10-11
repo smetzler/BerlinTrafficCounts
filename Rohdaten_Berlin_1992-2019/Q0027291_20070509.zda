@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27291
+datum=09.05.2007
+kurzken=Q 27291/07
+bez=Berliner Straße (nördl. Granitzstraße)   (Pankow, 13187)
+arm1=Berliner Straße,100,0000
+arm2=((Westen)),1000,0001
+arm3=Berliner Straße,1800,0000
+arm4=Granitzstraße,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=7 Std; Niederschlag=8 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+6	1
+10	2
+20	3
+19	0
+30	3
+26	1
+51	10
+37	2
+32	1
+56	10
+59	5
+26	2
+; 4 -> 2
+247	58
+223	19
+183	28
+84	3
+83	15
+106	11
+112	5
+143	22
+145	38
+151	9
+123	5
+83	5

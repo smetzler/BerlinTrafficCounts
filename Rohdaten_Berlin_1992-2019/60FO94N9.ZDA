@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 20313
+datum=06.07.1994
+kurzken=Q 20313/94
+bez=Adalbertstraße (nördl. Kottbusser Tor) (Kreuzberg, 10999) 
+arm1=Kottbusser Tor,1500,0100
+arm2=Oranienstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+353 32 6 7 32
+351 48 3 10 71
+344 47 6 13 76
+288 44 2 13 70
+391 39 3 15 73
+376 22 4 9 74
+341 27 3 13 68
+329 16 5 14 64
+420 19 5 16 86
+408 15 6 19 76
+392 13 6 26 79
+400 7 3 12 75
+; 2 -> 1
+418 31 7 8 27
+360 31 4 7 42
+365 35 3 7 52
+387 32 3 6 68
+369 43 4 13 58
+368 25 4 6 54
+398 12 4 16 55
+404 25 4 11 69
+456 19 7 21 94
+494 20 7 24 76
+393 14 7 24 74
+415 7 4 13 76

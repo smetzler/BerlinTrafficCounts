@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 78538
+datum=29.03.1990
+kurzken=Q 78538/90
+bez=Konstanzer Strasse noerdl. Wittelsbacherstrasse    ( Berlin 31 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+3 1 5 0 7 0 11 1 11 2 17 2 11 2 
+11 1 9 0 8 1 15 4 8 4 
+; 2 -> 1
+2 0 5 0 10 0 7 1 8 0 13 3 17 3 
+11 4 18 3 15 3 25 7 16 2 

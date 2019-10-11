@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911006
+datum=09.06.1998
+kurzken=Q 0911006/98
+bez=Arnulfstraße (östl. Röblinstraße)   (Schöneberg,12105)
+arm1=Röblinstraße,800,0100
+arm2=Domnauer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+431	18	12	14
+391	19	11	14
+426	23	10	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+549	15	15	35
+603	9	11	30
+538	8	12	35
+; 2 -> 1
+555	36	1	21
+537	35	13	34
+544	31	12	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+469	18	14	19
+589	13	11	26
+481	9	13	21

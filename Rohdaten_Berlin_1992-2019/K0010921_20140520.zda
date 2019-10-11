@@ -1,0 +1,96 @@
+[ZA1001]
+knoten=K 10921
+datum=20.05.2014
+kurzken=K 1092-1/14
+bez=! Bergmannstraße / Zossener Straße   (Kreuzberg, 10965)
+arm1=Bergmannstraße (W),750,0011
+arm2=,0,0000
+arm3=Bergmannstraße (O),2550,1001
+arm4=Zossener Straße,3500,1010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=nur Fußgängerströme zählen (wie die Kfz-Ströme)\, nur dieStromrichtung unterscheiden\, nicht auf welcher Seite sie laufen.\nBeisp.: Strom 1>4 sind alle Fußg. die von der Bergmannstr. (W) zur Zossener Str.\, laufen\, egal auf welcher Gehwegseite sie gehen
+data=
+; 1 -> 3
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 1 -> 4
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 3 -> 1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 3 -> 4
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 4 -> 1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 4 -> 3
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1

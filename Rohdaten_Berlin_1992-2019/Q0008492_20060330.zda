@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8492
+datum=30.03.2006
+kurzken=Q 8492/06
+bez=Martin-Luther-Straße (südl. Kleiststraße)   (Schöneberg, 10787)
+arm1=Kleiststraße,700,0010
+arm2=Martin-Luther-Str.,1600,0000
+arm3=Kleiststraße,2500,1000
+arm4=An der Urania,3150,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+33	2
+47	2
+57	3
+105	0
+148	0
+212	6
+99	13
+136	20
+156	9
+151	7
+190	33
+193	14
+; 3 -> 1
+32	2
+53	0
+89	2
+159	4
+182	3
+179	12
+101	9
+114	8
+127	10
+144	10
+180	13
+204	9

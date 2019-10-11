@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906044
+datum=14.09.2006
+kurzken=Q 0906044/06
+bez=Friedrichstraße (südl. Hedemannstraße)   (Kreuzberg, 10969)
+arm1=Hedemannstraße,100,0100
+arm2=Rahel-Varnhagen-Promenade,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=26°C max T; 12 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+89	7	0	6	36
+122	2	0	5	45
+119	3	0	9	79
+130	3	0	4	70
+162	3	0	6	94
+159	3	0	9	110
+120	1	0	10	111
+116	1	1	9	127
+114	0	0	10	124
+143	0	1	6	172
+137	5	1	14	186
+55	0	0	6	155
+; 2 -> 1
+97	2	0	6	72
+134	2	0	10	179
+103	2	0	9	172
+91	3	0	4	90
+106	5	0	11	90
+100	1	0	1	102
+67	1	0	5	114
+81	0	0	8	121
+72	0	0	16	106
+110	2	1	9	109
+76	0	0	9	116
+65	0	0	6	92

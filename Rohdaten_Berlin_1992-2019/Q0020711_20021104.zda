@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020711
+datum=04.11.2002
+kurzken=Q 020711/02
+bez=Strelitzer Straße (südl. Bernauer Straße)   (Mitte, 10435)
+arm1=Bernauer Straße,350,0100
+arm2=Rheinsberger Straße,2150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+13	4	1	0	0
+33	9	1	0	1
+64	4	3	0	6
+41	5	1	0	2
+39	6	2	0	0
+27	3	3	0	4
+43	8	1	0	2
+37	4	2	0	1
+26	4	1	0	3
+49	4	0	0	3
+70	6	0	0	4
+49	1	0	0	3
+; 2 -> 1
+9	3	0	0	1
+33	7	1	0	3
+56	7	2	0	4
+29	2	1	0	3
+33	3	0	0	2
+38	5	1	0	0
+33	4	1	0	1
+41	4	0	0	4
+35	4	2	0	6
+33	6	1	0	4
+62	2	1	0	4
+43	4	0	0	0

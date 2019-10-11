@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00942
+datum=08.05.2015
+kurzken=Q 00942/15
+bez=A113 - (AS Stubenrauchstraße, Zu-Abf. nordöstl. BAB)   (Treptow, 12487)
+arm1=A113 (AS Johannisthaler Ch.),500,0000
+arm2=Stubenrauchstraße (SW),1400,0000
+arm3=A113 (AS Adlershof),2300,0001
+arm4=Stubenrauchstraße (NO),3200,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 3 -> 4
+331	7	17	0	8
+323	3	4	0	7
+328	6	4	0	4
+; 4 -> 1
+456	13	3	1	6
+411	10	4	0	6
+475	4	0	0	11

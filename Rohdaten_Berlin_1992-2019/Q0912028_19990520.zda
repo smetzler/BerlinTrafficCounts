@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912028
+datum=20.05.1999
+kurzken=Q 0912028/99
+bez=Finkensteinallee (östl. Dahlemer Weg)   (Lichterfelde, 14167)
+arm1=Dahlemer Weg ,850,0100
+arm2=Schottmüllerstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+359	16	10	11
+427	23	7	2
+355	14	2	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+471	15	3	21
+497	6	3	14
+454	4	3	15
+; 2 -> 1
+451	21	4	14
+533	14	12	13
+395	19	5	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+453	15	4	12
+426	7	4	13
+407	1	9	14

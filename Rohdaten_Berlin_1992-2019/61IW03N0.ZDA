@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 71136
+datum=13.05.1991
+kurzken=Q 71136/91
+bez=Hedemannstrasse westlich Wilhelmstrasse    ( Berlin 61 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend klar und trocken !
+data=
+; 1 -> 2
+21 20 4 6 0 1 19 0 1 11 1 0 10 0 1 
+14 4 1 6 1 2 6 3 1 33 5 3 28 3 5 
+26 4 3 15 3 4 
+; 2 -> 1
+15 9 1 22 2 1 18 1 1 13 1 2 19 3 0 
+17 1 1 11 6 3 9 1 1 30 5 3 46 8 6 
+23 5 6 27 6 15 

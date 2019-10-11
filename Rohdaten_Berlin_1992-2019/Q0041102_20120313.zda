@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 041102
+datum=13.03.2012
+kurzken=Q 041102/12
+bez=An der Wuhlheide (westl. Rudolf-Rühl-Allee [ehem. Köpenick. A.])  (Köpenick, 12459)
+arm1=Spindlersfelder Straße,1000,0100
+arm2=Rudolf-Rühl-Allee,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Schienenerstzverkehr (Bus statt Tram)
+data=
+; 1 -> 2
+1030	69	12	11	22
+1069	75	9	4	16
+1021	64	12	5	27
+1099	66	9	6	17
+1046	73	10	7	16
+1071	67	9	6	14
+1198	65	9	9	24
+1920	53	9	22	44
+2103	49	8	30	65
+2236	23	9	28	67
+1989	18	10	24	44
+1931	13	10	23	28
+; 2 -> 1
+2100	50	13	33	58
+1774	63	12	12	50
+1228	56	13	16	27
+1010	65	10	5	26
+988	52	9	5	29
+1054	57	6	17	13
+1147	49	13	4	31
+966	66	10	7	15
+1056	31	10	12	28
+1039	26	12	9	28
+1359	16	9	13	21
+1308	11	9	6	15

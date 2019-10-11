@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915209
+datum=27.08.2018
+kurzken=Q 0915209/18
+bez=Groß-Berliner-Damm (nördl. Abram-Joffe-Straße)  (Adlershof, 12489)
+arm1=Georg-Schendel-Straße,420,0100
+arm2=Abram-Joffe-Straße,2220,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+201	7	4	15	70
+215	8	3	6	99
+188	13	3	6	78
+202	12	2	2	30
+227	6	5	7	31
+198	12	3	7	19
+214	20	4	3	20
+246	11	3	10	32
+245	7	3	10	35
+252	4	4	8	46
+231	3	3	6	52
+186	2	3	9	42
+; 2 -> 1
+291	6	4	16	30
+263	18	2	7	32
+212	15	4	5	19
+182	12	4	6	20
+161	7	3	7	18
+127	6	3	8	19
+171	10	3	6	29
+153	12	4	10	25
+175	5	3	12	50
+182	2	4	20	64
+219	4	3	11	86
+144	2	3	6	68

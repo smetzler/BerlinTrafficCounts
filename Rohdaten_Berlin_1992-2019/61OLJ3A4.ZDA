@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 78535
+datum=29.03.1990
+kurzken=Q 78535/90
+bez=Wittelsbacherstrasse westl. Konstanzer Strasse    ( Berlin 31 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+26 12 31 23 64 10 53 13 46 11 43 14 52 33 
+63 19 58 25 80 35 69 25 44 6 
+; 2 -> 1
+23 35 28 22 40 10 55 13 33 14 21 5 52 19 
+42 6 30 14 39 25 102 14 57 16 

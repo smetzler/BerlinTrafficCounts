@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0004124
+datum=17.6.1992
+kurzken=Q 4124/92
+bez=Blankenburger Str. westlich Lindenberger Str.    ( Berlin 1110-Pankow )
+arm1=Lindenberger Straße,1000,0100
+arm2=Klothildestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,Radf,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Bis ca. 12.00 Uhr Streik der BVG ( Ost )
+data=
+; 1 -> 2
+7 425 58 11 0 51 
+22 281 37 41 0 24 
+3 320 55 43 0 28 
+1 250 43 34 0 22 
+5 267 32 30 1 21 
+2 284 45 26 1 27 
+3 293 23 35 4 22 
+2 263 32 16 7 27 
+4 376 25 16 7 33 
+7 352 27 10 9 37 
+7 422 45 9 10 27 
+7 315 17 17 4 19 
+; 2 -> 1
+7 297 39 46 1 20 
+5 223 25 29 0 13 
+1 248 51 42 0 24 
+6 256 40 33 0 10 
+3 264 27 36 0 15 
+0 244 35 29 1 9 
+10 240 30 29 3 22 
+4 317 44 27 4 23 
+12 359 36 33 5 22 
+8 457 29 12 5 34 
+7 483 25 7 7 28 
+13 431 19 6 4 19 

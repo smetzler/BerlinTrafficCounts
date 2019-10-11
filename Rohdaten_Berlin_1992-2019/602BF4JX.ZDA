@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3003
+datum=14.03.1994
+kurzken=Q 3003/94
+bez=Wilhelminenhofstraße östlich Edisonstraße (Oberschöneweide)
+arm1=Südseite,750,0100
+arm2=Nordseite,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zwischen 16.18 Uhr und 17.13 Uhr Totalausfall der Straßenbahn\,\ndanach bis 18.06 Uhr unregelmäßiger Schienenersatzverkehr \nDurchführung der Erhebungen: \n - büro für Verkehrserhebungen
+data=
+; 1 -> 2
+223
+222
+302
+441
+388
+271
+372
+407
+499
+876
+450
+236
+; 2 -> 1
+45
+38
+20
+29
+34
+30
+37
+58
+109
+306
+76
+31

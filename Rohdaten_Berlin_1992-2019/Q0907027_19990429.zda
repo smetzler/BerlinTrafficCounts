@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0907027
+datum=29.04.1999
+kurzken=Q 0907027/99
+bez=AD Funkturm - von A115 AVUS nach A100-Süd  (Charlottenburg, 14055)
+arm1=A115 AVUS ,1400,0100
+arm2=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+arm3=A100 (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=A100-Zufahrt nördl. Am Westkreuz längerfristig gesperrt.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+901	88	3	17
+1102	83	2	6
+791	61	7	9
+602	69	2	7
+557	71	3	16
+604	69	3	15
+568	47	9	14
+712	55	4	16
+668	31	6	26
+903	27	5	21
+1000	24	7	30
+902	14	10	29

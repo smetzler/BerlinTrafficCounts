@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 17641
+datum=31.05.2007
+kurzken=Q 17641/07
+bez=Leonorenstraße (nördl. Kaiser-Wilhelm-Straße)   (Lankwitz, 12247)
+arm1=Leonorenstraße,250,0000
+arm2=Kaiser-Wilhelm-Str. (W),1350,0001
+arm3=Paul-Schneider-Str.,2150,0000
+arm4=Kaiser-Wilhelm-Str. (O),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=4 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+48	8
+115	0
+173	1
+248	1
+268	4
+229	0
+196	10
+245	7
+187	11
+256	30
+240	19
+162	12
+; 4 -> 2
+92	40
+172	6
+270	4
+335	8
+319	5
+279	5
+307	20
+280	18
+295	18
+325	37
+311	23
+198	20

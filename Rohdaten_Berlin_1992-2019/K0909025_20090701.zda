@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0909025
+datum=01.07.2009
+kurzken=K 0909025/09
+bez=AD Funkturm - Abfahrt Halenseestr. (Ri. Messedamm)   (Grunewald, 14055)
+arm1=,0,0000
+arm2=A100 Stadtring (Süd),1900,0001
+arm3=,0,0000
+arm4=Halenseestraße (Ri. Messedamm),0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+863	47	9	20
+806	64	3	19
+845	66	4	18
+895	44	5	13
+871	64	2	17
+821	57	5	16
+812	47	3	19
+859	50	3	24
+903	45	2	30
+971	32	2	31
+925	27	5	24
+876	22	4	21

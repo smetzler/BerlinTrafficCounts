@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0909025
+datum=17.03.2014
+kurzken=Q 0909025/14
+bez=Abfahrt Halenseestr./Messedamm (südl. Halenseestr.-Brücke)   (Grunewald, 14055)
+arm1=,0,0000
+arm2=BAB Stadtring (AS Rathenauplatz),1900,0001
+arm3=,0,0000
+arm4=Halenseestr. / Messedamm,100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+838	31	4	4
+517	27	2	4
+792	54	3	3
+492	39	1	4
+224	14	0	1
+123	15	2	0
+431	39	5	4
+975	43	6	6
+883	23	1	10
+931	24	3	5
+825	11	3	10
+910	12	1	10

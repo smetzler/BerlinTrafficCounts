@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 020320
+datum=05.07.2017
+kurzken=Q 020320/17
+bez=Heinrich-Heine-Straße (südl. Dresdener Straße)   (Mitte, 10179)
+arm1=Dresdener Straße,1500,0000
+arm2=Sebastianstraße,3300,0000
+arm3=(Westen),700,0001
+arm4=(Osten),2500,0010
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fg i. H. der Kombi-Insel (Höhe Supermarkt)\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+0	0
+5	0
+1	0
+0	0
+0	0
+1	0
+2	0
+18	13
+25	5
+30	2
+20	0
+36	0
+35	0
+24	0
+34	0
+46	2
+47	4
+27	7
+25	4
+23	3
+17	7
+16	6
+4	0
+1	0
+; 4 -> 3
+7	0
+1	0
+4	0
+0	0
+0	0
+1	0
+3	0
+9	0
+28	0
+10	0
+36	0
+2	0
+24	2
+33	3
+32	7
+22	6
+31	9
+30	9
+14	3
+18	8
+25	2
+6	0
+6	0
+7	0

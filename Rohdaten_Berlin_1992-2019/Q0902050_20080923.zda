@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0902050
+datum=23.09.2008
+kurzken=Q 0902050/08
+bez=Gotzkowskystraße (nördl. Zwinglistraße)   (Tiergarten, 10555)
+arm1=Zwinglistraße,1700,0100
+arm2=Turmstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+135	3	5	3	17
+189	6	10	4	21
+167	8	6	3	11
+204	6	8	2	6
+194	8	6	3	15
+174	3	6	2	25
+235	2	7	3	37
+245	2	8	7	25
+254	4	10	14	38
+320	3	7	9	48
+296	0	10	12	54
+262	0	9	3	43
+; 2 -> 1
+160	7	8	5	28
+238	5	8	2	34
+219	5	6	4	27
+194	6	6	0	20
+142	5	6	0	18
+189	3	5	2	20
+197	0	7	3	24
+196	1	9	10	22
+232	0	6	12	32
+222	0	8	10	56
+226	0	10	2	49
+211	0	6	6	28

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41033
+datum=15.8.1991
+kurzken=Q 4103.3/91
+bez=Schlosstrasse zw. Zimmermannstrasse und Deitmerstrasse    ( Berlin 41 )
+arm1=Deitmerstraße,900,0100
+arm2=Zimmermannstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+651 
+640 
+781 
+778 
+1112 
+1174 
+1054 
+998 
+1074 
+1164 
+1181 
+1089 
+; 2 -> 1
+791 
+879 
+1024 
+932 
+958 
+938 
+910 
+937 
+1155 
+1579 
+1421 
+1245 

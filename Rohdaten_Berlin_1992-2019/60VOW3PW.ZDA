@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41072
+datum=21.8.1991
+kurzken=Q 4107.2/91-F
+bez=Muellerstrasse zw. Amsterdamer Strasse und Utrechter Strasse    ( Berlin 65 )
+arm1=Utrechter Straße,900,0100
+arm2=Amsterdamer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe C.u.A. !
+data=
+; 1 -> 2
+53 
+94 
+303 
+516 
+815 
+840 
+885 
+719 
+815 
+841 
+879 
+438 
+; 2 -> 1
+60 
+88 
+370 
+702 
+839 
+681 
+734 
+585 
+613 
+920 
+660 
+206 

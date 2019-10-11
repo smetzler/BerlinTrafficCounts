@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0907034
+datum=29.04.1999
+kurzken=Q 0907034/99
+bez=AD Funkturm - von Messeda./Halenseestr. nach A100 (Süd)  (Ch'g, 14055)
+arm1=A115 AVUS ,1400,0000
+arm2=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+arm3=A100 (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=A100-Zufahrt nördl. Am Westkreuz längerfristig gesperrt.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 4 -> 2
+1276	64	4	33
+1253	51	2	23
+930	55	3	18
+732	49	5	17
+756	48	2	17
+770	71	0	18
+902	54	3	17
+1018	55	2	27
+1248	34	6	43
+1204	52	3	37
+1172	23	4	35
+1001	14	1	36

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27223
+datum=28.10.2003
+kurzken=Q 27223/03
+bez=Malchower Weg (südl. Degnerstraße)   (Hohenschönhausen, 13053)
+arm1=Malchower Weg,200,0000
+arm2=Degnerstraße,1400,0001
+arm3=Malchower Weg,2000,0000
+arm4=((Osten)),3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8\,5°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	25
+0	27
+2	0
+2	3
+5	2
+0	3
+4	12
+2	4
+0	0
+2	4
+1	0
+4	0
+; 4 -> 2
+0	6
+2	3
+2	0
+4	5
+1	3
+0	14
+3	27
+7	5
+1	4
+8	4
+2	1
+7	5

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0905019
+datum=04.05.2006
+kurzken=Q 0905019/06
+bez=Frankfurter Allee (westl. Kinzigstraße)   (Friedrichshain, 10247)
+arm1=Colbestraße,800,0100
+arm2=Kinzigstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Geringeres Kfz-Verkehrsaufkommen Richtung Osten (1>2) wegen Baustelle in der Frankf. All. östl. Gürtelstraße!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1312	71	1	43	84
+1159	66	4	26	100
+1062	66	2	21	138
+1134	71	2	28	113
+1206	56	2	25	128
+1187	67	0	29	162
+1064	61	5	21	154
+1214	47	5	34	201
+1636	36	2	50	203
+1599	44	7	57	256
+1672	17	6	67	255
+1665	34	3	68	281
+; 2 -> 1
+2246	85	1	77	194
+2316	70	12	67	183
+1712	74	9	48	181
+1416	67	2	34	156
+1401	80	0	37	176
+1283	65	0	34	168
+1374	63	2	54	134
+1388	93	4	53	183
+1439	62	3	72	205
+1522	64	5	71	251
+1406	35	5	58	276
+1363	24	2	80	232

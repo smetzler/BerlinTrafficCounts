@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28844
+datum=26.04.2010
+kurzken=Q 28844/10
+bez=Friedrichshagener Straße (östl. Am Krusenick)   (Köpenick, 12555)
+arm1=((Norden)),0,0010
+arm2=Friedrichshagener Straße (W),850,0000
+arm3=Am Krusenick,1800,1000
+arm4=Friedrichshagener Straße (O),2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=5 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+6	0
+3	0
+8	0
+2	0
+2	0
+4	0
+3	0
+9	0
+1	0
+1	0
+3	0
+3	0
+; 3 -> 1
+6	0
+6	0
+8	0
+8	0
+4	0
+6	0
+12	1
+13	0
+9	1
+5	0
+9	1
+5	0

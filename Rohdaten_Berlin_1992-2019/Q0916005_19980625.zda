@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0916005
+datum=25.06.1998
+kurzken=Q 0916005/98
+bez=Salv.-Allende-Straße (nördl. Friedrichshagener Straße)   (Köpenick, 12555)
+arm1=Fürstenwalder Damm,50,0100
+arm2=Friedrichshagener Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1152	66	12	15
+1003	85	6	8
+1066	72	3	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1265	44	5	13
+1379	36	11	28
+1197	25	7	24
+; 2 -> 1
+1080	65	16	12
+880	68	7	11
+921	66	5	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1415	61	10	29
+1384	48	9	29
+1305	40	7	36

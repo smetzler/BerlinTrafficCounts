@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0916024
+datum=04.04.2005
+kurzken=Q 0916024/05
+bez=Adlergestell (nördl. Godbersenstaße)   (Schmöckwitz, 12527)
+arm1=Zum Seeblick,400,0100
+arm2=Godbersenstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+246	8	0	3	7
+323	17	0	3	6
+401	10	0	4	6
+455	11	0	7	18
+439	78	0	1	17
+367	15	0	10	26
+; 2 -> 1
+732	19	1	8	5
+546	13	0	3	7
+480	20	0	4	3
+302	16	1	3	11
+334	17	0	3	8
+317	18	0	6	13

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7602
+datum=09.11.2015
+kurzken=Q 7602/15
+bez=Prinzenstraße (südl. Moritzplatz)   (Kreuzberg, 10969)
+arm1=Moritzplatz (N),150,0001
+arm2=Prinzenstraße,1500,0000
+arm3=,0,0000
+arm4=Moritzplatz (O),2850,1000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Prinzenstr. südl. des Moritzplatzes queren
+data=
+; 1 -> 4
+17	1
+37	5
+65	2
+79	2
+69	0
+170	12
+123	1
+143	2
+139	6
+130	9
+120	5
+121	4
+; 4 -> 1
+7	0
+21	0
+47	0
+66	66
+55	0
+112	10
+171	4
+99	3
+86	6
+133	5
+84	7
+90	5

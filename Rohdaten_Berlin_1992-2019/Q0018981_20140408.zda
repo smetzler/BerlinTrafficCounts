@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 18981
+datum=08.04.2014
+kurzken=Q 18981/14
+bez=Kölner Damm (westl.  Lipschitzallee - Ringslebenstraße)   (Gropiusstadt, 12353)
+arm1=Kölner Damm (W),660,0000
+arm2=Ringslebenstraße,1150,0001
+arm3=Kölner Damm (O),2460,0000
+arm4=Lipschitzallee,3390,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=3 Std; Niederschlag=2 mm;
+data=
+; 2 -> 4
+48	3
+40	9
+33	3
+22	4
+26	2
+5	1
+10	3
+17	7
+10	1
+10	1
+25	7
+8	0
+; 4 -> 2
+9	2
+2	0
+16	0
+10	0
+14	0
+11	0
+11	2
+12	4
+24	0
+32	4
+25	0
+36	0

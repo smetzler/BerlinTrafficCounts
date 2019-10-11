@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 57173
+datum=14.05.1984
+kurzken=Q 57173/84
+bez=OTTO-ERICH-STRASSE  suedlich Koenigstr.  (Berlin 39)
+Arm1=Lange Stuecken,900,0100
+Arm2=Koenigstr.,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+0 12 1 0 0 0 9 1 1 0 0 15 1 0 0 
+0 11 2 3 0 0 17 1 0 0 1 16 1 2 0 
+0 18 1 2 0 1 17 1 0 0 2 33 2 0 1 
+1 19 2 1 0 2 36 1 0 0 2 31 0 0 0 
+; 2 -> 1
+2 32 1 0 0 1 34 0 0 0 0 26 2 0 0 
+0 19 2 1 0 0 14 0 1 0 1 9 2 3 0 
+0 18 1 1 0 0 11 0 1 0 2 32 0 0 0 
+1 13 1 2 0 1 18 0 0 0 2 17 0 0 0 

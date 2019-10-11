@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915099
+datum=28.09.2010
+kurzken=Q 0915099/10
+bez=Radickestraße (südwestl. Süßer Grund)   (Adlershof, 12489)
+arm1=Friedenstraße,1300,0000
+arm2=Süßer Grund,3100,0000
+arm3=((Nordwest)),400,0001
+arm4=((Südost)),2200,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Radickestr. südwestl. "Süßer Grund" (bis ca. 100m südwestl.) queren.\nWetter: max T=12°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+31	114
+14	8
+16	1
+22	18
+7	0
+20	43
+13	19
+17	20
+20	2
+20	4
+15	9
+18	6
+; 4 -> 3
+25	10
+12	3
+10	0
+8	12
+8	0
+19	46
+16	15
+16	99
+28	36
+32	36
+20	4
+15	4

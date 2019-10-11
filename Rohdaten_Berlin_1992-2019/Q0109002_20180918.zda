@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109002
+datum=18.09.2018
+kurzken=Q 109002/18
+bez=Dahlwitzer Straße - Hönower Weg (Stadtgrenze) (Hellersdorf, 12623)
+arm1=Griebenweg,200,0100
+arm2=Edenweg (Birkenstein),2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+409	26	2	10	18
+387	23	2	4	20
+269	12	1	5	9
+428	48	2	8	20
+347	34	2	3	15
+314	29	1	3	16
+330	25	2	2	10
+373	26	2	5	14
+476	27	2	15	25
+496	18	2	6	30
+527	8	2	13	23
+370	3	1	7	21
+; 2 -> 1
+340	25	3	6	13
+305	25	1	2	9
+254	19	2	1	1
+422	34	1	8	8
+291	21	1	1	7
+323	25	1	6	8
+290	28	2	5	13
+390	31	2	8	37
+480	25	2	11	22
+436	16	2	16	12
+502	11	2	8	25
+337	2	2	9	26

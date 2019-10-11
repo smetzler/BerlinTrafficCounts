@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908106
+datum=05.11.2009
+kurzken=Q 0908106/09
+bez=Moritzstraße (östl. Galenstraße, Höhe Mittelinsel)   (Spandau, 13597)
+arm1=Galenstraße,400,0100
+arm2=Altstädter Ring,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+413	7	3	10	43
+310	6	3	5	28
+279	10	3	9	25
+300	4	3	12	48
+253	5	3	12	45
+271	10	2	5	21
+244	3	3	8	24
+286	4	3	5	17
+308	6	3	2	28
+317	8	3	10	22
+277	5	3	4	8
+208	2	3	4	7
+; 2 -> 1
+185	2	4	5	8
+197	5	3	3	6
+220	2	2	4	16
+308	2	2	2	20
+271	3	3	15	51
+241	4	3	8	36
+199	4	2	8	26
+332	0	2	10	41
+438	4	4	20	50
+336	7	3	7	19
+391	3	3	12	27
+349	3	3	7	19

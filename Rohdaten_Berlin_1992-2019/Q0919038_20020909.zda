@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919038
+datum=09.09.2002
+kurzken=Q 0919038/02
+bez=Gartenstraße (nördl. Blankenfelder Straße)   (Buchholz, 13127)
+arm1=Blankenfelder Straße,1700,0100
+arm2=Mühlenstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+6	8	0	0	2
+1	1	0	0	5
+5	0	0	0	6
+4	0	0	0	3
+5	3	0	0	4
+5	0	0	0	4
+11	1	0	0	3
+14	0	0	0	1
+2	0	0	0	3
+9	3	0	0	3
+8	0	0	0	5
+11	1	0	0	2
+; 2 -> 1
+17	4	0	0	9
+11	0	0	1	1
+11	1	0	0	1
+13	2	0	0	4
+3	1	0	0	5
+7	1	0	0	3
+11	1	0	0	1
+11	0	0	0	5
+13	0	0	0	5
+17	0	0	0	8
+8	2	0	0	5
+12	0	0	0	2

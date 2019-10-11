@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912901
+datum=18.01.2012
+kurzken=Q 0912901/12
+bez=Schloßstraße (nördl. Grunewaldstraße)   (Steglitz, 12163)
+arm1=Grunewaldstraße,1500,0100
+arm2=Muthesiusstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=5°C max T; 6 Std Sonne; 5 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+36
+40
+38
+42
+59
+70
+72
+61
+88
+18
+117
+89
+; 2 -> 1
+26
+38
+33
+34
+54
+70
+68
+31
+40
+65
+65
+66

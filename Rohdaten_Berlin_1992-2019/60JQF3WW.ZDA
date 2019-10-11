@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025575
+datum=17.3.1992
+kurzken=Q 2557.5/92-F
+bez=Richard-Sorge-Str. nördlich Auerstr.    ( Berlin 1034-Frdh )
+arm1=Ost,1350,0100
+arm2=West,2880,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+24 14 
+18 4 
+12 0 
+25 2 
+11 0 
+13 2 
+26 2 
+22 10 
+24 5 
+21 4 
+30 9 
+12 6 
+; 2 -> 1
+8 2 
+5 3 
+11 0 
+13 1 
+5 0 
+7 0 
+15 16 
+17 8 
+29 3 
+22 2 
+17 2 
+20 0 

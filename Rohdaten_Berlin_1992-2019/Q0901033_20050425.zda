@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0901033
+datum=25.04.2005
+kurzken=Q 0901033/05
+bez=Universitätsstraße (südl. Dorotheenstraße)   (Mitte, 10178)
+arm1=Dorotheenstraße,100,0100
+arm2=Unter den Linden,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+148	7	2	6	12
+244	7	1	13	44
+209	11	3	2	59
+180	20	0	4	32
+169	12	2	3	44
+164	7	1	1	33
+; 2 -> 1
+159	10	0	3	8
+206	3	0	5	17
+219	13	0	6	36
+112	16	2	4	36
+115	13	0	5	53
+113	11	0	6	42

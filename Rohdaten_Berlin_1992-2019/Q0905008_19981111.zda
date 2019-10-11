@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0905008
+datum=11.11.1998
+kurzken=Q 0905008/98
+bez=Mühlenstraße (westl. Warschauer Straße)   (Friedrichshain, 10243)
+arm1=Rummelsburger Platz,600,0100
+arm2=Warschauer Straße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1063	98	4	11
+1001	110	1	4
+870	107	5	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1525	85	2	20
+1832	73	4	24
+1463	38	1	21
+; 2 -> 1
+1512	195	0	14
+1411	136	1	22
+1304	145	13	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1257	91	8	28
+1212	61	0	10
+1253	60	0	8

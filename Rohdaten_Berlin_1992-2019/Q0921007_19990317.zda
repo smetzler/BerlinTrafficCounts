@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0921007
+datum=17.03.1999
+kurzken=Q 0921007/99
+bez=Cecilienstraße (westl. Siegmarstraße)   (Biesdorf, 12683)
+arm1=Irmfriedstraße,650,0100
+arm2=Siegmarstraße,2460,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+279	20	12	0
+231	14	10	1
+266	19	7	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+763	13	11	5
+801	21	13	8
+696	9	13	9
+; 2 -> 1
+796	10	12	5
+454	18	9	1
+387	23	9	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+438	8	13	2
+466	11	13	4
+463	9	12	8

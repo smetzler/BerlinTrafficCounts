@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19006
+datum=22.03.1990
+kurzken=Q 19006/90
+bez=Bildhauerweg suedl. Neukoellner Strasse    ( Berlin 47 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+1 0 7 0 2 0 4 0 0 2 0 0 0 2 
+2 0 2 3 0 0 0 0 0 0 
+; 2 -> 1
+1 0 3 0 3 0 0 52 0 0 0 0 2 0 
+2 0 2 0 0 0 0 0 1 2 

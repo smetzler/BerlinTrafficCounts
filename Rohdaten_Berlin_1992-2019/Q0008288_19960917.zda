@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8288
+datum=17.09.1996
+kurzken=Q 8288/96
+bez=Bleibtreustraße  (nördl. Lietzenburger Str.)     (Charl'burg, 10707)
+arm1=Lietzenburger Str. (West),950,0010
+arm2=,1720,0000
+arm3=Lietzenburger Str. (Ost),2750,1000
+arm4=,3520,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 3
+5 0
+9 0
+14 0
+9 0
+25 1
+25 3
+27 3
+23 5
+19 4
+31 8
+16 0
+17 3
+; 3 -> 1
+8 2
+11 0
+23 1
+19 0
+21 1
+17 3
+28 2
+26 6
+16 7
+40 11
+26 0
+27 1

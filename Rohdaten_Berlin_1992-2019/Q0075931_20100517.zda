@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 75931
+datum=17.05.2010
+kurzken=Q 75931/10
+bez=Altonaer Straße (westl. Klosterstraße)    (Spandau, 13581)
+arm1=Altonaer Straße,720,0000
+arm2=Klosterstraße,1570,0001
+arm3=,0,0000
+arm4=Klosterstraße,3310,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+36	4
+21	5
+28	5
+40	2
+79	0
+81	0
+138	3
+148	20
+133	22
+121	10
+140	8
+89	6
+; 4 -> 2
+17	3
+20	0
+32	0
+43	2
+87	4
+65	0
+156	8
+174	10
+164	9
+180	8
+177	14
+159	8

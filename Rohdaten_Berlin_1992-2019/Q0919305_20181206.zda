@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 919305
+datum=06.12.2018
+kurzken=Q 919305/18
+bez=Schönhauser Str. (nordöstl. Kräuterwg, südwstl. Kissingenwg) (13158 Rosenthal)
+arm1=Schönhauser Straße (NW),550,0100
+arm2=Schönhauser Straße (SO),2350,1000
+arm3=NO,1450,0000
+arm4=SW,3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+4	1
+6	1
+2	1
+4	0
+5	0
+7	0
+10	4
+7	0
+9	3
+10	0
+9	1
+5	2
+; 2 -> 1
+13	5
+8	3
+6	0
+6	0
+9	0
+6	0
+10	2
+5	0
+5	2
+6	0
+7	0
+3	1

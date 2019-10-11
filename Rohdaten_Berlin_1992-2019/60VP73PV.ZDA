@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41083
+datum=20.8.1991
+kurzken=Q 4108.3/91
+bez=Berliner Strasse zw. Gorkistrasse und Grussdorfstrasse     ( Berlin 27 )
+arm1=Grussdorfstraße,900,0100
+arm2=Gorkistraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+328 
+407 
+536 
+595 
+643 
+709 
+695 
+646 
+970 
+1098 
+1123 
+862 
+; 2 -> 1
+977 
+779 
+765 
+671 
+880 
+749 
+707 
+603 
+666 
+749 
+742 
+784 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 11821
+datum=22.10.2002
+kurzken=Q 11821/02
+bez=Katzbachstraße (nördl. Dudenstraße)    (Tempelhof, 12101)
+arm1=Katzbachstraße,0,0000
+arm2=West,900,0001
+arm3=Ost,1900,0100
+arm4=Ost,2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 13°C; Sonne: 0 Std; Niederschlag: 3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+26	10
+26	2
+34	2
+31	1
+25	1
+21	1
+29	1
+28	9
+28	3
+39	6
+36	11
+25	3
+; 3 -> 2
+12	3
+11	2
+22	0
+23	1
+24	0
+27	3
+35	0
+43	7
+57	10
+42	9
+54	10
+51	9

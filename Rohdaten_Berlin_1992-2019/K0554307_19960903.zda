@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=K 554307
+datum=03.09.1996
+kurzken=K 554307/96
+bez=Wilhelmstraße / Dorotheenstraße     (Mitte, 10117)
+arm1=Wilhelmstraße,50,0000
+arm2=Dorotheenstraße,1000,0000
+arm3=Wilhelmstraße,1850,0000
+arm4=Dorotheenstraße,2800,0100
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 4 -> 2
+1156 40 0 34 17
+1016 56 0 27 16
+772 59 4 17 16
+730 51 0 22 23
+740 54 2 26 21
+712 50 1 14 20
+662 37 0 25 31
+722 33 1 21 16
+837 32 0 30 17
+978 22 0 38 31
+770 11 1 21 19
+737 7 0 23 20

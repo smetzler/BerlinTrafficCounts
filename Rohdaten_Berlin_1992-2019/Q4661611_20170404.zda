@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 4661611
+datum=04.04.2017
+kurzken=Q 4661611/17
+bez=Saatwinkler Damm (westl. Emmy-Zehden-Weg)   (Charlottenburg, 13627)
+arm1=Saatwinkler Damm (NW),400,0000
+arm2=Emmy-Zehden-Weg,1300,0001
+arm3=Saatwinkler Damm (SO),2200,0000
+arm4=(Nord-Osten),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0

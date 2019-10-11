@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0909023
+datum=01.07.2009
+kurzken=K 0909023/09
+bez=A100 Stadtring - Abf. Detmolder Straße (Süd)   (Wilmersdorf, 10713)
+arm1=,0,0000
+arm2=BAB A100 (AK Wilmersdorf),700,0010
+arm3=Detmolder Straße,2800,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 3
+251	2	0	5
+293	6	0	7
+302	4	0	2
+238	5	0	3
+237	3	0	6
+279	6	0	5
+343	0	0	12
+344	1	0	10
+387	0	0	11
+461	3	1	18
+436	4	0	5
+497	0	0	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11804
+datum=18.07.2016
+kurzken=Q 11804/16
+bez=Feurigstraße (östl. Herbertstraße)   (Schöneberg, 10827)
+arm1=Herbertstraße (N),200,0010
+arm2=Feurigstraße (W),1300,0000
+arm3=Herbertstraße (S),1850,1000
+arm4=Feurigstraße (O),2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+4	3
+4	2
+3	0
+9	10
+12	2
+14	0
+20	2
+8	5
+14	9
+19	12
+21	7
+4	4
+; 3 -> 1
+4	3
+4	1
+8	1
+6	0
+4	0
+15	3
+6	1
+10	0
+6	8
+13	19
+12	2
+3	2

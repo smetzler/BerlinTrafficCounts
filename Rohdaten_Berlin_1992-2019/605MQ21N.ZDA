@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 07298
+datum=28.05.1986
+kurzken=Q 7298/86
+bez=Stuelerstrasse  noerdl. Corneliusstrasse   ( Berlin 30 )
+Arm1=Ost  ( 4a ),900,0100
+Arm2=West  ( 4b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend bedeckt und trocken
+data=
+; 1 -> 2
+4 4 10 1 1 8 4 2 3 22 3 10 
+; 2 -> 1
+3 6 11 8 4 13 7 7 18 35 10 14 

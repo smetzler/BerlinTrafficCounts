@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901902
+datum=14.06.2017
+kurzken=Q 0901902/17
+bez=Spandauer Straße (nördl. Karl-Liebknecht-Straße)   (Mitte, 10178)
+arm1=Spandauer Brücke,300,0100
+arm2=Karl-Liebknecht-Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 14 Std Sonne; 0\,0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+94
+266
+201
+90
+76
+110
+142
+137
+211
+232
+275
+304
+; 2 -> 1
+118
+332
+338
+276
+115
+140
+156
+191
+127
+224
+279
+295

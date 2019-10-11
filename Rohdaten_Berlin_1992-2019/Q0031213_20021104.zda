@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031213
+datum=04.11.2002
+kurzken=Q 031213/02
+bez=Bouchestraße (nördl. Harzer Straße)   (Neukölln, 12435)
+arm1=Harzer Straße,1400,0100
+arm2=Heidelberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+29	7	1	1	2
+53	4	4	0	12
+54	9	3	0	9
+38	8	1	0	5
+34	5	2	0	8
+39	9	2	0	5
+37	7	4	0	3
+38	7	1	0	9
+54	5	3	0	6
+65	10	3	0	4
+84	8	1	0	11
+55	6	0	0	6
+; 2 -> 1
+46	10	0	0	0
+57	12	0	0	10
+52	10	2	0	4
+46	13	3	0	5
+45	8	0	0	4
+34	9	2	0	6
+50	14	3	1	4
+46	12	2	0	10
+46	8	0	0	11
+77	11	3	0	10
+81	8	0	0	12
+69	1	1	0	7

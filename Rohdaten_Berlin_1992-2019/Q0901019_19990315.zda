@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901019
+datum=15.03.1999
+kurzken=Q 0901019/99
+bez=Friedrichstraße (nördl. Behrenstraße)   (Mitte, 10117)
+arm1=Unter den Linden,100,0100
+arm2=Behrenstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+566	31	7	5
+678	35	11	8
+694	37	5	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+910	23	5	14
+890	21	8	16
+848	15	10	8
+; 2 -> 1
+66	6	8	0
+73	3	6	0
+77	7	6	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+68	3	11	1
+100	4	10	1
+76	2	10	0

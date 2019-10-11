@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0921033
+datum=29.05.2006
+kurzken=Q 0921033/06
+bez=Weg südl. Mehrower Allee  (Marzahn, 12687)
+arm1=Bürgerpark,1600,0100
+arm2=Mehrower Allee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+21
+4
+8
+10
+7
+13
+15
+25
+19
+17
+15
+17
+; 2 -> 1
+14
+10
+13
+8
+14
+6
+15
+21
+14
+18
+15
+9

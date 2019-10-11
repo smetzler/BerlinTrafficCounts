@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25205
+datum=26.9.1991
+kurzken=Q 2520.5/91-F
+bez=Koepenicker Strasse westlich Michaelkirchstrasse    ( Mitte )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+0 6 
+5 2 
+4 0 
+2 0 
+4 0 
+3 0 
+3 0 
+3 3 
+4 4 
+0 0 
+1 2 
+2 0 
+; 2 -> 1
+5 0 
+4 2 
+2 2 
+0 0 
+4 0 
+9 0 
+1 0 
+3 8 
+4 0 
+2 9 
+1 0 
+0 0 

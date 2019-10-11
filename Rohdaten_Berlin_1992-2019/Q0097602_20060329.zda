@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 97602
+datum=29.03.2006
+kurzken=Q 97602/06
+bez=Bergstraße (westl. Körnerstraße)   (Steglitz, 12169)
+arm1=Körnerstraße (N),100,0010
+arm2=Bergstraße (W),950,0000
+arm3=Körnerstraße (S),1800,1000
+arm4=Bergstraße (O),2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+3	1
+6	0
+5	0
+7	0
+3	2
+3	0
+3	2
+3	0
+11	6
+9	3
+8	2
+9	2
+; 3 -> 1
+1	0
+7	2
+5	0
+6	1
+7	0
+3	0
+4	0
+2	0
+3	0
+6	0
+4	1
+13	1

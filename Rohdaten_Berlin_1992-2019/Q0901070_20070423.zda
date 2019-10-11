@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901070
+datum=23.04.2007
+kurzken=Q 0901070/07
+bez=Weinbergsweg (südl. Zedenicker Straße)   (Mitte, 10119)
+arm1=Rosenthaler Platz,1450,0100
+arm2=Zehdenicker Straße,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+41
+40
+55
+68
+66
+88
+153
+182
+223
+287
+285
+417
+; 2 -> 1
+130
+367
+343
+185
+140
+144
+149
+185
+184
+151
+193
+202

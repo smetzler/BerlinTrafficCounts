@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901901
+datum=10.04.2019
+kurzken=Q 0901901/18
+bez=Karl-Liebknecht-Straße (westl. Spandauer Straße) (Mitte, 10178) 
+arm1=Am Lustgarten,1300,0100
+arm2=Spandauer Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Taxidemo zwischen 12-14 Uhr - Messwerte zwischen 13-13 Uhr ungenau - Zwischen 13-14 keine Zählung wegen Taxidemo möglich.
+data=
+; 1 -> 2
+76
+153
+150
+158
+102
+62
+0
+126
+286
+338
+467
+458
+; 2 -> 1
+376
+737
+534
+256
+219
+81
+0
+94
+178
+150
+283
+264

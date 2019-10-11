@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 17641
+datum=26.05.2014
+kurzken=Q 17641/14
+bez=Leonorenstraße (nördl. Kaiser-Wilhelm-Straße)   (Lankwitz, 12247)
+arm1=Leonorenstraße,250,0000
+arm2=Kaiser-Wilhelm-Straße (W),1350,0001
+arm3=Paul-Schneider-Straße,2150,0000
+arm4=Kaiser-Wilhelm-Straße (O),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=5 Std; Niederschlag=7 mm;
+data=
+; 2 -> 4
+56	7
+129	9
+156	7
+223	10
+247	11
+206	16
+204	15
+191	18
+242	26
+274	26
+245	22
+172	21
+; 4 -> 2
+100	20
+148	14
+314	10
+306	17
+280	16
+259	22
+265	21
+257	27
+327	60
+275	28
+291	40
+167	19

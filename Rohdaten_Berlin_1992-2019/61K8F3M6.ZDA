@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 72879
+datum=15.04.1991
+kurzken=Q 72879/91
+bez=Hohenfriedbergstrasse noerdlich Brunhildstrasse    ( Berlin 62 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+5 65 8 3 2 4 45 7 1 0 4 38 4 1 0 
+1 35 6 3 0 2 41 4 2 0 3 50 5 2 0 
+1 48 11 3 2 1 42 10 2 0 1 35 7 0 1 
+4 79 8 3 0 2 51 7 1 1 4 63 2 1 1 
+; 2 -> 1
+2 44 6 1 2 2 61 11 3 0 0 59 9 3 0 
+2 66 8 4 0 4 57 5 2 0 5 70 7 7 0 
+7 68 16 3 1 3 75 6 5 0 2 93 6 1 0 
+9 118 7 1 0 2 82 2 3 0 6 76 2 0 0 

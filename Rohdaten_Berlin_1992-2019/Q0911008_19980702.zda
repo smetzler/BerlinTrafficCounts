@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911008
+datum=02.07.1998
+kurzken=Q 0911008/98
+bez=Martin-Luther-Straße (südl. Freisinger Straße)   (Schöneberg, 10779)
+arm1=Freisinger Straße,0,0100
+arm2=Rosenheimer Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2700,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+940	45	12	38
+1236	52	12	42
+1135	55	14	25
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1927	37	13	105
+1949	23	13	101
+1888	18	15	94
+; 2 -> 1
+1715	59	13	79
+1870	68	13	80
+1549	58	9	60
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1459	38	14	66
+1492	35	16	71
+1365	20	14	50

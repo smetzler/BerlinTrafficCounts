@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917002
+datum=23.06.1998
+kurzken=Q 0917002/98
+bez=Am Tierpark (nördl. A.-Kowalke-Straße)   (Friedrichsfelde, 10315)
+arm1=Massower Straße,50,0100
+arm2=A.-Kowalke-Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1581	152	15	40
+1466	148	14	17
+1378	150	15	25
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1778	99	15	38
+1799	60	16	31
+1791	57	16	17
+; 2 -> 1
+1799	134	18	27
+1635	178	29	16
+1436	173	11	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1898	124	13	46
+1794	89	15	34
+1825	67	19	28

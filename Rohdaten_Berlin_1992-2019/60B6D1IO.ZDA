@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 14485
+datum=17.10.1984
+kurzken=Q 14485/84
+bez=Podbielskiallee  noerdl. Im Dol  (Berlin 33)
+Arm1=West (1a),900,0100
+Arm2=Ost (1b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+7 1 17 1 8 0 8 0 40 1 35 0 43 1 
+28 1 40 3 25 2 12 1 8 0 
+; 2 -> 1
+24 0 38 0 34 0 41 1 23 1 20 2 49 2 
+29 0 30 4 43 3 19 2 15 0 

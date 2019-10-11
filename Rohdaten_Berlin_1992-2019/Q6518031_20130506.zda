@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6518031
+datum=06.05.2013
+kurzken=Q 6518031/13
+bez=Ostseestraße  (westl. Greifswalder Straße)   (Prenzlauer Berg, 10409)
+arm1=Ostseestraße,600,0000
+arm2=Greifswalder Straße (S),1500,0001
+arm3=Michelangelostraße,2400,0000
+arm4=Greifswalder Straße (N),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+54	20
+105	19
+159	15
+119	0
+150	3
+110	4
+171	2
+125	21
+183	15
+152	17
+187	13
+147	7
+; 4 -> 2
+31	27
+37	3
+63	7
+105	8
+112	5
+23	1
+87	3
+90	19
+101	17
+76	15
+99	19
+51	5

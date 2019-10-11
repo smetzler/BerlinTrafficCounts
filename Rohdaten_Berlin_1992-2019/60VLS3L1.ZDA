@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40960
+datum=6.3.1991
+kurzken=Q 4096.0/91
+bez=Buckower Chaussee am S-Bahnuebergang    ( Berlin 48 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+934 
+698 
+656 
+637 
+636 
+739 
+771 
+827 
+823 
+797 
+715 
+658 
+; 2 -> 1
+593 
+648 
+564 
+629 
+671 
+682 
+751 
+845 
+1004 
+1051 
+852 
+744 

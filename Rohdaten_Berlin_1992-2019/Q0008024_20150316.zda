@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 8024
+datum=16.03.2015
+kurzken=Q 8024/15
+bez=Prinzenstraße (nördl. Moritzplatz)   (Kreuzberg, 10969)
+arm1=Moritzplatz (W),1050,0100
+arm2=Moritzplatz (S),1950,1000
+arm3=,0,0000
+arm4=Prinzenstraße (N),3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Prinzenstr. nördl. des Moritzplatzes queren.\nWetter: max T=12°C; Sonne=6 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+19	9
+29	11
+42	6
+33	2
+31	4
+56	2
+77	0
+69	0
+78	2
+60	0
+74	3
+75	0
+; 2 -> 1
+33	16
+37	14
+41	4
+40	1
+41	2
+50	1
+92	2
+80	0
+98	9
+92	6
+78	7
+93	5

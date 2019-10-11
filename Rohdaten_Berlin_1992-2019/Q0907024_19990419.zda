@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0907024
+datum=19.04.1999
+kurzken=Q 0907024/99
+bez=Rampe von A111-Nord zum Zubringer Flughafen Tegel   (Chbg., 13627)
+arm1=A111-Nord (Hinckeldeybrücke),3000,0100
+arm2=Zubringer Flughafen Tegel,700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+842	36	7	11
+877	71	8	10
+800	67	3	12
+477	64	5	2
+453	47	5	9
+434	53	5	8
+426	51	5	8
+398	50	7	9
+430	26	6	4
+473	32	6	11
+396	13	6	5
+340	13	6	4

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912029
+datum=26.05.1999
+kurzken=Q 0912029/99
+bez=Osdorfer Straße (südl. Blanckertzweg)   (Lichterfelde, 12207)
+arm1=Blanckertzweg,250,0100
+arm2=Celsiusstraße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+315	28	17	8
+368	21	13	13
+341	27	12	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+683	20	18	35
+726	23	15	37
+673	7	16	35
+; 2 -> 1
+578	20	18	21
+453	17	12	18
+338	31	12	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+333	7	16	16
+309	7	15	14
+287	7	15	22

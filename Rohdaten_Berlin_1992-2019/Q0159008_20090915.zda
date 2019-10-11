@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159008
+datum=15.09.2009
+kurzken=Q 159008/09
+bez=Niederneuendorfer Allee (Stadtgrenze)   (Spandau, 13587)
+arm1=Niederneuendorf,0,0100
+arm2=Spandau,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+656	31	2	16	21
+446	21	2	9	5
+313	19	2	5	6
+208	10	2	3	7
+216	14	1	7	6
+246	21	2	6	2
+252	20	1	5	4
+249	11	2	11	18
+324	16	2	18	4
+323	15	2	15	7
+290	9	2	10	7
+275	5	2	10	7
+; 2 -> 1
+307	14	3	11	8
+242	16	2	6	9
+216	31	2	4	12
+214	20	2	12	5
+218	12	1	8	7
+202	12	1	12	9
+312	15	2	10	11
+423	19	2	23	8
+528	14	2	16	6
+578	16	2	19	15
+476	21	2	11	14
+371	14	2	13	11

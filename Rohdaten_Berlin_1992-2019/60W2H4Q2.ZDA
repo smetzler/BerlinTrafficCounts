@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41561
+datum=11.10.1994
+kurzken=Q 41561/94
+bez=Bahnhofstraße (Höhe S-Bhf. Blankenburg) (Blankenburg, 13129)
+arm1=A 114,850,0000
+arm2=Schäferstege,2800,0000
+arm3=Süden,1750,0001
+arm4=Norden,3550,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 14°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 3 -> 4
+33,38
+19,3
+19,3
+8,0
+19,3
+18,3
+23,7
+12,2
+19,0
+43,1
+14,5
+9,0
+; 4 -> 3
+32,32
+8,2
+35,9
+11,1
+22,4
+23,1
+28,9
+23,6
+23,2
+69,3
+36,2
+40,1

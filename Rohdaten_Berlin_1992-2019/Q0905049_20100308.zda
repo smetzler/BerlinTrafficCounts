@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905049
+datum=08.03.2010
+kurzken=Q 0905049/10
+bez=Eldenaer Straße (westl. Liebigstraße)   (Friedrichshain, 10247)
+arm1=Hübnerstraße,700,0100
+arm2=Liebigstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+257	4	0	0	24
+305	12	0	2	23
+231	5	1	1	37
+208	4	0	2	10
+238	10	1	2	16
+267	7	0	3	16
+259	10	0	2	24
+323	6	0	3	23
+328	0	0	6	38
+406	1	0	6	55
+365	0	0	5	37
+341	0	0	5	40
+; 2 -> 1
+377	6	0	1	25
+325	13	2	0	31
+245	5	0	1	16
+242	12	0	2	26
+232	16	0	3	16
+227	17	0	3	20
+239	5	0	1	22
+229	5	2	3	27
+304	8	0	6	28
+313	2	2	2	36
+346	3	1	4	34
+221	1	0	0	25

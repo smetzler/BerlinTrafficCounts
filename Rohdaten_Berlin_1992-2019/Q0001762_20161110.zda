@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1762
+datum=10.11.2016
+kurzken=Q 1763/16
+bez=Stadtrandstraße (südl. Falkenseer Chaussee)   (Spandau, 13589)
+arm1=Falkenseer Chaussee (W),730,0010
+arm2=Stadtrandstraße (S),1600,0000
+arm3=Falkenseer Chaussee (O),2530,1000
+arm4=Stadtrandstraße (N),3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=2 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+41	15
+36	4
+26	4
+17	2
+17	0
+16	0
+26	0
+34	10
+24	8
+18	3
+18	0
+8	3
+; 3 -> 1
+12	14
+28	19
+16	3
+14	1
+20	1
+10	1
+19	15
+30	5
+19	2
+9	8
+9	1
+7	1

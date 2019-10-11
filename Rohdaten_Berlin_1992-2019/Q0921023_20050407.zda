@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921023
+datum=07.04.2005
+kurzken=Q 0921023/05
+bez=Hultschiner Damm (südl. Elsenstraße)   (Mahlsdorf, 12623)
+arm1=Elsenstraße,0,0100
+arm2=Rahnsdorfer Straßw,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+473	43	5	5	12
+452	40	6	3	9
+479	41	5	3	11
+526	26	6	2	26
+543	37	6	2	27
+512	39	4	4	35
+; 2 -> 1
+525	21	0	4	97
+434	14	0	2	60
+427	17	0	4	23
+346	36	0	2	20
+303	36	0	6	9
+349	26	0	3	10

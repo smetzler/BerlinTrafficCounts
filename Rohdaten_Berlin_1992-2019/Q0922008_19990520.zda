@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922008
+datum=20.05.1999
+kurzken=Q 0922008/99
+bez=Falkenberger Chaussee (westl. Zingster Straße)   (Hohenschönh., 13051)
+arm1=Darßer Straße,1200,0100
+arm2=Zingster Straße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+685	47	13	12
+616	39	14	10
+674	66	9	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1373	42	12	31
+1511	37	13	33
+1326	25	14	37
+; 2 -> 1
+1402	49	16	33
+1158	73	15	15
+960	52	11	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1013	42	14	22
+1105	20	15	26
+1081	22	11	21

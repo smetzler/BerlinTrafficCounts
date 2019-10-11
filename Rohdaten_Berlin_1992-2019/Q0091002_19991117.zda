@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091002
+datum=17.11.1999
+kurzken=Q 091002/99
+bez=Dessauer Straße (südl. Ahrensfelder Chaussee) (Marzahn, 12689)
+arm1=Ahrensfelder Chaussee,300,0100
+arm2=Schwarzwurzelstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+109	29	4	1
+187	25	5	0
+99	13	2	0
+124	20	4	0
+104	14	5	0
+106	20	0	0
+127	11	5	1
+123	11	4	0
+164	20	2	0
+281	22	5	0
+363	34	5	0
+211	20	6	0
+; 2 -> 1
+258	36	7	0
+231	24	4	1
+141	25	5	0
+113	16	4	0
+113	15	6	0
+104	24	4	0
+100	10	2	1
+160	9	4	0
+126	22	6	0
+174	19	5	0
+202	24	3	0
+158	16	2	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020803
+datum=21.04.1997
+kurzken=Q 020803/97
+bez=Trelleborger Straße (nördl. Wisbyer Straße) (Pankow, 13189)
+arm1=Schonensche Straße ,0,0100
+arm2=Wisbyer Straße ,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+126 16 3 0 7
+139 13 2 1 3
+102 19 3 0 4
+94 5 2 0 7
+72 6 1 1 7
+75 7 1 1 2
+87 8 1 0 4
+76 9 1 0 6
+86 2 4 0 5
+93 5 2 0 9
+110 12 3 0 7
+97 6 2 0 5
+; 2 -> 1
+68 7 1 0 1
+46 8 3 0 3
+63 10 1 0 3
+67 8 1 0 2
+50 5 4 1 3
+60 9 2 0 3
+78 8 6 0 0
+73 2 0 0 3
+92 7 1 0 4
+148 8 1 0 5
+255 22 8 0 3
+174 10 1 0 5

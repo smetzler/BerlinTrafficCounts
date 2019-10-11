@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20131
+datum=15.05.2018
+kurzken=Q 20131/18
+bez=Achillesstraße (westl. Bucher Chaussee)   (Karow, 13125)
+arm1=Achillesstraße (W),300,0000
+arm2=Bucher Chaussee (S),1500,0001
+arm3=Achillesstraße (O),2350,0000
+arm4=Bucher Chaussee (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+3	4
+6	4
+13	8
+16	3
+5	2
+16	2
+18	10
+7	2
+9	5
+6	4
+5	6
+6	0
+; 4 -> 2
+12	3
+7	12
+11	8
+24	9
+13	15
+14	12
+24	8
+30	48
+28	11
+6	10
+16	6
+25	5

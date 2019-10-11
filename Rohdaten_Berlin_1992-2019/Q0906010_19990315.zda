@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906010
+datum=15.03.1999
+kurzken=Q 0906010/99
+bez=Kochstraße (westl. Lindenstraße)   (Kreuzberg, 10969)
+arm1=Markgrafenstraße,950,0100
+arm2=Lindenstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+388	34	9	4
+469	31	9	2
+499	38	7	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+601	30	9	13
+604	15	10	9
+529	8	9	6
+; 2 -> 1
+517	42	10	6
+653	55	12	8
+570	31	7	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+577	23	10	6
+543	23	9	8
+505	12	12	7

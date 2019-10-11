@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020710
+datum=04.11.2002
+kurzken=Q 020710/02
+bez=Ruppiner Straße (südl. Bernauer Straße)   (Mitte, 10435)
+arm1=Bernauer Straße,300,0100
+arm2=Rheinsberger Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+22	5	1	2	0
+30	7	1	4	1
+47	5	1	4	3
+28	4	0	7	4
+15	0	0	5	1
+12	3	0	6	4
+18	3	1	6	2
+23	7	1	5	2
+15	4	1	7	6
+40	6	1	7	2
+33	3	0	5	1
+21	4	0	6	5
+; 2 -> 1
+13	2	2	0	0
+15	1	0	0	1
+21	4	1	0	4
+23	3	0	0	4
+22	3	1	0	7
+13	3	0	0	1
+18	1	0	0	2
+22	3	1	0	4
+29	8	0	0	3
+39	4	0	0	0
+30	1	1	0	1
+35	5	0	0	5

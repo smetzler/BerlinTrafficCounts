@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917067
+datum=23.04.2008
+kurzken=Q 0917067/08
+bez=Schreiberhauser Straße (Höhe Hirschberger Straße)   (Lichtenberg, 10317)
+arm1=Marktstraße,1700,0000
+arm2=Kaskelstraße,3500,0000
+arm3=((Westen)),800,0001
+arm4=((Osten)),2600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Schreiberhauser Str. in Höhe der Hirschberger Str. (50m nördl. bis 50m südl.) queren.\nWetter: max T=17°C; Sonne=11 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+5	0
+4	0
+13	0
+14	0
+15	0
+27	1
+38	0
+61	5
+66	2
+46	1
+39	0
+46	3
+; 4 -> 3
+52	11
+51	3
+12	0
+18	0
+18	0
+14	1
+27	0
+14	1
+20	2
+26	2
+31	1
+20	0

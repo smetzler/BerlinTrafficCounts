@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920018
+datum=17.06.1998
+kurzken=Q 0920018/98
+bez=Holzhauser Straße (nordöstl. Wittestraße)   (Tegel, 13409)
+arm1=Wittestraße,1350,0100
+arm2=Conradstraße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+775	77	3	19
+689	87	5	5
+592	87	0	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1041	69	2	34
+1084	41	4	36
+924	29	4	27
+; 2 -> 1
+1115	100	3	26
+809	117	4	21
+710	73	1	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+935	69	6	32
+933	48	3	24
+709	38	5	19

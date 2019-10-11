@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 19383
+datum=23.11.2005
+kurzken=Q 19383/05
+bez=Motzener Straße (südl. Nahmitzer Damm)   (Marienfelde, 12277)
+arm1=Motzener Straße (N),150,0000
+arm2=Nahmitzer Damm (W),900,0001
+arm3=Motzener Straße (S),2230,0000
+arm4=Nahmitzer Damm (O),2930,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	0
+3	2
+3	2
+6	0
+4	0
+5	0
+24	2
+20	2
+20	1
+25	1
+13	5
+13	0
+; 4 -> 2
+13	3
+8	0
+10	1
+8	0
+17	0
+12	0
+5	0
+13	3
+13	1
+4	0
+12	0
+1	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920350
+datum=05.11.2018
+kurzken=Q 0920350/18
+bez=Waidmannsluster Damm (östl. Dianastr.: westl. Am Ansitz)   (Reinickendorf, 13469)
+arm1=Dianastr.,1250,0100
+arm2=Am Ansitz,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+430	15	8	7	21
+423	17	5	2	11
+401	25	6	5	19
+344	8	4	1	12
+414	22	7	4	7
+432	18	6	13	14
+453	16	5	6	12
+562	11	8	8	14
+589	13	5	15	28
+608	10	8	10	18
+533	1	9	9	11
+494	1	6	9	9
+; 2 -> 1
+465	17	9	7	9
+428	20	6	4	13
+404	25	6	3	10
+444	18	6	12	16
+414	31	7	8	8
+421	17	6	4	5
+355	11	6	6	7
+461	11	5	6	17
+425	7	6	10	11
+446	16	6	8	22
+325	3	6	3	12
+326	3	6	3	24

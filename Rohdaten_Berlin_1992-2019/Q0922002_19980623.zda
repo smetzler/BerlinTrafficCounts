@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922002
+datum=23.06.1998
+kurzken=Q 0922002/98
+bez=Suermondtstraße (westl. Konrad-Wolf-Str.)   (Hohenschönhausen, 13053)
+arm1=Degnerstraße,750,0100
+arm2=Konrad-Wolf-Straße,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+529	51	6	3
+424	45	7	6
+363	48	3	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+533	39	7	9
+559	20	5	10
+497	13	7	8
+; 2 -> 1
+527	29	0	8
+399	46	0	8
+337	44	0	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+624	34	0	9
+699	46	0	15
+636	24	0	7

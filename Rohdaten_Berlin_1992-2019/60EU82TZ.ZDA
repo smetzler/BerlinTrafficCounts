@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 19232
+datum=24.11.1988
+kurzken=Q 19232/88
+bez=Egestorffstrasse suedl. Schichauweg    ( Berlin 49 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Radf,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweise Regen !
+data=
+; 1 -> 2
+2 2 1 1 2 0 0 0 4 1 2 2 
+; 2 -> 1
+0 1 2 2 1 2 1 6 2 4 1 0 

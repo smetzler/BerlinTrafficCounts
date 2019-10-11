@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0906026
+datum=30.05.2006
+kurzken=Q 0906026/06
+bez=Bergmannstraße (östl. Friesenstraße)   (Kreuzberg, 10965)
+arm1=Friesenstraße,900,0100
+arm2=Heimstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=14°C max T; 4 Std Sonne; 10 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+103
+146
+153
+93
+92
+104
+120
+117
+134
+119
+132
+142
+; 2 -> 1
+92
+134
+128
+99
+94
+92
+97
+125
+133
+112
+100
+114

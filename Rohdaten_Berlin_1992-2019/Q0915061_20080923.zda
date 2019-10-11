@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915061
+datum=23.09.2008
+kurzken=Q 0915061/08
+bez=Oberspreestraße (östl. Moosstraße)   (Niederschöneweide, 12439
+arm1=Moosstraße,800,0100
+arm2=Eisblumensteig,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+321	19	5	6	8
+334	24	4	7	8
+309	14	4	6	3
+342	16	3	2	4
+342	14	3	2	3
+373	23	3	3	11
+395	21	3	6	14
+532	11	3	13	20
+610	12	3	6	20
+642	11	4	12	24
+622	6	5	11	23
+559	8	3	7	13
+; 2 -> 1
+997	25	3	17	17
+978	33	4	14	11
+557	26	2	4	5
+420	20	2	2	2
+380	18	3	2	5
+473	13	4	5	5
+379	14	7	7	12
+352	12	3	3	15
+418	10	4	2	24
+425	6	4	7	21
+408	7	5	5	24
+326	3	4	13	10

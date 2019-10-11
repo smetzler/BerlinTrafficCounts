@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119811
+datum=03.07.2007
+kurzken=Q 119811/07
+bez=Karl-Marx-Str. (nördl. Flughafenstr.; Westseite - Mittelinsel) (Neukölln, 12043)
+arm1=Karl-Marx-Straße (N),530,0000
+arm2=Flughafenstraße,1100,0001
+arm3=Karl-Marx-Straße (S),2250,0000
+arm4=(Mittelinsel),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die K.-Marx-Str. zw. der westl. Straßenseite und der Mitttelinsel queren! \nWetter: max T=23°C; Sonne=8 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+169	31
+243	25
+293	18
+446	11
+528	49
+615	27
+652	62
+706	49
+672	46
+754	61
+740	94
+737	66
+; 4 -> 2
+134	7
+190	30
+346	39
+555	12
+554	23
+611	38
+660	74
+693	66
+733	64
+833	88
+795	57
+695	50

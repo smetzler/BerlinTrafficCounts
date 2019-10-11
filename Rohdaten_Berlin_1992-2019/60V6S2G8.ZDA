@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40420
+datum=09.09.1987
+kurzken=Q 40420/87
+bez=Marienfelder Allee in Hoehe Haus Nr. 70   ( Berlin 48 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Kfz-Zaehlung !
+data=
+; 1 -> 2
+472 384 303 261 295 312 345 293 333 451 382 329 
+; 2 -> 1
+355 350 248 329 414 462 406 442 694 676 590 446 

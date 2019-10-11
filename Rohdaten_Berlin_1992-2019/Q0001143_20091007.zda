@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1143
+datum=07.10.2009
+kurzken=Q 1143/09
+bez=Miraustraße (südöstl. Holzhauser Straße)  (Wittenau, 13509)
+arm1=Miraustraße (NW),350,0000
+arm2=Holzhauser Straße (SW),1250,0001
+arm3=Miraustraße (NO),2150,0000
+arm4=Holzhauser Straße (SO),3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=3 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+29	2
+16	0
+20	0
+15	0
+9	0
+6	0
+14	0
+4	0
+8	3
+5	1
+8	0
+5	1
+; 4 -> 2
+3	0
+4	0
+2	0
+9	0
+7	0
+2	1
+21	2
+13	0
+18	1
+8	0
+15	1
+4	3

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5552023
+datum=12.06.1995
+kurzken=Q 5552023/95
+bez=Jerusalemer Straße (südl. Leipziger Straße),(Mitte, 10718)
+arm1=Leipziger Straße ,100,0100
+arm2=Krausenstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+505 24 0 5 8
+453 28 1 6 8
+415 28 0 4 5
+344 29 0 6 2
+357 37 0 7 1
+377 33 0 10 2
+343 36 0 2 3
+346 34 0 1 4
+312 11 0 6 7
+347 9 0 15 3
+266 6 0 11 4
+358 7 0 7 6
+; 2 -> 1
+509 39 2 10 8
+554 33 0 2 7
+504 37 4 1 7
+435 40 9 6 3
+396 34 11 7 9
+446 48 7 6 5
+476 36 6 3 11
+544 31 9 10 3
+682 26 9 15 17
+766 21 7 6 5
+656 7 2 9 3
+576 7 1 9 6

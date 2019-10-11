@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 139004
+datum=26.09.1994
+kurzken=Q 139004/94
+bez=Buckower Damm - Karl-Marx-Str. (südl. Stuthirtenweg) (Neukölln, 12349) 
+arm1=Stuthirtenweg,100,0100
+arm2=W.-Simon-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten: Karl-Marx-Str. in Groß-Ziethen gesperrt\, außer Anlieger und Baufahrzeuge.\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+99,9,8,0,3
+40,9,7,0,4
+53,10,5,0,3
+62,2,4,0,4
+70,3,2,0,9
+61,4,4,0,10
+65,10,9,0,5
+52,9,4,0,3
+77,10,6,0,9
+76,12,4,0,3
+141,15,6,0,20
+111,10,3,1,4
+; 2 -> 1
+73,13,5,0,4
+51,4,3,1,10
+48,6,11,0,9
+34,6,0,0,2
+67,4,8,0,10
+65,6,9,0,3
+66,9,9,0,2
+45,9,6,0,3
+80,14,5,0,7
+124,6,2,0,16
+147,7,3,0,12
+131,13,2,0,11

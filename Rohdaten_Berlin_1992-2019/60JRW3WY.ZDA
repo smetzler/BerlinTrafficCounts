@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025628
+datum=19.3.1992
+kurzken=Q 2562.8/92-F
+bez=Lichtenberger Straße nördlich Singerstraße    ( Berlin 1017-Frdh )
+arm1=Ost,580,0100
+arm2=West,2380,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+11 1 
+6 14 
+20 4 
+17 0 
+11 0 
+16 4 
+15 2 
+15 0 
+10 0 
+11 3 
+15 0 
+13 0 
+; 2 -> 1
+6 3 
+5 1 
+20 2 
+13 0 
+26 0 
+10 3 
+17 1 
+15 1 
+12 3 
+17 1 
+16 2 
+14 0 

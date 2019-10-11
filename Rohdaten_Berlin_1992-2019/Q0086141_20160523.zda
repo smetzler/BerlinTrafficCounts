@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 86141
+datum=23.05.2016
+kurzken=Q 86141/16
+bez=Nicolaistraße (nördl. Siemensstraße)   (Lankwitz, 12247)
+arm1=Nicolaistraße (N),230,0000
+arm2=Siemensstraße (W),1100,0001
+arm3=Nicolaistraße (S),2020,0000
+arm4=Siemensstraße (O),2980,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+6	2
+20	0
+22	0
+4	0
+5	0
+21	0
+9	2
+11	0
+15	0
+18	2
+19	0
+32	3
+; 4 -> 2
+5	1
+10	1
+4	0
+3	0
+2	0
+15	1
+8	2
+7	1
+26	5
+15	0
+18	2
+24	4

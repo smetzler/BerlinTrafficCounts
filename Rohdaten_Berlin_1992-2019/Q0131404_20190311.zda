@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 131404
+datum=11.03.2019
+kurzken=Q 131404/19
+bez=Britzer Straße (östl. Rotkopfweg) (Tempelhof, 12347) 
+arm1=Rotkopfweg,800,0100
+arm2=Hochkönigweg,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+272	11	7	1	15
+316	13	8	2	5
+313	16	11	2	6
+446	24	6	4	2
+397	18	5	0	3
+356	10	7	4	5
+381	13	7	1	4
+492	12	8	2	3
+602	7	7	5	10
+604	4	8	2	4
+538	10	9	6	9
+455	1	8	4	10
+; 2 -> 1
+626	13	6	6	12
+592	17	9	3	13
+441	18	7	3	5
+312	22	6	4	4
+358	14	9	3	4
+310	14	8	4	1
+339	4	6	0	2
+352	7	6	3	2
+462	5	8	4	6
+424	0	4	2	10
+420	1	6	3	13
+385	2	7	4	11

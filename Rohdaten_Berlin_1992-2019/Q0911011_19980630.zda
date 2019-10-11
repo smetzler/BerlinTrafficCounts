@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911011
+datum=30.06.1998
+kurzken=Q 0911011/98
+bez=Hauptstraße (nördl. Martin-Luther-Straße)   (Schöneberg, 10827)
+arm1=Martin-Luther--Straße,1500,0100
+arm2=Dominicusstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1131	55	20	44
+1205	44	16	43
+921	52	15	33
+961	73	15	28
+916	55	15	34
+940	62	14	33
+917	40	15	22
+951	35	17	24
+1038	24	19	55
+1077	28	18	37
+1043	19	20	35
+968	15	16	46
+; 2 -> 1
+878	56	15	30
+979	68	17	31
+995	62	17	42
+974	51	13	44
+965	60	15	31
+1115	72	17	37
+976	63	12	35
+867	71	18	23
+1124	74	22	36
+1248	51	24	39
+1130	22	19	31
+1210	17	23	47

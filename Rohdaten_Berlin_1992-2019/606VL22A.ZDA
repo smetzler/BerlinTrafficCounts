@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08913
+datum=19.06.1986
+kurzken=Q 8913/86
+bez=Kottbusser Strasse  suedl. Kottbusser Tor   ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+37 10 39 12 49 9 67 8 55 10 43 19 70 15 
+48 5 92 18 76 13 91 21 55 13 
+; 2 -> 1
+23 8 24 2 46 10 69 6 73 9 82 13 49 22 
+60 13 83 27 96 23 113 18 79 9 

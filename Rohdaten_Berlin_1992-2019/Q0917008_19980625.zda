@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917008
+datum=25.06.1998
+kurzken=Q 0917008/98
+bez=Alt-Friedrichsfelde (östl. Gensinger Straße)   (Friedrichsfelde, 10315)
+arm1=Gensinger Straße,850,0100
+arm2=Märkische Allee,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Einengung auf 2 Spuren je Richtung ! Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1904	165	12	31
+1757	149	14	18
+1668	141	12	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2603	101	12	71
+2587	79	6	72
+2451	70	9	60
+; 2 -> 1
+2945	140	17	45
+2246	133	19	20
+2097	139	18	29
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2392	113	12	47
+2523	89	24	53
+2140	61	26	39

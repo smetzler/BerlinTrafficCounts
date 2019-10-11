@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40949
+datum=5.3.1991
+kurzken=Q 4094.9/91-F
+bez=Egon-Erwin-Kisch-Strasse in Hoehe S-Bahnhof Wartenberg  (Bln.-Hohenschoenh.)
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+234 23 24 
+152 7 19 
+177 15 36 
+212 10 119 
+158 10 47 
+168 7 25 
+151 18 27 
+160 16 51 
+232 109 34 
+236 68 57 
+194 31 54 
+86 4 10 
+; 2 -> 1
+88 11 9 
+90 11 5 
+94 34 35 
+135 19 65 
+190 13 14 
+148 13 9 
+125 29 47 
+216 43 37 
+345 43 40 
+402 42 64 
+336 41 76 
+180 17 36 

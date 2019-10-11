@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 87148
+datum=24.04.1990
+kurzken=Q 87148/90
+bez=Lichterfelder Ring oestl. Achenseeweg    ( Berlin 45 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+0 3 2 3 0 0 2 0 0 0 0 0 1 0 
+0 0 2 0 0 0 0 0 4 0 
+; 2 -> 1
+0 0 0 0 0 0 0 0 0 4 0 6 0 0 
+0 0 1 4 2 0 1 3 0 0 

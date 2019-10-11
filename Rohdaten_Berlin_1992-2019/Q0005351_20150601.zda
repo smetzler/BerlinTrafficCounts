@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5351
+datum=01.06.2015
+kurzken=Q 5351/15
+bez=Fürstenbrunner Weg (nördl. Spandauer Damm)   (Westend, 14059)
+arm1=Fürstenbrunner Weg,50,0000
+arm2=Spandauer Damm (W),950,0001
+arm3=Königin-Elisabeth-Straße,1850,0000
+arm4=Spandauer Damm (O),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=0 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+58	0
+50	8
+51	5
+58	7
+74	5
+97	8
+76	6
+120	17
+162	8
+115	0
+97	7
+85	8
+; 4 -> 2
+106	9
+75	5
+85	11
+58	2
+58	13
+54	7
+65	8
+54	6
+63	8
+55	7
+57	6
+55	8

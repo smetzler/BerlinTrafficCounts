@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 059007
+datum=19.09.2018
+kurzken=Q 059007/18
+bez=Machnower Straße (Landesgrenze)   (Zehlendorf, 14165)
+arm1=Machnower Busch,1400,0100
+arm2=Sachtlebenstraße,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+561	18	4	19	177
+468	14	6	9	87
+331	17	2	11	57
+248	16	2	10	104
+262	18	2	6	36
+257	15	3	9	31
+340	22	3	5	65
+326	16	3	10	72
+402	18	5	13	66
+462	12	4	12	62
+430	10	3	21	81
+312	7	3	19	42
+; 2 -> 1
+240	11	6	1	59
+299	10	3	12	30
+252	23	3	5	29
+262	24	2	4	42
+241	14	3	5	53
+231	13	4	6	49
+533	16	4	19	76
+410	17	3	20	77
+514	18	6	21	81
+552	18	4	20	108
+502	14	4	21	79
+421	5	3	17	39

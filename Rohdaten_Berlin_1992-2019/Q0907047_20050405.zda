@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907047
+datum=05.04.2005
+kurzken=Q 0907047/05
+bez=Kurt-Schumacher-Damm (nördl. Jakob-Kaiser-Platz)   (Charlottenburg, 13627)
+arm1=Heckerdamm,50,0100
+arm2=Jakob-Kaiser-Platz,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Bauarbeiten Tegeler Weg südl. J.-Kaiser-Pl.: in beiden Richtungen Fahrbahn von 3 auf 2 Fahrstreifen reduziert!\nZählzeitraum: 13-19 Uhr! Durchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+673	43	23	17	16
+734	9	17	10	5
+1122	19	30	14	15
+1374	23	26	24	11
+1267	7	38	17	19
+742	4	32	13	13
+; 2 -> 1
+879	29	29	13	23
+1028	30	32	34	12
+1288	17	27	32	7
+1374	19	30	32	14
+1299	9	27	18	19
+1090	4	36	16	18

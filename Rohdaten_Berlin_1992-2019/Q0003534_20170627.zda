@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3534
+datum=27.06.2017
+kurzken=Q 3534/17
+bez=Fennstraße (östl. Tegeler Straße)    (Wedding, 13353)
+arm1=Tegeler Straße,410,0010
+arm2=Fennstraße (W),1280,0000
+arm3=(Park),2210,1000
+arm4=Fennstraße (O),3080,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+10	3
+8	2
+4	2
+8	0
+6	2
+16	0
+22	0
+12	0
+14	1
+24	2
+46	4
+37	2
+; 3 -> 1
+14	2
+18	7
+8	0
+18	0
+4	0
+11	0
+20	0
+21	1
+22	0
+14	0
+24	2
+31	4

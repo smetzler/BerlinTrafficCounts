@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 52095
+datum=20.03.1990
+kurzken=Q 52095/90
+bez=Afrikanische Strasse noerdl. Otawistrasse    ( Berlin 65 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+4 3 5 3 1 3 8 1 4 3 0 1 
+; 2 -> 1
+1 3 1 5 2 4 5 1 4 5 0 4 

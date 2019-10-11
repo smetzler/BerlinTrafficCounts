@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25916
+datum=19.8.1992
+kurzken=Q 2591.6/92-F
+bez=Alt-Köpenick südlich Lindenstraße    ( Berlin 1170-Köpenick )
+arm1=Ost,450,0100
+arm2=West,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+2 1 
+6 0 
+8 3 
+10 1 
+9 1 
+26 1 
+4 0 
+1 0 
+6 2 
+9 6 
+4 2 
+2 0 
+; 2 -> 1
+3 21 
+1 0 
+12 1 
+8 0 
+9 0 
+12 1 
+2 0 
+0 0 
+15 2 
+3 1 
+6 0 
+1 0 

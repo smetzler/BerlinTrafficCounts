@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28342
+datum=24.04.2007
+kurzken=Q 28342/07
+bez=Jessnerstraße (südl. Frankfurter Allee)  (Friedrichshain, 10247)
+arm1=Frankfurter Allee,800,0010
+arm2=Jessnerstraße,1650,0000
+arm3=Frankfurter Allee,2600,1000
+arm4=Pettenkofer Straße,3550,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22 °C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+97	24
+104	9
+155	17
+151	14
+148	8
+148	3
+149	35
+137	15
+165	13
+185	29
+220	19
+179	18
+; 3 -> 1
+32	3
+31	2
+63	1
+75	1
+110	4
+111	12
+120	17
+106	18
+151	20
+145	13
+125	6
+119	12

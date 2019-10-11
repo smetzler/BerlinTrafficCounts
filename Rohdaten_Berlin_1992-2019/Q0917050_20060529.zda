@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0917050
+datum=29.05.2006
+kurzken=Q 0917050/06
+bez=Groß-Leege-Str.-Verlängerung (südl. Sandinostraße)   (Lichtenberg, 10355)
+arm1=Sandinostraße,0,0100
+arm2=Landsberger Allee,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+6
+7
+12
+9
+15
+10
+12
+17
+10
+17
+21
+11
+; 2 -> 1
+20
+11
+6
+14
+6
+12
+5
+14
+10
+19
+14
+21

@@ -1,0 +1,71 @@
+[ZA1001]
+knoten=K 2708
+datum=22.05.2019
+kurzken=K 2708/19
+bez=AK Wilmersdorf (Wilmersdorf, 10707) 
+arm1=BAB Stadtring (AS Hohenzollernd.),450,0100
+arm2=BAB A104 (AS Mecklenburg. Straße),1800,1000
+arm3=BAB Stadtring (AS Detmolder Straße),2450,0001
+arm4=A104 (AS Konstanzer Straße),3500,0010
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+4>3 durch Bäume zu schlecht einsehbar
+data=
+; 1 -> 2
+649	24	3	6	0
+805	20	3	2	0
+753	23	2	2	0
+650	24	0	2	0
+746	55	4	5	0
+654	50	0	4	0
+726	16	1	4	0
+821	21	2	5	0
+793	18	0	8	0
+844	15	1	2	0
+902	9	0	6	0
+1017	14	2	1	0
+; 2 -> 1
+628	47	0	0	0
+573	39	2	2	0
+595	40	0	3	0
+740	76	0	4	0
+690	51	0	5	0
+492	34	0	2	0
+534	31	1	4	0
+593	33	0	3	0
+449	23	1	2	0
+854	36	0	2	0
+471	14	2	0	0
+383	12	0	1	0
+; 3 -> 4
+780	8	6	8	0
+1200	28	7	11	0
+1043	14	15	3	0
+750	20	20	2	0
+921	19	9	0	0
+814	16	7	10	0
+857	38	0	5	0
+927	31	2	5	0
+1053	26	1	10	0
+1052	22	2	2	0
+1081	12	1	13	0
+781	6	9	15	0
+; 4 -> 3
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0

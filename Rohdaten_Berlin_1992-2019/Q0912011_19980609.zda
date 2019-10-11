@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912011
+datum=09.06.1998
+kurzken=Q 0912011/98
+bez=Gallwitzallee (nördl. Dessauer Straße)   (Lankwitz, 12249)
+arm1=Am Gemeindepark,50,0100
+arm2=Dessauer Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+247	11	14	20
+263	10	9	11
+257	16	9	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+459	7	10	24
+504	6	9	30
+496	3	9	32
+; 2 -> 1
+606	11	11	21
+521	12	11	13
+450	8	9	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+378	4	9	24
+439	2	9	22
+323	4	9	24

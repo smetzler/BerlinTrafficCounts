@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6518014
+datum=16.11.2005
+kurzken=Q 6518014/05
+bez=Greifswalder Straße (nördl. Grellstraße)   (Prenzlauer Berg, 10407)
+arm1=Grellstraße,600,0010
+arm2=Greifswalder Straße,1450,0000
+arm3=Storkower Straße,2350,1000
+arm4=Greifswalder Straße,3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=5\,5°C; Sonne=0 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+81	12
+74	2
+92	1
+97	12
+93	2
+103	3
+93	5
+87	14
+117	6
+119	7
+91	13
+96	6
+; 3 -> 1
+69	30
+28	2
+55	1
+62	0
+93	1
+63	0
+62	17
+52	8
+94	11
+108	9
+131	12
+191	2

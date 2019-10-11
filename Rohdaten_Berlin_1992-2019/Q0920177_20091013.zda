@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920177
+datum=13.10.2009
+kurzken=Q 0920177/09
+bez=Frohnauer Straße (Höhe Nr. 112-122, Friedhof)   (Frohnau, 13465)
+arm1=Kammgasse,500,0100
+arm2=Falkenthaler Steig,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+636	2	7	5	42
+535	6	6	4	10
+407	5	6	10	25
+272	2	6	0	6
+277	4	5	1	12
+259	6	6	1	1
+279	4	6	2	10
+298	2	6	2	4
+333	10	6	1	14
+281	2	5	2	7
+276	2	5	5	7
+278	0	6	7	7
+; 2 -> 1
+189	8	5	4	2
+240	15	7	5	10
+206	6	6	0	6
+262	6	6	4	6
+257	10	6	0	9
+252	8	6	2	11
+348	2	7	2	7
+346	2	8	2	6
+432	3	6	5	24
+439	0	7	5	5
+443	0	6	10	4
+375	0	6	3	6

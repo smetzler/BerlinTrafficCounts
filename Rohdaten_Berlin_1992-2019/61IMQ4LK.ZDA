@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 70802
+datum=09.05.1994
+kurzken=Q 70802/94
+bez=Alt-Köpenick / südl. Laurenzstraße (Köpenick) 
+arm1=Grünstraße,1700,0000
+arm2=Laurenzstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 2 -> 1
+652,51,0,11,23
+625,73,0,6,10
+772,56,2,10,7
+743,78,0,2,13
+669,78,0,11,21
+542,65,0,4,11
+692,79,0,5,27
+786,70,0,14,38
+815,65,0,13,49
+805,38,0,11,39
+807,19,5,21,32
+895,28,0,15,24

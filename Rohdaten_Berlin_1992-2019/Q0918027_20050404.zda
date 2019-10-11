@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0918027
+datum=04.04.2005
+kurzken=Q 0918027/05
+bez=Heinersdorfer Straße (südl. Blankenburger Pflasterweg)  (Heinersdorf, 13129)
+arm1=Rotkehlchenweg,1600,0100
+arm2=Blankenburger Pflasterweg,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+323	30	6	5	20
+340	28	5	14	12
+423	20	6	14	23
+406	31	3	9	16
+408	7	3	7	18
+388	11	3	11	23
+; 2 -> 1
+361	32	5	9	18
+360	22	8	14	15
+414	21	6	18	22
+430	13	7	13	31
+474	8	5	10	22
+368	8	4	13	33

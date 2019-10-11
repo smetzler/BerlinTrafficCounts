@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08892
+datum=19.06.1986
+kurzken=Q 8892/86
+bez=Admiralstrasse  suedl. Skalitzer Strasse   ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+69 12 73 2 116 12 133 19 132 31 140 16 138 33 
+111 23 194 30 202 26 172 28 59 6 
+; 2 -> 1
+52 15 49 13 90 13 120 20 135 25 147 17 113 42 
+99 21 164 25 173 26 140 29 93 19 

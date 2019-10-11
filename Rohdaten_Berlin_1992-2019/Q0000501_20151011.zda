@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00501
+datum=11.10.2015
+kurzken=Q 00501/15
+bez=A100 - Stadtring - Zu- und Abfahrt Britzer Damm   (Neukölln, 12051)
+arm1=AD Tempelhof,950,0100
+arm2=AS Britzer Damm,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Unfall A100 zw. Alboinstr. u. T'damm
+data=
+; 1 -> 2
+287	0	0	1	2
+103	0	0	0	2
+108	0	1	0	2
+; 2 -> 1
+364	0	0	0	5
+332	0	0	0	4
+305	1	0	0	4

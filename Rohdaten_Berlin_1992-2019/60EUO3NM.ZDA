@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 19248
+datum=3.6.1991
+kurzken=Q 1924.8/91-F
+bez=Barnetstrasse oestlich Wuensdorfer Strasse    ( Berlin 49 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schuel,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+3 0 0 
+2 1 0 
+1 0 0 
+1 0 0 
+1 0 0 
+0 2 0 
+0 0 0 
+3 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+1 0 0 
+; 2 -> 1
+5 0 0 
+0 0 0 
+1 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+3 4 0 
+1 0 0 
+0 1 0 
+3 6 0 
+1 0 0 
+2 0 0 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00311
+datum=21.04.2015
+kurzken=Q 00311/15
+bez=A100 - Stadtring (AS Beusselstraße, westl. Beusselstr.)   (Moabit, 10553)
+arm1=AD Charlottenburg,1000,0100
+arm2=Goerdeler-Damm Brücke,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Goerdeler-Damm-Brücke\, Nur die Zu- u. Abfahrt westl. der Brücke zählen.\nStadtatlas Seite 71\, Planquadrat 5c
+data=
+; 1 -> 2
+521	45	26	1	12
+808	59	36	1	14
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+366	29	22	3	8
+369	18	7	0	8
+373	23	9	0	7
+; 2 -> 1
+483	52	27	0	3
+457	51	31	2	6
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+494	25	21	1	18
+530	15	19	0	17
+551	11	12	2	14

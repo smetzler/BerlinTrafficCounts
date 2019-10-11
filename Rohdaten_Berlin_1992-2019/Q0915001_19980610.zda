@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915001
+datum=10.06.1998
+kurzken=Q 0915001/98
+bez=Baumschulenstraße (südl. Köpenicker Landstraße)   (Treptow, 12437)
+arm1=Scheiblerstraße,1500,0100
+arm2=Köpenicker Landstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+702	62	11	15
+611	71	7	16
+518	61	8	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+693	38	12	13
+765	27	11	13
+718	27	14	10
+; 2 -> 1
+688	52	14	24
+578	56	8	7
+560	64	7	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+631	29	14	25
+629	25	10	21
+565	20	13	6

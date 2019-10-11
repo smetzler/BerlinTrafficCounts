@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00941
+datum=09.10.2015
+kurzken=Q 00941/15
+bez=A113 - (AS Stubenrauchstraße, Zu-Abf. südwestl. BAB)   (Treptow, 12487)
+arm1=A113 (AS Johannisthaler Ch.),500,0100
+arm2=Stubenrauchstraße (SW),1400,0010
+arm3=A113 (AS Adlershof),2300,0000
+arm4=Stubenrauchstraße (NO),3200,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zu- und Abfahrt getrennt zählen! Standort: H-Gladenbeck-Brücke\nCity-Atlas Seite 135\, Feld 3d
+data=
+; 1 -> 2
+833	17	5	2	10
+765	11	1	1	15
+657	6	2	0	6
+; 2 -> 3
+506	14	5	1	1
+466	7	1	0	1
+353	5	5	0	2

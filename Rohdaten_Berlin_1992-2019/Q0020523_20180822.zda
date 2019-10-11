@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20523
+datum=22.08.2018
+kurzken=K 20523/18
+bez=Kiehlufer (südöstl. Treptower Straße)    (Neukölln, 12059)
+arm1=Kiehlufer (NW),400,0000
+arm2=Treptower Straße (SW),1300,0001
+arm3=Kiehlufer (SO),2200,0000
+arm4=Treptower Straße (NO),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 2 -> 4
+18	11
+15	6
+12	2
+6	1
+19	2
+15	3
+22	15
+25	12
+27	8
+32	10
+17	6
+18	5
+; 4 -> 2
+10	11
+25	4
+13	3
+18	2
+18	2
+21	4
+33	9
+23	2
+18	10
+14	10
+11	4
+15	10

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2047
+datum=19.9.1991
+kurzken=Q 2047/91
+bez=BAB A 100
+arm1=2: von Ost,900,0100
+arm2=1: nach Ost,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1: Einfahrt v.Detmolder Str. nach A 100 (Richtung Süden)\nRichtung 2: Ausfahrt nach Detmolder Str. v. A 100
+data=
+; 1 -> 2
+158 10 11 0 
+179 10 26 0 
+224 8 22 1 
+163 16 17 0 
+182 21 29 0 
+178 15 19 1 
+179 15 17 2 
+217 12 20 1 
+301 14 15 1 
+281 17 9 0 
+296 14 6 0 
+242 2 1 0 
+; 2 -> 1
+274 11 14 2 
+358 14 16 1 
+366 22 17 5 
+227 34 30 0 
+149 14 24 0 
+132 20 25 0 
+212 25 26 1 
+216 25 27 4 
+224 17 10 1 
+209 8 3 0 
+306 12 8 1 
+296 4 4 2 

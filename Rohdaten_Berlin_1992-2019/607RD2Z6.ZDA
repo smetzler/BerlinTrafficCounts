@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10057
+datum=19.04.1989
+kurzken=Q 10057/89
+bez=Wiener Strasse oestl. Liegnitzer Strasse    ( Berlin 36 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: Regen !
+data=
+; 1 -> 2
+3 12 7 9 5 3 1 5 11 12 7 4 
+; 2 -> 1
+11 13 10 1 8 9 3 7 9 7 8 4 

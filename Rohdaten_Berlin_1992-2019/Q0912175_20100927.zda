@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912175
+datum=27.09.2010
+kurzken=Q 0912175/10
+bez=Mariannenstraße (nördl. Georgenstraße)   (Lichterfelde, 12209)
+arm1=Geraer Straße,200,0100
+arm2=Georgenstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+148	7	13	1	1
+178	3	8	0	3
+156	2	14	0	0
+162	10	12	0	4
+217	5	11	2	0
+185	5	14	2	3
+134	4	9	0	3
+185	5	11	2	6
+242	2	12	4	6
+220	0	12	1	7
+245	3	11	5	2
+245	1	12	2	1
+; 2 -> 1
+265	7	11	3	4
+284	6	13	3	2
+248	8	12	3	0
+166	6	12	0	0
+181	3	12	1	1
+143	5	12	1	0
+158	3	11	0	2
+170	5	12	0	4
+166	6	12	2	0
+186	2	11	0	3
+184	2	10	2	4
+131	0	14	3	0

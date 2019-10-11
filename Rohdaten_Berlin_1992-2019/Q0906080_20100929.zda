@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906080
+datum=29.09.2010
+kurzken=Q 0906080/10
+bez=Franz-Klühs-Straße (östl. Friedrichstraße)   (Kreuzberg, 10963)
+arm1=Friedrichstraße,950,0000
+arm2=Lindenstraße,2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Franz-Klühs-Str. östl. der Friedrichstr. (bis ca. 50m östl.) queren.\nWetter: max T=13°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+41	20
+83	53
+70	3
+85	1
+141	1
+56	31
+127	122
+99	131
+79	75
+116	97
+107	49
+79	78
+; 4 -> 3
+119	233
+135	63
+83	6
+145	33
+109	7
+112	34
+139	43
+137	26
+140	37
+88	16
+59	15
+64	19

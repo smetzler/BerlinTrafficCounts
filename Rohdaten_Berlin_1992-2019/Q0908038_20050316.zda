@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908038
+datum=16.03.2005
+kurzken=Q 0908038/05
+bez=Streitstraße (nördl. Hohenzollernring)   (Spandau, 13587)
+arm1=Hohenzollernring,1750,0100
+arm2=Wegscheider straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+449	40	15	7	12
+507	41	11	4	18
+481	41	12	7	26
+583	47	14	14	26
+611	43	12	18	31
+571	36	12	14	24
+; 2 -> 1
+710	45	19	16	28
+677	39	13	8	26
+476	58	12	10	34
+609	42	18	20	20
+561	48	14	19	32
+567	41	11	18	21

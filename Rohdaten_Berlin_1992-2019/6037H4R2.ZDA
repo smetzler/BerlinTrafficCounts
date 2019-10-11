@@ -1,0 +1,30 @@
+[ZA1001]
+knoten=Q 4157
+datum=15.11.1994
+kurzken=Q 4157/94.5
+bez=Mariendorfer Damm (südl. Pilatusweg)       (Mariendorf, 12107)
+arm1=Pilatusweg (Nord),200,0100
+arm2=Titlisweg (Süd),2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+1139 155 24 8 6
+1279 156 21 3 10
+1209 160 15 4 23
+1278 148 16 5 7
+1263 124 15 8 20
+1392 132 16 8 15
+; 2 -> 1
+2122 140 28 11 20
+1666 137 21 10 24
+1488 172 16 10 19
+1726 188 16 10 16
+1396 180 20 14 24
+1274 133 16 13 17

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2193
+datum=02.03.2015
+kurzken=Q 2193/15
+bez=Falkenseer Chaussee (östl. Westerwaldstraße)   (Spandau, 13583)
+arm1=Falkenseer Chaussee (W),730,0000
+arm2=Siegener Straße,1700,0001
+arm3=Falkenseer Chaussee (O),2530,0000
+arm4=Westerwaldstraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+73	36
+101	24
+71	7
+60	6
+79	5
+54	5
+45	15
+41	14
+52	24
+69	40
+70	27
+35	9
+; 4 -> 2
+33	28
+40	19
+41	6
+36	3
+50	5
+47	6
+68	12
+85	31
+92	31
+116	62
+81	23
+57	11

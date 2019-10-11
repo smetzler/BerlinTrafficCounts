@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0041001
+datum=04.03.2019
+kurzken=Q 0041001/19
+bez=Marzahner Chaussee (nördl. Gensinger Straße) (Lichtenberg, 12681) 
+arm1=Reiler Straße,3300,0100
+arm2=Gensinger Straße,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+358	5	4	1	21
+281	6	4	2	9
+252	15	3	0	5
+288	6	6	4	8
+227	7	2	1	2
+258	8	4	0	3
+274	8	5	1	7
+310	6	5	2	6
+329	10	4	1	10
+332	4	4	2	16
+273	3	2	1	4
+182	2	2	0	2
+; 2 -> 1
+393	7	3	2	14
+271	8	3	1	11
+280	11	3	0	4
+292	18	4	2	8
+274	13	3	0	2
+293	10	2	0	4
+307	11	4	0	5
+348	10	6	2	4
+452	6	5	3	9
+536	4	4	6	6
+482	3	2	1	4
+289	1	2	1	7

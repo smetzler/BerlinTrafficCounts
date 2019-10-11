@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020703
+datum=19.09.1994
+kurzken=Q 020703/94
+bez=Chaussestraße (südl. Liesenstraße) (Wedding, 10115)
+arm1=Liesenstraße,400,0100
+arm2=Wöhlertstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten: Chausseestr. - Friedrichstraße zwischen Invalidenstr. und Oranienburger Str. gesperrt.\nDurchführung der Erhebungen: \n - büro für   81
+data=
+; 1 -> 2
+648,87,28,1,24
+568,112,40,1,23
+469,90,58,1,25
+372,71,61,2,16
+393,69,49,2,22
+418,87,59,1,18
+366,39,70,2,25
+425,27,67,3,22
+482,25,40,6,24
+514,36,37,1,40
+521,26,22,2,40
+505,28,19,1,20
+; 2 -> 1
+415,28,23,2,12
+389,37,31,2,19
+361,34,45,1,17
+377,46,59,1,13
+381,44,54,3,13
+357,51,57,0,18
+364,22,60,1,9
+307,15,45,2,17
+371,31,44,0,18
+419,29,31,0,14
+441,15,12,1,10
+414,8,11,0,23

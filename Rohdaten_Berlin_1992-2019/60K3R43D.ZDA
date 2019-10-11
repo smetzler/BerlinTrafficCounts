@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26055
+datum=26.10.1992
+kurzken=Q 2605.5/92-F
+bez=Straße n.Fichtenau nördlich Fürstenwalder Damm   (Bln.1165-Köpenick)
+arm1=Ost,50,0100
+arm2=West,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+29 
+12 
+7 
+11 
+5 
+8 
+27 
+22 
+11 
+15 
+5 
+3 
+; 2 -> 1
+7 
+10 
+7 
+13 
+9 
+7 
+17 
+22 
+27 
+12 
+18 
+9 

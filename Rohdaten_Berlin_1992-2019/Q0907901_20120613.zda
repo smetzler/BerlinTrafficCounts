@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907901
+datum=13.06.2012
+kurzken=Q 0907901/12
+bez=Joachimstaler Straße (nördl. Lietzenburger Straße) (Charlottenburg, 10623)
+arm1=Lietzenburger Straße,1750,0100
+arm2=Augsburger Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=21°C max T; 2 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+91
+159
+75
+34
+54
+59
+76
+78
+79
+78
+104
+77
+; 2 -> 1
+13
+28
+6
+8
+14
+8
+50
+60
+63
+74
+129
+109

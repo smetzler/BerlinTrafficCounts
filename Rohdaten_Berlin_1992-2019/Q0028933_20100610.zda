@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28933
+datum=10.06.2010
+kurzken=Q 28933/10
+bez=Passenheimer Straße (südl. Dickensweg)   (Westend, 14053)
+arm1=Passenheimer Straße (N),100,0000
+arm2=Dickensweg (W),900,0001
+arm3=Passenheimer Straße (S),1900,0000
+arm4=Dickensweg (O),2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=31°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	17
+8	0
+1	1
+0	0
+9	0
+1	0
+2	0
+9	0
+5	0
+6	0
+2	0
+0	0
+; 4 -> 2
+0	1
+2	0
+10	0
+1	0
+1	0
+3	0
+5	1
+8	4
+3	0
+5	3
+5	0
+1	0

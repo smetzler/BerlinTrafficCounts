@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901122
+datum=22.10.2012
+kurzken=Q 0901122/12
+bez=Neue Schönhauser Straße (zw. Nr. 18 u. Nr. 19)   (Mitte, 10178)
+arm1=Rosenthaler Straße,900,0000
+arm2=Weinmeisterstraße,2800,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle auf dem Gehweg im Bereich Nr. 14 - Nr. 16\, deshalb erhöhtes Fußg.-Querungs- Aufkommen\nFußg. (Erw.\, Jugend)\, die die Neue Schönhauser Str. im Bereich der Nr. 18 u. 19) queren.\nWetter: max T=13°C; Sonne=0 Std; Niederschlag=0 mm\n
+data=
+; 3 -> 4
+11	3
+20	1
+32	1
+48	4
+54	2
+227	7
+330	6
+286	7
+223	6
+225	9
+249	2
+192	5
+; 4 -> 3
+16	2
+19	1
+42	0
+44	2
+59	3
+181	8
+370	8
+184	3
+144	4
+133	2
+97	2
+91	0

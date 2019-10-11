@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907114
+datum=24.09.2007
+kurzken=Q 0907114/07
+bez=Friedrich-Olbricht-Damm (Höhe JVA Nr. 16-17)   (Charlottenburg, 13627)
+arm1=Schwanenfeldstraße,600,0000
+arm2=Goerdeler-Damm-Brücke,2400,0000
+arm3=JVA (südl. Straßenseite),1500,0001
+arm4=JVA (nördl. Straßenseite),3300,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den F.-Olbricht-D. in Höhe der JVA (Nr. 16-17) queren!\nWetter: max T=24°C; Sonne=11 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+7	0
+7	1
+17	0
+2	0
+11	0
+14	0
+7	0
+1	0
+6	0
+1	0
+5	0
+2	0
+; 4 -> 3
+5	0
+7	0
+8	0
+18	0
+4	0
+21	0
+7	0
+30	0
+8	0
+20	0
+9	0
+3	0

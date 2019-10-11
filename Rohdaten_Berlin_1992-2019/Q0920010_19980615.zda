@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920010
+datum=15.06.1998
+kurzken=Q 0920010/98
+bez=Waidmannsluster Damm (westl. Ziekowstraße)   (Tegel, 13509)
+arm1=BAB A111,1000,0100
+arm2=Ziekowstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+705	24	2	20
+648	41	0	12
+628	42	0	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+814	26	1	36
+874	14	2	38
+866	7	1	38
+; 2 -> 1
+877	35	0	24
+811	39	1	15
+719	45	2	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+706	37	7	25
+727	23	7	30
+699	5	0	22

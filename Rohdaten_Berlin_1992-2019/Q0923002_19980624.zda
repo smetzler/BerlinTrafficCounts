@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0923002
+datum=24.06.1998
+kurzken=Q 0923002/98
+bez=Chemnitzer Straße (nördl. Lindenstraße)   (Kaulsdorf, 12621)
+arm1=Lindenstraße,1650,0100
+arm2=Ulmenstraße,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+276	8	14	1
+280	28	15	0
+261	28	9	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+384	26	14	3
+572	21	20	6
+512	18	15	4
+; 2 -> 1
+435	34	15	6
+436	32	10	1
+319	31	9	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+317	18	14	1
+360	8	14	2
+350	6	16	7

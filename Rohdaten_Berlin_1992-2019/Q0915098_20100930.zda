@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0915098
+datum=30.09.2010
+kurzken=Q 0915098/10
+bez=BAB A113 - AS Späthstraße (nördl. Neue Späthstraße)   (Treptow, 12437)
+arm1=BAB A113,250,0100
+arm2=Neue Späthstraße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Lkw,G-Lkw
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lkw = alle Lkw (außer G-Lkw) - G-Lkw = Gefahrgut-Lkw \nNur die nördl. Zu.-Abfahrrt wurden erhoben\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+30	0
+23	0
+52	0
+27	0
+; 2 -> 1
+15	0
+18	0
+33	0
+19	0

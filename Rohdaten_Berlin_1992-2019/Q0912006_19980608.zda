@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912006
+datum=08.06.1998
+kurzken=Q 0912006/98
+bez=Schloßstraße (nördl. Schildhornstraße)   (Steglitz, 12157)
+arm1=Schildhornstraße,1500,0100
+arm2=Treitschkestraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+733	29	19	36
+869	36	18	41
+853	41	19	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1032	20	23	68
+1191	13	26	92
+1089	12	24	71
+; 2 -> 1
+615	25	18	23
+654	35	23	32
+688	40	18	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+726	24	21	66
+825	17	21	76
+781	4	26	84

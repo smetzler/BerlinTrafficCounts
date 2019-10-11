@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 70706
+datum=01.06.1994
+kurzken=Q 70706/94
+bez=Freiheit (östl. Kirchstraße) (Köpenick, 12559) 
+arm1=Kirchstraße,900,0000
+arm2=Lüdersstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 2 -> 1
+987,51,2,21,34
+854,42,1,15,23
+811,54,0,7,20
+830,44,0,8,16
+805,46,1,6,14
+873,38,0,5,17
+613,49,0,6,5
+710,58,0,11,13
+746,34,0,15,16
+826,21,0,11,18
+712,25,6,10,7
+651,21,2,11,7

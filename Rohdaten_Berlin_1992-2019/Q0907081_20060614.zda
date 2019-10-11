@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907081
+datum=14.06.2006
+kurzken=Q 0907081/06
+bez=Harbigstraße (südwestl. Waldschulallee)   (Eichkamp, 14055)
+arm1=Maikäferpfad,1400,0000
+arm2=Waldschulallee,3200,0000
+arm3=((Nordwesten)),500,0001
+arm4=((Südosten)),2300,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger die im Bereich südwestl. der Waldschulall. (Schulbushaltestellen) die Habigstr. überqueren!\nWetter: max T=32°C; Sonne=15 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+7	27
+10	9
+11	2
+9	1
+14	11
+3	6
+1	11
+3	9
+2	54
+2	0
+2	0
+5	1
+; 4 -> 3
+8	52
+19	7
+3	1
+3	1
+4	23
+4	30
+0	12
+0	0
+6	4
+3	1
+0	0
+8	3

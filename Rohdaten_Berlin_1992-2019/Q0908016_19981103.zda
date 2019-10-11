@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908016
+datum=03.11.1998
+kurzken=Q 0908016/98
+bez=Freiheit (westl. Klärwerkstraße)   (Haselhorst, 13597)
+arm1=Pichelswerder Staße,850,0100
+arm2=Klärwerkstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+435	57	4	5
+434	86	5	6
+342	74	6	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+404	31	5	17
+366	35	5	10
+426	23	6	7
+; 2 -> 1
+588	68	6	8
+487	94	5	9
+332	77	6	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+412	50	6	15
+371	31	5	11
+420	26	4	5

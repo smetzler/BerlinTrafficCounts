@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6518033
+datum=06.05.2013
+kurzken=Q 6518033/13
+bez=Michelangelostraße (östl. Greifswalder Straße)   (Prenzlauer Berg, 10409)
+arm1=Ostseestraße,600,0000
+arm2=Greifswalder Straße (S),1500,0001
+arm3=Michelangelostraße,2400,0000
+arm4=Greifswalder Straße (N),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+21	9
+36	4
+42	4
+57	1
+67	2
+45	0
+38	1
+39	5
+42	7
+59	13
+46	3
+40	7
+; 4 -> 2
+16	10
+33	0
+30	3
+46	1
+60	0
+28	1
+35	3
+44	1
+41	3
+27	6
+31	1
+26	1

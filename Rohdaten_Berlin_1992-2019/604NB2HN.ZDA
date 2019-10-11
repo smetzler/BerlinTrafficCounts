@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 06023
+datum=28.10.1987
+kurzken=Q 6023/87
+bez=Hofjaegerallee suedl. Grosser Stern     ( Berlin 30 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+2591 2209 1936 1734 1826 1857 2006 1929 2747 3124 2263 1842 
+; 2 -> 1
+2492 2094 1849 1746 1780 1812 2279 2209 2992 3308 2479 1929 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41050
+datum=6.8.1991
+kurzken=Q 4105.0/91-F
+bez=Ueberweg Ampel Marmorhaus     ( Berlin 30 )
+arm1=Breitscheidplatz,900,0100
+arm2=Marmorhaus,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Ueberweg liegt zwischen Kurfuerstendamm und Tauentzienstrasse !\nWetter: klar und trocken !
+data=
+; 1 -> 2
+241 
+288 
+449 
+564 
+707 
+952 
+1184 
+857 
+900 
+771 
+949 
+516 
+; 2 -> 1
+68 
+107 
+309 
+583 
+864 
+1166 
+1505 
+1233 
+1260 
+1337 
+1479 
+1155 

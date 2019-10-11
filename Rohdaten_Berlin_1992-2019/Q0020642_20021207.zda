@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20642
+datum=07.12.2002
+kurzken=Q 2064/02
+bez=B1/5 Alt-Mahlsdorf (westl. Stadtgrenze - li. Spur)   (Mahlsdorf, 12623)
+arm1=Landsberger Straße,800,0100
+arm2=Stadtgrenze,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+175	28	6	2	0	1
+291	25	4	4	0	0
+553	40	3	1	0	0
+711	47	4	0	0	0
+759	52	3	0	0	0
+; 2 -> 1
+163	31	4	2	0	0
+277	40	5	1	1	0
+523	45	5	1	2	0
+555	57	5	0	2	0
+672	99	9	1	1	0

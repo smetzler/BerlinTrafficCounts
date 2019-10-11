@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0514051
+datum=10.06.2003
+kurzken=Q 0514051/03
+bez=westliche Kanal-Promenade (Überquerung d. Wismarer Str.) (Steglitz, 12207)
+arm1=Goerzallee,450,0000
+arm2=Ostpreußendamm,2250,0000
+arm3=Teltowkanal-Promenade (Nord),3300,0001
+arm4=Teltowkanal-Promenade (Süd),1500,0010
+art=Fußg,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=27°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+12	17
+16	18
+7	20
+9	17
+5	15
+3	11
+10	13
+7	26
+7	21
+19	22
+10	16
+25	29
+; 4 -> 3
+6	10
+8	14
+4	12
+2	6
+3	15
+2	11
+4	9
+1	6
+0	14
+5	6
+10	16
+8	7

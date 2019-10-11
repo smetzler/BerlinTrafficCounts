@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920221
+datum=22.05.2012
+kurzken=Q 0920221/12
+bez=Alt-Tegel (Platzbereich der  Kirche Alt-Tegel)   (Tegel, 13507)
+arm1=Eisenhammerweg,950,0000
+arm2=Verzweigung Str. Alt-Tegel,2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Straße Alt-Tegel zwischen Eisenhammerstr. und der Verzweigung der Straße Alt-Tegel überqueren.\nWetter: max T=31°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+3	0
+10	2
+4	1
+12	0
+14	50
+18	1
+18	0
+20	8
+23	13
+26	4
+21	3
+8	0
+; 4 -> 3
+8	1
+11	3
+10	2
+16	44
+18	10
+19	0
+20	4
+13	6
+4	3
+12	1
+7	0
+4	0

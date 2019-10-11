@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0905019
+datum=23.08.2006
+kurzken=Q 0905019/06
+bez=Oberbaumbrücke (südl. Mühlenstraße)   (Friedrichshain, 10245)
+arm1=Schlesische Straße,1500,0100
+arm2=Mühlenstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+564	29	1	28	150
+621	24	2	15	192
+663	26	6	24	180
+718	32	2	22	156
+721	31	2	19	147
+716	39	0	20	149
+791	29	2	23	228
+810	35	2	25	203
+862	24	0	38	284
+896	18	2	32	290
+825	10	5	46	309
+795	6	5	32	399
+; 2 -> 1
+1002	20	1	36	185
+1070	30	0	32	313
+875	31	2	29	395
+746	32	4	20	196
+744	23	1	18	214
+648	28	2	18	167
+737	19	0	23	239
+700	21	2	30	201
+741	16	0	18	296
+759	14	3	44	247
+680	6	0	30	263
+658	10	1	25	281

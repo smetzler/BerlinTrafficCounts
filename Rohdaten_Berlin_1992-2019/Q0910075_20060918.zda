@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910075
+datum=18.09.2006
+kurzken=Q 0910075/06
+bez=Königsstraße (westl. Chausseestraße)   (Wannsee, 14109)
+arm1=Langen Stücken,1000,0100
+arm2=Chausseestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=27°C max T; 9 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+411	9	2	16	13
+456	12	2	12	12
+388	17	3	9	18
+306	23	2	7	19
+350	22	2	11	17
+344	24	5	8	23
+331	7	4	7	18
+415	13	4	13	33
+451	9	3	31	28
+529	5	3	29	37
+583	3	3	40	44
+540	4	2	32	42
+; 2 -> 1
+459	23	3	20	9
+643	18	2	11	21
+525	21	11	14	23
+496	16	3	9	24
+451	14	4	12	19
+453	24	4	8	31
+476	5	5	16	32
+485	11	3	15	33
+536	11	5	33	27
+585	9	1	26	35
+523	1	2	18	32
+454	1	1	23	34

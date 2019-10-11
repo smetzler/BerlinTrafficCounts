@@ -1,0 +1,30 @@
+[ZA1001]
+knoten=K 1288
+datum=23.10.1986
+kurzken=K 1288/86
+bez=Karl-Marx-Strasse / Werbellinstrasse - Ganghoferstrasse   ( Berlin 44 )
+Arm1=Karl-Marx-Strasse,450,0111
+Arm2=Werbellinstrasse,1040,0000
+Arm3=Karl-Marx-Strasse,1950,1001
+Arm4=Ganghoferstrasse,2840,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung !
+data=
+; 1 -> 2
+63 64 51 36 77 76 48 41 93 91 89 79 
+; 1 -> 3
+679 594 426 543 732 807 778 713 1056 1045 1119 1145 
+; 1 -> 4
+97 105 64 83 135 144 110 88 187 197 161 126 
+; 3 -> 1
+1657 1172 998 1123 1020 1010 1106 1307 1178 1229 1298 1163 
+; 3 -> 4
+89 101 127 148 165 151 157 146 169 221 187 133 
+; 4 -> 1
+130 142 169 232 135 114 148 137 142 135 166 164 
+; 4 -> 2
+147 111 84 80 105 118 117 121 124 126 114 143 
+; 4 -> 3
+51 59 97 118 113 106 128 97 147 124 98 129 

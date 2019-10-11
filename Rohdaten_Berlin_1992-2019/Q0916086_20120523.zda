@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916086
+datum=23.05.2012
+kurzken=Q 0916086/12
+bez=Alter Markt (Höhe Nr. 10)   (Köpenick, 12555)
+arm1=Lüdersstraße,150,0100
+arm2=Landjägerstraße,1950,1000
+arm3=,1050,0000
+arm4=,2850,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch Fußgänger (unterschieden nach "Erw" und "Jugend" gezählt!\nWetter: max T=31°C; Sonne=13 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+112	2	0	18	12	14
+121	1	0	17	16	2
+107	2	0	8	27	22
+60	2	0	14	36	22
+76	1	0	12	44	37
+73	1	0	19	36	2
+78	2	0	15	37	3
+76	2	0	26	36	0
+95	0	0	21	33	0
+64	0	0	30	20	4
+97	0	0	22	35	8
+89	0	0	26	34	5
+; 2 -> 1
+85	1	0	19	27	6
+76	1	0	21	56	1
+96	3	0	22	36	35
+102	0	0	26	30	42
+99	1	0	14	28	4
+95	3	0	16	49	5
+122	0	0	14	22	8
+138	2	0	29	32	5
+175	0	0	33	31	9
+224	0	0	58	34	18
+189	0	0	22	51	4
+182	1	0	32	37	5

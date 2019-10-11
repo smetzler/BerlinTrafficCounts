@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10122
+datum=25.08.2010
+kurzken=Q 10122/10
+bez=Kohlfurter Straße (westl. Kottbusser Straße)   (Kreuzberg, 10999)
+arm1=Kottbusser Straße,200,0010
+arm2=Kohlfurter Straße,750,0000
+arm3=Kottbusser Brücke,2000,1000
+arm4=Paul-Lincke-Ufer - Mariannenstr.,2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+87	61
+71	14
+75	15
+104	13
+106	12
+101	4
+174	11
+152	15
+187	16
+149	15
+174	28
+216	12
+; 3 -> 1
+22	5
+57	4
+90	5
+107	6
+128	14
+114	20
+184	23
+208	39
+182	20
+159	26
+176	24
+189	25

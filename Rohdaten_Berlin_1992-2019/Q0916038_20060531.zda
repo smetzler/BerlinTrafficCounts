@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916038
+datum=31.05.2006
+kurzken=Q 0916038/06
+bez=Bahnhofstraße (Höhe Elcknerplatz)   (Köpenick, 12555)
+arm1=Parrisiusstraße,1600,0000
+arm2=S-Bhf. Köpenick,3400,0000
+arm3=(Westen-Forum Köpenick),700,0001
+arm4=Elcknerplatz,2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die die Bahnhofstraße im Bereich des Elcknerplatzes queren!\nWetter: max T=16°C; Sonne=2\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+60	16
+83	23
+424	7
+462	2
+479	20
+456	15
+315	86
+404	88
+424	112
+393	124
+449	129
+359	115
+; 4 -> 3
+107	9
+144	3
+168	3
+575	18
+604	31
+572	29
+501	16
+602	16
+574	18
+720	40
+579	22
+497	17

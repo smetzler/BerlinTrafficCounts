@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-9193291
+datum=09.04.2019
+kurzken=Q-9193291/-2000
+bez=Schönerlinder Straße Straße 179 (Pankow, 13127)  über Arm1
+arm1=Schönerlinder Straße (W),100,0100
+arm2=Schönerlinder Straße (O),1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+2	1
+1	0
+3	0
+0	4
+2	0
+1	3
+3	0
+3	2
+5	0
+2	0
+0	4
+4	0
+; 2 -> 1
+1	0
+1	0
+1	0
+0	0
+4	0
+2	0
+3	1
+2	0
+3	3
+0	0
+1	0
+6	0

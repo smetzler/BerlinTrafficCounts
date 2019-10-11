@@ -1,0 +1,45 @@
+[ZA1001]
+knoten=Q 0907186
+datum=14.05.2019
+kurzken=Q 0907186/19
+bez=A111 (BAB-Zubr. HH) (Höhe Heckerdamm, ohne Zu-Abf.) (Charlottenburg, 13627) 
+arm1=AD Charlottenburg,1700,0100
+arm2=AS Flughafen Tegel,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Stau in beide Fahrtrichtungen von 13:30 - 15:30 Uhr!
+Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+3508	258	44	38	0
+3166	217	39	38	0
+3139	310	41	32	0
+2628	266	10	50	0
+2758	232	27	15	0
+3135	250	36	26	0
+2655	192	5	51	0
+2727	181	42	66	0
+2760	126	46	59	0
+2394	102	146	110	0
+2832	89	32	83	0
+2686	103	28	60	0
+; 2 -> 1
+3516	142	11	42	0
+2727	9795	3	29	0
+3379	194	7	20	0
+2436	208	8	2	0
+2869	215	5	37	0
+1956	211	7	8	0
+2177	163	8	37	0
+1189	109	3	19	0
+1958	36	2	36	0
+2690	72	8	46	0
+2803	69	13	50	0
+2576	77	11	31	0

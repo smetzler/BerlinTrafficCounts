@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 041003
+datum=27.05.2010
+kurzken=Q 041003/10
+bez=Alt-Friedrichsfelde (östl. Gensinger Straße) (Lichtenberg, 10315)
+arm1=Gensinger Straße ,900,0100
+arm2=Märkische Allee,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Behinderungen infolge Baustelle Alt-Biesdorf und Alt-Kaulsdorf
+data=
+; 1 -> 2
+1147	73	10	29	10
+1273	64	7	16	19
+1429	81	6	4	11
+1734	54	5	6	5
+1908	57	5	11	2
+1588	70	6	16	10
+1615	101	6	21	15
+1788	129	7	27	15
+2285	90	11	41	26
+2895	73	12	64	42
+2934	72	9	77	45
+2661	59	9	52	31
+2418	40	11	72	26
+; 2 -> 1
+2976	107	9	55	36
+3169	105	10	50	34
+2542	105	16	32	21
+1846	106	13	25	13
+1868	113	7	17	17
+1641	82	9	21	17
+1680	87	8	33	16
+1721	93	7	28	23
+1591	75	9	22	18
+1654	70	10	36	24
+1827	38	6	31	26
+1856	35	7	37	18
+1589	33	12	41	25

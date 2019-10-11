@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0911117
+datum=29.11.2018
+kurzken=Q 0911117/18
+bez=Wiesbadener Straße / Sodener Straße (14197 Friedenau)
+arm1=Wiesbadener Straße (w),820,0100
+arm2=Wiesbadener Straße,2620,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+108	1	6	1	14
+127	2	6	1	18
+153	2	6	2	12
+154	6	6	4	2
+179	3	6	1	45
+148	4	6	2	17
+185	3	5	3	12
+154	1	4	1	17
+261	0	5	4	16
+280	0	6	2	28
+208	0	6	2	27
+167	0	6	1	10
+; 2 -> 1
+127	3	5	1	20
+178	3	6	0	27
+167	2	6	0	28
+126	8	6	2	20
+179	4	4	2	15
+190	3	7	0	15
+193	6	4	0	21
+212	5	7	3	19
+238	4	6	3	32
+206	2	6	0	16
+201	1	7	2	9
+142	0	6	1	12

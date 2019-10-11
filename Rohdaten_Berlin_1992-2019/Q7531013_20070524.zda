@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7531013
+datum=24.05.2007
+kurzken=Q 7531013/07
+bez=Alt-Biesdorf (östl. Blumberger Damm)   (Biesdorf, 12683)
+arm1=Alt-Biesdorf,830,0000
+arm2=Köpenicker Straße,1800,0001
+arm3=Alt-Biesdorf,2380,0000
+arm4=Blumberger Damm,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=26°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+5	0
+4	0
+5	0
+2	0
+7	0
+5	0
+2	1
+6	1
+5	2
+9	0
+8	0
+; 4 -> 2
+2	0
+4	0
+5	0
+3	0
+5	0
+1	0
+1	0
+4	0
+5	0
+3	1
+3	2
+4	0

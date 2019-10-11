@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60325
+datum=02.10.1986
+kurzken=Q 60325/86
+bez=Goetzstrasse  westl. Felixstrasse   ( Berlin 42 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt, trocken
+data=
+; 1 -> 2
+4 87 5 28 13 7 17 1 15 5 13 1 14 2 
+12 1 12 1 13 2 15 3 11 0 
+; 2 -> 1
+3 3 6 2 13 3 16 0 10 17 21 64 13 56 
+9 9 13 4 4 0 11 1 10 0 

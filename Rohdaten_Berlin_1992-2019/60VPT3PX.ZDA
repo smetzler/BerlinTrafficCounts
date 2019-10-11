@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41105
+datum=22.8.1991
+kurzken=Q 4110.5/91-F
+bez=Unter den Linden zw. Friedrichstrasse und Charlottenstrasse     ( Mitte )
+arm1=Charlottenstraße,900,0100
+arm2=Friedrichstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussgaenger Mittelstreifen !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+8 
+13 
+22 
+24 
+66 
+61 
+81 
+76 
+62 
+36 
+26 
+28 
+; 2 -> 1
+41 
+9 
+47 
+24 
+54 
+38 
+89 
+47 
+42 
+19 
+17 
+14 

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 13162
+datum=25.11.1987
+kurzken=Q 13162/87
+bez=Suedwestkorso suedlich Wiesbadener Strasse     ( Berlin 33 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+442 420 406 432 369 410 435 395 596 536 612 461 
+; 2 -> 1
+401 423 408 364 338 389 405 344 431 451 460 372 

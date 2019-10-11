@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031209
+datum=26.09.2018
+kurzken=Q 031209/18
+bez=Schlesische Straße - Puschkinstraße (nördl. Am Flutgraben)   (Kreuzberg, 10997)
+arm1=Schleusenufer,500,0100
+arm2=Am Flutgraben,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+440	17	6	12	174
+432	21	8	18	214
+415	17	9	13	142
+500	20	8	16	88
+463	20	6	13	105
+427	13	9	29	98
+409	19	7	17	104
+462	17	6	17	121
+482	13	7	29	172
+628	18	6	32	218
+403	17	5	13	89
+417	7	6	16	186
+; 2 -> 1
+942	21	7	52	310
+781	22	5	46	465
+707	28	9	45	345
+564	20	8	10	178
+516	22	7	19	117
+341	20	8	21	92
+417	11	6	22	67
+403	14	6	14	89
+392	15	7	19	103
+472	14	6	24	168
+386	11	8	18	121
+391	9	5	13	134

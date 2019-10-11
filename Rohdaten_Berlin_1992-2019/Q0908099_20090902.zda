@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908099
+datum=02.09.2009
+kurzken=Q 0908099/09
+bez=Bäkestraße (westl. Teltowkanal, Höhe Tennisplätze)   (Lichterfelde, 12207)
+arm1=Hindenburgdamm,650,0100
+arm2=Teltowkanal,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+98	1	0	5	34
+107	2	0	3	16
+99	1	0	3	27
+118	0	0	8	24
+113	2	0	2	22
+118	2	0	5	27
+154	1	0	6	41
+156	1	0	11	77
+152	0	0	4	34
+232	0	0	11	48
+218	0	0	12	37
+168	0	0	7	23
+; 2 -> 1
+296	0	0	7	123
+280	1	0	5	26
+196	1	0	7	27
+158	0	0	10	20
+156	0	0	4	20
+170	0	0	5	16
+162	2	0	0	30
+119	0	0	11	18
+164	0	0	12	24
+169	1	0	5	39
+184	0	0	12	27
+206	0	0	4	34

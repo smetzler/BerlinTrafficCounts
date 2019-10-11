@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10693
+datum=04.11.2010
+kurzken=Q 10693/10
+bez=Helmstraße (östl. Hauptstraße)   (Schöneberg, 10323)
+arm1=,0,0000
+arm2=Hauptstraße (S),1500,0001
+arm3=Helmstraße,2350,0000
+arm4=Hauptstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=0 Std; Niederschlag=14 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+37	3
+45	3
+58	3
+59	3
+82	4
+96	1
+87	2
+116	5
+138	10
+130	15
+135	8
+98	17
+; 4 -> 2
+16	5
+46	2
+49	2
+40	1
+67	1
+63	2
+84	6
+85	4
+83	4
+117	11
+113	6
+92	9

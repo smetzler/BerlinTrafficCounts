@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912107
+datum=12.06.2006
+kurzken=Q 0912107/06
+bez=Tautenburger Straße (nördl. Frankenhauser Straße)   (Lankwitz, 12249)
+arm1=Brotteroder Straße,250,0100
+arm2=Frankenhauser Straße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+163	6	12	6	5
+186	7	12	3	5
+158	10	9	5	5
+190	4	6	8	12
+217	3	6	6	2
+249	2	6	7	6
+250	5	11	16	10
+252	6	12	9	14
+334	6	12	16	14
+310	1	7	25	14
+290	3	7	20	9
+289	1	6	14	5
+; 2 -> 1
+397	6	11	10	18
+364	13	12	22	19
+295	4	8	5	17
+196	2	6	14	22
+204	2	6	12	10
+192	5	6	9	8
+198	1	13	8	9
+198	4	12	9	7
+166	2	12	8	14
+194	0	8	12	15
+196	4	7	11	10
+165	3	6	12	14

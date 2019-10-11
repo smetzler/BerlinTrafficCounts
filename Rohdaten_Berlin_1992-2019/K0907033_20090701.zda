@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0907033
+datum=01.07.2009
+kurzken=K 0907033/09
+bez=AD Funkturm - von A115 AVUS nach Messeda./Halenseestr.  (Ch'g, 14055)
+arm1=A115 AVUS ,1400,0001
+arm2=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+arm3=A100 (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 4
+645	31	1	10
+643	21	2	13
+678	31	4	8
+463	21	9	5
+453	20	2	8
+476	19	2	6
+414	15	4	14
+331	13	4	5
+416	18	2	7
+442	13	5	4
+440	12	7	5
+448	7	7	9

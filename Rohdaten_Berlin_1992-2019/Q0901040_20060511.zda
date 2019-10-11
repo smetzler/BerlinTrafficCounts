@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901040
+datum=11.05.2006
+kurzken=Q 0901040/06
+bez=Rochstraße (östl. Rosenstraße)   (Mitte, 10178)
+arm1=Rosenstraße,1200,0100
+arm2=Dircksenstraße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Sackgasse für Kfz östl. Rosenstraße!\n 24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+11
+15
+33
+28
+18
+20
+17
+27
+32
+34
+60
+38
+; 2 -> 1
+29
+84
+57
+42
+25
+38
+20
+30
+28
+21
+26
+20

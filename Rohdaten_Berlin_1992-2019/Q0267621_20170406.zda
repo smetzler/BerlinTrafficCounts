@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 267621
+datum=06.04.2017
+kurzken=Q 267621/17
+bez=Kaulsdorfer Straße / (westl. Zum Wuhleblick)   (Köpenick, 12555)
+arm1=Kaulsdorfer Straße (NW\, Einbahnstr.),350,0000
+arm2=Zum Wuhleblick  (W),1250,0001
+arm3=Kaulsdorfer Straße (S),2150,0000
+arm4=Kaulsdorfer Straße (NO\, Gehsener),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 2 -> 4
+2	0
+0	0
+0	2
+1	0
+2	0
+2	0
+2	0
+4	0
+2	0
+0	0
+2	0
+5	0
+; 4 -> 2
+4	0
+0	0
+4	0
+1	0
+1	0
+5	0
+7	0
+5	1
+6	0
+3	1
+3	1
+8	0

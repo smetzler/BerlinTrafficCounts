@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908047
+datum=29.08.2006
+kurzken=Q 0908047/06
+bez=Am Juliusturm (östl. Falkenseer Platz)   (Spandau, 13585)
+arm1=Falkenseer Platz,700,0100
+arm2=Carl-Schurz-Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 1\,5 Std Sonne; 2 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);
+data=
+; 1 -> 2
+2156	106	8	84	84
+2019	98	7	52	52
+1591	104	6	31	33
+1384	116	6	27	41
+1326	89	7	19	26
+1353	90	7	23	22
+1543	74	6	42	48
+1522	83	6	28	47
+1478	72	8	36	28
+1686	107	14	63	52
+1457	35	7	30	8
+1279	23	7	35	10
+; 2 -> 1
+1081	108	9	32	37
+1129	114	9	26	24
+1150	116	8	22	21
+1239	103	6	27	23
+1285	108	6	24	28
+1373	82	6	17	25
+1424	97	8	38	33
+1835	78	8	82	67
+2123	73	8	98	76
+2245	71	7	88	56
+2105	38	7	62	50
+1880	37	7	48	54

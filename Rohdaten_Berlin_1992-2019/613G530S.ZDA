@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 51125
+datum=13.06.1989
+kurzken=Q 51125/89
+bez=Flensburger Strasse westl. Bartningallee    ( Berlin 21 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+22 15 29 3 42 35 32 2 29 0 16 2 21 2 
+21 1 27 8 42 9 33 3 40 5 
+; 2 -> 1
+2 1 13 0 21 1 30 2 37 2 20 29 24 11 
+27 8 28 5 44 4 58 8 37 8 

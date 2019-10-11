@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909065
+datum=14.09.2006
+kurzken=Q 0909065/06
+bez=Südwestkorso (westl. Laubenheimer Straße)   (Wilmersdorf, 14197)
+arm1=Lorcher Straße,1300,0100
+arm2=Laubenheimer Straße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=26°C max T; 12 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+196	10	9	10	54
+325	6	9	15	71
+263	2	6	9	41
+227	6	6	9	43
+234	4	5	10	31
+254	2	5	13	56
+260	2	7	11	78
+311	4	10	20	100
+352	2	8	20	116
+399	1	10	25	162
+400	1	9	20	164
+388	1	6	15	158
+; 2 -> 1
+254	5	13	14	73
+313	12	9	10	174
+259	10	5	15	159
+244	3	5	12	95
+209	8	6	19	69
+266	2	5	14	58
+256	0	6	10	53
+277	5	9	28	70
+302	0	10	22	76
+313	1	11	7	98
+296	0	9	20	86
+292	0	7	21	72

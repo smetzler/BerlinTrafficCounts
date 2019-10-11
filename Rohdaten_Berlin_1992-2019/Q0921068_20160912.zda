@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921068
+datum=12.09.2016
+kurzken=Q 0921068/16
+bez=Märkische Allee (südl. Marzahner Promenade)  (Marzahn, 12681)
+arm1=Landsberger Allee,1650,0100
+arm2=Marzahner Promenade,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=alle Fahrzeuge die die Märkische Allee südl. der Marzahner Promenade befahren.
+data=
+; 1 -> 2
+738	34	3	16	9
+844	46	3	8	6
+743	52	1	13	8
+941	57	4	12	5
+930	70	3	22	5
+1012	63	4	16	15
+897	57	6	20	9
+1170	44	3	38	19
+1249	40	4	30	25
+1359	40	3	43	18
+1335	31	3	40	18
+1180	15	3	23	11
+; 2 -> 1
+1336	45	3	24	12
+1102	41	6	17	13
+957	52	3	19	7
+960	38	3	12	5
+1053	49	4	7	12
+1002	47	4	17	11
+1010	31	3	21	13
+1035	25	6	18	5
+972	27	5	11	8
+933	23	4	17	15
+989	14	3	24	9
+778	7	5	17	9

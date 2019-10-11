@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 0389
+datum=21.06.1987
+kurzken=K 389/87
+bez=Sandhauser Strasse / Elchdamm    ( Berlin 27 )
+Arm1=Sandhauser Strasse,450,0011
+Arm2=,0,0000
+Arm3=Sandhauser Strasse,2250,1001
+Arm4=Elchdamm,2950,1010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung
+data=
+; 1 -> 3
+7 15 20 31 88 82 76 87 110 93 78 87 
+; 1 -> 4
+2 5 13 11 12 19 8 11 11 14 19 8 
+; 3 -> 1
+10 11 30 28 61 54 69 45 68 64 50 54 
+; 3 -> 4
+1 3 12 15 17 22 13 23 10 17 16 20 
+; 4 -> 1
+3 1 4 9 20 16 10 14 12 5 81 7 
+; 4 -> 3
+1 0 3 9 18 15 13 24 17 33 16 21 

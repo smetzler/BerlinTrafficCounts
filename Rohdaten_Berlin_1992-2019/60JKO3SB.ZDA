@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025368
+datum=12.11.1991
+kurzken=Q 2536.8/91-F
+bez=Rießerseestraße östlich Regattastraße    ( Berlin 1180 - Köp.)
+arm1=Süd,150,0100
+arm2=Nord,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Zählung erfolgte durch  -  Verkehr Berlin 
+data=
+; 1 -> 2
+10 
+9 
+6 
+22 
+16 
+15 
+17 
+8 
+15 
+22 
+20 
+23 
+; 2 -> 1
+13 
+24 
+5 
+30 
+18 
+9 
+15 
+16 
+17 
+19 
+19 
+14 

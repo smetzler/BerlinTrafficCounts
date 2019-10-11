@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13277
+datum=23.05.1989
+kurzken=Q 13277/89
+bez=Sponholzstrasse oestl. Hauptstrasse    ( Berlin 41 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+10 2 8 2 5 0 11 1 6 2 2 1 4 0 
+4 0 3 1 14 2 4 0 7 4 
+; 2 -> 1
+8 3 7 4 14 1 18 0 11 4 4 2 12 0 
+9 0 8 0 15 6 12 0 17 4 

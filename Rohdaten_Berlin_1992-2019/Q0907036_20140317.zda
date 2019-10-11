@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907036
+datum=17.03.2014
+kurzken=Q 0907036/14
+bez=AD Funkturm - von Parkplatz Nordkurve nach A100-Nord  (Charlottenburg, 14055)
+arm1=Parkplatz Nordkurve,0,0100
+arm2=A100 (Nord) / Messedamm,2500,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+415	18	8	2
+361	16	3	0
+267	23	7	0
+148	12	2	1
+122	20	1	1
+98	18	5	0
+88	19	3	1
+30	15	4	0
+56	4	3	2
+50	4	2	1
+65	7	6	0
+51	2	2	0

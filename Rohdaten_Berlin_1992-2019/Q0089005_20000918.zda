@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 089005
+datum=18.09.2000
+kurzken=Q 089005/00
+bez=BAB Zubr. Prenzlau (A114) (Stadtgrenze) (Pankow, 13127)
+arm1=AS Schönerlinder Straße,2000,0100
+arm2=Stadtgrenze,0,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fehler 2>1: 6-12 Fz unter Brücke gezählt!\, 12-18 Uhr Fz der Abfahrt nicht mitgezählt!
+data=
+; 1 -> 2
+752	130	82	1
+793	136	99	3
+765	138	133	5
+728	102	192	6
+659	91	145	5
+633	95	157	2
+666	96	148	2
+729	94	115	2
+818	124	120	2
+1278	173	144	0
+1483	285	99	1
+1233	174	87	2
+; 2 -> 1
+1498	337	149	1
+1370	279	132	0
+1363	221	157	1
+897	127	175	0
+705	124	169	2
+624	97	149	3
+729	99	116	3
+671	102	109	2
+779	79	97	2
+794	64	78	1
+1094	55	66	3
+1157	42	41	3

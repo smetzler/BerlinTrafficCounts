@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 62363
+datum=10.12.1987
+kurzken=Q 62363/87
+bez=Egidystrasse suedlich Waidmannsluster Damm     ( Berlin 27 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+5 4 4 5 6 2 5 9 6 14 11 9 
+; 2 -> 1
+12 7 7 5 4 5 4 7 2 8 10 7 

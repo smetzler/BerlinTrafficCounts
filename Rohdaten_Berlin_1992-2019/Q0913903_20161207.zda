@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913903
+datum=07.12.2016
+kurzken=Q 0913903/16
+bez=Tempelhofer Damm (Bereich Brücke A100)   (Tempelhof, 12099)
+arm1=Hoeppnerstraße,20,0100
+arm2=Ringbahnstraße,1820,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Falschfahrer (falsche Straßenseite): Strom 1>2 = 10%; Strom 2>1 = 14%.\nWetter: 3°C max T; 2 Std Sonne; 0\,5 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+58
+68
+53
+50
+30
+48
+55
+48
+64
+76
+61
+63
+; 2 -> 1
+49
+82
+66
+34
+41
+42
+47
+51
+57
+50
+43
+57

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920166
+datum=14.09.2009
+kurzken=Q 0920166/09
+bez=Alt-Lübars (nördl. Zabel-Krüger-Damm)   (Lübars, 13469)
+arm1=Benekendorffstraße,100,0100
+arm2=Zabel-Krüger-Damm,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+156	0	7	1	12
+149	3	6	0	6
+93	2	5	0	2
+94	2	5	0	12
+100	2	3	2	3
+79	4	3	0	6
+98	2	4	4	7
+85	3	4	2	8
+72	0	6	0	16
+106	0	8	3	7
+116	0	6	4	6
+85	3	7	4	29
+; 2 -> 1
+68	3	7	3	9
+89	2	6	3	4
+107	3	5	0	4
+74	2	3	2	2
+92	3	3	2	3
+105	4	3	2	3
+91	2	5	2	8
+146	1	4	1	13
+162	2	6	2	4
+157	3	7	2	38
+170	0	6	2	11
+102	2	6	1	9

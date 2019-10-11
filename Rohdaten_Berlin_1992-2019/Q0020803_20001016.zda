@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020803
+datum=16.10.2000
+kurzken=Q 020803/00
+bez=Trelleborger Straße (nördl. Wisbyer Straße) (Pankow, 13189)
+arm1=Schonensche Straße ,0,0100
+arm2=Wisbyer Straße ,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+166	28	5	0	8
+227	29	4	0	10
+168	15	2	0	12
+106	12	4	0	12
+94	11	5	0	6
+77	9	2	0	7
+79	7	4	0	7
+69	11	7	0	6
+59	6	4	0	4
+86	10	3	0	9
+95	15	3	0	10
+85	11	2	0	12
+; 2 -> 1
+36	3	1	0	3
+20	8	1	0	2
+51	3	2	0	3
+54	4	0	0	8
+51	2	2	0	8
+51	10	1	0	4
+53	7	2	0	3
+59	9	1	0	8
+82	8	2	0	4
+122	19	2	0	6
+128	17	2	0	13
+98	10	0	0	13

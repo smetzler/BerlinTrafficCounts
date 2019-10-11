@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901902
+datum=08.05.2019
+kurzken=Q 0901902/18
+bez=Spandauer Straße (nördl. Karl-Liebknecht-Straße) (Mitte, 10178) 
+arm1=Spandauer Brücke,300,0100
+arm2=Karl-Liebknecht-Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+39
+214
+206
+96
+73
+97
+126
+150
+131
+190
+286
+218
+; 2 -> 1
+50
+257
+367
+124
+92
+85
+160
+121
+145
+224
+270
+247

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41092
+datum=8.8.1991
+kurzken=Q 4109.2/91-F
+bez=Joachimstaler Strasse zw. Kurfuerstendamm und Kantstrasse    ( Berlin 30 )
+arm1=Kantstraße,900,0100
+arm2=Kurfürstendamm,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg gegenueber "Fa. Hussel" !\nWetter: bedeckt und trocken !
+data=
+; 1 -> 2
+318 
+590 
+868 
+1338 
+1800 
+1941 
+2256 
+2208 
+2133 
+2170 
+2157 
+2019 
+; 2 -> 1
+268 
+301 
+498 
+763 
+1244 
+1621 
+1637 
+1594 
+1708 
+1707 
+1944 
+1783 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26175
+datum=22.4.1993
+kurzken=Q 2617.5/93-F
+bez=Marchlewskistraße nördl. Wedekindstraße    (Friedrichshain)
+arm1=Ost,1350,0100
+arm2=West,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+6 4 
+8 3 
+10 4 
+13 11 
+16 1 
+38 1 
+3 1 
+2 1 
+20 5 
+21 4 
+7 5 
+7 9 
+; 2 -> 1
+4 4 
+6 13 
+11 1 
+7 0 
+8 0 
+22 2 
+4 1 
+5 2 
+8 2 
+11 2 
+4 1 
+8 4 

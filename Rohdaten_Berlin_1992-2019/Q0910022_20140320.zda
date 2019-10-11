@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0910022
+datum=20.03.2014
+kurzken=Q 0910022/14
+bez=AK Zehlendorf - von A115-AVUS (Nord) nach Potsdamer Ch. (Ost)   (Zehlendorf, 14129)
+arm1=A115-AVUS (AS Spanische Allee),50,0001
+arm2=Potsdamer Chaussee (W),950,0000
+arm3=A115 (AS Kleinmachnow),1850,0000
+arm4=Potsdamer Chaussee (O),2900,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1386,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 4
+62	5	0	1
+69	2	1	0
+56	3	0	2
+48	4	0	1
+37	2	0	0
+46	5	0	3
+75	4	0	3
+64	4	0	3
+88	1	0	3
+55	2	0	0
+92	1	0	6
+87	0	0	3

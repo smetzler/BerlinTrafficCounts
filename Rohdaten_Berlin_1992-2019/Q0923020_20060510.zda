@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0923020
+datum=10.05.2006
+kurzken=Q 0923020/06
+bez=Alberichstraße (südl. Alfelder Straße)   (Biesdorf, 12683)
+arm1=Alfelder Straße,0,0100
+arm2=Dankratstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=22°C max T; 15 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+65	3	0	2	150
+23	2	0	0	42
+23	1	0	3	55
+21	2	0	1	11
+18	1	0	1	10
+11	1	0	0	6
+13	1	0	1	12
+25	0	0	0	21
+42	1	0	0	40
+38	3	0	1	33
+16	0	0	0	22
+21	0	0	0	20
+; 2 -> 1
+36	2	0	3	43
+15	0	0	0	11
+15	0	0	0	13
+13	1	0	0	6
+16	1	0	0	2
+13	2	0	2	50
+25	2	0	1	55
+15	0	0	1	106
+24	1	0	0	44
+48	1	0	1	41
+36	0	0	2	37
+14	1	0	1	24

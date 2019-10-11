@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00371
+datum=24.04.2015
+kurzken=Q 00371/15
+bez=AS Kaiserda.-Süd (Zu- u. Abf. Messeda. [zw. Kaiserd. u. Kantstr.])   (Ch'burg, 14057)
+arm1=Messedamm - ICC,800,0100
+arm2=A100 (Funkturm),1700,0000
+arm3=A100 (Kaiserdamm),3500,1000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: direkt an der Zu- bzw. Abfahrt (unter der Brücke Messedamm)\nCity-Atlas Seite 84\, Feld 8a
+data=
+; 1 -> 2
+1037	13	10	2	14
+1051	19	11	7	33
+824	5	2	1	17
+; 3 -> 1
+87	1	1	0	2
+129	0	2	1	8
+132	0	0	1	4

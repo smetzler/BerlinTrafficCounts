@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0021
+datum=12.06.2015
+kurzken=Q 0021/15
+bez=B2 - (Höhe Bahnbrücke, nördl. Blankenburger Pflasterweg) (Weißensee, 13051)
+arm1=Blankenburger Pflasterweg,1500,0100
+arm2=Lindenberger Weg,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 49\, Feld 4d
+data=
+; 1 -> 2
+774	16	8	5	25	31
+748	14	13	3	28	19
+736	14	4	4	22	27
+; 2 -> 1
+461	11	4	2	21	14
+530	16	7	4	12	28
+533	3	2	2	15	18

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916128
+datum=18.05.2017
+kurzken=Q 0916128/17
+bez=Fürstenwalder Allee (östl. Kuckuckssteig)   (Rahnsdorf, 12589)
+arm1=Kuckuckssteig,700,0100
+arm2=Schönblicker Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kfz-Verkehr in Fürstenwalder Allee in Höhe Nr. 266 (Apotheke); querende Fg i. H. Nr. 266\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+426	16	3	10	58
+384	11	3	6	40
+351	12	3	5	30
+396	28	4	14	28
+321	12	4	6	24
+367	12	3	15	20
+328	14	3	6	48
+386	18	3	19	49
+319	7	3	15	51
+454	4	2	2	64
+420	8	4	9	45
+431	3	3	15	46
+; 2 -> 1
+394	20	3	5	86
+383	14	3	4	19
+373	13	3	7	35
+418	22	4	2	28
+336	18	2	6	29
+386	15	4	9	22
+360	13	3	9	34
+402	15	3	10	43
+381	7	3	14	32
+454	2	4	6	48
+470	5	3	17	63
+444	0	2	16	40

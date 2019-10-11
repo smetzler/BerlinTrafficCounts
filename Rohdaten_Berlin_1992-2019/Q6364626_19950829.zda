@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6364626
+datum=29.08.1995
+kurzken=Q 6364626/95
+bez=Stubenrauchstraße (westl. Sterndamm)   (Johannisthal, 12487)
+arm1=Sterndamm,350,0010
+arm2=Stubenrauchstraße,1200,0000
+arm3=Akeleiweg,2100,1000
+arm4=Stubenrauchstraße,3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 16°\, bedeckt\, 0 mm  Niederschlag/Tag. 
+data=
+; 1 -> 3
+5 1
+1 0
+3 0
+2 0
+2 0
+2 1
+1 0
+5 0
+5 0
+11 3
+7 0
+2 0
+; 3 -> 1
+11 4
+3 1
+5 1
+2 2
+4 3
+2 0
+1 0
+5 0
+9 1
+7 3
+6 2
+5 1

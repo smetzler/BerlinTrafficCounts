@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 72306
+datum=09.05.1994
+kurzken=Q 72306/94
+bez=Oberspreestraße / westl. Ottomar-Geschke-Straße (Köpenick) 
+arm1=Militscher Weg,800,0100
+arm2=O.-Geschke-Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1400,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+383,34,3,5,18
+322,35,2,7,47
+297,14,3,10,26
+371,14,4,9,45
+; 2 -> 1
+355,38,4,6,20
+402,33,3,12,54
+373,20,5,9,44
+366,12,3,7,24

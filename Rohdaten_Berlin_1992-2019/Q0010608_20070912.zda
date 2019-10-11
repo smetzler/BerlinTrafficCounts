@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010608
+datum=12.09.2007
+kurzken=Q 010608/07
+bez=Kaiserdamm (Kaiserdammbrücke) (Charlottenburg, 14057)
+arm1=Rognitzstraße,1000,0100
+arm2=Saldernstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: în Richtung Bismarckstr.\, zw.Kaiserdammbr. u. Suarezstr. Fahrbahn von 5 auf 3 Spuren reduziert.
+data=
+; 1 -> 2
+695	112	25	5	15
+1470	126	42	3	51
+1719	84	46	2	77
+1277	84	51	6	63
+1104	79	47	4	66
+974	79	45	3	58
+1031	108	35	6	62
+998	108	28	4	83
+1024	110	22	0	48
+1232	104	23	6	72
+1311	120	22	2	93
+1276	74	11	4	80
+; 2 -> 1
+485	96	28	4	19
+1030	141	32	6	46
+1106	148	32	6	58
+988	140	60	12	72
+958	143	50	2	49
+1040	120	43	6	45
+1151	152	42	7	54
+1284	162	45	6	50
+1468	164	52	10	128
+2018	181	48	6	92
+2112	221	40	5	107
+1902	162	31	4	95

@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0914039
+datum=14.04.2005
+kurzken=Q 0914039/05
+bez=Silbersteinstraße (westl. Hermannstraße)   (Neukölln, 12051)
+arm1=Eschersheimer Straße,1000,0100
+arm2=Hermannstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+186	23	9	4	13
+255	20	7	8	10
+246	26	4	7	15
+254	18	3	4	16
+277	26	3	9	7
+265	8	3	11	5
+299	14	3	17	21
+359	21	5	12	16
+390	11	6	16	18
+364	7	6	16	21
+351	7	6	12	23
+340	3	5	11	21
+; 2 -> 1
+209	13	6	6	6
+225	25	8	4	15
+231	23	3	8	13
+222	21	4	8	15
+220	33	4	13	14
+257	18	4	13	17
+326	18	3	17	20
+290	24	9	11	21
+354	10	7	17	21
+356	6	7	9	12
+296	8	6	12	16
+297	3	4	7	16

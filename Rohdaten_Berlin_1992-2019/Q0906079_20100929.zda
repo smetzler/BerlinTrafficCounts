@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906079
+datum=29.09.2010
+kurzken=Q 0906079/10
+bez=Franz-Klühs-Straße (östl. Friedrichstraße)   (Kreuzberg, 10963)
+arm1=Friedrichstraße,950,0100
+arm2=Lindenstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+38	2	0	2	9
+66	0	0	2	17
+72	1	1	2	9
+67	2	0	1	15
+69	3	0	1	17
+75	1	0	3	12
+59	3	0	2	18
+81	1	0	1	13
+102	2	0	1	11
+96	1	0	12	22
+98	0	0	4	18
+81	2	0	7	17
+; 2 -> 1
+84	2	1	5	28
+111	2	0	10	60
+89	0	0	2	127
+60	1	0	5	32
+66	1	0	0	20
+54	0	0	0	18
+46	0	0	3	24
+55	0	0	1	21
+78	0	0	4	19
+65	0	0	2	18
+72	1	0	4	23
+49	1	0	4	25

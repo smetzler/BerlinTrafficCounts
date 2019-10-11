@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921060
+datum=17.04.2012
+kurzken=Q 0921060/12
+bez=Alte Hellersdorfer Str. (ca. Nr.142) (südl. "zur Ludwigsfelder Str.")   (Marzahn, 12629)
+arm1=Zossener Straße,1700,0100
+arm2="zur Ludwigsfelder Straße",3500,1000
+arm3=,800,0000
+arm4=,2600,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+180	4	9	2	5
+220	6	7	2	2
+255	10	6	3	6
+260	4	6	4	18
+237	6	6	5	7
+224	6	5	7	14
+258	2	6	4	13
+246	2	6	5	10
+299	2	6	6	8
+324	2	6	4	20
+299	1	6	5	9
+265	0	3	3	12
+; 2 -> 1
+164	2	6	1	6
+149	3	7	5	10
+125	2	7	3	3
+162	4	8	0	10
+202	3	6	2	10
+206	0	5	3	7
+195	0	5	7	6
+193	1	6	1	10
+242	0	5	3	6
+290	2	8	6	10
+272	1	5	5	4
+262	1	5	2	8

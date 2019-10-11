@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26447
+datum=06.10.1994
+kurzken=Q 26447/94
+bez=Adlergestell (östl. Kablower Weg) (Grünau, 12527)
+arm1=Adlergestell,450,0000
+arm2=Kablower Weg,1350,0001
+arm3=Adlergestell,2250,0000
+arm4=Nordosten,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 12°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+0,0
+0,0
+2,0
+1,0
+5,0
+1,0
+1,0
+0,0
+0,0
+0,0
+1,0
+0,0
+; 4 -> 2
+0,0
+0,0
+0,0
+1,0
+1,0
+0,0
+0,0
+0,0
+0,0
+0,0
+2,0
+0,0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 983
+datum=06.10.2009
+kurzken=Q 983/09
+bez=Berliner Straße (südl. Wittestraße)   (Tegel, 13509)
+arm1=Berliner Straße (N),250,0000
+arm2=Egellsstraße,900,0001
+arm3=Berliner Straße (S),2050,0000
+arm4=Wittestraße,2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=0 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	1
+0	0
+0	0
+0	0
+2	0
+21	1
+3	0
+7	0
+4	0
+14	1
+2	0
+3	0
+; 4 -> 2
+2	1
+1	0
+1	1
+0	0
+10	2
+15	3
+14	0
+14	4
+8	0
+5	4
+4	0
+2	1

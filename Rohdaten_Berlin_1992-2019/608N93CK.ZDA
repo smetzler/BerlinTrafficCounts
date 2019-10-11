@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11205
+datum=21.06.1990
+kurzken=Q 11205/90
+bez=Maybachufer noerdl. Pannierstrasse    ( Berlin 44 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+10 17 25 24 21 18 19 41 47 40 19 23 
+; 2 -> 1
+11 5 16 21 32 26 22 30 27 33 23 21 

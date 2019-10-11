@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5542021
+datum=29.11.2004
+kurzken=Q 5542021/04
+bez=Wilhelmstraße (nördl. Voßstraße - Mohrenstraße)   (Mitte, 10117)
+arm1=Wilhelmstraße,120,0000
+arm2=Voßstraße,1090,0001
+arm3=Wilhelmstraße,1930,0000
+arm4=Mohrenstraße,2890,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6\,5°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+25	15
+22	4
+26	6
+15	1
+21	0
+32	2
+27	1
+29	2
+46	2
+45	6
+48	4
+54	0
+; 4 -> 2
+4	0
+11	0
+16	0
+6	1
+14	0
+32	5
+50	3
+68	6
+66	2
+62	1
+52	3
+61	1

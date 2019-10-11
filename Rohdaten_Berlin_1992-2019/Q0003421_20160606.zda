@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3421
+datum=06.06.2016
+kurzken=Q 3421/16
+bez=Saatwinkler Damm (nördl. BAB-A100 - Seestraße)   (Charlottenburg, 13627)
+arm1=Saatwinkler Damm,100,0000
+arm2=Zu- und Abfahrt BAB,1100,0001
+arm3=Beusselstraße,1950,0000
+arm4=Seestraße,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+3	0
+7	0
+0	0
+1	0
+3	0
+2	0
+3	0
+5	0
+8	1
+2	0
+4	0
+5	0
+; 4 -> 2
+5	0
+9	0
+3	0
+4	0
+2	0
+4	0
+12	0
+6	0
+5	0
+5	0
+35	0
+7	0

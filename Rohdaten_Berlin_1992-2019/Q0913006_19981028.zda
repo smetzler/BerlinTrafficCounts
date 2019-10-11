@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913006
+datum=28.10.1998
+kurzken=Q 0913006/98
+bez=Boelckestraße (südl. Bayernring)   (Tempelhof, 12101)
+arm1=Bayernring,100,0100
+arm2=Badener Ring,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+353	35	4	5
+352	34	5	7
+364	34	4	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+727	28	4	13
+762	14	5	8
+587	14	4	9
+; 2 -> 1
+873	25	4	8
+947	46	4	9
+744	53	4	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+549	22	4	5
+557	24	4	6
+482	13	4	9

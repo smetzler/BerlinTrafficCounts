@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 62495
+datum=10.04.1986
+kurzken=Q 62495/86
+bez=Burgfrauenstrasse  noerdl. Im Fischgrund   ( Berlin 28 )
+Arm1=West  ( 1a ),900,0100
+Arm2=Ost  ( 1b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw.,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+7 1 2 0 6 0 2 0 4 0 4 0 7 1 
+4 0 1 0 5 4 6 1 4 0 
+; 2 -> 1
+2 0 4 0 2 0 0 0 3 0 4 0 3 0 
+3 0 4 0 5 0 4 1 3 1 

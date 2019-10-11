@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091005
+datum=21.04.1997
+kurzken=Q 091005/97.1
+bez=Märkische Allee (südl. Ahrensfelder Chaussee) (Marzahn, 12689)
+arm1=Ahrensfelder Chaussee,3400,0100
+arm2=S-Bhf. Ahrensfelde,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=BAB A10: AS Hohenschönhausen gesperrt !
+data=
+; 1 -> 2
+498 53 54 7 15
+472 45 58 9 12
+374 48 48 14 4
+397 37 48 7 5
+395 34 53 5 4
+361 28 52 5 1
+354 44 59 3 4
+355 42 64 11 7
+482 38 47 8 7
+632 55 45 7 8
+795 68 41 8 6
+655 57 18 8 17
+; 2 -> 1
+604 51 36 6 7
+462 37 73 9 4
+458 45 82 7 3
+488 47 41 11 9
+515 48 85 4 8
+446 44 72 7 10
+394 58 82 4 4
+393 48 67 5 3
+486 52 60 9 3
+603 57 54 10 18
+627 75 31 6 17
+561 43 25 7 11

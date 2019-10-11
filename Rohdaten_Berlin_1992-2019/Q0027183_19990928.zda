@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27183
+datum=28.09.1999
+kurzken=Q 27183/99
+bez=Finkenkruger Weg (südl. Seegefelder Weg)  (Spandau, 13389)
+arm1=Finkenkruger Weg (N),100,0000
+arm2=Seegefelder Weg (W),750,0001
+arm3=Finkenkruger Weg (S),1750,0000
+arm4=Seegefelder Weg (O),2550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915010
+datum=18.03.1999
+kurzken=Q 0915010/99
+bez=Am Seegraben (nördl. Germanenstraßenbrücke)   (Bohnsdorf, 12524)
+arm1=Germanenstraßenbrücke,1350,0100
+arm2=Am Falkenberg,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1035	169	0	5
+971	183	1	1
+886	121	2	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+992	83	2	8
+1497	76	2	14
+1443	67	3	7
+; 2 -> 1
+1110	118	2	2
+1133	144	6	1
+1274	169	1	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1320	125	1	6
+1611	91	1	7
+1392	97	0	8

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20171
+datum=16.05.2018
+kurzken=Q 20171/18
+bez=Beuthener Str. (nordwestl. Blankenburger Chaussee)   (Karow, 13125)
+arm1=Beuthener Straße,500,0000
+arm2=Blankenburger Chaussee (SW),1400,0001
+arm3=Straße 43,2300,0000
+arm4=Blankenburger Chaussee (NO),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=7.55 Uhr: Verkehrsunfall in der Blankenburger Chaussee. Teilsperrung zw. Straße 44 bis 45.\n9.45 Uhr: Aufhebung der Sperrung\n-> Werte sind nicht repräsentativ\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+3	1
+1	3
+4	0
+0	0
+0	0
+0	1
+0	0
+3	2
+0	1
+0	0
+0	0
+0	0
+; 4 -> 2
+1	0
+0	0
+0	0
+2	0
+2	0
+0	0
+0	0
+1	0
+1	0
+2	0
+2	0
+0	0

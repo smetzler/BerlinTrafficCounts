@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907039
+datum=16.05.2019
+kurzken=Q 0907039/19
+bez=A100-Stadtring - Abfahrt Tegeler Weg (Charlottenburg, 13627) 
+arm1=A100 (BAB Stadtring),1000,0100
+arm2=Tegeler Weg,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+144	11	0	2	0
+188	8	0	1	0
+137	12	0	2	0
+102	26	0	0	0
+124	16	0	0	0
+95	17	0	0	0
+90	13	0	0	0
+127	9	0	0	0
+87	7	0	1	0
+62	6	0	0	0
+138	11	0	0	0
+112	7	0	1	0

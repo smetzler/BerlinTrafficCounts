@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904903
+datum=16.11.2011
+kurzken=Q 0904903/11
+bez=Schwedter Steg (nördl. Kopenhagener Straße)   (Prenzlauer Berg, 10437)
+arm1=Behmstraße,100,0100
+arm2=Kopenhagener Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=8°C max T; 5 Std Sonne; 0 mm Niederschl.; 4 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm)
+data=
+; 1 -> 2
+72
+137
+83
+42
+41
+30
+43
+37
+45
+60
+41
+33
+; 2 -> 1
+29
+54
+36
+34
+24
+20
+37
+47
+81
+98
+36
+51

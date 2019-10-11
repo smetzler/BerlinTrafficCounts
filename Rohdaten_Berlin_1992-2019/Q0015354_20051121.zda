@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 15354
+datum=21.11.2005
+kurzken=Q 15354/05
+bez=Schloßstraße (nördl. Albrechtstraße)   (Steglitz, 12165)
+arm1=Grunewaldstraße,600,0010
+arm2=Schloßstraße,1450,0000
+arm3=Albrechtstraße,2400,1000
+arm4=Schloßstraße,3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgängerüberweg wegen Hochbaustelle z.Zt. gesperrt!\nWetter: max T=5°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 3 -> 1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1

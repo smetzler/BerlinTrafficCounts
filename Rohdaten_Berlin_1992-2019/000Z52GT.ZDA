@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 1265
+datum=30.09.1987
+kurzken=K 1265/87
+bez=Manfred-von-Richthofen-Strasse / Loewenhardtdamm       ( Berlin 42 )
+Arm1=Loewenhardtdamm,520,0101
+Arm2=M.-v.-Richthofen-Str,1900,1001
+Arm3=,0,0000
+Arm4=M.-v.-Richthofen-Str,3430,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+95 63 80 81 94 84 94 109 198 217 196 124 
+; 1 -> 4
+8 11 8 6 3 8 16 11 9 16 14 9 
+; 2 -> 1
+354 209 106 81 87 85 97 87 102 142 82 77 
+; 2 -> 4
+870 533 324 342 356 338 335 374 443 507 385 289 
+; 4 -> 1
+12 8 9 4 5 15 10 7 8 12 14 7 
+; 4 -> 2
+343 333 318 331 392 506 550 507 755 885 548 390 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020311
+datum=25.09.2018
+kurzken=Q 020311/18
+bez=Niederkirchnerstraße (östl. Stresemannstraße)   (Mitte, 10117)
+arm1=Stresemannstraße,950,0100
+arm2=Wilhelmstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+117	4	0	7	69
+128	2	1	19	220
+151	6	18	7	167
+108	8	32	10	60
+85	2	27	4	76
+69	3	22	4	81
+88	5	21	6	87
+85	3	31	2	63
+88	4	27	4	104
+106	4	24	12	116
+94	1	16	7	175
+71	1	12	6	141
+; 2 -> 1
+170	4	8	5	90
+247	9	5	18	279
+222	9	14	21	203
+180	8	14	12	61
+186	5	16	8	106
+145	9	8	4	156
+165	10	16	3	178
+201	10	8	6	79
+291	13	14	20	108
+356	16	16	14	138
+271	4	9	9	198
+221	4	8	7	171

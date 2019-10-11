@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911109
+datum=12.03.2014
+kurzken=Q 0911109/14
+bez=Wexstraße (Nord) - Zufahrt BAB-Unterquerung (östl. Prinzregentenstr.)   (Friedenau, 10825)
+arm1=Wexstraße (Nord),600,0001
+arm2=,0,0000
+arm3=,0,0000
+arm4=BAB A100 / Innsbrucker Platz,2400,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 4
+471	10	2	5
+608	16	4	8
+516	16	5	6
+467	19	3	6
+507	17	4	9
+504	20	4	3
+544	28	5	13
+721	19	6	18
+763	20	6	22
+897	8	4	18
+866	9	7	17
+628	7	4	14

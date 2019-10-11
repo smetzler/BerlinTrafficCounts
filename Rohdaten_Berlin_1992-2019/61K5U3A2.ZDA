@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 72786
+datum=27.03.1990
+kurzken=Q 72786/90
+bez=Kolonnenstrasse westl. Kesselsdorfstrasse    ( Berlin 62 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+1 0 3 0 1 0 3 0 0 0 1 0 3 0 
+3 0 2 0 1 0 1 0 6 0 
+; 2 -> 1
+2 1 2 0 2 0 0 0 5 0 3 0 5 0 
+2 1 1 0 3 0 3 0 1 2 

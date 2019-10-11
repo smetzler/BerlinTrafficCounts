@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58217
+datum=27.03.1990
+kurzken=Q 58217/90
+bez=Eisenacher Strasse suedl. Kleiststrasse    ( Berlin 30 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+24 1 26 1 73 1 94 3 55 5 113 7 121 6 
+147 11 122 4 99 8 128 6 47 1 
+; 2 -> 1
+37 0 43 2 34 2 67 10 86 6 127 6 142 20 
+131 5 122 7 72 5 144 10 88 7 

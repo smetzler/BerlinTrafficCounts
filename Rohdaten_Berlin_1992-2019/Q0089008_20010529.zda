@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 089008
+datum=29.05.2001
+kurzken=Q 089008/01
+bez=Zepernicker Straße - Bucher Straße (Stadtgrenze)   (Pankow, 13125)
+arm1=Buch,1200,0100
+arm2=Zepernick,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Einbahnstraße Richtung Zepernick.
+data=
+; 1 -> 2
+56	8	8	0	2
+75	27	8	0	7
+151	24	19	0	0
+204	24	14	1	5
+191	32	19	0	3
+172	18	19	0	6
+206	18	22	2	4
+204	21	18	2	4
+259	35	28	1	8
+348	32	13	1	14
+411	29	11	1	8
+374	35	7	1	9
+; 2 -> 1
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0

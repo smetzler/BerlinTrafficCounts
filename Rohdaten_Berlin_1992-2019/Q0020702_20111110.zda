@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020702
+datum=10.11.2011
+kurzken=Q 020702/11
+bez=Bernauer Straße - Eberswalder Straße (östl. Schwedter Str.) (Prenzlauer Berg, 10437)
+arm1=Schwedter Straße ,1100,0100
+arm2=Schönhauser Allee,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kastanienallee zwischen Oderberger Str. und Schönhauser Allee gesperrt.\n
+data=
+; 1 -> 2
+444	32	0	4	56
+449	27	0	4	47
+446	25	0	5	57
+356	18	0	2	34
+456	31	4	5	38
+464	36	0	9	56
+481	37	2	10	89
+595	28	0	4	120
+728	19	1	16	139
+682	22	3	26	198
+620	7	0	12	201
+609	7	0	12	217
+; 2 -> 1
+899	20	0	9	189
+1070	22	0	9	447
+1040	34	0	11	282
+576	28	2	14	124
+670	36	1	5	72
+523	19	0	6	69
+401	32	1	7	108
+401	17	1	12	97
+490	21	0	6	97
+458	14	1	20	84
+427	8	0	5	74
+403	6	0	8	81

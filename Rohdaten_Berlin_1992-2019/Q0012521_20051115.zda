@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 12521
+datum=15.11.2005
+kurzken=Q 12521/05
+bez=Martin-Luther-Straße (nördl. Hauptstraße)   (Schöneberg, 10825)
+arm1=Martin-Luther-Straße,0,0000
+arm2=Hauptstraße,1300,0001
+arm3=,0,0000
+arm4=Hauptstraße,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+57	33
+54	22
+100	0
+82	0
+66	0
+56	2
+51	11
+60	8
+77	9
+89	4
+115	6
+73	2
+; 4 -> 2
+54	3
+50	0
+64	0
+92	0
+57	0
+66	7
+51	28
+50	9
+75	8
+80	2
+86	10
+72	11

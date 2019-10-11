@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 07161
+datum=30.05.1983
+kurzken=Q 7161/83
+bez=Kurfuerstendamm westl. Joachimstaler Strasse     ( Berlin 15 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0000,0700
+intv=60
+bemerk=
+data=
+; 1 -> 2
+48 721 3 3 9 20 625 9 3 10 10 406 4 5 7 
+6 312 2 6 5 2 214 4 4 5 4 169 9 8 14 
+16 420 16 21 28 
+; 2 -> 1
+9 410 3 0 5 16 441 17 1 11 4 283 6 4 5 
+6 219 4 1 4 1 164 5 0 6 4 138 9 2 9 
+19 329 31 17 19 

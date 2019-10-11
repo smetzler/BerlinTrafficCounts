@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907113
+datum=24.09.2007
+kurzken=Q 0907113/07
+bez=Friedrich-Olbricht-Damm (Höhe JVA Nr. 16-17)   (Charlottenburg, 13627)
+arm1=Schwanenfeldstraße,600,0100
+arm2=Goerdeler-Damm-Brücke,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+147	43	0	7	17
+103	31	0	5	11
+127	19	0	6	13
+174	24	0	2	6
+136	18	1	5	14
+138	27	1	8	10
+177	22	0	13	16
+188	19	0	13	21
+184	22	2	16	30
+193	15	0	12	22
+194	13	1	13	34
+196	11	0	11	37
+; 2 -> 1
+165	14	0	7	12
+157	21	0	3	20
+173	31	0	7	18
+183	24	0	16	9
+181	27	0	7	15
+162	37	0	18	27
+178	40	0	14	20
+147	39	0	11	22
+156	40	0	8	10
+266	33	0	16	19
+196	26	0	15	17
+105	12	0	17	13

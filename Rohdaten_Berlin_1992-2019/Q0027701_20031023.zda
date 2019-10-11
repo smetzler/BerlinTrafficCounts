@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27701
+datum=23.10.2003
+kurzken=Q 27701/03
+bez=Wichertstraße (westl. Gudvanger Straße)   (Prenzlauer Berg, 10439)
+arm1=Wichertstraße,550,0000
+arm2=((Süden\, Schule))\,,1450,0001
+arm3=Wichertstraße,2350,0000
+arm4=Gudvanger Straße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=5\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+1	1
+2	1
+6	14
+2	2
+4	2
+4	2
+0	9
+7	0
+6	2
+4	2
+10	11
+; 4 -> 2
+9	37
+2	5
+9	4
+8	16
+2	0
+3	0
+2	1
+6	2
+6	0
+2	1
+1	0
+7	2

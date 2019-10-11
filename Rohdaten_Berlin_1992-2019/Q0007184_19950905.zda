@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7184
+datum=05.09.1995
+kurzken=Q 7184/95
+bez=Hardenbergplatz (nördl. Hardenbergstraße)   (Charlottenburg, 10623) 
+arm1=Hardenbergstraße,1600,0100
+arm2=Hertzallee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+687 13 52 21 21
+612 12 76 12 52
+598 18 69 13 38
+578 25 75 9 47
+584 14 87 14 62
+597 10 82 9 54
+521 6 75 13 62
+535 8 72 11 54
+531 6 81 20 42
+569 4 75 20 67
+539 1 69 19 95
+461 1 58 7 70
+; 2 -> 1
+167 4 67 2 18
+189 7 71 2 37
+203 7 64 1 46
+223 9 68 1 75
+264 8 67 2 64
+231 5 62 2 42
+256 5 71 1 50
+308 3 72 2 41
+253 1 74 7 48
+275 3 78 2 57
+324 0 66 4 70
+513 3 60 9 95

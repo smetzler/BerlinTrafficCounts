@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025558
+datum=11.3.1992
+kurzken=Q 2550.8/92-F
+bez=Rudower Chaussee nördlich ehem.Wachregiment    ( Berlin 1199-Trept )
+arm1=Ost,850,0100
+arm2=West,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schül,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+137 0 0 
+92 0 0 
+16 0 0 
+11 0 0 
+20 0 0 
+18 1 0 
+14 0 0 
+7 0 0 
+16 0 0 
+14 0 0 
+6 0 0 
+1 0 0 
+; 2 -> 1
+0 0 0 
+0 0 0 
+22 1 0 
+19 1 0 
+51 0 0 
+38 1 0 
+34 0 0 
+57 1 1 
+68 0 0 
+79 0 0 
+21 0 0 
+9 0 0 

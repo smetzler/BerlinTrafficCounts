@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6542014
+datum=16.11.2005
+kurzken=Q 6542014/05
+bez=Möllensorffstr. (nördl. Frankfurter A., westl. Fahrbahnseite)  (Li'berg, 10247)
+arm1=Frankfurter Allee,800,0010
+arm2=Gürtelstraße,1600,0000
+arm3=Frankfurter Allee,2600,1000
+arm4=Möllendorffstraße,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Westl. Fahrbahnseite bis Mittelstreifen (Straßenbahn).\nWetter: max T=5\,5°C; Sonne=0 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+504	55
+448	28
+418	40
+403	13
+450	11
+424	34
+452	18
+473	26
+499	14
+525	30
+476	15
+440	15
+; 3 -> 1
+391	63
+375	21
+549	20
+560	22
+491	15
+487	39
+419	15
+558	27
+442	13
+393	15
+226	24
+185	13

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920007
+datum=15.06.1998
+kurzken=Q 0920007/98
+bez=Hermsdorfer Damm (südl. Dohnensteig)   (Hermsdorf, 13467)
+arm1=Dohnensteig,0,0100
+arm2=B111,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1218	24	13	30
+1146	26	10	19
+921	27	7	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+718	26	11	21
+527	10	10	19
+568	10	8	16
+; 2 -> 1
+478	16	12	10
+471	30	10	9
+445	27	7	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1086	34	10	32
+1098	16	11	36
+1218	11	10	31

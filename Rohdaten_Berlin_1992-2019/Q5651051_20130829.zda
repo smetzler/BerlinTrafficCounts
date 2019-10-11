@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5651051
+datum=29.08.2013
+kurzken=Q 5651051/13
+bez=Swinemünder Straße (nördl. Ramlerstraße)   (Wedding, 13355)
+arm1=Swinemünder Brücke,300,0000
+arm2=Ramlerstraße (W),900,0001
+arm3=Swinemünder Straße,2100,0000
+arm4=Ramlerstraße (O),2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=11 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+15	13
+22	9
+15	2
+16	0
+23	0
+23	2
+20	3
+32	9
+25	11
+54	15
+44	5
+34	10
+; 4 -> 2
+33	22
+26	21
+29	3
+10	0
+21	2
+16	1
+25	2
+17	2
+24	2
+24	13
+30	9
+23	13

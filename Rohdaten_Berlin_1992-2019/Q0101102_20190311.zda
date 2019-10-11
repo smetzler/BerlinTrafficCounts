@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0101102
+datum=11.03.2019
+kurzken=Q 0101102/19
+bez=Mahlsdorfer Straße - Hultschiner Damm (südl. Willestr.) (Köpenick,12555) 
+arm1=Willestraße,3400,0100
+arm2=Genovevastraße,1400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+536	17	0	3	23
+390	10	0	2	11
+288	10	0	1	11
+346	8	0	0	10
+288	11	1	0	5
+310	8	0	0	4
+225	9	1	1	2
+298	10	0	0	2
+301	4	0	2	10
+420	2	0	0	6
+393	2	0	3	10
+336	2	0	2	16
+; 2 -> 1
+455	16	1	1	4
+366	10	0	1	7
+314	11	0	0	6
+332	10	0	0	8
+286	18	0	3	5
+302	12	0	1	9
+359	11	0	3	7
+478	25	0	2	11
+565	8	0	1	19
+648	2	0	2	28
+589	3	0	1	16
+539	3	0	6	22

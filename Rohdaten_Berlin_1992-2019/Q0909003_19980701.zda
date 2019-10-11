@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909003
+datum=01.07.1998
+kurzken=Q 0909003/98
+bez=Hohenzollerndamm (nordöstl. Güntzelstraße)   (Wilmerdorf, 10717)
+arm1=Güntzelstraße,1200,0100
+arm2=Uhlandstraße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+972	35	4	22
+1192	45	7	26
+1157	38	1	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1287	29	1	36
+1174	14	2	42
+1294	12	3	26
+; 2 -> 1
+881	32	2	19
+1034	29	0	29
+941	21	3	37
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1274	20	3	38
+1267	18	4	38
+1276	6	4	35

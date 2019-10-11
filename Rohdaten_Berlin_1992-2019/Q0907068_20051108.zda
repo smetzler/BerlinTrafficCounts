@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907068
+datum=08.11.2005
+kurzken=Q 0907068/05
+bez=Fasanenstr. Nr. 88 (nördl. Hertzallee, Höhe neue Bibliothek) (Ch'bg.,  10623)
+arm1=Hertzallee,1600,0000
+arm2=Müller-Breslau-Straße,3400,0000
+arm3=((Westen)),700,0001
+arm4=((Osten)),2500,0010
+art=Erw,Jugend
+zeit=0800,2000
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=8 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+14	0
+28	0
+37	0
+90	0
+124	0
+98	0
+126	0
+134	3
+167	0
+118	0
+47	0
+33	0
+; 4 -> 3
+38	0
+45	0
+42	0
+78	0
+103	0
+207	0
+169	0
+105	1
+90	0
+44	0
+26	0
+21	0

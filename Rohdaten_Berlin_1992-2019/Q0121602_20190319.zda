@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0121602
+datum=19.03.2019
+kurzken=Q 0121602/19
+bez=Köpenicker Straße (Altglienicker Brücke) (Treptow, 12489) 
+arm1=Altglienicke,1600,0100
+arm2=Ernst-Ruska-Ufer,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+566	24	9	9	66
+415	23	9	5	58
+370	22	11	4	21
+330	16	10	3	26
+317	18	9	4	28
+414	16	7	4	25
+287	10	10	3	21
+315	9	8	7	31
+332	9	8	4	24
+306	4	9	8	17
+285	2	9	2	18
+302	0	9	8	27
+; 2 -> 1
+247	19	9	3	24
+257	11	10	1	18
+251	17	10	6	23
+300	14	11	2	24
+316	15	10	1	15
+346	19	9	5	34
+408	12	9	4	43
+491	9	9	11	55
+498	2	8	7	44
+447	7	9	11	54
+338	6	9	4	31
+368	2	10	6	32

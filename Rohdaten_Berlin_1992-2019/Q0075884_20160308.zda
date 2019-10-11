@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 75884
+datum=08.03.2016
+kurzken=Q 75884/16
+bez=Neuendorfer Straße (nördl. Kirchhofstraße)   (Spandau, 13585)
+arm1=Kirchhofstraße,600,0010
+arm2=Neuendorfer Straße (S),1550,0000
+arm3=Körnerstraße,2410,1000
+arm4=Neuendorfer Straße (N),3290,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=6 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+3	0
+5	0
+4	0
+3	0
+2	0
+6	0
+4	0
+1	0
+7	0
+9	0
+7	0
+7	0
+; 3 -> 1
+3	1
+4	0
+3	0
+7	0
+5	0
+15	0
+11	0
+2	0
+11	0
+10	0
+6	0
+6	0

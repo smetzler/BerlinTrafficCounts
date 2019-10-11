@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41995
+datum=17.09.1996
+kurzken=Q 41995/96
+bez=Seelenbinderstraße  in Höhe Grundstück Nr. 110     (Köpenick, 12555)
+arm1=,800,0000
+arm2=,2500,0000
+arm3=Süd,1600,0001
+arm4=Nord,3500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+12 0
+3 0
+8 1
+2 0
+4 0
+5 3
+2 1
+5 0
+4 0
+9 4
+5 2
+2 0
+; 4 -> 3
+0 0
+2 0
+4 0
+6 0
+5 0
+3 1
+1 0
+5 0
+12 2
+9 3
+3 2
+1 3

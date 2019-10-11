@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19747
+datum=04.06.1986
+kurzken=Q 19747/86
+bez=Kruseweg  suedl. Hildburghauser Strasse   ( Berlin 48 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend Regen
+data=
+; 1 -> 2
+5 0 6 0 24 3 28 1 31 0 9 3 26 11 
+44 10 44 3 46 4 52 8 9 4 
+; 2 -> 1
+1 11 3 6 16 0 30 1 22 0 11 0 12 1 
+33 2 21 2 34 0 32 7 18 4 

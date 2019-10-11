@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0907091
+datum=19.09.2006
+kurzken=Q 0907091/06
+bez=Bismarckstraße (östl. Leibnizstraße)   (Charlottenburg, 10625)
+arm1=Leipnizstraße,950,0100
+arm2=Am Schillerstheater,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=LSA-Ausfall Bismarckstr. (am Schillertheater) von 7 bis 15:50 Uhr!\n20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1374	53	3	46	59
+1682	34	11	56	130
+1417	53	17	35	83
+1290	60	16	36	54
+1272	40	8	33	84
+1279	38	6	29	81
+1297	39	8	35	88
+1252	41	9	37	109
+1409	47	2	37	86
+1394	27	10	65	118
+1460	25	12	42	107
+1558	11	16	47	96
+; 2 -> 1
+1160	57	14	43	44
+1394	49	19	39	52
+1440	58	22	35	64
+1241	81	12	25	61
+1325	58	8	21	68
+1357	57	11	36	61
+1466	43	10	41	60
+1547	28	19	39	89
+1782	37	14	62	93
+1851	68	16	67	98
+1759	18	18	65	127
+1798	16	14	79	112

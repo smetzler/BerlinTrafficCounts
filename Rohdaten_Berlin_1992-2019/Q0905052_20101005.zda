@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905052
+datum=05.10.2010
+kurzken=Q 0905052/10
+bez=Jungstraße (nördl. Scharnweberstraße)   (Friedrichshain, 10247)
+arm1=Scharnweberstraße,1750,0100
+arm2=Frankfurter Allee,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+156	3	0	6	21
+146	4	0	3	40
+185	2	0	11	41
+106	6	0	4	24
+141	5	0	5	12
+69	5	0	3	8
+94	1	0	5	13
+104	1	0	3	14
+192	4	0	8	28
+150	1	0	8	14
+135	0	0	15	23
+123	0	0	7	19
+; 2 -> 1
+128	2	0	7	13
+148	4	0	3	23
+147	10	0	0	31
+130	4	0	0	16
+110	2	0	3	33
+99	3	0	0	20
+102	5	0	5	23
+123	1	0	2	32
+161	2	0	12	33
+164	2	0	11	46
+169	1	0	3	42
+138	3	0	9	38

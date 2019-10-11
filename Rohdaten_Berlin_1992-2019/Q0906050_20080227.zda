@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906050
+datum=27.02.2008
+kurzken=Q 0906050/08
+bez=Reichenberger Straße (Höhe Manteuffelstraße)   (Kreuzberg, 10999)
+arm1=Mariannenstraße,400,0000
+arm2=Lausitzer Straße,2200,0000
+arm3=((Süden)),1300,0001
+arm4=((Norden)),3100,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgänger\, die die Reichenberger Str. in Höhe Manteuffelstr. (50m westl. bis 50m östl.) queren.\nDurchführung der Erhebungen:  - büro für   \n
+data=
+; 3 -> 4
+37	55
+45	21
+45	2
+42	2
+24	1
+34	1
+39	2
+67	25
+56	8
+56	8
+55	8
+58	2
+; 4 -> 3
+46	32
+50	9
+43	4
+44	2
+38	18
+25	4
+50	6
+54	6
+52	8
+53	49
+52	13
+39	6

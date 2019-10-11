@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25095
+datum=21.4.1993
+kurzken=Q 2509.5/93-F
+bez=Kiefholzstraße nördl. Hohenbirker Weg    (Treptow )
+arm1=Ost,1350,0100
+arm2=West,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schuel,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+19 10 26 
+17 3 8 
+15 5 2 
+9 0 0 
+11 1 0 
+15 0 0 
+8 2 0 
+7 1 0 
+24 1 1 
+8 0 2 
+8 1 0 
+3 0 0 
+; 2 -> 1
+8 1 5 
+13 0 1 
+6 0 0 
+3 0 0 
+8 0 3 
+9 0 0 
+9 0 1 
+2 0 1 
+13 2 3 
+10 8 3 
+6 2 0 
+1 0 0 

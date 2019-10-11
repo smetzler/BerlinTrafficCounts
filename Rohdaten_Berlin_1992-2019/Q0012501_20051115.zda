@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 12501
+datum=15.11.2005
+kurzken=Q 12501/05
+bez=Wexstraße (nordwestl. Hauptstr.) (Innsbr. Pl.)  (Schöneberg, 10827)
+arm1=Wexstraße,880,0000
+arm2=Hauptstraße,1420,0001
+arm3=Zu- und Abfahrt BAB,2280,0000
+arm4=Hauptstraße,3220,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=0\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+18	0
+24	2
+50	0
+46	0
+34	0
+60	0
+68	20
+65	8
+68	7
+85	9
+72	5
+65	4
+; 4 -> 2
+67	79
+72	10
+47	18
+35	0
+24	0
+42	2
+38	3
+50	8
+73	3
+83	5
+54	15
+57	5

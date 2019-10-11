@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912124
+datum=03.05.2007
+kurzken=Q 0912124/07
+bez=Tautenburger Straße (nördl. Frankenhauser Straße)   (Lichterfelde, 12249)
+arm1=Brotteroder Straße,200,0100
+arm2=Frankenhauser Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+153	3	9	3	9
+184	5	10	1	3
+174	8	8	4	13
+168	6	6	6	4
+228	6	6	6	12
+230	4	6	13	12
+249	5	9	11	8
+276	2	9	11	7
+312	2	8	12	10
+339	4	7	21	13
+346	1	6	11	12
+321	0	6	20	19
+; 2 -> 1
+337	3	9	14	17
+311	2	9	18	15
+253	6	6	15	17
+194	6	6	4	10
+179	5	6	10	19
+171	1	3	7	9
+191	1	11	5	13
+185	1	8	9	10
+212	0	8	2	8
+165	4	7	14	13
+171	0	6	7	13
+204	0	7	7	10

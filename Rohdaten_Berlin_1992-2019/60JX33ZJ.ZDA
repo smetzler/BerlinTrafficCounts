@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025815
+datum=16.6.1992
+kurzken=Q 25815/92-F
+bez=Kaulsdorfer Straße nördlich Argenauer Straße    ( Berlin 1170-Köpenick )
+arm1=OstWest,950,0100
+arm2=West,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+10 0 
+7 1 
+8 0 
+13 1 
+12 1 
+11 13 
+5 15 
+18 15 
+19 14 
+6 5 
+11 8 
+7 3 
+; 2 -> 1
+7 40 
+4 4 
+7 0 
+11 0 
+12 2 
+11 2 
+5 4 
+9 4 
+23 14 
+16 12 
+15 7 
+5 1 

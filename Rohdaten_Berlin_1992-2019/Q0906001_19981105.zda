@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0906001
+datum=05.11.1998
+kurzken=Q 0906001/98
+bez=Hallesches Ufer (westl. Mehringbrücke)   (Kreuzberg, 10963)
+arm1=Großbeerenstraße,800,0000
+arm2=Mehringbrücke,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+1273	57	6	23
+1260	51	5	25
+1231	42	5	22
+1155	50	2	11
+1061	53	2	13
+1073	45	5	14
+1288	44	4	18
+1268	53	7	24
+1421	61	4	28
+1517	35	5	15
+1350	17	3	16
+1297	16	5	8

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913020
+datum=26.05.1999
+kurzken=Q 0913020/99
+bez=Mariendorfer Damm (nördl. Körtingstraße)   (Mariendorf, 12107)
+arm1=Friedenstraße,100,0100
+arm2=Körtingstraße,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1224	129	23	29
+1184	114	19	44
+1160	134	16	30
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2106	87	22	97
+2188	64	24	97
+2005	46	22	92
+; 2 -> 1
+2302	121	26	91
+1966	96	24	64
+1651	126	18	54
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1501	82	24	58
+1650	8	23	59
+1620	46	25	70

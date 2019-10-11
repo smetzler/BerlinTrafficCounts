@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08038
+datum=28.03.1990
+kurzken=Q 8038/90
+bez=Prinzenstrasse noerdl. Wassertorstrasse    ( Berlin 61 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+25 101 13 24 12 0 12 0 46 1 22 3 13 43 
+15 1 21 4 22 14 6 3 5 0 
+; 2 -> 1
+18 4 22 0 10 0 8 1 29 24 19 27 11 1 
+22 13 23 8 12 2 8 3 4 0 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4304
+datum=14.06.1995
+kurzken=Q 4304/95
+bez=Schillingstraße (südl. Magazinstraße),(Mitte, 10718)
+arm1=Singerstraße,1650,0100
+arm2=Magazinstraße,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+61 1 0 0 13
+56 4 1 0 11
+42 5 1 0 5
+52 4 0 0 20
+44 4 0 1 9
+46 3 0 1 9
+49 3 0 0 12
+76 1 1 2 13
+66 4 0 4 4
+98 2 0 1 11
+73 0 0 0 30
+52 0 0 1 16
+; 2 -> 1
+72 5 0 2 19
+70 6 0 0 17
+68 9 0 0 16
+58 2 0 0 12
+70 5 0 0 17
+81 5 0 1 6
+82 3 0 0 3
+84 2 0 0 8
+88 0 0 2 8
+79 0 0 0 11
+88 0 0 3 18
+70 0 0 0 20

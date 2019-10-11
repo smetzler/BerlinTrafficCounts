@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025805
+datum=28.4.1992
+kurzken=Q 2580.5/92-F
+bez=Marksburgstraße westlich Treskowallee    ( Berlin 1157-Lbg )
+arm1=Süd,1680,0100
+arm2=Nord,3480,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+22 
+16 
+35 
+32 
+39 
+55 
+40 
+46 
+65 
+61 
+53 
+27 
+; 2 -> 1
+35 
+64 
+19 
+39 
+54 
+56 
+44 
+71 
+100 
+99 
+69 
+36 

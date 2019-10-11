@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 5858
+datum=04.05.1988
+kurzken=K 5858/88
+bez=Rheinstrasse / Roennebergstrasse - Dickhardtstrasse   ( Berlin 41 )
+Arm1=Roennebergstrasse,430,0010
+Arm2=Rheinstrasse,1440,0010
+Arm3=Dickhardtstrasse,2700,0000
+Arm4=Rheinstrasse,3240,0010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 12, 14, 24 und 42 nicht erfasst !\nFuer die Gesamtverkehrsstaerke auf der Rheinstrasse (Knotenarm 4)\nvgl. K 1413/88 (Knotenarm 2).
+data=
+; 1 -> 3
+3 10 3 12 17 15 6 5 10 7 13 3 
+; 2 -> 3
+24 21 18 34 29 35 15 15 25 28 22 21 
+; 4 -> 3
+17 20 15 19 16 23 20 15 20 18 23 20 

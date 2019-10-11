@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910151
+datum=14.04.2015
+kurzken=Q 0910151/15
+bez=Teltower Damm (Höhe Bus-Hst. Alt-Schönow)   (Schönow, 14167)
+arm1=Beeskowdamm,50,0000
+arm2=Teltow,1950,0000
+arm3=(Westen)),950,0001
+arm4=((Osten)),2750,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Teltower Damm im Bereich der Bushaltestelle queren (ca. 50m südl. bis 50m nördl. der Str. Alt-Schönow)\n
+data=
+; 3 -> 4
+4	0
+9	0
+2	0
+10	0
+6	0
+2	0
+3	0
+11	3
+0	0
+4	0
+3	0
+1	0
+; 4 -> 3
+6	0
+2	0
+3	0
+4	1
+6	0
+3	0
+4	0
+2	0
+4	0
+4	4
+5	2
+2	1

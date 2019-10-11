@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5254081
+datum=17.05.1994
+kurzken=Q 5254081/94
+bez=Halker Zeile / nördl. Barnetstraße     (Lichtenrade)
+arm1=Ekensunder Weg,50,0100
+arm2=Barnetstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+51 2 0 1 23
+54 0 0 1 10
+50 1 0 0 5
+24 0 0 4 6
+39 1 0 0 28
+42 2 0 0 4
+52 1 0 5 24
+45 1 0 0 10
+62 0 2 2 18
+63 1 0 0 20
+72 1 0 1 30
+62 0 0 4 21
+; 2 -> 1
+53 1 0 0 8
+53 1 0 0 11
+27 0 0 2 21
+36 0 0 0 0
+23 1 0 2 10
+37 1 0 0 10
+41 1 0 2 28
+30 2 0 3 15
+42 4 0 2 8
+76 0 1 2 27
+57 1 1 2 10
+66 0 0 2 10

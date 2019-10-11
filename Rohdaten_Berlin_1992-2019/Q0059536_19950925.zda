@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 59536
+datum=25.09.1995
+kurzken=Q 59536/95
+bez=Goerzallee (von Altdorfer Str. bis 100m südl.)   (Lichterfelde, 12207)
+arm1=Engadiner Weg,1500,0000
+arm2=Altdorfer Straße ,3300,0000
+arm3=Westen,600,0001
+arm4=Osten,2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 20°\, sonnig\, kein Niederschlag. 
+data=
+; 3 -> 4
+4 1
+3 1
+1 0
+2 0
+2 0
+1 0
+1 1
+2 0
+2 0
+1 0
+2 1
+1 0
+; 4 -> 3
+10 1
+4 2
+6 0
+2 0
+3 0
+7 2
+10 0
+6 1
+4 0
+3 0
+7 0
+2 0

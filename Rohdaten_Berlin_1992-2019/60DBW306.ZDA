@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 17276
+datum=23.05.1989
+kurzken=Q 17276/89
+bez=Charlottenstrasse westl. Leonorenstrasse    ( Berlin 46 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+20 17 36 55 84 44 34 27 47 61 49 20 
+; 2 -> 1
+30 31 67 97 87 78 25 64 78 93 60 30 

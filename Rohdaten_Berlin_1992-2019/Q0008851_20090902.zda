@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 8851
+datum=02.09.2009
+kurzken=Q 8851/09
+bez=Oranienstraße (westl. Mariannenstraße) (Heinrichplatz)   (Kreuzberg, 10999)
+arm1=Oranienstraße (W),650,0000
+arm2=Mriannenstraße (S),1550,0001
+arm3=Oranienstraße (O),2450,0000
+arm4=Mariannenstraße (N),3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=12 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+23	19
+38	5
+48	2
+51	10
+43	2
+89	3
+81	9
+96	30
+132	31
+109	34
+112	25
+120	11
+; 4 -> 2
+37	21
+45	6
+53	1
+51	1
+42	22
+44	2
+55	7
+66	11
+71	20
+81	16
+63	11
+90	12

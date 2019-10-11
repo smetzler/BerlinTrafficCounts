@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914099
+datum=27.09.2010
+kurzken=Q 0914099/10
+bez=Karlsgartenstraße (Höhe Nr. 6 - Zugang Grundschule)   (Neukölln, 12053)
+arm1=Fontanestraße,950,0100
+arm2=Wissmannstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+50	1	0	0	0
+67	1	0	0	10
+49	1	0	0	9
+38	2	0	0	6
+46	0	0	0	7
+35	0	0	0	8
+45	0	0	0	9
+49	1	0	1	14
+36	0	0	0	6
+52	0	0	0	15
+42	2	0	1	21
+45	0	0	2	16
+; 2 -> 1
+61	1	0	1	10
+53	0	0	1	15
+43	0	0	1	8
+44	2	0	0	12
+50	0	0	0	12
+72	1	0	0	11
+73	2	0	0	13
+83	0	0	1	18
+122	0	0	0	12
+104	0	0	1	16
+94	0	0	1	19
+102	0	0	2	18

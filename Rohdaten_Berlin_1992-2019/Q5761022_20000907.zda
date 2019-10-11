@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5761022
+datum=07.09.2000
+kurzken=Q 5761022/00
+bez=Blankenfelder Straße (südl. Kastanienallee)   (Pankow, 13153)
+arm1=Blankenfelder Straße,30,0000
+arm2=Kastanienallee,1030,0001
+arm3=Blankenfelder Straße,1680,0000
+arm4=Osten,2830,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonnenstd.=8; Niederschlag=3 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	2
+7	3
+5	3
+8	2
+9	2
+11	0
+4	2
+2	0
+1	1
+5	2
+1	0
+2	0
+; 4 -> 2
+6	3
+5	1
+6	2
+14	3
+8	1
+4	1
+7	2
+2	1
+4	1
+5	1
+2	0
+2	0

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60326
+datum=02.10.1986
+kurzken=Q 60326/86
+bez=Felixstrasse  suedl. Goetzstrasse    ( Berlin 42 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt, trocken
+data=
+; 1 -> 2
+11 7 9 2 12 1 16 0 5 0 3 0 5 2 
+7 4 2 3 4 0 6 2 8 5 
+; 2 -> 1
+2 0 6 2 7 0 8 1 8 1 10 5 9 8 
+6 0 6 1 17 4 14 2 11 0 

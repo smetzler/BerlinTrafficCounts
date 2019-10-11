@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0080906
+datum=07.03.2019
+kurzken=Q 0080906/19
+bez=Romain-Rolland-Straße- Rennbahnstr. (östl. Wischbergeweg) (Weißensee, 13086) 
+arm1=Romain-Rolland-Straße,750,0100
+arm2=Rennbahnstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+825	37	9	5	34
+728	51	12	3	18
+703	53	8	10	22
+758	40	8	2	18
+681	23	8	2	17
+653	45	9	4	8
+735	48	11	8	14
+763	33	7	11	18
+891	32	9	9	12
+768	12	8	0	24
+804	6	9	11	17
+735	7	11	6	13
+; 2 -> 1
+549	45	9	5	16
+624	50	9	2	23
+558	49	7	4	24
+712	34	10	6	18
+629	29	8	3	18
+646	54	9	6	11
+813	42	10	6	15
+883	31	11	16	33
+1098	40	10	10	22
+986	30	4	4	32
+996	14	15	10	22
+865	9	8	4	19

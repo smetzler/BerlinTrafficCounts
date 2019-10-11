@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909019
+datum=21.04.1999
+kurzken=Q 0909019/99
+bez=BAB A104 (Abzweig Steglitz) Zu,Abfahrt Breitenbachpl. (Wilm'd., 14197)
+arm1=BAB A104 (Überbauung),50,0100
+arm2=Breitenbachplatz,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+567	9	0	14
+675	13	0	10
+534	12	0	13
+505	8	0	10
+495	10	0	6
+564	8	0	5
+542	8	0	11
+614	11	0	14
+709	5	0	11
+774	3	0	10
+765	5	0	15
+758	1	0	7
+; 2 -> 1
+807	9	1	12
+991	12	2	11
+667	6	1	12
+550	12	1	9
+468	18	1	10
+450	12	0	6
+516	9	0	18
+510	7	0	7
+557	4	0	17
+611	9	0	14
+627	4	0	7
+522	3	1	6

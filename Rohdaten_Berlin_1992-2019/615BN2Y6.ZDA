@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 53555
+datum=15.03.1989
+kurzken=Q 53555/89
+bez=Gneisenaustrasse westlich Mittenwalder Strasse     ( Berlin 61 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+18 21 30 28 20 29 34 30 36 36 57 33 
+; 2 -> 1
+9 20 16 30 39 23 33 24 47 43 48 18 

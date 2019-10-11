@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0012
+datum=20.09.2015
+kurzken=Q 0012/15
+bez=B2 - Potsdamer Ch. (nordöstl. Maximilian-Kolbe-Str.)  (Spandau, 14089)
+arm1=Ritterfelddamm,1500,0100
+arm2=Daberkowstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 95\, Feld 1d
+data=
+; 1 -> 2
+441	0	0	5	16	4
+420	0	0	5	9	2
+386	0	0	5	7	7
+; 2 -> 1
+319	1	0	4	2	5
+360	0	0	5	6	5
+361	0	0	6	2	7

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 52672
+datum=22.10.2003
+kurzken=Q 52672/03
+bez=Transvaalstraße (südwestl. Togostraße)   (Wedding, 13351)
+arm1=Togostraße,470,0010
+arm2=Transvaalstraße,1360,0000
+arm3=(Parkweg),2270,1000
+arm4=Transvaalstraße,3160,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=2 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+24	37
+16	10
+14	6
+13	7
+20	0
+19	3
+14	12
+10	5
+10	9
+17	22
+11	2
+24	7
+; 3 -> 1
+11	5
+15	3
+7	1
+13	2
+7	4
+16	15
+16	16
+18	15
+16	15
+21	12
+12	4
+13	4

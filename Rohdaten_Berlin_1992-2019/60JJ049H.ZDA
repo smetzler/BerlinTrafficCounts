@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25308
+datum=22.04.1993
+kurzken=Q 2530.8/93-F
+bez=Marie-Curie-Allee nördl. Zachertstraße    (Lichtenberg )
+arm1=Ost,1500,0100
+arm2=West,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+22 16
+15 17
+20 0
+40 0
+37 0
+26 2
+22 3
+14 4
+21 4
+22 6
+35 6
+10 0
+; 2 -> 1
+12 10
+16 11
+20 3
+21 1
+31 0
+21 1
+19 3
+19 2
+20 8
+22 7
+27 5
+21 1

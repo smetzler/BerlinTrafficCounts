@@ -1,0 +1,45 @@
+[ZA1001]
+knoten=Q 0050605
+datum=08.04.2019
+kurzken=Q 0050605/19
+bez=A100 - Stadtring (Tunnel nordwestl. Rathenauplatz) (Wilmersdorf, 10711) 
+arm1=AD Funkturm,300,0100
+arm2=Schwarzbacher Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+Zählung Spur 4nach3 war nicht möglich wegen Sperrung 
+data=
+; 1 -> 2
+5484	307	5	72	0
+5333	306	3	61	0
+5081	372	13	72	0
+3520	332	8	54	0
+3646	411	11	50	0
+6871	302	14	103	0
+5944	587	31	94	0
+6710	485	46	102	0
+4924	271	41	181	0
+4500	194	32	58	0
+5625	126	23	114	0
+5649	138	25	96	0
+; 2 -> 1
+4885	312	7	122	0
+4245	307	16	87	0
+3083	202	12	64	0
+4230	502	20	70	0
+3828	378	14	58	0
+3770	409	9	65	0
+4283	338	14	71	0
+4572	296	8	115	0
+3987	223	6	75	0
+3580	140	10	84	0
+3837	103	5	103	0
+4418	101	5	85	0

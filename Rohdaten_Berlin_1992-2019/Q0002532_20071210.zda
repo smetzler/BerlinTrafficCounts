@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2532
+datum=10.12.2007
+kurzken=Q 2532/07
+bez=Klosterbuschweg (südl. Seegefelder Weg)    (Spandau, 13591)
+arm1=Seegefelder Weg,720,0010
+arm2=Klosterbuschweg,1720,0000
+arm3=Seegefelder Weg,2520,1000
+arm4=Am Kiesteich,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+0	0
+0	0
+1	0
+0	0
+0	2
+0	0
+1	1
+2	2
+3	1
+2	0
+1	0
+; 3 -> 1
+4	4
+7	1
+1	0
+2	0
+3	0
+6	0
+1	1
+2	1
+0	2
+3	0
+2	3
+3	0

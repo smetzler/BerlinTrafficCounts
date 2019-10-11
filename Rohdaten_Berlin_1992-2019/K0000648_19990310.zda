@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=K 648
+datum=10.03.1999
+kurzken=K 648/99
+bez=Entlastungsstraße / Tiergartenstraße - Lennestraße   (Tiergarten, 10785)
+arm1=Entlastungsstraße,150,0100
+arm2=Tiergartenstraße,1050,0000
+arm3=,0,0000
+arm4=Lennestraße,2850,0100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+781	50	4	10
+842	53	5	7
+736	52	3	9
+558	46	4	3
+567	50	3	6
+573	46	5	12
+693	37	6	13
+663	33	3	4
+960	27	4	6
+942	22	5	13
+827	20	4	11
+782	8	5	11
+; 4 -> 2
+1240	53	8	6
+1430	71	11	9
+1252	62	10	8
+1002	50	10	13
+938	62	9	3
+945	62	6	12
+977	48	10	7
+963	59	8	5
+1072	56	4	14
+1089	33	7	12
+1097	24	14	13
+1060	11	12	6

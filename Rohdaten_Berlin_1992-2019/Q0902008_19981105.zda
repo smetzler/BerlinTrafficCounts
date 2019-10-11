@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0902008
+datum=05.11.1998
+kurzken=Q 0902008/98
+bez=Rathenower Straße (nördl. Birkenstraße)   (Moabit, 10559)
+arm1=Kruppstraße,200,0100
+arm2=Birkenstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+473	21	10	10
+456	26	5	14
+405	27	8	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+526	12	5	6
+513	6	8	9
+413	7	9	7
+; 2 -> 1
+376	22	5	9
+394	22	8	1
+413	35	6	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+525	19	6	12
+469	16	6	4
+445	10	6	16

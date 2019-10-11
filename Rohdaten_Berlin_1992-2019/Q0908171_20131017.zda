@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908171
+datum=17.10.2013
+kurzken=Q 0908171/13
+bez=Wilhelmstraße (östliche Gehwegseite, vor Nr. 98)   (Spandau, 13593)
+arm1=Weinmeisterhornweg,1600,0100
+arm2=Rodensteinstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgänger (Erw. + Jugend) nur auf dem östlichen Geweg (vor Nr. 98).\nWetter: max T=16°C; Sonne=2 Std; Niederschlag=4 mm;
+data=
+; 1 -> 2
+2	0
+3	0
+2	0
+2	0
+3	1
+1	0
+0	0
+1	0
+1	0
+0	0
+2	0
+0	0
+; 2 -> 1
+1	0
+1	0
+4	0
+2	0
+0	0
+4	1
+0	0
+2	0
+1	0
+0	0
+1	0
+1	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913906
+datum=20.11.2017
+kurzken=Q 0913906/17
+bez=Blankenburger Straße (östl. Straße 41; Höhe Nr. 107)   (Niederschönhausen, 13156)
+arm1=Straße 41,1100,0100
+arm2=Grumbkowstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+293	26	10	2	13
+391	25	11	2	22
+400	30	13	1	6
+360	46	10	1	8
+428	31	13	2	26
+473	34	12	4	11
+485	21	11	3	12
+519	15	10	2	23
+530	18	13	1	42
+492	8	14	2	34
+497	5	11	4	24
+472	4	10	2	19
+; 2 -> 1
+421	37	7	3	83
+384	28	7	4	36
+411	36	5	2	22
+540	38	6	6	16
+472	49	6	2	26
+392	26	8	1	8
+419	18	5	5	9
+140	18	7	3	6
+407	12	6	6	12
+636	14	6	4	24
+404	3	6	1	14
+379	4	5	1	5

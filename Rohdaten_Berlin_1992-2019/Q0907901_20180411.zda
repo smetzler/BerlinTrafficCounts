@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907901
+datum=11.04.2018
+kurzken=Q 0907901/18
+bez=Joachimstaler Straße (nördl. Lietzenburger Straße) (Charlottenburg, 10623)
+arm1=Lietzenburger Straße,1750,0100
+arm2=Augsburger Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 19°C max T; 11 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); \n1 Niederschlagtag(e) Vorwoche (>2 mm).\n1>2\, 16-17h: 55 Touristen mit Fahrrädern\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+93
+191
+62
+12
+53
+37
+31
+42
+41
+93
+54
+43
+; 2 -> 1
+21
+16
+7
+10
+18
+26
+38
+29
+69
+76
+45
+40

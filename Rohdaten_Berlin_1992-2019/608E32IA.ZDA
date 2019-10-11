@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10875
+datum=19.11.1987
+kurzken=Q 10875/87
+bez=Kreuzbergstrasse westlich Moeckernstrasse     ( Berlin 61 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : regnerisch !
+data=
+; 1 -> 2
+3 4 5 2 3 4 3 1 5 2 1 1 
+; 2 -> 1
+1 3 3 2 2 1 4 0 14 3 0 1 

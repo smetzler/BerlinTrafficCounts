@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908048
+datum=24.08.2006
+kurzken=Q 0908048/06
+bez=Ruhlebener Straße (Dischingerbrücke - Havel)   (Spandau, 13597)
+arm1=Klosterstraße,700,0100
+arm2=Grunewaldstraße,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1589	65	20	80	44
+1447	65	25	43	65
+1112	64	16	43	43
+946	56	14	38	40
+959	70	15	53	63
+1006	51	11	33	48
+1097	39	10	45	63
+1224	29	9	53	61
+1376	20	10	84	42
+1237	21	12	47	57
+1155	13	9	52	85
+1125	20	10	50	37
+; 2 -> 1
+952	53	9	42	48
+1023	48	9	22	19
+989	65	12	22	41
+1022	52	8	36	28
+1115	59	11	48	49
+1096	66	8	55	44
+1511	78	11	57	60
+1629	65	11	81	52
+1450	44	18	108	60
+1716	43	11	93	78
+1645	31	8	54	68
+1419	15	11	73	40

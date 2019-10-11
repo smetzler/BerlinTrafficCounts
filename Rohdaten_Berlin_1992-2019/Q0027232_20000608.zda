@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27232
+datum=08.06.2000
+kurzken=Q 27232/00
+bez=Kastanienallee (südl. Zossener Straße)  (Hellersdorf, 12627)
+arm1=Zossener Straße,800,0010
+arm2=Kastanienallee,1850,0000
+arm3=Zossener Straße,2750,1000
+arm4=Norden,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonnenstd.=13; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+9	2
+3	1
+1	0
+7	0
+2	1
+7	2
+4	9
+7	8
+13	13
+17	7
+21	15
+16	5
+; 3 -> 1
+9	6
+0	2
+3	0
+8	2
+5	2
+2	0
+5	1
+1	3
+6	8
+11	11
+14	17
+8	4

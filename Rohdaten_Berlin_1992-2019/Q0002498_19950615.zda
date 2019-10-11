@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 2498
+datum=15.06.1995
+kurzken=Q 2498/95
+bez=Behmstraße (westl. Bellermannstraße),  (Wedding, 13357)
+arm1=Badstraße,1000,0100
+arm2=Bellermannstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+103 11 5 0 4
+106 13 6 1 10
+132 14 4 1 5
+167 16 4 2 13
+181 13 7 2 11
+150 16 2 2 3
+145 9 3 2 2
+202 11 3 3 7
+317 11 3 5 8
+461 9 3 3 12
+343 11 3 3 14
+273 5 3 5 19
+; 2 -> 1
+132 8 0 3 9
+115 2 6 3 17
+89 5 3 1 10
+105 5 3 2 7
+96 5 3 0 13
+100 3 2 1 8
+90 5 3 1 3
+118 2 3 2 13
+123 6 3 2 5
+136 1 2 1 5
+136 3 4 0 7
+122 1 3 0 5

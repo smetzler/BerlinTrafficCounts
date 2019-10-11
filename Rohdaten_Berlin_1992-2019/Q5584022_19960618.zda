@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5584022
+datum=18.06.1996
+kurzken=Q 5584022/96.2
+bez=Lichtenberger Str.  südl. Palisadenstr., (Friedrichshain, 10243)
+arm1=Neue Weberstraße,1700,0100
+arm2=Palisadenstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=19°C\, meist sonnig\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+12
+12
+16
+16
+13
+13
+7
+26
+31
+36
+23
+35
+; 2 -> 1
+21
+34
+32
+28
+22
+14
+27
+19
+21
+39
+28
+28

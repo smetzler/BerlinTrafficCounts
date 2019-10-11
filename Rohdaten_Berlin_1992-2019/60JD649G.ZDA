@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25098
+datum=21.4.1993
+kurzken=Q 2509.8/93-F
+bez=Marientaler Straße östl. Kiefholzstraße    (Treptow )
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Kinder,Schuel,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+20 2 8 
+13 1 4 
+40 2 1 
+47 1 2 
+31 5 8 
+26 3 7 
+44 2 5 
+42 7 5 
+45 9 14 
+34 5 3 
+30 2 1 
+20 3 0 
+; 2 -> 1
+19 6 4 
+10 4 1 
+35 3 1 
+47 2 3 
+34 2 2 
+32 2 6 
+42 5 4 
+37 3 4 
+29 8 7 
+20 4 4 
+31 3 5 
+24 4 0 

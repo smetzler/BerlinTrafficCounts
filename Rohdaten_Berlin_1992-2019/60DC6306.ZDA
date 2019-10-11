@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 17286
+datum=23.05.1989
+kurzken=Q 17286/89
+bez=Theklastrasse suedl. Finckensteinallee    ( Berlin 45 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+16 7 2 2 8 6 5 2 3 0 9 1 2 1 
+9 3 4 4 2 2 19 4 2 0 
+; 2 -> 1
+7 0 8 0 5 6 4 3 9 0 6 0 3 0 
+7 4 11 0 8 1 10 5 2 0 

@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0919006
+datum=17.06.1998
+kurzken=Q 0919006/98
+bez=Kreuzstraße (südl. Schönholzer Straße)   (Pankow, 13187)
+arm1=Schönholzer Straße,0,0100
+arm2=Wilhelm-Kuhr-Straße,1700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+371	19	0	10
+325	21	0	9
+258	18	0	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+307	13	0	6
+360	14	1	9
+312	8	0	12

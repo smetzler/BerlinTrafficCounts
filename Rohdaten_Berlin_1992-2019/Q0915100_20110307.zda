@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0915100
+datum=07.03.2011
+kurzken=Q 0915100/11
+bez=Alt-Treptow (Höhe Restauration Zenner)   (Treptow, 12435)
+arm1=Puschkinallee,300,0000
+arm2=Bulgarische Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+2133	88	11	13	27
+2088	102	11	12	34
+1415	101	15	10	55
+1082	100	16	8	12
+969	68	20	14	21
+1068	62	12	15	23
+1020	65	9	13	23
+1152	45	8	17	18
+1310	25	9	17	24
+1370	26	10	12	16
+1316	15	12	17	17
+1083	8	10	7	10

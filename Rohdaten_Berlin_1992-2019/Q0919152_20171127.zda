@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919152
+datum=27.11.2017
+kurzken=Q 0919152/17
+bez=Hauptstraße (westl. Schildower Straße)   (Blankenfelde, 13159)
+arm1=Mönchmühler Straße,1000,0100
+arm2=Schildower Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+132	2	0	1	1
+151	3	0	1	1
+126	3	0	0	1
+128	4	0	1	0
+138	3	0	2	0
+150	1	0	0	0
+218	2	1	0	1
+281	2	0	0	2
+454	5	0	3	2
+580	6	0	2	2
+299	0	0	1	1
+218	1	0	1	0
+; 2 -> 1
+528	2	0	2	7
+349	8	0	0	3
+255	5	1	1	0
+132	2	0	0	0
+124	4	0	0	1
+113	4	0	0	1
+114	1	0	0	2
+159	3	0	0	2
+210	5	0	0	2
+276	3	0	0	3
+113	1	0	2	0
+108	1	0	0	1

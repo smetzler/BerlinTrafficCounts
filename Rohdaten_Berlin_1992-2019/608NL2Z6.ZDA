@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11217
+datum=19.04.1989
+kurzken=Q 11217/89
+bez=Paul-Lincke-Ufer oestl. Thielenbruecke    ( Berlin 36 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+18 31 15 24 16 35 34 17 38 39 34 17 
+; 2 -> 1
+6 13 13 22 30 26 56 34 31 43 44 46 

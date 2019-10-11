@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6634011
+datum=28.09.2016
+kurzken=Q 6634011/16
+bez=Zu- Abf. Kleingärten (westl. Roelckestraße)   (Weißensee, 13088)
+arm1=Zufahrt-Kleingärten,450,0000
+arm2=Roelckestraße (S),1400,0001
+arm3=Nüßlerstraße,2600,0000
+arm4=Roelckestraße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=0\,5 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+3	0
+0	0
+2	0
+2	0
+3	0
+2	0
+4	15
+4	0
+2	0
+0	0
+3	1
+3	1
+; 4 -> 2
+2	0
+1	0
+3	0
+4	13
+2	0
+2	0
+2	0
+1	0
+3	0
+2	1
+4	3
+1	0

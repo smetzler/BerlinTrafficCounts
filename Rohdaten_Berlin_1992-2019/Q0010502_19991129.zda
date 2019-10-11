@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010502
+datum=29.11.1999
+kurzken=Q 010502/99
+bez=Detmolder Straße (östl. Mecklenburgische Straße) (Wilmersdorf, 10713)
+arm1=Mecklenburgische Straße ,600,0100
+arm2=Blissestraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+184	30	36	0
+366	30	9	2
+429	35	10	0
+330	40	36	0
+345	38	21	0
+369	48	21	1
+418	43	14	0
+425	27	36	0
+402	54	18	0
+561	62	14	0
+528	45	12	0
+508	23	10	0
+; 2 -> 1
+378	21	15	1
+897	49	31	0
+1298	75	47	1
+712	44	41	0
+501	26	29	2
+455	21	31	1
+421	27	41	2
+397	35	35	1
+432	48	22	2
+541	34	15	1
+856	55	12	2
+597	33	9	0

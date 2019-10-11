@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 3291
+datum=19.09.2018
+kurzken=Q 3291/18
+bez=Paulsternstraße (nördl. Nonnendammallee)   (Siemensstadt, 13629)
+arm1=Paulsternstraße,100,0000
+arm2=Nonnendammallee (W),850,0001
+arm3=Otternbuchtstraße,1900,0000
+arm4=Nonnendammallee (O),2650,0100
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n\nHoher Anzahl Fußgänger von 16 - 17:00 Uhr!
+data=
+; 2 -> 4
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+2	0
+0	0
+4	0
+3	0
+20	1
+6	0
+1	0
+11	0
+6	2
+21	0
+4	0
+7	0
+2	0
+3	0
+1	0
+0	0
+0	0
+; 4 -> 2
+1	0
+0	0
+0	0
+1	0
+3	0
+0	0
+3	0
+6	0
+2	0
+6	0
+4	1
+8	0
+11	0
+4	0
+9	0
+2	0
+201	1
+11	0
+1	0
+2	0
+2	0
+0	0
+0	0
+0	0

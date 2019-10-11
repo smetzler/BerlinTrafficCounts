@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 4225
+datum=24.04.1997
+kurzken=Q 4225/97
+bez=Zufahrt BAB Stadtring (A100),  westl. Naumannstraße  (Schöneberg, 10829)
+arm1=BAB,900,0000
+arm2=Sachsendamm,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+704 79 5 9
+745 59 3 17
+730 61 3 16
+712 65 0 11
+660 60 1 22
+644 52 3 13
+782 53 2 19
+705 44 1 14
+870 25 2 46
+759 32 4 17
+727 23 2 19
+689 28 3 15

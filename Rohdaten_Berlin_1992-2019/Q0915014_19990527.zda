@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915014
+datum=27.05.1999
+kurzken=Q 0915014/99
+bez=Stubenrauchstraße (nördl. Eisenhutstraße)   (Johannisthal, 12487)
+arm1=Teltowkanal,1500,0100
+arm2=Eisenhutstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+461	71	10	21
+505	70	7	14
+427	53	7	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+485	38	13	18
+545	25	10	20
+456	24	12	19
+; 2 -> 1
+560	44	12	4
+469	56	9	12
+372	46	6	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+544	38	13	24
+523	40	12	17
+491	20	9	12

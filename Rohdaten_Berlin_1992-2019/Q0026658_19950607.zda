@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26658
+datum=07.06.1995
+kurzken=Q 26658/95
+bez=Mahlsdorfer Str. (nördl. Greifswalder Str.),(Mahldorf-Nord, 12633)
+arm1=Westen,600,0010
+arm2=Hönower Straße ,1500,0000
+arm3=Osten,2600,1000
+arm4=Mahlsdorfer Straße ,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 21°\, bewölkt\, 5 mm Niederschlag
+data=
+; 1 -> 3
+0 0
+1 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+; 3 -> 1
+0 1
+2 2
+2 0
+0 0
+0 0
+1 0
+0 0
+2 0
+0 2
+1 0
+0 1
+1 0

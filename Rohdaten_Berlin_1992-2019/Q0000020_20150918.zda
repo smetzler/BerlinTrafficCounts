@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0020
+datum=18.09.2015
+kurzken=Q 0020/15
+bez=B2 - Potsdamer Chaussee (westl. Ritterfelddamm)  (Spandau, 14089)
+arm1=Landesgrenze,800,0100
+arm2=Ritterfelddamm,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 110\, Feld 2a
+data=
+; 1 -> 2
+467	7	1	4	11	2
+508	7	2	5	21	5
+464	7	1	5	17	3
+; 2 -> 1
+588	9	2	5	13	7
+591	9	1	5	9	7
+512	4	0	4	18	5

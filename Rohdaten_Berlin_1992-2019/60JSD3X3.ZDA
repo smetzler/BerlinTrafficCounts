@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025645
+datum=24.3.1992
+kurzken=Q 2564.5/92-F
+bez=Zionskirchstraße westlich Kastanienallee    ( Berlin 1054-Mitte )
+arm1=Süd,1500,0100
+arm2=Nord,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+10 5 
+8 1 
+27 4 
+29 1 
+25 0 
+30 0 
+40 5 
+53 9 
+26 14 
+37 6 
+63 8 
+36 3 
+; 2 -> 1
+29 11 
+17 35 
+28 5 
+34 4 
+32 5 
+38 2 
+34 3 
+58 14 
+35 13 
+44 16 
+63 10 
+37 0 

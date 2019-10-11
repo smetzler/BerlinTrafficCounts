@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907146
+datum=17.03.2014
+kurzken=Q 0907146/14
+bez=A100 Stadtring - Zufahrt Messedamm-Kaiserdamm (Süd)   (Charlottenburg, 10711)
+arm1=Messedamm - Kaiserdamm,350,0100
+arm2=A100 Stadtring (AD Funkturm),1700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+773	23	1	4
+864	33	1	1
+625	47	1	1
+512	29	1	4
+489	23	0	1
+677	27	0	2
+651	45	1	4
+834	43	1	9
+1096	33	2	10
+1022	23	2	5
+985	21	2	9
+845	10	0	1

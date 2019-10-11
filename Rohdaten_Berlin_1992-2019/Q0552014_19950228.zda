@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 552014
+datum=28.02.1995
+kurzken=Q 552014/95
+bez=Leipziger Straße (östl. Friedrichstraße) (Mitte,10178)
+arm1=Friedrichstraße,1000,0100
+arm2=Charlottenstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+1146 68 8 5 3
+1166 77 6 2 6
+1076 111 5 2 12
+1064 94 5 2 7
+1093 104 6 4 13
+1014 90 7 7 8
+1237 87 3 11 1
+1196 69 5 4 13
+1548 52 3 9 17
+1674 41 4 9 16
+1543 31 6 8 11
+1492 12 5 4 9
+; 2 -> 1
+1418 100 4 6 4
+1035 85 3 5 5
+973 99 6 2 12
+982 101 4 3 5
+950 80 10 3 4
+914 86 5 4 5
+1001 60 7 5 1
+1115 69 4 4 2
+1457 55 6 6 9
+1567 36 4 7 8
+1310 21 3 7 5
+1114 24 4 2 5

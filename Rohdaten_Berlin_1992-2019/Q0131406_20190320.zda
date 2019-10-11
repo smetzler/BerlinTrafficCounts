@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0131406
+datum=20.03.2019
+kurzken=Q 0131406/19
+bez=Marienfelder Chaussee (östl. Lichtenrader Damm) (Tempelhof, 12349) 
+arm1=Lichtenrader Damm,1100,0100
+arm2=Ostheimer Straße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+548	22	18	4	9
+517	23	14	2	12
+556	34	14	4	11
+544	30	14	12	16
+640	18	11	5	16
+699	22	12	10	21
+733	21	14	8	16
+999	9	13	12	28
+948	15	12	10	24
+946	12	10	24	32
+869	8	14	12	46
+781	7	12	10	19
+; 2 -> 1
+988	25	18	8	16
+849	27	14	7	15
+672	25	10	4	19
+626	22	12	8	18
+633	19	12	9	11
+619	24	12	3	16
+731	17	12	12	24
+670	6	12	11	23
+785	7	11	9	13
+696	2	14	10	14
+730	6	11	11	20
+651	1	12	7	18

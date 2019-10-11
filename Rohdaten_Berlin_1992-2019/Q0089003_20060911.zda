@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 089003
+datum=11.09.2006
+kurzken=Q 089003/06
+bez=Hobrechtsfelder Chaussee (Stadtgrenze)   (Buch, 13125)
+arm1=Buch,1500,0100
+arm2=Schönerlinder Str. (Hobrechtsfelde),3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+42	3	0	0	0
+50	2	3	0	0
+47	6	6	0	0
+62	4	4	0	0
+64	3	3	1	0
+61	5	4	0	0
+89	12	2	0	0
+92	10	3	0	0
+146	12	4	0	0
+189	14	2	0	0
+226	35	3	1	0
+213	27	1	0	1
+; 2 -> 1
+282	30	2	0	0
+336	19	2	0	0
+198	10	5	0	0
+118	0	2	0	0
+87	6	2	0	0
+66	9	2	0	1
+72	7	0	0	0
+54	4	3	0	0
+50	10	6	0	0
+68	4	2	0	2
+65	11	0	0	0
+73	3	0	0	0

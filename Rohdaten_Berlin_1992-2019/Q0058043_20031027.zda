@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 58043
+datum=27.10.2003
+kurzken=Q 58043/03
+bez=Fregestraße (südl. Hauptstraße)   (Schöneberg, 121599)
+arm1=,0,0000
+arm2=Hauptstraße,1390,0001
+arm3=Fregestraße,1820,0000
+arm4=Hauptstraße,3190,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=9\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+7	1
+7	1
+14	1
+33	4
+35	4
+34	0
+22	2
+39	3
+53	6
+32	2
+25	0
+23	7
+; 4 -> 2
+10	6
+17	2
+12	3
+29	4
+16	1
+38	0
+17	0
+20	0
+26	4
+25	0
+29	0
+11	0

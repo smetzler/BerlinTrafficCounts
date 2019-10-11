@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920334
+datum=20.06.2018
+kurzken=Q 0920334/18
+bez=Quickborner Straße (nördl. Uhlandstr., Höhe Mauerweg)   (Märkisches Viertel, 13439)
+arm1=Zerpenschleuser Ring,400,0000
+arm2=Uhlandstraße,2200,0000
+arm3=Südwest,1300,0001
+arm4=Nordost,3100,0010
+art=Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\nIst gleichzeitig mit Q 0920333 zu erheben.\nFußgänger und Radfahrer\, die die Quickborner Straße Höhe Mauerweg nördlich\n Uhlandstraße ca. 50m überqueren.
+data=
+; 3 -> 4
+1	1	0
+2	1	0
+1	1	0
+4	2	0
+10	5	0
+5	0	0
+4	3	0
+7	0	0
+11	1	0
+10	0	0
+9	3	0
+5	3	0
+; 4 -> 3
+14	0	0
+9	1	0
+5	4	0
+2	1	0
+0	1	0
+5	3	0
+7	5	0
+3	0	0
+3	1	0
+8	2	0
+7	4	0
+8	0	0

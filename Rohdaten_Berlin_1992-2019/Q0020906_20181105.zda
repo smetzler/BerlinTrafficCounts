@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020906
+datum=05.11.2018
+kurzken=Q 020905/18
+bez=Hosemannstr. (südlich Erich-Weinert-Str.) (Prenzlauer Berg, 10409)
+arm1=Hosemannstr. NO,3300,0100
+arm2=Hosemannstr. SW,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+158	5	9	4	27
+154	5	10	5	46
+101	3	6	4	28
+136	4	6	1	10
+91	1	6	4	5
+88	6	6	0	8
+92	1	5	4	9
+67	2	6	1	7
+67	1	6	2	14
+78	0	6	0	14
+79	1	6	2	10
+55	1	5	1	8
+; 2 -> 1
+136	2	6	3	14
+159	1	7	2	23
+106	11	6	2	16
+80	2	7	4	12
+84	4	6	3	7
+91	6	5	0	3
+144	12	6	4	7
+172	4	6	0	9
+200	4	7	9	15
+244	1	7	16	24
+182	6	5	4	25
+85	2	5	3	20

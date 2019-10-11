@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3711
+datum=31.05.2006
+kurzken=Q 3711/06
+bez=Seegefelder Straße (westl. Altstädter Ring - Klosterstr.)  (Spandau ,13597)
+arm1=Seegefelder Straße,700,0000
+arm2=Klosterstraße,1600,0001
+arm3=Stabholzgarten,2450,0000
+arm4=Altstädter Ring,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=2\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+223	98
+212	39
+358	122
+350	10
+273	1
+270	7
+403	20
+362	47
+513	82
+501	38
+542	21
+454	14
+; 4 -> 2
+417	121
+477	120
+391	180
+812	6
+876	11
+911	7
+712	34
+813	39
+815	99
+807	40
+894	35
+706	45

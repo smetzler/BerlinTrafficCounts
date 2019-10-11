@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4223
+datum=02.06.1997
+kurzken=Q 4223/97.2
+bez=Bouchéstraße (Höhe Bouché-Grundschule)   (Treptow, 12435)
+arm1=Kiefholzstraße,1400,0100
+arm2=Am Treptower Park,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wegen eines Verkehrsunfalls in der Straße Am Treptower Park\nvon 17:50 bis 18:40 Uhr erhöhtes Verkehrsaufkommen in der Bouchéstraße !\nDurchführung der Erhebungen:  - Ing.büro f. Verkehrserhebg.\,  
+data=
+; 1 -> 2
+276 13 1 5 14
+196 13 0 6 17
+179 13 0 1 12
+150 15 0 3 9
+171 12 0 7 3
+181 6 0 5 13
+172 12 1 2 11
+198 15 0 2 14
+247 10 0 8 15
+304 12 0 8 14
+324 10 1 11 11
+361 7 3 14 8
+; 2 -> 1
+294 15 0 4 12
+239 3 3 3 14
+253 12 1 2 8
+198 16 2 1 7
+146 11 1 4 9
+180 11 1 1 4
+176 16 0 3 7
+202 11 0 5 9
+308 8 0 9 8
+372 9 1 7 26
+340 3 0 7 20
+527 8 8 21 6

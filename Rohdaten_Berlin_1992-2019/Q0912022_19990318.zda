@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912022
+datum=18.03.1999
+kurzken=Q 0912022/99
+bez=Rheinstraße (südl. Breslauer Platz)   (Steglitz, 12159)
+arm1=Hedwigstraße,1400,0100
+arm2=Breslauer Platz,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+653	18	11	16
+731	24	11	12
+631	26	11	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+763	17	19	21
+764	9	18	28
+769	11	18	27
+; 2 -> 1
+494	22	12	10
+512	28	14	13
+596	33	10	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+633	24	19	21
+657	11	18	29
+684	7	20	31

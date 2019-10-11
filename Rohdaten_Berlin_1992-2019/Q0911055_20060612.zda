@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911055
+datum=12.06.2006
+kurzken=Q 0911055/06
+bez=Monumentenstraße (westl. Hochkirchstraße)   (Schöneberg, 10829)
+arm1=Hohenfriedbergstraße,900,0100
+arm2=Hochkirchstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+139	4	0	8	135
+263	8	0	22	221
+239	12	0	12	176
+230	8	0	22	120
+188	4	0	16	103
+202	5	0	21	116
+200	7	0	20	137
+231	15	0	24	108
+316	4	0	30	152
+283	1	0	24	205
+217	2	0	21	232
+235	1	0	11	241
+; 2 -> 1
+161	5	1	13	97
+229	1	0	14	198
+227	6	0	7	221
+224	8	0	14	130
+189	5	0	16	97
+214	5	0	21	121
+203	5	0	20	137
+257	2	0	22	133
+250	2	0	28	136
+289	2	0	27	138
+253	2	1	31	200
+225	5	0	21	229

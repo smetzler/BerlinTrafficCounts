@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031207
+datum=31.08.2006
+kurzken=Q 031207/06
+bez=Wildenbruchstraße (nördl. Heidelberger Straße) (Neukölln, 12045)
+arm1=Heidelberger Straße ,1400,0100
+arm2=Karl-Kunger-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Treptower Straße gesperrt!
+data=
+; 1 -> 2
+149	39	10	10	8
+237	54	11	12	15
+234	47	16	11	17
+240	56	10	10	12
+203	45	14	12	11
+198	38	12	12	11
+267	51	17	12	22
+294	49	13	12	38
+356	41	9	12	30
+392	34	8	16	38
+427	41	7	12	28
+436	21	11	10	33
+; 2 -> 1
+203	75	7	11	11
+267	58	12	12	13
+320	74	23	12	20
+230	58	16	11	12
+236	45	16	12	12
+247	36	14	11	10
+274	26	13	12	24
+270	37	13	12	25
+307	28	12	12	35
+352	32	18	14	28
+289	22	10	11	28
+354	24	4	8	35

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901902
+datum=18.01.2012
+kurzken=Q 0901902/12
+bez=Spandauer Straße (nördl. Karl-Liebknecht-Straße)   (Mitte, 10178)
+arm1=Spandauer Brücke,300,0100
+arm2=Karl-Liebknecht-Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=5°C max T; 6 Std Sonne; 5 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+23
+58
+57
+28
+47
+35
+45
+35
+58
+50
+46
+39
+; 2 -> 1
+28
+73
+84
+38
+46
+31
+36
+41
+38
+44
+45
+41

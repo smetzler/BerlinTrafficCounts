@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919106
+datum=25.04.2007
+kurzken=Q 0919106/07
+bez=Schönholzer Weg (nördl. Edelweißstraße)   (Wilhelmsruh, 13158)
+arm1=Schillerstraße,50,0100
+arm2=Edelweißstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+299	3	2	14	35
+293	9	1	12	18
+251	6	1	10	8
+292	6	0	0	14
+183	10	1	2	16
+153	7	1	6	12
+150	7	0	5	24
+193	7	0	3	22
+274	4	0	14	16
+237	3	1	11	36
+193	0	1	9	26
+184	1	0	14	26
+; 2 -> 1
+283	8	8	7	23
+296	9	6	12	10
+303	14	6	5	13
+252	10	8	4	18
+282	11	6	7	22
+281	11	6	7	14
+310	13	7	15	31
+331	11	6	19	46
+404	6	6	14	46
+450	10	7	32	55
+429	5	7	19	48
+380	5	6	22	37

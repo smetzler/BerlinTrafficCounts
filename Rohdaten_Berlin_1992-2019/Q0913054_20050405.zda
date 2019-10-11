@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0913054
+datum=05.04.2005
+kurzken=Q 0913054/05
+bez=Lankwitzer Straße (östl. Greinerstraße)   (Mariendorf, 12107)
+arm1=Greinerstraße,1000,0100
+arm2=Dederingstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+462	33	7	17	13
+531	39	7	8	14
+522	21	6	11	21
+573	13	7	19	26
+521	8	5	14	16
+517	4	7	7	30
+; 2 -> 1
+352	35	6	9	8
+388	18	7	10	9
+473	14	6	14	13
+470	15	6	20	15
+473	10	6	10	17
+402	6	6	15	21

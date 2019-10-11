@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 00452
+datum=08.05.2015
+kurzken=Q 00452/15
+bez=A100 - Stadtring (Abfahrt zur Alboinstr., östl. Reichartstraße)   (Tempelhof, 10
+arm1=AK Schöneberg,500,0100
+arm2=Alboinstraße,2400,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+523	15	1	0	20
+512	12	0	0	14
+577	6	4	0	18

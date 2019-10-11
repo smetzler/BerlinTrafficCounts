@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 149004
+datum=18.09.2018
+kurzken=Q 149004/18
+bez=Osdorfer Straße (Stadtgrenze)   (Lichterfelde, 12209)
+arm1=Jenbacher Weg,300,0100
+arm2=Kreis Teltow-Fläming,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+302	0	0	12	4
+338	0	0	6	3
+246	0	0	8	2
+234	0	0	4	2
+244	0	0	13	2
+276	0	0	11	2
+335	0	0	7	3
+409	1	0	18	6
+572	0	0	22	4
+514	0	0	30	2
+409	0	0	23	11
+376	0	0	24	3
+; 2 -> 1
+653	0	0	8	1
+498	2	0	9	3
+407	0	0	12	5
+262	2	0	2	0
+250	1	0	6	0
+254	1	0	10	6
+249	1	0	8	5
+262	0	0	14	7
+334	0	0	20	3
+430	0	0	16	4
+381	0	0	27	7
+349	0	0	23	8

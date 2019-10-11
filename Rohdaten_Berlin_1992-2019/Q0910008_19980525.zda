@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910008
+datum=25.05.1998
+kurzken=Q 0910008/98
+bez=Spanische Allee (östl. BAB A115)  (Nikolassee, 14129)
+arm1=BAB A115 (AVUS),1000,0100
+arm2=Am Schlachtenseee,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+239	10	7	4
+335	7	3	4
+268	7	3	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+387	8	3	11
+360	7	3	13
+391	2	3	10
+; 2 -> 1
+449	10	5	6
+383	4	5	6
+316	7	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+373	4	3	13
+324	5	4	10
+288	3	3	8

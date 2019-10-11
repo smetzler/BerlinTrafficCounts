@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923053
+datum=18.05.2009
+kurzken=Q 0923053/09
+bez=Wernerstraße (östl. Ridbacher Straße)   (Mahlsdorf, 12621)
+arm1=Riedbacher Straße,900,0100
+arm2=Briesener Weg,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Bus,Krad
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+21	5	0	0	0
+29	5	0	0	0
+24	2	0	0	0
+33	9	2	0	1
+32	2	2	0	0
+47	6	0	0	2
+51	1	0	0	1
+45	7	2	0	0
+65	8	3	0	2
+86	7	0	0	5
+115	9	0	0	1
+98	5	0	0	1
+; 2 -> 1
+128	17	1	0	0
+166	14	2	0	0
+107	11	2	0	6
+67	8	0	0	3
+48	3	1	0	0
+44	6	0	0	1
+32	3	0	0	0
+32	7	1	0	2
+39	7	2	0	0
+36	7	0	0	1
+66	3	0	0	1
+40	3	0	0	1

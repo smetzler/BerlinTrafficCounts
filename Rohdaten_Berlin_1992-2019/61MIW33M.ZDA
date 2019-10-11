@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 75848
+datum=19.09.1989
+kurzken=Q 75848/89
+bez=Schaeferstrasse oestl. Neuendorfer Strasse    ( Berlin 20 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+33 18 14 4 22 12 7 1 21 13 17 8 9 16 
+25 10 17 2 24 6 15 11 7 8 
+; 2 -> 1
+39 21 23 2 38 0 24 1 25 0 33 8 19 4 
+34 8 41 10 63 14 43 5 42 3 

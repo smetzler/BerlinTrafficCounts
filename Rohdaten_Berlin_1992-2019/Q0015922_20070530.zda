@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15922
+datum=30.05.2007
+kurzken=Q 15922/07
+bez=Wolfensteindamm (südl. Schloßstraße)   (Steglitz, 12165)
+arm1=Schloßstraße (W),1150,0010
+arm2=Wolfensteindamm,2050,0000
+arm3=BAB-Abzw. Zehlendorf (A103),2800,1000
+arm4=Schloßstraße (N),3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+45	0
+30	3
+29	3
+24	0
+14	0
+17	2
+23	1
+12	2
+21	4
+25	0
+23	1
+18	1
+; 3 -> 1
+7	3
+9	2
+20	0
+8	0
+12	3
+11	0
+9	0
+6	0
+17	2
+10	1
+15	5
+20	1

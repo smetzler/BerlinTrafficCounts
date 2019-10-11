@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 20041
+datum=11.09.2015
+kurzken=Q 20041/15
+bez=A103 - Abzw. Zehlendorf (Hauptfahrbahnen, Höhe Saarstraße)   (Steglitz, 12169)
+arm1=AS Filandastraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Saarstraße\, nur Fahrzeuge die die Brücke unterqueren.\nCity-Atlas Seite 115\, Feld 3d
+data=
+; 1 -> 2
+1786	23	6	2	17
+1860	16	6	2	20
+2307	9	4	3	24
+; 2 -> 1
+1738	19	5	1	23
+1779	11	4	0	29
+1765	5	1	3	31

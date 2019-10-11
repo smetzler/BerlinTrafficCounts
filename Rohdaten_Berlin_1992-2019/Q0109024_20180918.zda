@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109024
+datum=18.09.2018
+kurzken=Q 109024/18
+bez=Hönower Straße (nördl. Greifswalder Str., Stadtgrenze) (Mahlsdorf, 12627)
+arm1=Greifswalder Straße,1500,0100
+arm2=Erikastraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+496	11	3	4	6
+424	16	5	5	13
+409	9	3	9	7
+412	10	6	8	12
+423	19	3	1	9
+385	12	3	2	7
+439	16	4	9	7
+587	15	3	7	9
+659	21	2	11	10
+784	6	4	22	28
+626	4	2	8	12
+499	6	3	10	18
+; 2 -> 1
+647	16	0	2	21
+457	23	0	5	11
+337	9	0	7	5
+326	16	0	2	6
+374	15	0	1	11
+310	9	0	3	9
+349	12	0	7	8
+395	17	0	6	11
+485	11	0	7	14
+626	8	0	2	16
+537	3	0	12	13
+446	1	0	13	12

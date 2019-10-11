@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917100
+datum=15.11.2010
+kurzken=Q 0917100/10
+bez=Dorfstraße (östl. Hausvaterweg)   (Falkenberg, 13057)
+arm1=Hausvaterweg,700,0100
+arm2=Hohenschönhauser Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+392	18	9	7	3
+378	16	4	3	2
+351	16	3	0	8
+387	16	3	2	4
+345	16	3	2	4
+367	12	4	3	10
+364	17	5	2	6
+413	15	5	1	11
+473	14	5	7	5
+442	7	5	2	12
+426	4	6	4	6
+378	3	5	4	8
+; 2 -> 1
+355	19	6	3	8
+277	32	5	2	4
+250	18	3	2	1
+291	20	3	3	5
+235	15	3	2	6
+281	14	4	5	17
+337	19	3	4	8
+362	16	6	3	6
+436	6	6	9	5
+443	4	6	4	10
+356	5	6	8	7
+259	4	6	3	5

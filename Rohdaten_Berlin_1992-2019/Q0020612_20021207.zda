@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20612
+datum=07.12.2002
+kurzken=Q 2061/02
+bez=B1 Potsdamer Ch. (östl. Nibelungenstr. - mittl. Spur)   (Nikolassee, 14109)
+arm1=Nibelungenstraße,950,0100
+arm2=Isoldestraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+159	10	6	1	6	0
+230	13	2	1	13	0
+399	22	7	1	11	0
+457	22	2	1	10	0
+501	24	7	3	13	0
+; 2 -> 1
+158	11	10	2	8	0
+263	16	6	0	13	0
+375	20	8	2	13	2
+430	12	6	0	16	1
+536	8	9	1	12	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7346011
+datum=23.05.2007
+kurzken=Q 7346011/07
+bez=Oberspreestr. (nördl. Fahrbahn, westl. Köllnischer Platz)  (Köpenick, 12557)
+arm1=Oberspreestraße,680,0000
+arm2=Köllnischer Platz - Tram-Mittelstreifen,1900,0001
+arm3=Köllnischer Platz (O),2650,0000
+arm4=Gutenbergstraße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. zw. der nördl. Fahrbahnseite und dem Tram-Mittelstreifen!\nSchienenersatzverkehr der Tram: erhöhter Fußgängerverkehr infolge Umstieg von Tram auf Bus!\nWetter: max T=22°C; Sonne=6 Std; Niederschlag=0 mm;  Durchführung der Erhebungen: 
+data=
+; 2 -> 4
+29	15
+30	26
+27	0
+28	2
+34	1
+32	4
+52	8
+35	11
+57	14
+39	8
+54	7
+24	2
+; 4 -> 2
+123	43
+110	14
+92	3
+104	5
+126	29
+97	30
+115	23
+121	29
+109	58
+101	21
+118	17
+89	27

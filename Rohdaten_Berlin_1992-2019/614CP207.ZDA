@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 52297
+datum=08.04.1986
+kurzken=Q 52297/86
+bez=Exerzierstrasse oestl. Gottschedstrasse    ( Berlin 65 )
+Arm1=Sued   (3a),900,0100
+Arm2=Nord   (3b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+5 0 5 0 7 1 6 0 4 0 7 0 8 0 
+15 1 10 4 11 4 7 2 3 1 
+; 2 -> 1
+1 1 0 0 6 1 2 0 1 0 2 0 4 0 
+5 0 8 0 4 1 4 0 0 0 

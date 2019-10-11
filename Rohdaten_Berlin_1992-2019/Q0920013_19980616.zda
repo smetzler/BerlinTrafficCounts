@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920013
+datum=16.06.1998
+kurzken=Q 0920013/98
+bez=Wilhelmsruher Damm (östl. Treuenbrietzener Str.)   (Märk. Viertel, 13435)
+arm1=Treuenbrietzener Straße,950,0100
+arm2=Tiefenseer Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+399	53	27	14
+351	44	14	4
+313	36	11	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+649	30	19	20
+691	22	21	15
+615	13	18	9
+; 2 -> 1
+532	34	27	14
+417	53	16	9
+339	43	12	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+402	28	18	13
+419	28	18	19
+411	11	23	16

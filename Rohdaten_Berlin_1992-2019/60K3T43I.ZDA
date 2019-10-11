@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26057
+datum=31.10.1992
+kurzken=Q 2605.7/92-F
+bez=Fürstenwalder Allee südlich Fürstenwalder Damm    (Bln.1165-Köpenick)
+arm1=Ost,50,0100
+arm2=West,950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1 
+1 
+6 
+2 
+4 
+9 
+3 
+2 
+3 
+3 
+5 
+2 
+; 2 -> 1
+0 
+0 
+1 
+1 
+5 
+6 
+4 
+4 
+11 
+2 
+3 
+0 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 88317
+datum=06.03.1995
+kurzken=Q 88313/95
+bez=Buschkrugallee (südl. Marientaler Straße) (Britz, 12359)
+arm1=Buschkrugallee,240,0000
+arm2=Westen,1200,0001
+arm3=Buschkrugallee,2020,0000
+arm4=Marientaler Straße,2990,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; teils sonnig; 0\,4 mm Niederschlag. \n
+data=
+; 2 -> 4
+10 55
+8 2
+5 4
+4 1
+2 0
+4 0
+3 0
+0 0
+2 0
+0 0
+1 0
+0 0
+; 4 -> 2
+3 0
+2 0
+4 0
+1 0
+4 2
+2 0
+3 0
+3 7
+1 4
+2 0
+0 0
+1 0

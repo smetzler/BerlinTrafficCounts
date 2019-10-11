@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920098
+datum=08.06.2006
+kurzken=Q 0920098/06
+bez=Berliner Straße (nördl. Auguste-Viktoria-Straße)   (Hermsdorf, 13467)
+arm1=Waldseeweg,100,0100
+arm2=Auguste-Viktoria-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+770	23	3	34	35
+773	24	3	30	36
+722	23	3	14	22
+622	24	4	8	14
+617	23	4	18	22
+600	44	3	22	16
+610	24	5	25	11
+569	28	4	26	25
+604	20	4	22	18
+625	10	2	31	19
+678	11	3	23	28
+670	9	3	16	21
+; 2 -> 1
+337	23	4	10	11
+497	23	3	9	9
+545	22	3	17	20
+554	38	4	8	10
+604	25	3	20	21
+595	32	3	31	14
+901	34	4	29	24
+891	29	3	35	29
+1158	24	3	34	14
+1072	19	2	35	29
+1198	21	6	35	27
+1112	15	4	41	36

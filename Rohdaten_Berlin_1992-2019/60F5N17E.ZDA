@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 19643
+datum=27.10.1983
+kurzken=Q 19643/83
+bez=HALKER ZEILE  suedl. Buckower Chaussee  ( Berlin 49 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Verkehrsuntersuchung Spandau  ***  Kontrollerhebung Lichtenrade
+data=
+; 1 -> 2
+0 227 13 6 0 2 104 4 2 0 2 59 5 4 0 
+0 52 3 0 0 0 54 2 6 1 1 58 7 1 0 
+0 51 3 4 0 1 55 5 5 1 0 77 5 4 0 
+1 72 4 1 0 2 89 0 0 0 3 89 2 0 0 
+; 2 -> 1
+0 38 6 7 0 0 32 2 3 0 1 42 5 4 0 
+0 60 4 7 0 0 78 4 3 0 1 67 6 3 0 
+2 98 5 7 1 4 101 6 8 0 4 156 8 5 0 
+8 190 14 2 0 0 195 4 1 0 7 165 6 0 0 

@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=K 1503
+datum=30.06.1999
+kurzken=K 1503/99
+bez=Oberlandstraße / BAB Stadtring  (A 100)   (Tempelhof, 12099)
+arm1=Zu- und Abfahrt BAB,400,0101
+arm2=Oberlandstraße,900,1011
+arm3=Zu- und Abfahrt BAB,2200,0101
+arm4=Oberlandstraße,2800,1110
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=2200,2400
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+56	1	2	0	3
+21	1	7	0	1
+; 1 -> 4
+410	8	2	0	22
+223	6	5	0	7
+; 2 -> 1
+56	2	4	0	5
+29	2	2	0	1
+; 2 -> 3
+6	0	0	0	0
+4	0	0	0	0
+; 2 -> 4
+113	1	0	3	5
+71	1	0	2	2
+; 3 -> 2
+4	0	0	0	0
+2	0	0	0	0
+; 3 -> 4
+3	0	0	0	0
+2	0	0	0	0
+; 4 -> 1
+346	18	4	0	12
+232	6	2	0	12
+; 4 -> 2
+114	2	1	4	7
+74	0	0	3	2
+; 4 -> 3
+0	0	0	0	0
+4	0	0	0	0

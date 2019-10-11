@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 20041
+datum=27.09.2015
+kurzken=Q 20041/15
+bez=A103 - Abzw. Zehlendorf (Hauptfahrbahnen, Höhe Saarstraße)   (Steglitz, 12169)
+arm1=AS Filandastraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=erhöhtes VA wegen diverser Sperrungen im Citybereich
+data=
+; 1 -> 2
+1155	6	1	0	32
+1230	7	1	0	30
+1350	5	0	1	37
+; 2 -> 1
+1145	0	0	0	41
+1236	1	0	1	31
+1214	2	0	2	16

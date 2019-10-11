@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11206
+datum=21.06.1990
+kurzken=Q 11206/90
+bez=Pannierstrasse westl. Maybachufer    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+7 16 5 6 13 12 12 8 2 2 5 8 
+; 2 -> 1
+7 10 4 4 8 10 9 6 2 8 7 8 

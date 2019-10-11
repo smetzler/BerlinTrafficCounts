@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 13562
+datum=27.04.2005
+kurzken=Q 13562/05
+bez=Manfred-von-Richthofen-Str. (westl. Tempelhofer Damm) (Tempelhof, 12101)
+arm1=Tempelhofer Damm,0,0010
+arm2=M.-v.-Richthofen-Str,1220,0000
+arm3=Tempelhofer Damm,1800,1000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=1 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+16	3
+25	2
+29	0
+26	0
+20	0
+14	0
+24	11
+38	5
+41	4
+33	5
+19	1
+29	1
+; 3 -> 1
+7	2
+19	0
+27	0
+25	0
+29	0
+20	0
+25	9
+33	4
+42	5
+35	2
+24	2
+33	4

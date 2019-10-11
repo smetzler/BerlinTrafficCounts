@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910065
+datum=19.06.2006
+kurzken=Q 0910065/06
+bez=Onkel-Tom-Str. (nördl. Quermatenweg, Höhe Mittelinsel) (Zehlendorf, 14195)
+arm1=Hüttenweg,50,0100
+arm2=Quermatenweg,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+390	10	1	19	17
+443	5	0	8	12
+361	13	0	11	15
+336	10	2	10	16
+334	12	0	8	14
+368	7	0	10	11
+377	5	0	10	26
+423	7	0	14	27
+358	6	0	18	18
+531	7	0	29	18
+522	3	1	18	42
+533	2	1	13	87
+; 2 -> 1
+589	12	0	22	29
+665	13	2	22	28
+425	9	0	15	27
+364	6	0	8	22
+330	11	0	6	24
+314	7	0	11	12
+341	4	0	11	19
+425	5	0	10	35
+400	6	2	24	24
+397	2	0	15	29
+394	3	0	21	54
+420	6	0	16	20

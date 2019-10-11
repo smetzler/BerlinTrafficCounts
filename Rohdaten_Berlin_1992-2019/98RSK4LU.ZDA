@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5448116
+datum=19.05.1994
+kurzken=Q 5448116/94
+bez=Möckernstraße / südl. Hallesche Straße (Kreuzberg)
+arm1= West,750,0010
+arm2=Möckernstraße ,1600,0000
+arm3=Ost,2550,1000
+arm4=Möckernstraße,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  bedeckt\, Dauerregen
+data=
+; 1 -> 3
+6 4
+2 0
+5 1
+7 2
+5 0
+3 2
+6 6
+5 0
+6 1
+5 0
+4 0
+3 0
+; 3 -> 1
+2 7
+4 2
+12 4
+8 1
+5 0
+7 2
+5 12
+21 7
+12 12
+10 1
+4 0
+0 2

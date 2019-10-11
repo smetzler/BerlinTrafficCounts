@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41436
+datum=31.05.1994
+kurzken=Q 41436/94
+bez=Provinzstraße (nördl. S-Bahn-Brücke Schönholz) (Reinickendorf, 13409)
+arm1= West,1600,0100
+arm2=Ost,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \n Uhr leichter RegenWetter: heiter\, wolkig - ab 
+data=
+; 1 -> 2
+4 1
+1 0
+8 1
+0 0
+1 0
+0 0
+6 3
+4 0
+1 1
+10 0
+4 0
+6 0
+; 2 -> 1
+23 2
+9 1
+14 1
+1 0
+0 0
+0 0
+21 10
+14 1
+10 1
+24 6
+8 0
+7 0

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00901
+datum=10.07.2015
+kurzken=Q 00901/15
+bez=A100 - Zu- und Abfahrt Grenzallee   (Neukölln, 12057)
+arm1=Bergiusstr. (AS Grenzallee),2800,0100
+arm2=BAB (AD Neukölln),1000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Bergiusstraße\nCity-Atlas Seite 118\, Feld 3b
+data=
+; 1 -> 2
+822	24	25	5	16
+796	13	23	1	18
+636	6	12	1	8
+; 2 -> 1
+664	26	19	7	16
+719	29	7	4	14
+778	26	7	10	16

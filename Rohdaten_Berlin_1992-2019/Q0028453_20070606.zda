@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28453
+datum=06.06.2007
+kurzken=Q 28453/07
+bez=Zionskirchstraße (östl. Templiner Straße)   (Prenzlauer Berg, 10119)
+arm1=Zionskirchstraße (W) ,500,0000
+arm2=Templiner Straße (S),1400,0001
+arm3=Zionskirchstraße (O),2300,0000
+arm4=Templiner Straße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonne=7 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	36
+13	4
+12	1
+10	1
+17	32
+7	2
+20	14
+29	28
+25	33
+25	12
+19	15
+21	13
+; 4 -> 2
+8	1
+24	0
+10	0
+12	33
+16	0
+8	2
+41	72
+27	74
+26	8
+23	30
+21	8
+25	4

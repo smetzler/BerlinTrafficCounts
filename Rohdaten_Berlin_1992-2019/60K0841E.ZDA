@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25928
+datum=19.8.1992
+kurzken=Q 2592.8/92-F
+bez=Alt-Köpenick nördlich Rosenstraße    ( Berlin 1170-Köpenick )
+arm1=Ost,450,0100
+arm2=West,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+15 
+24 
+37 
+44 
+36 
+54 
+26 
+18 
+35 
+35 
+35 
+15 
+; 2 -> 1
+24 
+17 
+15 
+53 
+46 
+70 
+20 
+26 
+28 
+23 
+41 
+17 

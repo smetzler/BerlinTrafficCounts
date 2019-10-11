@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0063
+datum=08.05.2015
+kurzken=Q 0063/15
+bez=A115 - AVUS (Höhe Alemannenbrücke)   (Zehlendorf, 14129)
+arm1=AS Spanische Allee,50,0100
+arm2=AK Zehlendorf,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+2796	70	59	24	50
+2853	70	64	23	51
+2685	53	44	22	50
+; 2 -> 1
+2482	30	33	28	40
+2656	19	35	28	35
+2764	22	48	25	49

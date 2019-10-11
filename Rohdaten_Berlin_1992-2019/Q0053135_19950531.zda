@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 53135
+datum=31.05.1995
+kurzken=Q 53135/94
+bez=Schlesische Straße (nördl. Heckmannufer) (Kreuzberg, 10997) 
+arm1=Schlesische Straße,400,0000
+arm2=Heckmannufer,1400,0001
+arm3=Schlesische Straße,2250,0000
+arm4=Nordosten,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 17°C; bedeckt; kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für  
+data=
+; 2 -> 4
+70 1
+26 0
+19 0
+14 0
+20 0
+13 0
+6 0
+5 0
+22 0
+12 2
+9 0
+5 0
+; 4 -> 2
+8 0
+11 0
+13 8
+11 0
+7 0
+10 0
+10 0
+11 0
+41 0
+26 1
+10 0
+5 0

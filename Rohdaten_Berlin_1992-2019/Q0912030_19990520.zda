@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912030
+datum=20.05.1999
+kurzken=Q 0912030/99
+bez=Bundesallee (nördl. Sarrazinstraße)   (Friedenau, 12161)
+arm1=Kundrystraße,0,0100
+arm2=Sarrazinstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+631	23	2	22
+825	31	1	23
+698	29	1	26
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1456	16	0	112
+1478	13	1	93
+1243	5	2	62
+; 2 -> 1
+1372	21	0	91
+1689	29	2	67
+1194	33	0	63
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1030	9	1	65
+1148	9	0	70
+1063	10	0	76

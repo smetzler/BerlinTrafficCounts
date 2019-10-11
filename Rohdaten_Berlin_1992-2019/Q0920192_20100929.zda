@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920192
+datum=29.09.2010
+kurzken=Q 0920192/10
+bez=Humboldtstraße (Höhe Friedhofseingang, gegenüber Nr. 27)   (Reinickendorf, 13403)
+arm1=Waldowstraße,1150,0000
+arm2=Klamannstraße,2950,0000
+arm3=((Norden)),250,0001
+arm4=((Süden - Friedhof)),2050,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Humboldtstr. in Höhe des Friedhofseingangs (gegenüber Haus-Nr. 27) queren.\nWetter: max T=13°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+4	1
+2	1
+5	0
+10	0
+4	0
+8	1
+6	1
+5	0
+5	0
+6	1
+1	0
+0	1
+; 4 -> 3
+0	0
+1	0
+1	0
+8	0
+9	0
+12	0
+14	0
+8	0
+6	1
+4	0
+2	0
+8	2

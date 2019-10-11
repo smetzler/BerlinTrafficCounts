@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907142
+datum=09.06.2009
+kurzken=Q 0907142/09
+bez=Osnabrücker Straße (östl. Kaminer Straße)   (Charlottenburg, 10589)
+arm1=Kaminer Straße,800,0100
+arm2=Tauroggener Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+289	16	0	11	10
+410	11	1	5	19
+365	12	0	9	10
+272	7	0	7	7
+237	6	0	8	8
+196	8	1	7	10
+192	6	1	5	5
+238	5	1	6	7
+249	6	0	8	12
+288	8	0	3	11
+236	1	0	5	13
+213	0	1	4	17
+; 2 -> 1
+158	8	0	2	7
+169	3	0	8	10
+187	13	3	4	14
+189	5	2	2	7
+199	12	0	4	11
+198	10	0	5	10
+189	10	2	4	9
+254	12	2	11	12
+295	6	2	10	10
+312	6	1	6	31
+278	7	0	9	13
+274	1	2	10	19

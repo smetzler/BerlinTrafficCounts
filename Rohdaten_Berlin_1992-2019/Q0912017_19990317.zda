@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912017
+datum=17.03.1999
+kurzken=Q 0912017/99
+bez=Appenzellerstraße (nördl. Goerzallee)   (Lichterfelde, 12205)
+arm1=Thuner Platz,350,0100
+arm2=Goerzallee,2150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+152	12	10	3
+230	11	11	1
+141	14	8	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+353	7	10	9
+371	5	10	4
+283	2	11	5
+; 2 -> 1
+402	14	5	2
+363	16	8	4
+245	18	7	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+253	6	8	3
+264	3	6	7
+231	2	9	4

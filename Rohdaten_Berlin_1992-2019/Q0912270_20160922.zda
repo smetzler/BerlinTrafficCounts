@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912270
+datum=22.09.2016
+kurzken=Q 0912270/16
+bez=Altensteinstraße (südl. Limonenstraße)   (Dahlem, 14195)
+arm1=Kamillenstraße,1500,0000
+arm2=Limonenstraße,3300,0000
+arm3=((Westen)),600,0001
+arm4=((Osten)),2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Altensteinstraße südl. Limonenstraße queren (bis ca. 50m südl.).
+data=
+; 3 -> 4
+6	2
+2	1
+1	0
+0	0
+1	0
+2	0
+1	0
+2	0
+2	0
+0	0
+1	0
+0	0
+; 4 -> 3
+4	0
+2	1
+1	0
+8	2
+2	0
+1	0
+0	0
+2	0
+2	0
+0	0
+1	0
+1	0

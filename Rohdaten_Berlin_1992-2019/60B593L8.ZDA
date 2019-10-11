@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 14445
+datum=13.3.1991
+kurzken=Q 1444.5/91-F
+bez=Sonnenallee westlich Grenzallee    ( Berlin 44 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+50 
+38 
+19 
+19 
+42 
+33 
+30 
+47 
+24 
+75 
+31 
+18 
+; 2 -> 1
+26 
+24 
+16 
+24 
+37 
+40 
+30 
+20 
+14 
+17 
+11 
+3 

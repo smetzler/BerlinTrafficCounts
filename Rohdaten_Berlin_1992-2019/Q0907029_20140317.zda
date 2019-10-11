@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907029
+datum=17.03.2014
+kurzken=Q 0907029/14
+bez=AD Funkturm - von Messedamm / Parkhaus ICC. nach A115-AVUS   (Charlottenburg, 14
+arm1=A115-AVUS ,1000,0000
+arm2=Halenseestr. (Rathenaupatz),1800,0000
+arm3=,0,0000
+arm4=Messedamm / Parkhaus ICC,3300,1000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 4 -> 1
+259	21	12	0
+262	17	15	0
+261	11	7	0
+249	23	11	1
+253	20	3	0
+269	22	4	2
+298	14	6	0
+357	10	4	1
+425	18	9	0
+521	13	3	2
+374	10	6	4
+301	9	2	0

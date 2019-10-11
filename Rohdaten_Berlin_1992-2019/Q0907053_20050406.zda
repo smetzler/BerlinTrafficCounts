@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907053
+datum=06.04.2005
+kurzken=Q 0907053/05
+bez=Lewishamstraße (nördl. Mommsenstraße)   (Charlottenburg, 10629)
+arm1=Gervinusstraße,200,0100
+arm2=Mommsenstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+612	29	9	24	33
+854	28	8	20	25
+689	47	10	17	24
+743	25	11	29	28
+705	51	11	24	31
+685	25	10	22	35
+; 2 -> 1
+876	21	10	21	28
+1179	23	7	24	40
+1087	19	8	36	46
+965	19	8	18	31
+892	20	8	25	49
+811	15	8	21	38

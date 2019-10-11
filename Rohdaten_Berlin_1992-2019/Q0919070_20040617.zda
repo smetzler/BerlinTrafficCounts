@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0919070
+datum=17.06.2004
+kurzken=Q 0919070/04
+bez=AD Pankow - Strom 14 (von  A10-Nord nach A114)   (Schönerlinde, 16352)
+arm1=A10-Nord,200,0100
+arm2=A114,1850,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 34\, Planquadrat X20
+data=
+; 1 -> 2
+645	53	1	0
+735	111	1	0
+493	97	5	1
+360	68	5	1
+404	71	2	3
+553	43	4	3
+522	41	5	1
+518	21	8	2
+575	43	9	2
+636	15	2	6
+662	10	8	2
+529	12	7	0

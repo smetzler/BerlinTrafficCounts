@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 74477
+datum=23.09.1996
+kurzken=Q 74477/96
+bez=Britzer Straße  (östl. Rotkopfweg),(Mariendorf, 12109)
+arm1=,810,0000
+arm2=Rotkopfweg,1750,0001
+arm3=,2670,0000
+arm4=Nord,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+0 0
+1 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+; 4 -> 2
+0 0
+0 0
+0 0
+2 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 0

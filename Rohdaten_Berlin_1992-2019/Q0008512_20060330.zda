@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8512
+datum=30.03.2006
+kurzken=Q 8512/06
+bez=Martin-Luther-Straße (südl. Lietzenburger Straße )   (Schöneberg, 10787)
+arm1=Lietzenburger Str.,1000,0010
+arm2=Martin-Luther-Str.,1800,0000
+arm3=((Osten)),2800,1000
+arm4=Martin-Luther-Str.,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+11	1
+11	0
+35	0
+28	0
+25	1
+33	4
+29	20
+24	8
+22	9
+23	1
+21	4
+28	7
+; 3 -> 1
+15	0
+13	6
+13	0
+38	0
+32	0
+40	1
+26	1
+23	2
+33	1
+36	0
+25	5
+39	7

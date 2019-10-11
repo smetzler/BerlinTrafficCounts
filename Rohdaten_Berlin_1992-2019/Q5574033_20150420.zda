@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574033
+datum=20.04.2015
+kurzken=Q 5574033/15
+bez=Alexanderplatz (östl. Otto-Braun-Straße)   (Mitte, 10178)
+arm1=Alexanderplatz,650,0000
+arm2=Alexanderstr.-Grunerstr.,1550,0001
+arm3=Karl-Marx-Allee,2450,0000
+arm4=Otto-Braun-Straße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+25	0
+38	4
+33	6
+53	2
+57	0
+94	1
+178	50
+296	76
+107	12
+80	16
+61	13
+92	6
+; 4 -> 2
+34	2
+57	2
+112	4
+123	12
+102	2
+115	0
+80	5
+71	5
+111	28
+65	6
+60	17
+131	7

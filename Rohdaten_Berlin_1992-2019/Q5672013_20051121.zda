@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5672013
+datum=21.11.2005
+kurzken=Q 5672013/05
+bez=Wisbyer Straße (Nordseite, östl. Schönhauser A.)  (Prenzlauer Berg, 10439)
+arm1=Bornholmer Straße ,850,0000
+arm2=Schönhauser Allee ,1650,0001
+arm3=Wisbyer Straße ,2600,0000
+arm4=Schönhauser Allee,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Nördl. Fahrbahn bis Mittelstreifen!\nWetter: max T=5°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+25	8
+54	0
+83	1
+98	0
+106	0
+112	4
+126	6
+154	22
+178	25
+212	35
+176	10
+160	4
+; 4 -> 2
+63	18
+87	4
+103	3
+97	0
+101	1
+116	2
+121	2
+121	11
+100	7
+116	11
+113	13
+99	7

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907058
+datum=07.07.2005
+kurzken=Q 0907058/05
+bez=Hardenbergplatz (östl. Hertzallee)   (Charlottenburg, 10623)
+arm1=Herzallee,700,0100
+arm2=Hardenbergplatz ,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfzs,Bus,BVG-Bus,Radf
+zeit=0900,2000
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=KFZs = alle Kfz\,außer Busse; Bus = alle Busse\, außer BVG-Busse.\nDurchführung der Erhebung: büro 
+data=
+; 1 -> 2
+160	0	76	12
+198	0	71	10
+177	0	76	13
+184	0	84	13
+220	0	78	5
+138	0	83	7
+185	0	71	9
+192	1	78	9
+153	0	67	2
+173	0	65	7
+137	0	74	7
+; 2 -> 1
+180	1	56	25
+183	0	58	16
+188	1	62	18
+178	3	55	19
+211	2	58	7
+170	1	59	4
+173	0	47	5
+175	2	53	9
+155	2	44	5
+114	3	45	10
+107	2	45	3

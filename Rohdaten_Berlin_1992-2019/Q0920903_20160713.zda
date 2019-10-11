@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920903
+datum=13.07.2016
+kurzken=Q 0920903/16
+bez=Scharnweberstraße (südöstl. Kapweg)   (Tegel, 13403)
+arm1=Kapweg,450,0100
+arm2=Afrikanische Straße,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 3 Std Sonne; 18 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+112
+81
+55
+50
+23
+47
+65
+77
+91
+115
+113
+118
+; 2 -> 1
+56
+66
+47
+30
+9
+42
+63
+81
+109
+101
+111
+141

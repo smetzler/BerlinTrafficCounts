@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5782025
+datum=03.03.2014
+kurzken=Q 5782025/14
+bez=Pasewalker Straße - Westfahrbahn (südl. Rosenthaler Str.)   (Fr.-Buchholz, 13127
+arm1=Rosenthaler Straße,800,0010
+arm2=Pasewalker Straße,1700,0000
+arm3=Bahnhofstraße,2250,1000
+arm4=Berliner Straße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Pasewalker Str. zw. westlichem Gehweg und Mittelstreifen queren.\n
+data=
+; 1 -> 3
+7	3
+3	0
+4	0
+4	1
+4	1
+5	0
+5	1
+6	5
+2	4
+10	8
+6	7
+6	1
+; 3 -> 1
+9	2
+13	0
+10	2
+3	1
+12	0
+8	0
+12	6
+17	4
+21	6
+25	7
+33	4
+8	3

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10225
+datum=19.04.1989
+kurzken=Q 10225/89
+bez=Wiener Strasse westl. Glogauer Strasse    ( Berlin 36 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+8 2 4 14 4 4 4 3 17 11 12 5 
+; 2 -> 1
+7 2 7 9 1 2 7 10 5 5 7 6 

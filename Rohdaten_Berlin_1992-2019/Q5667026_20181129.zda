@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5667026
+datum=29.11.2018
+kurzken=Q 5667025/18
+bez=Dietzgenstraße / Kuckhoffstraße (13156 Niederschönhausen)
+arm1=Dietzgenstraße (N),100,0000
+arm2=Dietzgenstraße (S),1950,0000
+arm3=Kuckhoffstraße (W),1000,0001
+arm4=Kuckhoffstraße Richtung Ost ,2800,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+8	3
+11	2
+2	0
+10	16
+6	3
+7	0
+2	2
+23	15
+22	8
+10	2
+4	4
+2	0
+; 4 -> 3
+14	80
+9	10
+14	16
+14	14
+13	3
+15	2
+20	0
+14	5
+16	3
+22	6
+10	2
+21	4

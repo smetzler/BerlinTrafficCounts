@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0075
+datum=08.05.2019
+kurzken=Q 0075/19
+bez=A114 (AD Pankow - AS Schönerlinder Straße) (Pankow, 13127) 
+arm1=AD Pankow,150,0100
+arm2=AS Schönerlinder Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1002	43	0	8	0
+841	50	0	11	0
+672	57	3	9	0
+556	61	4	4	0
+486	44	2	1	0
+494	55	3	4	0
+551	45	7	4	0
+600	48	4	3	0
+689	29	6	4	0
+866	25	2	4	0
+905	13	2	8	0
+728	12	5	3	0
+; 2 -> 1
+1096	112	2	3	0
+982	102	5	7	0
+796	98	7	3	0
+813	116	5	7	0
+818	136	3	10	0
+836	110	1	7	0
+966	107	3	2	0
+1316	96	1	7	0
+1466	73	4	13	0
+1537	68	4	15	0
+1363	50	3	19	0
+1010	27	3	8	0

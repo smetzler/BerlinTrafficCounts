@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40750
+datum=09.11.1988
+kurzken=Q 40750/88
+bez=Gatower Strasse in Hoehe Havelklinik   ( Berlin 20 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+572 647 449 435 516 637 651 598 769 727 691 551 
+; 2 -> 1
+813 724 533 514 472 461 539 638 655 759 560 452 

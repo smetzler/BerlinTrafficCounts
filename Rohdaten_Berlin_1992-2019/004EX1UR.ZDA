@@ -1,0 +1,32 @@
+[ZA1001]
+knoten=K 5721
+datum=04.11.1985
+kurzken=K 5721/85
+bez=Sophie-Charlotte-Strasse / Waltraudstrasse     ( Berlin 37 )
+Arm1=Waltraudstrasse,400,0101
+Arm2=Sophie-Charlotte-Str,1100,1001
+Arm3=,0,0000
+Arm4=Sophie-Charlotte-Str,2900,1100
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=1400,1800
+intv=60
+bemerk=
+data=
+; 1 -> 2
+0 4 0 0 0 0 3 1 1 1 0 6 1 0 0 
+0 6 1 0 0 
+; 1 -> 4
+0 21 2 0 1 0 38 2 0 0 0 54 0 0 1 
+1 38 2 1 1 
+; 2 -> 1
+0 1 1 0 0 0 2 0 0 0 0 3 0 0 0 
+0 1 0 0 0 
+; 2 -> 4
+1 29 2 0 0 0 27 3 1 0 1 20 2 0 0 
+0 25 1 0 0 
+; 4 -> 1
+0 18 0 0 0 0 14 1 0 0 1 11 0 0 0 
+0 12 0 0 0 
+; 4 -> 2
+0 11 0 0 0 0 17 1 0 0 0 22 0 0 0 
+0 24 0 0 0 

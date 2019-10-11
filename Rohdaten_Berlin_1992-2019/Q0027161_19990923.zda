@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27161
+datum=23.09.1999
+kurzken=Q 27161/99
+bez=Wendenschloßstraße (nördl. Dregerhoffstraße)   (Köpenick, 12557)
+arm1=Wendenschloßstraße,150,0000
+arm2=Westen,1050,0001
+arm3=Wendenschloßstraße,1950,0000
+arm4=Dregerhoffstraße,2850,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonnenstd.=5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	4
+22	3
+17	1
+16	0
+23	1
+6	1
+19	2
+18	3
+4	4
+17	9
+13	4
+19	5
+; 4 -> 2
+2	0
+28	4
+17	0
+8	0
+16	0
+3	0
+2	1
+3	4
+14	4
+9	1
+12	3
+8	0

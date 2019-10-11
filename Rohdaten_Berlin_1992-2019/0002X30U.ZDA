@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0105
+datum=15.06.1989
+kurzken=K 105/89
+bez=Zeltinger Platz / Zeltinger Strasse    ( Berlin 28 )
+Arm1=Zeltinger Platz,800,0000
+Arm2=,0,0000
+Arm3=Zeltinger Platz,2200,1001
+Arm4=Zeltinger Strasse,3250,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 3 -> 1
+294 372 374 372 421 469 363 322 446 536 578 303 
+; 3 -> 4
+88 168 186 170 183 206 229 194 278 300 322 299 
+; 4 -> 1
+382 282 231 176 195 174 148 122 227 219 203 118 

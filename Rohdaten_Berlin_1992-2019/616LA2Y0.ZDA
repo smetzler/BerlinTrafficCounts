@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 55198
+datum=09.03.1989
+kurzken=Q 55198/89
+bez=Klosterbuschweg noerdlich Torweg    ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+0 0 2 2 5 1 0 2 2 0 2 3 
+; 2 -> 1
+5 2 2 0 3 0 4 2 1 3 3 0 

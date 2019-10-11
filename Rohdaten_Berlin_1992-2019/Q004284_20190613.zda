@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q004284
+datum=13.06.2019
+kurzken=Q004284/19
+bez=Klosterstraße - Wilhelmstraße / Seeburger Straße (Spandau, 13581)  über Arm4
+arm1=Seeburger Straße,1050,0010
+arm2=Wilhelmstraße,1750,0000
+arm3=Ziegelhof,2850,1000
+arm4=Klosterstraße,3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+2	0
+1	0
+1	0
+10	0
+1	0
+5	0
+1	0
+0	0
+2	1
+0	0
+2	0
+1	0
+; 3 -> 1
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

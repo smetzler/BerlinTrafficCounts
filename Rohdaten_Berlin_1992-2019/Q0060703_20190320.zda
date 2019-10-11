@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0060703
+datum=20.03.2019
+kurzken=Q 0060703/19
+bez=Bernauer Straße (Tegeler Brücke) (Reinickendorf, 13629) 
+arm1=Maienwerder Weg,3400,0100
+arm2=Saatwinkler Damm,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+885	85	12	11	34
+774	80	10	9	22
+661	95	12	11	15
+562	66	6	8	6
+524	72	10	12	14
+502	42	8	11	12
+571	31	12	17	12
+654	31	8	13	7
+789	37	11	19	13
+694	18	8	6	2
+696	9	11	30	13
+422	9	11	9	6
+; 2 -> 1
+556	101	12	4	14
+519	49	10	10	11
+436	58	11	9	6
+406	60	8	6	6
+429	61	10	14	8
+501	48	9	15	6
+573	43	9	11	16
+917	39	9	19	16
+942	30	12	21	20
+944	16	8	28	30
+778	8	9	14	36
+495	10	12	5	21

@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 41065
+datum=10.08.1993
+kurzken=Q 4106.5/93
+bez=Kurfürstendamm zw. Knesebeckstr. u. Uhlandstr.     (Charlottenburg)
+arm1=Knesebeckstraße,850,0100
+arm2=Uhlandstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf
+zeit=0700,0900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Nur Busspur gezählt !\nDie Busspur ist bis 9.oo Uhr für alle Fahrzeuge offen !
+data=
+; 1 -> 2
+4 232 21 38 12
+12 231 17 32 46
+; 2 -> 1
+4 159 6 30 9
+2 152 7 44 7

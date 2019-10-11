@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10681
+datum=05.09.2016
+kurzken=Q 10681/16
+bez=Vorbergstraße (westl. Hauptstraße)   (Schöneberg, 10823)
+arm1=Vorbergstraße,700,0000
+arm2=Hauptstraße (S),1500,0001
+arm3=,0,0000
+arm4=Hauptstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=2 Std; Niederschlag=4 mm;
+data=
+; 2 -> 4
+13	0
+32	0
+34	1
+49	4
+82	3
+110	6
+80	10
+86	8
+70	18
+106	19
+70	9
+123	18
+; 4 -> 2
+17	5
+41	5
+60	4
+57	2
+70	4
+130	11
+73	6
+100	7
+91	11
+115	17
+104	17
+122	18

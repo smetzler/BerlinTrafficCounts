@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0076
+datum=07.05.2015
+kurzken=Q 0076/15
+bez=A114 - Zubr. Prenzlau (nördl. der Zufahrt Bucher Str.)   (Pankow, 13127)
+arm1=Schönerlinder Straße ,300,0100
+arm2=Bucher Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+1665	50	46	2	24
+1197	33	36	8	15
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+998	20	20	3	20
+1020	15	26	3	15
+1208	11	5	1	11
+; 2 -> 1
+1077	19	42	1	8
+909	38	37	3	9
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+1658	28	40	3	31
+1756	16	29	1	16
+1735	17	19	1	37

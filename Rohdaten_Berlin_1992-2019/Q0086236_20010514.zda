@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 86236
+datum=14.05.2001
+kurzken=Q 86236/01
+bez=Schillerstraße (westl. Ostpreußendamm )   (Lichterfelde, 12207)
+arm1=Ostpreußendamm,20,0010
+arm2=Schillerstraße,980,0000
+arm3=Ostpreußendamm,1680,1000
+arm4=Schillerstraße,2410,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 25\,5°C; Sonne: 13 Std; Niederschlag: 0 mm;\n - büro für   
+data=
+; 1 -> 3
+1	0
+3	0
+3	3
+3	0
+0	0
+2	2
+4	1
+6	1
+6	0
+5	2
+6	2
+2	3
+; 3 -> 1
+4	0
+10	3
+11	3
+6	1
+2	1
+8	2
+3	0
+4	1
+6	0
+8	8
+5	3
+8	0

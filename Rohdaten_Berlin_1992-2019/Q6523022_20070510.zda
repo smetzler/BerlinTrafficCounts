@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6523022
+datum=10.05.2007
+kurzken=Q 6523022/07
+bez=Karl-Marx-Allee (westl. Warschauer Straße)   (Friedrichshain, 10243)
+arm1=Petersburger Straße,100,0010
+arm2=Karl-Marx-Allee,810,0000
+arm3=Warschauer Straße,1620,1000
+arm4=Frankfurter Allee,2620,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=0\,5 Std; Niederschlag=17 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+11	2
+6	1
+15	1
+33	1
+26	0
+22	1
+34	0
+29	1
+48	4
+53	7
+34	1
+27	1
+; 3 -> 1
+7	1
+4	0
+7	0
+12	2
+21	0
+21	1
+26	0
+23	2
+37	1
+44	4
+30	0
+24	1

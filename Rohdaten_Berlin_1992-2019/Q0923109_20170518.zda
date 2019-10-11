@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923109
+datum=18.05.2017
+kurzken=Q 0923109/17
+bez=Chemnitzer Straße (südl. Bergedorfer Straße)   (Kaulsdorf, 12621)
+arm1=Bergedorfer Straße,3550,0100
+arm2=Ulmenstraße,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kfz-Verkehr in Chemnitzer Straße zwischen Ulmenstraße und Eschelberger Weg ; querende Fg i. H. Bergedorfer Straße\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+491	10	12	10	18
+474	20	10	6	6
+498	27	12	6	24
+581	11	12	9	19
+584	16	8	12	10
+401	14	12	7	27
+386	16	13	4	15
+474	18	12	10	26
+668	16	12	14	12
+676	6	16	28	30
+731	0	13	8	32
+612	4	9	8	34
+; 2 -> 1
+557	11	13	12	8
+639	7	12	8	7
+449	15	13	6	25
+489	12	11	16	21
+446	19	12	8	11
+380	11	13	10	22
+417	19	13	8	18
+484	16	12	5	14
+650	16	14	22	28
+580	2	20	22	42
+596	2	13	16	25
+497	2	12	12	21

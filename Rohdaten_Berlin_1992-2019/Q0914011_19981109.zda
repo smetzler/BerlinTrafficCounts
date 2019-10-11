@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0914011
+datum=09.11.1998
+kurzken=Q 0914011/98
+bez=Parchimer Allee (östl. Onkel-Bräsig-Straße)   (Britz, 12359)
+arm1=Onkel-Bräsig-Straße,850,0100
+arm2=Pastor-Behrens-Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2600
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für    \n-Hochgerechnete Daten auf DTV Wt-
+data=
+; 1 -> 2
+474	49	10	7
+454	52	10	4
+428	39	5	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+768	19	7	6
+781	16	6	16
+748	19	7	10
+; 2 -> 1
+711	26	7	14
+787	34	6	11
+645	33	5	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+554	17	10	6
+531	16	5	10
+484	6	6	6

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19235
+datum=24.11.1988
+kurzken=Q 19235/88
+bez=Schichauweg westl. Motzener Strasse    ( Berlin 49 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweise Regen !
+data=
+; 1 -> 2
+2 0 4 0 4 2 2 2 2 4 4 2 5 1 
+3 5 11 0 10 0 9 0 9 4 
+; 2 -> 1
+1 5 1 1 3 0 3 2 0 1 4 0 3 0 
+3 0 3 0 8 4 2 0 2 0 

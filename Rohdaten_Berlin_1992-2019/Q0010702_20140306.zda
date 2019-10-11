@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010702
+datum=06.03.2014
+kurzken=Q 010702/14
+bez=Nordhafenbrücke (östl. Heidestraße)   (Wedding, 10559)
+arm1=Heidestraße,1300,0100
+arm2=Am Nordhafen,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Heidestr.\, in beiden Richtungen zwischen Sellerstr. und Invalidenstr. Fahrbahn von 2 auf 1 Fahrstreifen reduziert\n
+data=
+; 1 -> 2
+737	35	1	17	6
+905	32	0	7	7
+713	43	1	15	7
+615	44	0	4	3
+659	44	4	11	1
+665	47	0	11	2
+874	33	1	13	3
+936	36	0	19	7
+1419	41	0	16	10
+1565	35	2	14	14
+1206	34	2	12	14
+1366	21	0	16	13
+; 2 -> 1
+817	18	0	11	9
+790	29	0	18	5
+731	44	1	8	17
+561	24	0	8	6
+517	25	1	5	3
+551	27	0	8	6
+813	19	0	11	3
+923	22	0	7	5
+1074	27	0	12	8
+952	17	0	15	8
+974	6	0	13	13
+770	7	0	7	13

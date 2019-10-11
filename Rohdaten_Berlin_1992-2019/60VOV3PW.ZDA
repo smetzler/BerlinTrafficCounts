@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41071
+datum=21.8.1991
+kurzken=Q 4107.1/91-F
+bez=Muellerstrasse zw. Amsterdamer Strasse und Utrechter Strasse    ( Berlin 65 )
+arm1=Utrechter Straße,900,0100
+arm2=Amsterdamer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg gegenueber C.u.A. !
+data=
+; 1 -> 2
+63 
+155 
+352 
+616 
+699 
+721 
+591 
+502 
+456 
+489 
+496 
+266 
+; 2 -> 1
+105 
+173 
+375 
+626 
+896 
+760 
+839 
+544 
+711 
+564 
+506 
+314 

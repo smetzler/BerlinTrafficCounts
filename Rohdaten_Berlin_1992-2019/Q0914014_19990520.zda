@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914014
+datum=20.05.1999
+kurzken=Q 0914014/99
+bez=Hertastraße (nördl. Delbrückstraße)   (Neukölln, 12053)
+arm1=Delbrückstraße,1400,0100
+arm2=Kranoldstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+309	23	3	14
+265	38	0	13
+271	40	1	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+325	27	2	21
+345	23	1	19
+309	16	0	15
+; 2 -> 1
+287	26	3	11
+243	23	2	5
+251	46	0	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+352	17	3	26
+370	18	2	23
+258	15	0	15

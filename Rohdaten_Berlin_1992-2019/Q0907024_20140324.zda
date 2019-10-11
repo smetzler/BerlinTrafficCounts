@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907024
+datum=24.03.2014
+kurzken=Q 0907024/14
+bez=Rampe von A111-Nord zum Zubr. Flughafen Tegel   (Charlottenburg, 13627)
+arm1=A111-Nord (Hinckeldeybrücke),3000,0100
+arm2=Zubr. Flughafen Tegel,700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+885	31	8	9
+671	29	9	2
+509	27	8	2
+527	33	12	3
+529	48	6	1
+498	28	6	4
+401	53	5	9
+344	43	7	6
+405	41	7	2
+392	25	7	1
+412	16	15	5
+302	16	10	2

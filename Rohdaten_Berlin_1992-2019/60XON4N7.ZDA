@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 43655
+datum=04.07.1994
+kurzken=Q 43655/94
+bez=Wilhelmstraße (nördl. Niederkirchnerstraße) (Mitte, 10117)
+arm1=Nord,180,0000
+arm2=West,960,0001
+arm3=Süd,1980,0000
+arm4=Ost,2760,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  \nWetter: max T = 33°\, vorm. sonnig\, nachm.wolkig\, kein Niederschlag 
+data=
+; 2 -> 4
+10 0
+7 0
+5 1
+2 0
+17 2
+21 2
+10 0
+2 0
+9 0
+3 0
+14 1
+2 0
+; 4 -> 2
+4 0
+4 0
+8 0
+1 0
+16 4
+8 1
+11 3
+1 0
+0 0
+1 0
+7 8
+2 1

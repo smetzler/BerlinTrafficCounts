@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910131
+datum=10.04.2013
+kurzken=Q 0910131/13
+bez=Bernhard-Beyer-Straße (südl. Stahnsdorfer Straße)   (Steinstücken, 14109)
+arm1=Steinstücken,1700,0100
+arm2=Stahnsdorfer Strasße,3500,1000
+arm3=,800,0000
+arm4=,2600,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+186	0	8	1	43
+140	1	6	1	18
+114	1	8	3	10
+80	0	10	2	10
+79	0	7	2	10
+71	3	6	0	13
+85	5	7	1	12
+85	2	6	0	8
+127	1	6	1	14
+96	2	6	2	16
+118	0	6	1	16
+87	0	7	2	19
+; 2 -> 1
+116	0	6	2	12
+88	1	6	2	8
+64	1	6	0	6
+86	0	6	0	18
+73	0	7	3	7
+85	2	5	1	12
+71	7	6	1	8
+100	3	6	2	6
+139	0	7	1	21
+128	0	6	4	22
+125	0	6	1	26
+96	1	8	2	15

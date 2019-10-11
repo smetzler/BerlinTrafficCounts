@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 19802
+datum=06.06.1994
+kurzken=Q 19802/94
+bez=Strom Hildburghauser Str. (West) - Marienfelder All. (Süd) (Marienfelde)
+arm1=Hildburghauser Straße (West),800,0100
+arm2=Marienfelder Allee (Süd),1500,1000
+arm3= ,2500,0000
+arm4=Friedenfelser Straße,3300,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+101 11 0 2
+80 14 0 0
+80 16 0 1
+86 27 0 2
+64 20 1 2
+74 21 0 1
+80 14 0 3
+86 9 0 2
+97 12 0 1
+70 8 0 2
+70 3 0 2
+72 2 0 7
+; 2 -> 1
+63 13 0 0
+89 20 0 0
+72 16 0 0
+53 22 0 0
+48 24 0 2
+42 8 0 2
+55 11 0 0
+43 5 0 2
+65 10 0 1
+65 5 1 0
+94 2 0 2
+103 1 1 3

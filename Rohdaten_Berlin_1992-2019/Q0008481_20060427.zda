@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8481
+datum=27.04.2006
+kurzken=Q 8481/06
+bez=Kurfürstenstraße (westl. An der Urania)    (Tiergarten, 10787)
+arm1=Kurfürstenstraße,670,0000
+arm2=An der Urania,1350,0001
+arm3=Kurfürstenstraße,2470,0000
+arm4=Schillstraße,3310,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=0\,5 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+11	0
+28	1
+28	0
+23	0
+54	0
+32	0
+34	0
+40	0
+48	2
+45	10
+55	1
+45	0
+; 4 -> 2
+6	0
+17	0
+17	0
+16	0
+30	0
+34	0
+27	2
+31	1
+33	2
+53	0
+61	1
+65	3

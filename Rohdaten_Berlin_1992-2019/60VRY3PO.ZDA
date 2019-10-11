@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41182
+datum=13.8.1991
+kurzken=Q 4118.2/91-F
+bez=Kurfuerstendamm zw. Joachimstaler Strasse und Tauentzienstrasse    (Berlin 30)
+arm1=Tauentzienstraße,900,0100
+arm2=Joachimstaler Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe "Cafe Moehring" !\nWetter: bedeckt und trocken !
+data=
+; 1 -> 2
+62 
+188 
+685 
+957 
+1453 
+1797 
+2367 
+2781 
+2640 
+2304 
+2140 
+1546 
+; 2 -> 1
+144 
+240 
+690 
+1362 
+1700 
+2354 
+2821 
+2752 
+2694 
+2804 
+2750 
+2035 

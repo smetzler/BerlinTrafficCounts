@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905048
+datum=02.11.2009
+kurzken=Q 0905048/09
+bez=Mainzer Straße (Gehweg-OSTSEITE, Höhe Nr. 16)   (Friedrichshain, 10247)
+arm1=Boxhagener Straße ,1700,0100
+arm2=Scharnweberstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Geweg auf der Ostseite der Mainzer Str. Höhe Nr. 16 nutzen.\nWetter: max T=6°C; Sonne=0 Std; Niederschlag=15 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+27	3
+26	12
+36	5
+21	3
+24	0
+38	1
+30	0
+33	1
+61	7
+45	1
+52	2
+59	2
+; 2 -> 1
+14	4
+26	5
+23	4
+27	2
+21	0
+26	1
+41	0
+35	7
+52	3
+59	2
+73	3
+68	2

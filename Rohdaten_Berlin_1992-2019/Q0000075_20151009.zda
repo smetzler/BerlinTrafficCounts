@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0075
+datum=09.10.2015
+kurzken=Q 0075/15
+bez=A114 - Zubr. Prenzlau (nördl. der Zu- Abf. Schönerlinder Str.)   (Pankow,13127)
+arm1=Landesgrenze,400,0100
+arm2=AS Schönerlinder Straße ,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fahrzeuge NÖRDL. der Abfahrt zählen. \nStandort: Brücke Schönerlinder Str. oder Seitenweg (westl. BAB)\, Einfahrt von Schönerl. Str.)\nCity-Atlas Seite 37\, Feld 3a
+data=
+; 1 -> 2
+1218	14	17	3	6
+1176	11	6	3	7
+1127	7	8	3	6
+; 2 -> 1
+2040	26	33	3	13
+2005	20	34	6	8
+1717	8	21	3	12

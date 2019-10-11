@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909017
+datum=22.03.1999
+kurzken=Q 0909017/99
+bez=Blissestraße (südl. Uhlandstraße)   (Wilmersdorf, 10715)
+arm1=Uhlandstraße,0,0100
+arm2=Hildegardstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+215	10	5	6
+276	11	6	3
+331	10	5	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+467	14	6	26
+504	6	9	23
+538	2	6	17
+; 2 -> 1
+412	13	7	11
+567	10	6	17
+548	11	5	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+465	5	8	13
+484	6	7	25
+441	4	7	16

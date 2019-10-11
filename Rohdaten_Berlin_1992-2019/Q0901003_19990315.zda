@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901003
+datum=15.03.1999
+kurzken=Q 0901003/99
+bez=Friedrichstraße (südl. Oranienburger Straße)   (Mitte, 10117)
+arm1=Oranienburger Straße,100,0100
+arm2=Claire-Waldorf-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+213	20	3	2
+249	21	4	2
+251	36	3	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+257	14	2	2
+252	11	3	6
+265	8	3	4
+; 2 -> 1
+414	33	4	10
+431	43	1	5
+418	40	4	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+395	24	2	3
+407	11	2	5
+384	7	5	6

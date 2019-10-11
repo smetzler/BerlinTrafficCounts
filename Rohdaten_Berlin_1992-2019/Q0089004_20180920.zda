@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 089004
+datum=20.09.2018
+kurzken=Q 089004/18
+bez=Schwanebecker Chaussee - Bucher Ch. (Stadtgrenze)   (Buch, 13125)
+arm1=Buch,600,0100
+arm2=Schwanebeck,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+252	9	3	5	5
+265	8	3	1	2
+220	14	4	3	1
+232	16	4	4	2
+256	11	3	3	4
+340	14	4	6	7
+321	8	3	4	8
+289	18	3	3	2
+279	13	2	7	3
+287	11	4	7	12
+236	6	2	12	10
+181	2	2	8	7
+; 2 -> 1
+176	11	3	1	2
+192	20	3	3	1
+229	11	3	2	3
+222	18	2	4	1
+229	6	4	2	4
+291	9	5	3	6
+221	13	2	2	6
+272	12	4	6	4
+425	8	3	10	10
+372	9	3	9	8
+280	6	2	11	9
+205	3	3	8	7

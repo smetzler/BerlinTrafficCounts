@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15433
+datum=17.11.1994
+kurzken=Q 1543.3/94
+bez=J.-Tibutiusbrücke (Fußg.-LSA Höhe Menckenstraße) (Steglitz, 12169)
+arm1=Osten,500,0100
+arm2=Westen,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,2000
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+13 17
+30 2
+23 4
+33 3
+26 4
+15 1
+12 4
+12 4
+29 1
+23 6
+30 7
+19 5
+9 1
+; 2 -> 1
+4 3
+10 3
+13 0
+21 1
+21 3
+16 1
+12 4
+16 5
+25 3
+22 2
+27 5
+31 1
+24 0

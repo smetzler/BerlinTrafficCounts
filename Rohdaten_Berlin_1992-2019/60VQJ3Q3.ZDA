@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41131
+datum=28.8.1991
+kurzken=Q 4113.1/91-F
+bez=Karl-Marx-Strasse zw. Neckarstrasse und Anzengruberstrasse    ( Berlin 44 )
+arm1=Anzengruberstraße,900,0100
+arm2=Neckarstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe C.u.A. !\nWetter : bedeckt und trocken !
+data=
+; 1 -> 2
+131 
+225 
+389 
+609 
+875 
+1017 
+994 
+1068 
+960 
+1008 
+1211 
+841 
+; 2 -> 1
+109 
+323 
+629 
+821 
+1085 
+1073 
+963 
+931 
+1264 
+1130 
+952 
+266 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0923014
+datum=30.05.2006
+kurzken=Q 0923014/06
+bez=Cecilienstraße (Höhe Wuhletal)   (Hellersdorf, 12619)
+arm1=Hans-Fallada-Straße,700,0100
+arm2=Kummerower Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=14°C max T; 4 Std Sonne; 10 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+279	16	15	3	33
+293	8	9	5	22
+345	12	7	5	21
+322	14	4	2	30
+327	15	6	4	28
+372	8	7	1	30
+386	14	8	2	31
+458	9	10	7	35
+630	8	12	12	58
+715	11	12	14	28
+637	10	13	4	26
+554	3	7	9	19
+; 2 -> 1
+616	10	11	7	33
+450	15	9	5	21
+405	9	6	7	32
+346	6	6	6	12
+345	13	6	5	19
+387	11	6	3	24
+355	7	6	3	24
+354	9	11	7	26
+330	8	14	4	28
+373	9	13	3	21
+389	7	12	5	20
+362	5	7	2	23

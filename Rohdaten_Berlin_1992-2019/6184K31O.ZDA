@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 57188
+datum=13.07.1989
+kurzken=Q 57188/89
+bez=Vogelsang noerdl. Koenigin-Luise-Strasse    ( Berlin 33 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter ; bedeckt und trocken !
+data=
+; 1 -> 2
+4 3 2 0 3 0 12 11 13 31 4 2 7 10 
+5 3 1 2 2 1 11 2 2 0 
+; 2 -> 1
+2 10 2 2 10 0 11 0 3 6 5 4 2 8 
+2 0 3 2 1 0 6 0 4 4 

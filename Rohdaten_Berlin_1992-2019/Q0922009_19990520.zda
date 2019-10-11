@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0922009
+datum=20.05.1999
+kurzken=Q 0922009/99
+bez=Konrad-Wolf-Straße (südl. Suermondtstraße)   (Hohenschönh., 13055)
+arm1=Bahnhofstraße,1400,0100
+arm2=Suermondtstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+447	29	6	6
+278	25	4	7
+372	23	2	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+701	22	5	9
+925	22	5	22
+704	16	4	18
+; 2 -> 1
+511	33	7	18
+467	41	5	12
+398	46	2	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+496	37	3	8
+798	28	1	7
+386	10	1	6

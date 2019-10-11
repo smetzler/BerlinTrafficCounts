@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=K 1534
+datum=22.04.1999
+kurzken=K 1534/99
+bez=Schloßstraße / Kuhligkshofstraße   (Steglitz, 12165)
+arm1=Schloßstraße,1150,0000
+arm2=Wolfensteindamm,2050,0000
+arm3=Kuhligkshofstraße,2700,1111
+arm4=Schloßstraße,3450,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Strom 3>3: von Kuhligkshofstr. zur BAB.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 1
+103	10	15	8
+75	6	29	3
+70	1	20	0
+33	1	25	2
+54	2	23	3
+45	0	23	1
+47	2	18	1
+60	1	26	5
+69	1	24	2
+56	0	19	0
+71	1	23	2
+82	0	27	4
+; 3 -> 2
+46	2	7	2
+30	0	10	1
+40	5	9	0
+53	2	10	1
+52	2	8	0
+52	0	10	0
+50	0	8	0
+61	1	8	3
+71	2	11	1
+61	2	8	0
+83	2	7	1
+98	0	12	3
+; 3 -> 3
+74	0	0	0
+67	0	0	0
+42	0	0	0
+31	0	0	0
+18	0	0	0
+21	0	0	0
+15	0	0	0
+14	0	0	0
+22	0	0	0
+57	0	0	0
+47	0	0	0
+32	0	0	0
+; 3 -> 4
+7	1	5	0
+15	1	13	2
+10	2	11	0
+14	2	10	1
+12	1	8	0
+11	0	14	0
+12	1	13	0
+17	0	14	1
+12	0	9	0
+21	0	12	0
+25	0	12	0
+20	0	10	1

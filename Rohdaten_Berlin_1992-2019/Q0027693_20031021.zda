@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27693
+datum=21.10.2003
+kurzken=Q 27693/03
+bez=Pölnitzweg (südöstl. Röbellweg)   (Buch, 13125)
+arm1=Pölnitzweg (NW),400,0000
+arm2=Röbellweg (SW),1400,0001
+arm3=Pölnitzweg (SO),2200,0000
+arm4=Röbellweg (NO),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=0 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	0
+2	0
+3	0
+8	0
+2	2
+4	0
+2	3
+3	4
+15	8
+10	7
+5	2
+12	0
+; 4 -> 2
+5	8
+8	1
+6	0
+2	0
+4	0
+3	0
+4	1
+6	0
+7	0
+8	4
+6	3
+5	0

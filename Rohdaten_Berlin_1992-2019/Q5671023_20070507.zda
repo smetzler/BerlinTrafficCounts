@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5671023
+datum=07.05.2007
+kurzken=Q 5671023/07
+bez=Wichertstraße (östl. Schönhauser Allee)   (Prenzlauer Berg, 10439)
+arm1=Schivelbeiner Straße,830,0000
+arm2=Schönhauser Allee,1720,0001
+arm3=Wichertstraße,2520,0000
+arm4=Schönhauser Allee,3520,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=0 Std; Niederschlag=26 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+60	12
+135	11
+229	5
+295	11
+319	11
+302	29
+386	6
+438	8
+587	11
+664	17
+704	13
+526	4
+; 4 -> 2
+118	22
+311	13
+323	16
+336	5
+326	9
+259	12
+382	35
+468	5
+454	7
+524	7
+457	12
+384	2

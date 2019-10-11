@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41741
+datum=21.06.1995
+kurzken=Q 41741/95
+bez=Am Nordgraben (Höhe Humboldt-Krankenhaus)     (Reinickendorf, 13509) 
+arm1=Gorkistraße,600,0000
+arm2=Triftstraße,2500,0000
+arm3=Süden,1500,0001
+arm4=Norden,3300,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   ;\nWetter: max T = 24°\, teils sonig\, 12 mm Niederschlag
+data=
+; 3 -> 4
+0 0
+1 0
+4 0
+11 0
+3 0
+2 0
+21 0
+23 0
+17 0
+23 0
+15 0
+14 0
+; 4 -> 3
+21 0
+27 0
+11 0
+15 0
+14 1
+14 0
+15 0
+19 0
+20 0
+17 0
+20 0
+7 0

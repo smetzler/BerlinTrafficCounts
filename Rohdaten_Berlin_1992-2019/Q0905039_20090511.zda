@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905039
+datum=11.05.2009
+kurzken=Q 0905039/09
+bez=Friedenstraße (nordwestl. Büschingstraße)   (Friedrichshain, 10249)
+arm1=Weinstraße,450,0100
+arm2=Büschingstraße,2250,1000
+arm3=,1350,0000
+arm4=,3150,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+277	9	5	10	47
+331	5	2	12	97
+305	7	4	14	76
+247	11	4	6	33
+244	17	3	4	21
+255	7	3	6	23
+254	6	3	9	23
+253	11	3	7	42
+303	5	3	9	44
+331	6	4	14	51
+279	5	3	4	44
+265	3	3	8	74
+; 2 -> 1
+334	14	2	3	46
+369	12	4	14	78
+377	7	3	11	97
+329	12	4	8	42
+301	20	2	3	34
+301	14	4	6	32
+321	13	2	9	34
+429	21	4	7	30
+439	14	3	17	36
+475	10	2	13	56
+413	3	3	14	61
+406	3	3	9	101

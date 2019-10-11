@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919157
+datum=20.09.2010
+kurzken=Q 0919157/10
+bez=Hauptstraße (nördl. Herzstraße)   (Wilhelmsruh, 13158)
+arm1=Herzstraße,1600,0000
+arm2=Garibaldistraße,3400,0000
+arm3=((Westen)),700,0001
+arm4=((Osten)),2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Hauptstraße in Höhe der Mittelinsel (auf ca. 50m) queren!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+13	1
+15	0
+23	0
+29	0
+27	0
+33	0
+18	2
+32	12
+31	8
+36	9
+37	5
+25	4
+; 4 -> 3
+33	11
+21	2
+20	0
+36	1
+24	1
+26	0
+29	1
+17	5
+41	4
+45	3
+37	6
+23	4

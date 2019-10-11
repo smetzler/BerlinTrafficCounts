@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 050601
+datum=08.04.1997
+kurzken=Q 050601/97
+bez=Am Postfenn (südl. Stallupöner Allee) (Charlottenburg, 14055)
+arm1=Stallupöner Allee,3400,0100
+arm2=Havelchaussee,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+29 0 0 0 1
+47 3 1 0 1
+35 6 0 0 0
+36 3 0 0 3
+46 3 1 1 17
+66 7 1 1 15
+65 8 1 0 20
+70 3 0 0 7
+51 2 0 0 21
+78 5 1 0 25
+75 2 0 0 22
+81 2 0 0 32
+; 2 -> 1
+18 1 0 0 1
+29 3 0 0 3
+43 6 0 0 2
+40 6 0 0 4
+38 4 0 0 8
+35 1 2 1 14
+36 5 1 0 17
+52 6 0 0 12
+64 5 1 0 8
+70 6 1 0 17
+87 1 0 0 14
+82 3 0 0 49

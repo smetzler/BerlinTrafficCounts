@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909158
+datum=21.11.2016
+kurzken=Q 0909158/16
+bez=Paulsborner Straße (Höhe Schweidlitzer Straße)   (Wilmersdorf, 10709)
+arm1=Seesener Straße,1250,0000
+arm2=Nestorstraße,3050,0000
+arm3=((Norden)),350,0001
+arm4=((Süden)),2150,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Paulsborner Str. in Höhe der Schweidnitzer Str. queren (ca. 50m west. bis 50m östl.)
+data=
+; 3 -> 4
+22	4
+14	0
+8	1
+11	0
+9	0
+7	2
+11	1
+15	3
+12	1
+12	7
+6	1
+7	0
+; 4 -> 3
+10	2
+9	1
+10	2
+12	1
+10	0
+12	0
+7	0
+14	0
+10	1
+9	2
+5	1
+7	0

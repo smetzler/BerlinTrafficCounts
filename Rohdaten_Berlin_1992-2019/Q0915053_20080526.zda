@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915053
+datum=26.05.2008
+kurzken=Q 0915053/08
+bez=Schnellerstraße (östl. Köllnische Straße)   (Niederschöneweide, 12459)
+arm1=Köllnische Straße,750,0100
+arm2=Bruno-Bürgel-Weg,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+323	12	3	10	47
+330	25	4	8	34
+289	19	4	10	18
+306	24	4	8	22
+434	32	5	8	28
+428	19	5	10	40
+475	20	5	15	32
+612	12	3	24	37
+770	12	4	26	44
+759	9	4	36	51
+718	6	3	25	48
+635	2	4	27	34
+; 2 -> 1
+921	20	3	16	41
+788	16	9	12	24
+608	19	4	5	14
+314	4	4	10	10
+389	15	7	12	4
+359	8	3	11	23
+458	6	4	13	36
+356	11	3	10	29
+410	14	4	14	32
+420	5	4	24	40
+393	4	4	15	27
+368	3	3	13	26

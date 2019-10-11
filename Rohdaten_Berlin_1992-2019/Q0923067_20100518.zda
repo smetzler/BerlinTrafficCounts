@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923067
+datum=18.05.2010
+kurzken=Q 0923067/10
+bez=Heesestraße (westl. Schwabenallee)   (Biesdorf-Süd, 12683)
+arm1=Köpenicker Straße,850,0100
+arm2=Schwabenallee,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+161	7	10	1	5
+158	3	8	0	6
+200	5	9	0	3
+176	7	11	0	3
+210	8	8	3	6
+211	5	9	1	4
+213	9	8	0	20
+301	7	12	4	16
+397	9	11	15	28
+446	14	10	14	18
+445	7	11	15	11
+413	3	11	3	9
+; 2 -> 1
+399	9	11	10	32
+330	4	9	6	13
+294	5	10	3	14
+256	9	8	6	5
+231	9	11	2	6
+178	4	10	3	2
+202	6	9	2	3
+209	5	10	2	3
+192	3	9	1	5
+201	3	11	4	6
+239	2	11	8	7
+190	2	11	2	5

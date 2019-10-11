@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 53435
+datum=13.10.1994
+kurzken=Q 53435/94
+bez=Köpenicker Straße (nördl. Zeughofstraße) (Kreuzberg, 10179) 
+arm1=Köpenicker Straße,520,0000
+arm2=Zeughofstraße,1400,0001
+arm3=Köpenicker Straße,2300,0000
+arm4=Osten,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 11°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+0,0
+4,0
+0,0
+1,0
+2,0
+0,0
+5,2
+7,0
+4,0
+2,0
+3,0
+1,0
+; 4 -> 2
+1,0
+3,0
+0,0
+0,0
+2,0
+0,0
+2,0
+0,0
+1,0
+0,0
+3,0
+0,0

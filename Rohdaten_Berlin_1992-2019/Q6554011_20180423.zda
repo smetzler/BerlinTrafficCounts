@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6554011
+datum=23.04.2018
+kurzken=Q 6554011/18
+bez=Ruschestraße (nördl. Bornitzstraße)  (Lichtenberg, 10367)
+arm1=Ruschestraße (N),30,0000
+arm2=Bornitzstraße (W),880,0001
+arm3=Ruschestraße (S),1650,0000
+arm4=Bornitzstraße (O),2680,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+74	51
+24	32
+64	0
+30	0
+31	0
+18	0
+26	9
+29	24
+106	12
+54	20
+45	12
+53	8
+; 4 -> 2
+25	18
+20	16
+42	0
+42	0
+30	0
+14	4
+10	8
+22	17
+43	10
+30	10
+30	13
+37	7

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901015
+datum=16.03.1999
+kurzken=Q 0901015/99
+bez=Karl-Liebknecht-Straße (südl. Wadzeckstraße)   (Mitte, 10178)
+arm1=Hirtentraße,1500,0100
+arm2=Wadzeckstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+837	79	17	9
+797	69	20	3
+882	68	16	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1560	45	18	33
+1476	32	21	19
+1421	22	19	21
+; 2 -> 1
+1204	67	21	16
+1339	74	25	15
+1051	59	20	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1080	43	18	13
+1105	46	21	14
+989	19	21	8

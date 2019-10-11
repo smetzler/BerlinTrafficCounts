@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4139
+datum=18.05.1994
+kurzken=Q 4139/94
+bez=Ostpreußendamm / nördl. Stadtgrenze ( Lichterfelder Allee ) (Lichterfelde)
+arm1=Stadtgrenze,1200,0100
+arm2=Schwelmer Straße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+268 33 6 3 23
+227 39 1 4 13
+191 27 3 3 14
+180 50 2 4 28
+157 35 3 2 9
+162 38 2 2 10
+192 31 2 2 9
+206 38 3 8 14
+202 22 2 12 28
+304 30 3 9 32
+302 22 4 6 12
+274 7 4 13 10
+; 2 -> 1
+238 37 3 5 4
+257 43 4 6 6
+209 36 1 7 11
+186 38 4 6 8
+207 43 2 12 11
+195 45 2 3 17
+219 34 3 6 18
+254 36 1 4 27
+362 34 2 16 8
+498 34 3 9 26
+319 32 3 5 17
+272 14 3 6 9

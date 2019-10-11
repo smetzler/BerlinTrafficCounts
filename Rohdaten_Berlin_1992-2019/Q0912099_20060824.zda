@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912099
+datum=24.08.2006
+kurzken=Q 0912099/06
+bez=Hindenburgdamm (südl. Haydnstraße)   (Steglitz, 12203)
+arm1=Haydnstraße,50,0100
+arm2=Klingsorstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+837	41	21	25	89
+785	43	14	24	45
+734	33	17	20	31
+676	48	14	10	24
+717	48	16	23	38
+695	39	16	17	43
+762	30	14	34	57
+822	29	13	30	50
+898	36	14	48	36
+953	12	12	56	54
+911	11	13	43	37
+883	8	10	30	43
+; 2 -> 1
+1271	37	16	38	72
+1334	31	17	39	46
+1062	41	19	27	31
+950	62	18	26	34
+708	28	14	14	34
+864	25	14	20	34
+848	26	14	23	52
+896	26	18	34	46
+1048	30	14	34	50
+962	19	16	35	49
+747	7	14	25	27
+684	5	12	31	25

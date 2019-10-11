@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0639
+datum=31.08.1988
+kurzken=K 639/88
+bez=Ernst-Reuter-Platz / Strasse des 17. Juni   ( Berlin 10 )
+Arm1=Ernst-Reuter-Platz,400,0000
+Arm2=,0,0000
+Arm3=Ernst-Reuter-Platz,1400,1001
+Arm4=Strasse des 17. Juni,2970,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 3 -> 1
+1630 1408 1281 1353 1280 1373 1407 1281 1608 1803 1554 1464 
+; 3 -> 4
+1379 1348 1176 1143 1134 1126 1186 1197 1346 1369 1154 1035 
+; 4 -> 1
+994 982 1006 1126 1214 1294 1355 1336 1813 1683 1352 1185 

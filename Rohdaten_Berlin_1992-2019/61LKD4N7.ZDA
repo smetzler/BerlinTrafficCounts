@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 74605
+datum=04.07.1994
+kurzken=Q 74605/94
+bez=Heinrich-Heine-Straße (nördl. Oranienstraße) (Kreuzberg, 10179) 
+arm1=Oranienstraße,1500,0100
+arm2=Sebastianstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+677 66 3 26 37
+694 85 0 19 46
+639 90 4 21 56
+667 73 1 19 33
+644 90 0 26 22
+652 85 1 25 35
+670 63 1 24 32
+710 57 0 23 51
+821 43 2 34 51
+915 37 1 44 75
+798 25 0 37 67
+762 23 1 42 56
+; 2 -> 1
+941 95 1 31 36
+925 92 0 24 38
+769 96 0 21 32
+703 107 2 18 39
+756 89 0 20 38
+639 76 0 17 32
+689 97 0 29 36
+741 82 0 26 47
+879 71 1 50 69
+821 43 1 57 52
+743 42 1 43 62
+849 22 2 34 39

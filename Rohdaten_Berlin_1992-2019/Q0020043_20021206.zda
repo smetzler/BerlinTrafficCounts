@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20043
+datum=06.12.2002
+kurzken=Q 2004/02
+bez=A103 - BAB Abzw. Zehlend. (Höhe Saarstr. - li. Spur) (Schö'berg, 12157)
+arm1=AS Saarstraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+443	27	1	0	0	2
+618	12	0	0	0	3
+372	30	0	0	0	2
+225	27	0	0	0	0
+213	20	0	0	0	1
+; 2 -> 1
+248	18	2	0	0	2
+250	10	0	0	0	2
+167	16	0	0	0	1
+144	13	1	0	0	1
+136	14	1	0	0	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4302
+datum=12.06.1995
+kurzken=Q 4302/95
+bez=Rochstraße (südl. Münzstraße),(Mitte, 10718)
+arm1=Dircksenstraße,1600,0100
+arm2=Münzstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   ;\nRochstraße Einbahnstraße in Richtung Münzstraße
+data=
+; 1 -> 2
+81 5 0 0 3
+89 6 0 0 2
+109 7 0 1 8
+116 10 0 0 14
+119 4 0 3 8
+106 4 0 1 16
+93 5 0 2 12
+131 4 0 2 21
+136 8 0 0 24
+168 1 0 1 26
+132 0 0 1 20
+119 0 0 2 18
+; 2 -> 1
+0 0 0 0 8
+1 0 0 0 6
+0 0 0 0 6
+0 0 0 0 4
+0 0 0 0 10
+0 0 0 0 6
+0 0 0 0 9
+0 0 0 0 4
+0 0 0 0 4
+0 0 0 0 9
+0 0 0 0 5
+0 0 0 0 4

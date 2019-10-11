@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 26973
+datum=19.10.2017
+kurzken=Q 26973/17
+bez=Lichtenberger Straße (südl. Strausberger Platz)   (Friedrichshain, 10243)
+arm1=,0,0000
+arm2=Strausberger Platz (W),500,0001
+arm3=Lichtenberger Straße (Süd),1600,0000
+arm4=Strausberger Platz (O),2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+35	6
+33	2
+42	0
+37	0
+74	1
+66	4
+73	11
+44	1
+82	6
+86	7
+94	27
+86	6
+; 4 -> 2
+27	0
+40	1
+28	4
+35	0
+59	0
+61	0
+57	0
+56	13
+66	6
+95	11
+48	5
+39	2

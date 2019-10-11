@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917089
+datum=02.09.2009
+kurzken=Q 0917089/09
+bez=Nöldnerstraße (Höhe Nr. 11, S-Bhf.)   (Rummelsburg, 10317)
+arm1=Karlshorster Straße,900,0100
+arm2=Stadthausstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+31	0	14	3	23
+30	6	10	2	18
+39	1	8	0	21
+48	0	10	0	10
+47	1	9	3	13
+70	1	7	0	16
+79	3	9	2	22
+66	0	6	7	23
+56	0	10	8	34
+83	0	11	4	55
+91	4	10	7	58
+62	1	9	5	63
+; 2 -> 1
+195	5	9	5	62
+203	4	13	7	49
+151	5	8	4	41
+112	4	8	0	24
+126	7	10	6	18
+102	5	7	2	18
+153	4	9	4	42
+125	3	12	3	33
+112	4	12	6	40
+131	0	12	7	49
+130	0	12	7	44
+98	1	7	4	43

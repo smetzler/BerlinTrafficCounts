@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0902007
+datum=01.12.1998
+kurzken=Q 0902007/98
+bez=Potsdamer Straße (nördl. Lützowstraße)   (Tiergarten, 10785)
+arm1=Lützowstraße,1500,0100
+arm2=Schöneberger Ufer,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+988	47	12	5
+1080	38	13	6
+952	54	11	11
+868	59	15	5
+873	56	12	7
+918	51	13	6
+884	53	10	12
+981	27	12	4
+1056	39	11	11
+1114	33	12	10
+1052	7	12	8
+948	17	15	7
+; 2 -> 1
+785	30	16	6
+935	45	12	4
+812	58	14	5
+781	56	14	2
+789	62	16	2
+755	32	10	4
+741	32	12	9
+764	25	15	6
+860	39	14	6
+849	15	16	6
+888	23	19	17
+938	13	16	8

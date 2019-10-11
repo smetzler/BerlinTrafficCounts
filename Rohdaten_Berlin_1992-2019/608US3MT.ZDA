@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 11476
+datum=6.5.1991
+kurzken=Q 1147.6/91-F
+bez=Berliner Strasse westlich Nassauische Strasse    ( Berlin 31 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+44 5 1 
+48 3 6 
+47 8 3 
+38 2 2 
+37 4 5 
+32 2 4 
+28 4 2 
+19 3 0 
+43 3 8 
+46 1 12 
+29 2 4 
+30 6 5 
+; 2 -> 1
+37 9 4 
+38 2 6 
+75 2 2 
+105 0 4 
+78 1 2 
+80 0 9 
+69 3 0 
+76 6 2 
+82 2 4 
+74 3 11 
+102 8 4 
+33 2 3 

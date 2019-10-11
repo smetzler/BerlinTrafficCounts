@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907099
+datum=20.09.2006
+kurzken=Q 0907099/06
+bez=Reichsstraße (östl. Meiningenallee)   (Westend, 14059)
+arm1=Meiningenallee,300,0100
+arm2=Altenburger Allee,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+711	35	5	39	28
+803	42	4	44	21
+562	28	4	27	25
+466	32	4	24	24
+466	36	3	28	12
+426	45	3	14	20
+501	27	3	31	16
+527	29	4	33	12
+572	12	4	42	30
+555	20	3	47	28
+517	10	4	26	24
+468	6	4	20	20
+; 2 -> 1
+424	19	8	23	13
+418	32	3	14	13
+406	26	5	16	15
+512	28	4	20	27
+462	43	3	31	20
+530	26	3	18	28
+517	31	3	23	18
+514	36	3	29	31
+670	38	3	40	38
+742	34	3	49	27
+732	21	3	40	38
+751	17	3	49	33

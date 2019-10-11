@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28731
+datum=03.09.2009
+kurzken=Q 28731/09
+bez=Frankfurter Allee (Höhe Weichselstr.-Waldeyerstr.)   (Friedrichshain, 10247)
+arm1=Frankfurter Allee (W),800,0000
+arm2=Weichselstraße ,1650,0001
+arm3=Frankfurter Allee (O),2600,0000
+arm4=Waldeyerstraße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Frankfurter All. in Höhe Weichselstr.-Waldeyerstr. (auf ca. 100 m) queren.\nWetter: max T=21°C; Sonne=3 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+21	7
+13	6
+16	3
+23	0
+39	8
+30	2
+38	0
+35	4
+50	4
+42	8
+40	5
+45	8
+; 4 -> 2
+8	3
+13	2
+13	1
+30	3
+37	8
+34	9
+27	3
+25	3
+20	3
+11	2
+29	3
+15	2

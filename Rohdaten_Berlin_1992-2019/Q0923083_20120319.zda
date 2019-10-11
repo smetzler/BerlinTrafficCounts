@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923083
+datum=19.03.2012
+kurzken=Q 0923083/12
+bez=Marzahner Chaussee (Höhe Beilsteiner Straße)   (Marzahn, 12681)
+arm1=Gensinger Straße,1600,0000
+arm2=Eltzbachweg,3400,0000
+arm3=((Westen)),700,0001
+arm4=((Osten)),2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Marzahner Ch. in Höhe der Beilsteinstr. (ca. 50m südl.bis 50m nördl.) queren.\n
+data=
+; 3 -> 4
+3	0
+1	1
+3	1
+0	0
+6	0
+14	1
+13	1
+10	0
+12	3
+2	0
+9	0
+6	1
+; 4 -> 3
+11	0
+4	1
+6	0
+4	0
+2	0
+9	2
+8	1
+6	0
+12	3
+18	0
+6	0
+4	0

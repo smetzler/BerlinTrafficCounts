@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906008
+datum=15.03.1999
+kurzken=Q 0906008/99
+bez=Lindenstraße (südl. Franz-Klühs-Straße)   (Kreuzberg, 10969)
+arm1=Franz-Klühs-Straße,100,0100
+arm2=Neuenburger Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+689	27	8	12
+574	37	5	4
+539	37	4	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+747	22	6	13
+728	10	6	12
+677	11	5	12
+; 2 -> 1
+677	41	10	12
+793	28	7	12
+612	44	7	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+534	25	6	8
+562	14	7	8
+528	5	8	9

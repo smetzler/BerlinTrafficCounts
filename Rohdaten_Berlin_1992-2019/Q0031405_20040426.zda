@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031405
+datum=26.04.2004
+kurzken=Q 031405/04
+bez=Ringstraße (westl. Kurfürstenstraße)   (Tempelhof, 12105)
+arm1=Teltowkanal,750,0100
+arm2=Kurfürstenstraße,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+276	14	7	11	3
+356	24	6	10	9
+259	27	5	3	2
+176	28	6	8	12
+278	21	4	4	7
+289	16	6	8	14
+390	21	7	8	11
+419	17	6	10	10
+550	12	6	10	28
+560	6	5	16	22
+468	2	8	15	8
+439	2	8	14	16
+; 2 -> 1
+513	26	9	18	11
+518	14	6	7	12
+339	17	6	4	2
+206	6	6	2	2
+272	28	6	8	6
+261	19	6	4	1
+293	17	5	6	6
+374	9	6	9	13
+416	8	6	16	6
+438	10	6	15	12
+393	4	7	11	7
+327	2	7	7	10

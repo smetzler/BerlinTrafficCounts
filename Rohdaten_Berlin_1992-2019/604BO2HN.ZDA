@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 05604
+datum=28.10.1987
+kurzken=Q 5604/87
+bez=Strasse des 17.Juni  oestl. Grosser Stern     ( Berlin 21 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+310 392 394 427 459 511 537 470 482 407 429 366 
+; 2 -> 1
+251 315 461 608 503 474 461 473 428 421 477 365 

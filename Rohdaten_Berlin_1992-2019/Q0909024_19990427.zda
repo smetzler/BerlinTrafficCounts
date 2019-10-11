@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909024
+datum=27.04.1999
+kurzken=Q 0909024/99
+bez=Halenseestr. - Zu- Abfahrt BAB-Stadtring (A100)   (Grunewald, 10711)
+arm1=BAB A100 (AD Funkturm,300,0100
+arm2=Halenseestr. (Rathenauplatz),2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+839	42	0	8
+864	48	0	7
+834	34	3	5
+626	42	2	4
+687	43	1	9
+666	36	1	6
+754	33	4	7
+779	34	3	11
+652	22	2	8
+677	6	4	8
+706	8	4	8
+668	5	3	8
+; 2 -> 1
+997	40	0	14
+1163	38	4	2
+918	48	6	11
+838	92	1	6
+788	48	1	8
+735	43	2	11
+766	55	3	9
+871	44	0	18
+1080	38	6	8
+1025	21	1	15
+1013	23	3	12
+917	11	3	11

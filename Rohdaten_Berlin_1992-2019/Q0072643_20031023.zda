@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 72643
+datum=23.10.2003
+kurzken=Q 72643/03
+bez=Pallasstraße (östl. Elßholzstraße)   (Schöneberg, 10781)
+arm1=Pallasstraße,820,0000
+arm2=Elßholzstraße,1770,0001
+arm3=Pallasstraße,2640,0000
+arm4=((Norden)),0,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=5\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	14
+10	6
+6	21
+15	7
+11	0
+34	4
+20	5
+43	17
+19	16
+12	21
+11	2
+21	8
+; 4 -> 2
+8	38
+22	7
+9	30
+24	10
+13	2
+36	5
+11	3
+11	4
+10	11
+11	6
+7	1
+11	0

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 15504
+datum=17.09.1987
+kurzken=Q 15504/87
+bez=Manteuffelstrasse noerdl. Attilaplatz       ( Berlin 42 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+893 793 790 794 860 912 1015 1066 1454 1451 1374 1188 
+; 2 -> 1
+1572 1237 952 903 859 938 913 953 1206 1321 1083 884 

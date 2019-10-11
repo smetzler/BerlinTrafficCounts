@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0903011
+datum=12.11.1998
+kurzken=Q 0903011/98
+bez=Bernauer Straße (östl. Gartenstraße)   (Wedding, 13355)
+arm1=Gartenstraße,1400,0100
+arm2=Bergstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+253	23	5	3
+298	33	3	10
+251	22	4	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+607	32	3	8
+707	25	4	6
+603	11	4	9
+; 2 -> 1
+534	33	4	3
+531	37	4	8
+415	31	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+315	14	3	3
+322	15	3	6
+321	12	3	2

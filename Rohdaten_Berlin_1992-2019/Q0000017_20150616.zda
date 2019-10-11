@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0017
+datum=16.06.2015
+kurzken=Q 0017/15
+bez=B5 - Heerstraße (östl. Insterburgallee)   (Charlottenburg, 14055)
+arm1=Insterburgallee,1000,0100
+arm2=Teufelsseestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!OHNE NEBENFAHRBAHN!\, jedoch Radfahrer auf Nebenfahrbahn zählen! Zählzeit: 7 - 9 und 15 - 18 Uhr. \nSpuraufteilung und Radfahrer-Zählung vor Ort festlegen! City-Atlas Seite 83\, Feld 9a
+data=
+; 1 -> 2
+2746	69	14	20	85	95
+2819	38	32	26	63	72
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+1718	36	21	24	30	50
+1780	26	23	23	43	51
+1498	15	8	22	39	62
+; 2 -> 1
+1148	34	31	23	19	37
+1200	31	46	21	20	19
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+2216	20	27	25	55	70
+2218	9	30	20	77	84
+2069	7	17	22	70	76

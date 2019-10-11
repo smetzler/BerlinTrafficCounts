@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010703
+datum=06.06.2016
+kurzken=Q 010703/16
+bez=Fennbrücke (östl. Heidestraße)   (Wedding, 13347)
+arm1=Heidestraße,1300,0100
+arm2=Tegeler Straße ,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Heidestr.\, in beiden Ri. zw. Fennstr. und Minna-Cauer-Str. Fahrbahn von 2 auf 1 Fahrstreifen reduziert.\nSellerstr. in beiden Ri. zw. Am Nordhafen und Müllerstr. nur 1 Spur je Richtung.
+data=
+; 1 -> 2
+694	31	12	26	145
+596	30	14	19	241
+540	28	13	13	192
+648	44	13	14	110
+693	46	13	20	113
+716	32	14	15	148
+879	28	13	29	135
+951	26	13	41	195
+844	7	13	51	300
+882	12	14	44	364
+827	7	13	39	425
+932	3	13	57	442
+; 2 -> 1
+1323	47	12	68	280
+1262	29	15	62	412
+1085	40	15	47	301
+622	30	14	32	102
+829	50	17	25	110
+828	36	11	35	126
+837	38	11	44	151
+887	33	14	39	146
+965	22	13	47	194
+1070	12	14	44	206
+969	12	15	56	266
+855	7	12	32	277

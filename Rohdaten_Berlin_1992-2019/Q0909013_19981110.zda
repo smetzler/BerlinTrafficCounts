@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909013
+datum=10.11.1998
+kurzken=Q 0909013/98
+bez=Teplitzer Straße (nördl. Taunusstraße)   (Grunewald, 14193)
+arm1=Berkaer Straße,0,0100
+arm2=Taunusstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+517	33	10	11
+610	26	6	7
+503	26	7	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+616	9	6	14
+630	8	6	8
+612	4	6	6
+; 2 -> 1
+781	30	9	6
+889	31	11	8
+704	34	9	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+667	28	7	10
+692	19	9	11
+651	9	6	9

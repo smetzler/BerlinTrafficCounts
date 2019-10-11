@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908096
+datum=08.06.2009
+kurzken=Q 0908096/09
+bez=Rohrdamm (Höhe Senioren-Heim Nr. 56)   (Siemensstradt, 13629)
+arm1=Saatwinkler Damm,150,0100
+arm2=Harriesstraße,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+214	9	6	8	30
+225	6	7	6	36
+181	14	3	1	11
+194	10	2	2	28
+138	7	3	8	11
+123	11	4	5	8
+131	7	5	6	15
+147	5	6	3	23
+146	4	6	8	14
+165	4	6	11	20
+151	1	8	7	23
+138	2	3	9	21
+; 2 -> 1
+136	9	7	2	21
+189	12	6	7	14
+172	16	3	7	18
+194	20	4	2	28
+172	12	3	7	15
+187	9	2	6	18
+190	10	4	7	20
+280	14	7	20	19
+318	14	6	12	20
+298	7	8	16	27
+261	2	9	11	27
+191	2	3	12	34

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41775
+datum=18.09.1995
+kurzken=Q 41775/95
+bez=Alt-Moabit (Höhe Haus-Nr. 95-97)   (Tiergarten, 10559) 
+arm1=Stromstraße,750,0000
+arm2=Kirchstraße,2550,0000
+arm3=Süden,1650,0001
+arm4=Norden,3450,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 21°\, meist sonnig\, kein Niederschlag. 
+data=
+; 3 -> 4
+13 0
+8 3
+8 0
+37 0
+47 0
+51 0
+20 0
+17 0
+16 0
+22 0
+16 0
+8 0
+; 4 -> 3
+11 0
+18 0
+29 1
+35 2
+63 2
+68 0
+31 0
+27 2
+9 0
+10 1
+9 0
+0 0

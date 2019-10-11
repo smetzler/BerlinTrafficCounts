@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11205
+datum=15.03.1989
+kurzken=Q 11205/89
+bez=Maybachufer westlich Pannierstrasse    ( Berlin 44 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+30 18 27 31 50 38 27 32 66 48 37 41 
+; 2 -> 1
+15 9 27 20 30 27 20 23 30 32 30 30 

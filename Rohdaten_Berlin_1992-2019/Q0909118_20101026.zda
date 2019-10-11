@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909118
+datum=26.10.2010
+kurzken=Q 0920195/10
+bez=Württembergische Straße (südl. Düsseldorfer Straße)   (Wilmersdorf, 10707)
+arm1=Zähringerstraße,1750,0100
+arm2=Württembergische Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+133	1	0	0	48
+290	1	1	5	52
+245	5	0	3	45
+155	2	0	3	30
+150	6	0	2	16
+119	4	0	6	22
+138	0	0	4	24
+125	1	0	7	22
+163	0	0	0	28
+142	0	1	4	25
+119	1	0	2	34
+99	0	0	3	14
+; 2 -> 1
+86	1	0	2	23
+109	0	0	3	28
+95	2	0	0	14
+120	0	0	2	8
+91	1	0	1	19
+118	0	0	0	17
+154	0	0	3	35
+166	1	0	3	33
+187	2	0	6	31
+202	0	0	1	33
+220	0	0	3	32
+193	0	0	4	37

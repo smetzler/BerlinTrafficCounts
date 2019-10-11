@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907154
+datum=23.03.2010
+kurzken=Q 0907154/10
+bez=Sömmeringstraße (südl. Nordhauser Straße)   (Charlottenburg, 10589)
+arm1=Nordhauser Straße,0,0100
+arm2=Quedlingburger Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+347	16	7	8	12
+390	11	8	7	16
+320	12	5	5	24
+278	2	6	8	18
+343	16	6	12	16
+354	15	7	5	17
+348	9	7	7	25
+398	15	6	11	33
+408	5	7	17	35
+438	6	6	16	39
+506	7	9	19	41
+380	4	9	24	25
+; 2 -> 1
+268	10	5	1	15
+331	13	8	7	24
+260	5	5	5	18
+266	8	4	4	10
+312	6	6	7	18
+316	14	7	11	15
+346	10	7	25	26
+429	11	7	13	30
+438	12	8	15	29
+450	6	6	15	20
+410	7	5	14	41
+354	1	8	7	29

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010605
+datum=29.11.2011
+kurzken=Q 010605/11
+bez=Neue Kantstraße (Ostpreußenbrücke)   (Charlottenburg, 14057)
+arm1=Messedamm,900,0100
+arm2=Dernburgstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Neue Kantstraße wird zwischen Messedamm und Dernburgstraße die Fahrbahn saniert\n
+data=
+; 1 -> 2
+959	30	22	10	18
+1389	24	22	11	47
+1281	17	23	10	22
+782	2	16	4	12
+782	13	19	5	22
+798	20	15	5	32
+780	28	20	16	42
+737	12	22	12	46
+858	9	23	13	55
+984	14	26	12	32
+802	9	29	23	33
+687	8	19	9	32
+; 2 -> 1
+673	15	25	7	66
+835	11	20	14	49
+807	27	17	10	34
+694	26	18	4	38
+700	15	13	6	25
+731	23	16	11	27
+824	21	23	7	31
+916	24	26	8	55
+1038	28	22	18	45
+1094	26	22	14	34
+1002	22	25	13	32
+1017	14	20	12	22

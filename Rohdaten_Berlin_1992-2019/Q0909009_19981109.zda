@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909009
+datum=09.11.1998
+kurzken=Q 0909009/98
+bez=Südwestkorso (nordöstl. Breitenbachplatz)   (Wilmersdorf, 14197)
+arm1=Breitenbachplatz,1350,0100
+arm2=Johannisberger Straße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+405	5	10	6
+580	14	8	7
+456	15	8	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+466	7	10	7
+569	2	7	7
+503	12	9	4
+; 2 -> 1
+502	6	12	9
+617	8	8	7
+505	14	8	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+553	6	9	10
+631	4	8	9
+554	2	8	4

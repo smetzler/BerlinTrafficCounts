@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q5478038
+datum=11.3.1993
+kurzken=Q 547803.8/93-F
+bez=Adalbertstraße nördl. Waldemarstraße    (Krzbrg.)
+arm1=Ost,450,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+3 0 
+18 4 
+11 6 
+10 2 
+20 21 
+15 12 
+15 35 
+18 14 
+16 20 
+17 10 
+28 29 
+14 27 
+; 2 -> 1
+16 80 
+18 8 
+13 6 
+19 3 
+14 1 
+22 6 
+8 7 
+19 14 
+17 6 
+24 20 
+15 12 
+20 9 

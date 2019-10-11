@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00541
+datum=24.09.2015
+kurzken=Q 00541/15
+bez=A111 - Zubr. HH (Zu- Abf. nördl. Scharnweberstr.) (Reinickendorf, 13403)
+arm1=AS Holzhauser Straße ,0,0100
+arm2=AS Scharnweber- Seidelstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Seidelstr.
+data=
+; 1 -> 2
+87	7	0	0	0
+273	19	0	3	3
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+105	2	1	1	3
+99	2	2	0	1
+97	4	2	0	1
+; 2 -> 1
+89	3	0	0	0
+81	8	0	0	2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+207	7	0	1	1
+205	3	1	0	3
+185	1	1	0	5

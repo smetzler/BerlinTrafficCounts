@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 13813
+datum=14.09.2015
+kurzken=Q 13813/14
+bez=Clayallee (südl. Pücklerstraße)   (Dahlem, 14195)
+arm1=Clayallee (N),0,0000
+arm2=Pücklerstraße (W),1000,0001
+arm3=Clayallee (S),1800,0000
+arm4=Pücklerstraße (O),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+6	2
+5	0
+1	0
+3	0
+6	0
+0	0
+3	1
+3	3
+2	0
+0	0
+6	0
+3	0
+; 4 -> 2
+0	0
+0	0
+2	0
+1	0
+0	0
+4	0
+1	0
+2	0
+2	0
+3	0
+0	0
+0	0

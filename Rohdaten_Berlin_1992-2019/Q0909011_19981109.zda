@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909011
+datum=09.11.1998
+kurzken=Q 0909011/98
+bez=Mecklenburgische Str. (westl. BAB A104 Abzw. Steglitz) ( Wil'dorf, 14197)
+arm1=R.-Mosse-Straße,1350,0100
+arm2=BAB A104 Abzweig Steglitz,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+571	17	8	10
+705	13	6	2
+537	27	6	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+573	9	6	4
+562	5	8	4
+488	7	5	4
+; 2 -> 1
+400	22	7	5
+451	24	7	5
+442	15	5	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+709	13	6	7
+752	7	6	13
+710	7	6	11

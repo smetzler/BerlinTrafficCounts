@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574502
+datum=27.04.2015
+kurzken=Q 5574502/15
+bez=Grunerstraße (südl. Alexanderstraße)    (Mitte, 10179)
+arm1=(Alexanderplatz),550,0010
+arm2=Grunerstraße,1450,0000
+arm3=Alexanderstraße,2150,1000
+arm4=Grunerstraße,3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+41	3
+82	4
+97	8
+321	8
+340	40
+482	21
+516	16
+345	33
+589	55
+502	35
+621	49
+461	65
+; 3 -> 1
+67	27
+98	11
+94	38
+129	1
+123	7
+196	18
+184	8
+141	7
+227	15
+162	9
+202	17
+154	27

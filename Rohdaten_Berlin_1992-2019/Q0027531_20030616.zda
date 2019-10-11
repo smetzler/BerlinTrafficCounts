@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27531
+datum=16.06.2003
+kurzken=Q 27531/03
+bez=Käthe-Niederkirchner-Str. (nördl. Am Friedrichshain)   (Friedrichshain, 10405)
+arm1=Käthe-Niederkirchner-Str,500,0000
+arm2=Am Friedrichshain,1030,0001
+arm3=,0,0000
+arm4=Am Friedrichshain,2830,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+6	2
+5	1
+8	1
+2	0
+8	1
+1	1
+7	2
+15	3
+13	4
+9	5
+20	8
+36	17
+; 4 -> 2
+3	2
+3	2
+9	4
+5	9
+3	3
+1	1
+5	2
+4	3
+21	8
+19	1
+23	7
+13	11

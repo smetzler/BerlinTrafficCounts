@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 070807
+datum=24.09.2018
+kurzken=Q 070807/18
+bez=Quickborner Straße (nördl. Uhlandstraße)   (Märkisches Viertel, 13439)
+arm1=Zerpenschleuser Ring,400,0100
+arm2=Uhlandstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+178	16	6	2	15
+227	13	4	3	13
+164	9	8	5	10
+144	20	8	4	6
+152	17	5	0	8
+117	9	3	0	4
+131	7	5	3	14
+133	11	5	2	16
+118	4	5	3	33
+174	6	6	4	34
+131	3	6	3	18
+127	3	6	2	8
+; 2 -> 1
+244	21	5	1	69
+245	17	6	6	53
+166	16	4	1	12
+184	20	6	2	12
+142	24	6	1	10
+171	18	5	7	13
+162	12	6	1	11
+177	7	6	6	5
+188	6	4	4	6
+246	4	6	4	12
+211	6	6	3	11
+194	4	6	3	14

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 18451
+datum=06.05.2013
+kurzken=Q 18451/13
+bez=Mariendorfer Damm (südl. Säntisstraße - Tauernallee)   (Mariendorf, 12107)
+arm1=Mariendorfer Damm (N),200,0000
+arm2=Säntisstraße,1350,0001
+arm3=Mariendorfer Damm (S),2000,0000
+arm4=Tauernallee,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+22	4
+22	9
+21	4
+22	16
+28	4
+22	2
+35	2
+37	12
+46	10
+66	9
+48	4
+50	4
+; 4 -> 2
+27	31
+36	7
+25	3
+20	0
+15	8
+17	27
+32	6
+18	6
+21	13
+43	16
+31	6
+24	4

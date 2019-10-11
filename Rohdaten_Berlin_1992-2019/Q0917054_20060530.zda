@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917054
+datum=30.05.2006
+kurzken=Q 0917054/06
+bez=Zobtener Straße (östl. Fischerstraße)  (Rummelsburg, 10310)
+arm1=Fischerstraße,700,0100
+arm2=S-Betriebsbhf. Rummelsburg,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=14°C max T; 4 Std Sonne; 10 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+9
+11
+9
+2
+4
+3
+7
+1
+10
+9
+12
+6
+; 2 -> 1
+20
+10
+3
+4
+5
+3
+9
+5
+9
+7
+5
+3

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109036
+datum=19.09.2018
+kurzken=Q 109036/18
+bez=Stendaler Straße (südl. Landsberger Chaussee)   (Hellersdorf, 12629)
+arm1=Zossener Straße,1850,0100
+arm2=Landsberger Chaussee,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+356	11	3	6	18
+306	12	3	5	13
+318	12	3	4	13
+404	10	2	6	6
+397	13	3	7	9
+395	13	3	3	15
+408	8	4	5	12
+359	3	4	2	10
+402	8	5	10	15
+388	6	2	6	16
+393	3	3	8	22
+326	4	3	7	9
+; 2 -> 1
+349	10	3	6	6
+324	12	3	6	5
+289	4	3	5	8
+328	8	4	10	15
+356	11	4	7	8
+393	9	3	5	12
+381	8	2	9	14
+445	10	3	7	15
+573	13	4	8	29
+650	8	2	4	22
+644	5	4	11	10
+477	2	3	12	17

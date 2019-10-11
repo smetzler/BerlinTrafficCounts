@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031217
+datum=04.11.2002
+kurzken=Q 031217/02
+bez=Heidelberger Straße (östl. Bouchestraße)   (Neukölln, 12435)
+arm1=Bouchestraße,500,0100
+arm2=Sülzheynerstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+9	1	1	0	1
+12	3	0	0	2
+14	1	0	0	1
+9	0	0	0	3
+11	6	0	0	3
+7	0	2	0	0
+15	1	1	0	3
+11	3	0	0	6
+16	4	0	0	4
+25	1	0	0	7
+22	1	0	0	8
+15	1	0	0	5
+; 2 -> 1
+4	0	0	0	0
+10	2	1	0	5
+17	3	1	0	6
+8	1	1	0	1
+10	1	1	0	2
+7	1	0	0	1
+8	3	1	0	4
+9	3	0	0	5
+13	1	0	0	4
+16	1	0	0	2
+13	0	0	0	3
+15	2	0	0	8

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27593
+datum=19.06.2003
+kurzken=Q 27593/03
+bez=Köhlerstraße (südl. Curtiusstraße)   (Lichterfelde, 12205)
+arm1=Kadettenweg (N),200,0000
+arm2=Curtiusstraße (W),1100,0001
+arm3=Köhlerstraße,1600,0000
+arm4=Kadettenweg (S),2300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	2
+28	63
+12	37
+9	13
+5	2
+4	5
+13	35
+9	9
+14	17
+13	9
+9	7
+10	2
+; 4 -> 2
+22	44
+19	8
+3	0
+1	0
+2	0
+4	0
+15	2
+10	2
+4	3
+8	1
+13	6
+4	0

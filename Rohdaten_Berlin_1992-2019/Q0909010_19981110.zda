@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909010
+datum=10.11.1998
+kurzken=Q 0909010/98
+bez=Wiesbadener Straße (westl. Rüdesheimer Straße) ( Wilmersdorf, 14197)
+arm1=Johannisberger Straße,800,0100
+arm2=Rüdesheimer Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+190	12	7	3
+240	7	6	4
+279	4	6	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+335	5	7	5
+333	5	6	4
+303	3	5	4
+; 2 -> 1
+244	12	6	2
+270	12	6	4
+262	13	7	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+284	4	7	3
+309	4	6	2
+279	3	6	2

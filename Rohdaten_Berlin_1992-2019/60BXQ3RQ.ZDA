@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 15470
+datum=23.10.1991
+kurzken=Q 1547.0/91
+bez=Prellerweg unter den Bahnbruecken    ( Berlin 41 )
+arm1=Arnulfstraße,900,0100
+arm2=Sembritzkistraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,Radf,Radg
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Radf = Radfahrer auf Fahrbahn\nRadg = Radfahrer auf Gehweg
+data=
+; 1 -> 2
+2403 28 23
+1978 19 20
+1489 12 6
+1334 18 10
+1309 17 8
+1291 11 7
+1229 20 12
+1389 21 10
+1928 33 19
+1889 22 16
+1385 16 6
+1192 12 5
+; 2 -> 1
+1489 31 17
+1278 14 9
+956 9 2
+1009 7 0
+1173 11 8
+1219 13 6
+1339 13 2
+1341 25 2
+2159 39 21
+1854 26 39
+2200 31 8
+1517 16 11

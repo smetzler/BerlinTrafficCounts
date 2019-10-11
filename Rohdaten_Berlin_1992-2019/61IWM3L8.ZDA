@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 71158
+datum=13.03.1991
+kurzken=Q 71158/91
+bez=Manteuffelstrasse noerdlich Reichenberger Strasse    ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+14 7 0 25 10 11 26 1 1 27 5 3 54 9 6 
+46 29 12 37 14 11 51 16 8 58 19 8 53 7 9 
+59 6 4 41 5 5 
+; 2 -> 1
+20 56 6 23 3 22 33 2 0 37 2 2 52 9 17 
+37 2 4 26 10 8 35 8 3 86 12 9 80 8 8 
+48 7 6 31 3 2 

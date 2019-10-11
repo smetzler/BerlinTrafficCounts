@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909016
+datum=22.03.1999
+kurzken=Q 0909016/99
+bez=Kurfürstendamm (westl. Schwarzbachstraße)   (Grunewald, 10711)
+arm1=Storkwinkel,1350,0100
+arm2=Schwarzbachstraße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1338	48	28	13
+1633	61	29	8
+1318	55	33	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1163	27	28	23
+1201	25	27	29
+1248	22	27	16
+; 2 -> 1
+952	38	34	16
+1116	50	31	15
+1028	57	26	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1560	28	28	19
+1419	33	23	24
+1428	39	26	19

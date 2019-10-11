@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 06086
+datum=02.09.1987
+kurzken=Q 6086/87
+bez=Leibnizstrasse  suedl. Schillerstrasse   ( Berlin 12 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter: klar und trocken
+data=
+; 1 -> 2
+4 1 11 1 16 0 8 0 8 1 9 1 13 25 
+21 3 12 3 20 1 8 0 7 0 
+; 2 -> 1
+21 25 13 1 9 0 12 0 5 1 19 0 7 0 
+8 0 12 2 10 3 7 1 15 0 

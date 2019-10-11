@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 13174
+datum=25.11.1987
+kurzken=Q 13174/87
+bez=Suedwestkorso oestlich Laubacher Strasse     ( Berlin 33 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+311 350 339 297 313 339 348 351 441 485 461 363 
+; 2 -> 1
+437 453 396 359 329 404 396 334 470 519 485 432 

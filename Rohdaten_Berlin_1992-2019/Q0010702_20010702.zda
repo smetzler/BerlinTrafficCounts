@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010702
+datum=02.07.2001
+kurzken=Q 010702/01
+bez=Nordhafenbrücke (östl. Heidestraße)   (Wedding, 10559)
+arm1=Heidestraße,1300,0100
+arm2=Am Nordhafen,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Beeinträchtigung infolge Spureinengung auf der Perleberger Brücke.
+data=
+; 1 -> 2
+259	21	20	1	6
+405	29	35	1	10
+476	48	37	0	16
+318	44	59	2	7
+310	38	51	2	11
+336	47	40	3	6
+392	64	35	4	6
+375	60	33	4	7
+407	54	25	3	22
+735	77	40	4	17
+832	95	31	8	6
+666	62	12	8	12
+; 2 -> 1
+348	56	23	2	3
+502	54	21	1	12
+441	62	18	0	14
+295	47	20	3	12
+261	51	31	1	10
+300	41	26	0	12
+303	49	34	5	5
+325	43	18	3	6
+367	29	30	3	6
+387	46	21	7	10
+415	28	12	3	21
+405	21	10	8	16

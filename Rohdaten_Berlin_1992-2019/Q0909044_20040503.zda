@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909044
+datum=03.05.2004
+kurzken=Q 0909044/04
+bez=Westfälische Straße (östl. Joh.-Sigismund-Straße)   (Halensee, 10711)
+arm1=Joh.-Sigismund-Straße,700,0100
+arm2=Joachim-Friedrich-Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+335	12	10	10	17
+484	15	12	13	12
+435	11	6	11	17
+338	14	4	6	12
+354	12	4	8	21
+293	11	4	6	14
+307	7	6	16	28
+313	3	8	8	11
+348	6	8	12	34
+351	2	8	6	25
+369	0	8	20	27
+324	1	8	15	24
+; 2 -> 1
+220	7	8	7	13
+321	7	6	9	12
+332	13	8	7	20
+350	12	6	6	26
+366	10	5	7	16
+326	7	4	6	17
+317	16	5	7	25
+410	14	7	11	30
+598	14	9	10	24
+537	9	8	14	28
+497	7	6	11	34
+346	6	7	13	24

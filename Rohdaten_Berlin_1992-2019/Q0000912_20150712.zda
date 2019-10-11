@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00912
+datum=12.07.2015
+kurzken=Q 00912/15
+bez=A113 - Zu- und Abfahrt Späthstraße (östl. BAB)   (Neukölln, 12057)
+arm1=BAB (AD Neukölln),200,0000
+arm2=Neue Späthstraße (W),1100,0000
+arm3=AS Johannisthaler Chaussee,2000,0001
+arm4=Neue Späthstraße (O),2800,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Getrennt die Zu- u. Abfahrt ÖSTL. der BAB zählen. \nStandort: Neue Späthbrücke. City-Atlas Seite 118/6b-119/4a-c
+data=
+; 3 -> 4
+314	2	0	1	6
+348	0	0	3	2
+327	0	0	3	2
+; 4 -> 1
+225	0	0	0	5
+278	0	0	0	4
+268	3	0	0	2

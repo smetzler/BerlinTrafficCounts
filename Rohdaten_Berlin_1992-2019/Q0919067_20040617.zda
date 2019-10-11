@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919067
+datum=17.06.2004
+kurzken=Q 0919067/04
+bez=A114 (nördl. AS Schönerlinder Str. - Strom Q5+Q6)   (Schönerlinde, 16352)
+arm1=AD Pankow,100,0100
+arm2=AS Schönerlinder Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 42\, Planquadrat A20
+data=
+; 1 -> 2
+1573	117	3	6
+1374	170	1	4
+912	157	8	4
+742	133	8	5
+743	130	2	6
+909	123	6	7
+777	101	6	4
+915	107	10	11
+926	92	9	4
+1060	88	4	8
+1100	58	11	3
+895	37	10	3
+; 2 -> 1
+928	104	3	5
+898	127	7	3
+747	111	3	2
+736	114	2	2
+702	117	0	5
+668	114	4	10
+870	131	3	4
+1157	140	3	9
+1493	122	7	6
+1788	142	11	12
+1505	73	8	10
+1255	49	6	2

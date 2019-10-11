@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 0907000
+datum=20.06.2016
+kurzken=
+bez=Steinplatz / Uhlandstraﬂe   (Charlottenburg)
+arm1=,0,0000
+arm2=,0,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle !
+data=

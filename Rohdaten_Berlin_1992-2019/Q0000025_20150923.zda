@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0025
+datum=23.09.2015
+kurzken=Q 0025/15
+bez=B96a - Blankenfelder Chaussee (südl. Berliner Str.)   (Blankenfelde, 13159)
+arm1=Berliner Straße ,200,0100
+arm2=Rosenthaler Weg,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählzeit: 7 - 9 und 15 - 18 Uhr.\nCity-Atlas Seite 36\, Feld 6d
+data=
+; 1 -> 2
+605	12	4	7	11	22
+539	14	2	5	7	16
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+334	11	1	6	10	20
+424	8	1	6	6	14
+629	4	0	8	4	16
+; 2 -> 1
+313	14	3	8	3	14
+279	17	2	8	1	16
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+576	11	2	6	12	20
+609	4	0	10	17	28
+512	5	1	6	4	20

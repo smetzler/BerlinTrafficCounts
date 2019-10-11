@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914052
+datum=01.06.2006
+kurzken=Q 0914052/06
+bez=Schwarzer Weg (südl. Columbiadamm) (Neukölln,12049)
+arm1=Columbiadamm,100,0100
+arm2=Herrfurthstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 3 Std Sonne; 0\,5 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 6 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+38
+23
+32
+18
+23
+15
+29
+29
+32
+56
+46
+27
+; 2 -> 1
+48
+43
+59
+52
+41
+23
+37
+32
+52
+28
+46
+29

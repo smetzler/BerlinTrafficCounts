@@ -1,0 +1,34 @@
+[ZA1001]
+knoten=K 2882
+datum=21.07.2015
+kurzken=K 2882/15
+bez=AK Wilmersdorf   (Wilmersdorf, 10707)
+arm1=A100 Stadtring (AS Hohenzollernd.),400,0100
+arm2=A104 (AS Mecklenburg. Str.),1800,1000
+arm3=A100 Stadtring (AS Detmolder Str.),2350,0001
+arm4=A104 (AS Konstanzer Str.),3500,0010
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Strom 1>2 gesperrt!\n
+data=
+; 1 -> 2
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+; 2 -> 1
+721	13	0	0	11
+680	10	0	0	15
+663	8	1	0	13
+; 3 -> 4
+272	2	1	0	5
+256	8	0	1	1
+298	4	1	1	5
+; 4 -> 3
+655	23	3	4	14
+577	14	2	3	10
+576	11	5	4	7

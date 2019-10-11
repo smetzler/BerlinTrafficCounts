@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7843
+datum=11.09.2007
+kurzken=Q 7843/07
+bez=Brandenburgische Str. (südl. Paulsborner Str.)   (Wilmersdorf, 10707)
+arm1=Brandenburgische Str,100,0000
+arm2=Paulsborner Straße,1400,0001
+arm3=Brandenburgische Str,1900,0000
+arm4=Xantener Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=3 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+14	0
+68	1
+85	6
+89	0
+48	0
+43	0
+66	1
+84	2
+61	3
+60	1
+76	5
+79	5
+; 4 -> 2
+15	2
+31	1
+20	0
+36	0
+40	2
+50	0
+63	0
+59	3
+60	5
+68	2
+63	2
+78	4

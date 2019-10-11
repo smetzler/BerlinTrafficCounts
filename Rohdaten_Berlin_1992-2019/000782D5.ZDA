@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0260
+datum=26.05.1987
+kurzken=K 260/87
+bez=Falkenseer Platz  (Nord) / Neuendorfer Strasse    ( Berlin 20 )
+Arm1=Falkenseer Platz,600,0000
+Arm2=,0,0000
+Arm3=Falkenseer Platz,2000,1001
+Arm4=Neuendorfer Strasse,3100,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung ;\nZaehlwerte mit denen der benachbarten Knotenpunkte abgeglichen ;\nsiehe auch K 259/87 , K 310/87 und K 313/87
+data=
+; 3 -> 1
+1400 1085 1010 1020 1145 1280 1055 1210 1995 2115 1650 1255 
+; 3 -> 4
+1210 1045 1155 1150 1160 1135 1320 1395 1700 1865 1715 1690 
+; 4 -> 1
+1560 1245 1115 1140 1150 1080 1305 1385 1495 1410 1320 1375 

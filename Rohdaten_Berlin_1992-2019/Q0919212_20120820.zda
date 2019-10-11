@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919212
+datum=20.08.2012
+kurzken=Q 0919212/12
+bez=Ossietzkystraße (Höhe Parkstr.-Am Schloßpark)   (Pankow, 13187)
+arm1=Elisabethweg,200,0000
+arm2=Pestalozzistraße,2000,0000
+arm3=((Westen\, Parkstr.)),1000,0001
+arm4=((Osten\, Am Schloßpark)),2800,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Ossietzkistr. in Höhe der Parkstr.-Am Schloßpark (ca. 50m nördl. bis ca. 50m südl.) queren.\nWetter: max T=25°C; Sonne=8 Std; Niederschlag=0\,5 mm;
+data=
+; 3 -> 4
+5	2
+5	3
+7	1
+12	2
+0	0
+9	0
+13	2
+16	1
+10	2
+12	4
+13	2
+16	0
+; 4 -> 3
+2	0
+6	0
+2	0
+8	0
+11	2
+6	2
+20	5
+19	7
+8	9
+6	4
+18	5
+8	8

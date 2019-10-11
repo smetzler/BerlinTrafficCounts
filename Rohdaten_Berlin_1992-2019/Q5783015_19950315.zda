@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5783015
+datum=15.03.1995
+kurzken=Q 5783015/95
+bez=Blankenfelder Straße (westl. Hauptstraße) (Buchholz,13127)
+arm1=Blankenfelder Straße,750,0000
+arm2=Schönhauser Straße,1500,0001
+arm3=Berliner Straße,2050,0000
+arm4=Hauptstraße,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =5°; bedeckt; 0\,6 mm Niederschlag. \n
+data=
+; 2 -> 4
+4 1
+8 42
+28 25
+11 24
+15 12
+13 20
+12 2
+17 4
+16 10
+18 7
+5 17
+7 6
+; 4 -> 2
+3 13
+18 63
+28 0
+12 0
+23 9
+12 3
+20 25
+10 5
+12 8
+13 4
+4 7
+5 3

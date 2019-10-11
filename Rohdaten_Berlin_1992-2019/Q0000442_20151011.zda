@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00442
+datum=11.10.2015
+kurzken=Q 00442/15
+bez=A100 - Stadtring (Zu-Abf. östl. Innsbrucker Platz) (Schöneberg, 10715)
+arm1=Innsbrucker Platz,500,0100
+arm2=A100 (AK Schöneberg),2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Hauptstraße\nCity-Atlas Seite 100\, Feld 7a
+data=
+; 1 -> 2
+323	1	0	0	2
+412	2	0	1	4
+451	1	0	2	6
+; 2 -> 1
+435	1	0	4	3
+511	4	0	4	8
+488	3	2	6	10

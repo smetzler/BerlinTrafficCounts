@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 75903
+datum=12.04.2016
+kurzken=Q 75903/16
+bez=Neuendorfer Straße (Ost) (östl. Neuendorfer Straße)   (Spandau, 13585)
+arm1=Bismarckstraße,600,0000
+arm2=Neuendorfer Straße (S),1500,0001
+arm3=Neuendorfer Straße (O),2400,0000
+arm4=Neuendorfer Straße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+17	4
+26	4
+22	2
+22	1
+32	1
+53	2
+54	1
+81	11
+70	1
+87	13
+63	6
+83	6
+; 4 -> 2
+39	10
+48	1
+35	1
+41	1
+72	1
+35	1
+38	3
+27	7
+30	4
+23	1
+35	1
+23	1

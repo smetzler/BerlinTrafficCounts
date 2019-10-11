@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010703
+datum=06.03.2014
+kurzken=Q 010703/14
+bez=Fennbrücke (östl. Heidestraße)   (Wedding, 13347)
+arm1=Heidestraße,1300,0100
+arm2=Tegeler Straße ,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Heidestr.\, in beiden Richtungen zwischen Sellerstr. und Invalidenstr. Fahrbahn von 2 auf 1 Fahrstreifen reduziert\n
+data=
+; 1 -> 2
+625	29	12	10	58
+780	37	14	12	102
+709	47	12	6	91
+773	27	14	8	45
+830	36	13	16	57
+811	26	11	9	52
+960	21	12	20	72
+1003	27	11	24	100
+1140	14	13	21	120
+1115	17	13	30	134
+1016	14	10	23	120
+1079	7	8	13	148
+; 2 -> 1
+1183	37	12	25	110
+1224	37	16	21	139
+1069	48	15	11	135
+872	36	12	12	69
+849	35	13	13	57
+842	23	11	18	65
+663	21	9	5	31
+841	23	9	5	27
+836	18	7	13	50
+663	23	3	9	55
+637	13	4	3	21
+682	5	4	2	28

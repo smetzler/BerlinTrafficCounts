@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025598
+datum=19.3.1992
+kurzken=Q 2559.8/92-F
+bez=Schönhauser Allee nördlich Schwedter Straße    ( Berlin 1054-PrzlBg )
+arm1=Ost,1350,0100
+arm2=West,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+233 281 
+246 65 
+224 10 
+198 37 
+186 53 
+119 21 
+137 13 
+172 35 
+197 26 
+222 17 
+183 38 
+158 13 
+; 2 -> 1
+177 64 
+195 33 
+234 27 
+248 48 
+258 13 
+199 24 
+188 54 
+194 22 
+391 56 
+304 37 
+240 24 
+168 6 

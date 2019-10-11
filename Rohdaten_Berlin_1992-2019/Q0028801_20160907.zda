@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28801
+datum=07.09.2016
+kurzken=Q 28801/16
+bez=Chausseestraße (nördl. Boyenstraße)   (Mitte, 10115)
+arm1=Chausseestraße (N),450,0000
+arm2=Boyenstraße,1250,0001
+arm3=Chausseestraße (S),2250,0000
+arm4=((Osten)),3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=26°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+13	0
+14	1
+7	0
+13	0
+9	0
+17	0
+22	1
+8	1
+23	1
+12	2
+16	4
+27	11
+; 4 -> 2
+14	2
+18	2
+10	1
+16	0
+6	1
+12	1
+34	2
+24	0
+9	1
+15	6
+17	2
+19	7

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907138
+datum=09.06.2009
+kurzken=Q 0907138/09
+bez=Mierendorffstraße (Höhe Mierendorff-Grundschule)   (Charlottenburg, 10589)
+arm1=Tegeler Weg,1400,0100
+arm2=Mierendorffplatz,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+248	4	0	6	40
+358	6	1	9	54
+261	10	2	11	34
+269	7	1	6	23
+221	6	2	8	24
+231	10	0	4	16
+207	7	4	3	27
+234	12	4	6	36
+254	3	0	12	31
+238	3	2	7	27
+270	1	0	6	36
+217	0	0	3	35
+; 2 -> 1
+101	3	0	3	19
+132	4	0	2	30
+166	4	0	5	25
+149	5	0	9	14
+155	6	0	11	14
+120	6	1	5	8
+126	9	0	3	15
+167	2	1	2	17
+208	4	0	6	32
+172	3	1	9	21
+247	4	0	11	38
+204	2	1	5	38

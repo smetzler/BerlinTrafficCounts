@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 259801
+datum=14.06.1995
+kurzken=Q 259801/95
+bez=Universitätsstraße  (nördl. Unter den Linden),(Mitte, 10178)
+arm1=Clara-Zetkin-Straße,100,0100
+arm2=Unter den Linden,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+305 23 4 3 14
+275 31 3 2 32
+280 22 6 9 23
+321 28 6 8 34
+358 24 9 6 35
+353 27 7 6 48
+446 20 9 14 67
+394 16 4 11 42
+517 17 8 8 74
+478 10 6 15 48
+419 9 7 16 45
+368 7 3 20 22
+; 2 -> 1
+288 20 3 3 12
+315 16 3 5 20
+281 17 4 5 29
+302 25 6 5 53
+258 32 4 5 43
+267 21 4 7 31
+326 30 7 6 40
+296 16 4 5 28
+322 17 5 12 29
+319 12 3 15 30
+332 6 3 6 41
+220 8 4 4 32

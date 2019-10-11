@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906169
+datum=04.09.2018
+kurzken=Q 0906169/18
+bez=Reichenberger Straße (westl. Lausitzer Straße)   (Kreuzberg, 10999)
+arm1=Manteuffelstraße,650,0000
+arm2=Ohlauer Straße,2450,0000
+arm3=Süden,1550,0001
+arm4=Norden,3350,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+14	2
+17	3
+12	0
+20	0
+24	8
+21	2
+17	2
+9	2
+10	2
+26	8
+46	6
+28	0
+; 4 -> 3
+15	1
+13	2
+11	2
+4	0
+7	0
+19	2
+30	4
+17	2
+15	4
+16	8
+43	3
+39	5

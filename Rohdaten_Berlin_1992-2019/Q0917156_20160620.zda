@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917156
+datum=20.06.2016
+kurzken=Q 0917156/16
+bez=Herzbergstraße (westl. Siegfriedstraße)   (Lichtenberg, 10365)
+arm1=am Wasserwerk,900,0100
+arm2=Siegfriedstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!!!!!!!!ACHTUNG!!!!!!!!\num 10 Uhr wurde eine Baustelle eigerichtet. Zählung ab 13 Uhr abgebrochen.
+data=
+; 1 -> 2
+166	17	1	1	29
+136	8	4	3	38
+103	16	2	4	22
+0	0	0	0	9
+0	0	0	0	21
+0	0	0	0	22
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+; 2 -> 1
+118	18	1	18	46
+106	11	2	3	34
+126	11	0	4	27
+79	5	0	0	8
+149	9	0	7	20
+145	7	1	5	28
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1

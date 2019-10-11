@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908001
+datum=19.05.1998
+kurzken=Q 0908001/98
+bez=Saatwinkler Damm (östl. Gartenfelder Straße)   (Siemensstadt, 13629)
+arm1=Gartenfelder Straße,950,0100
+arm2=Rohrdamm,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+666	49	3	18
+591	35	2	16
+336	29	1	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+495	21	3	26
+445	15	4	31
+392	23	3	17
+; 2 -> 1
+365	38	2	18
+300	34	0	14
+352	39	0	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+484	11	3	31
+520	17	3	41
+467	7	2	29

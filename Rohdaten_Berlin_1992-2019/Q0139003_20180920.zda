@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139003
+datum=20.09.2018
+kurzken=Q 139003/18
+bez=Waßmannsdorfer Chaussee (Stadtgrenze)   (Rudow, 12355)
+arm1=Brandenburg,1600,0100
+arm2=Schlotterkammsteig,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+27	8	0	0	2
+27	9	0	1	0
+22	6	0	3	1
+44	10	0	0	4
+41	6	0	0	6
+34	5	0	1	5
+36	11	0	3	7
+42	12	0	1	9
+47	14	0	1	7
+42	4	0	0	5
+43	1	0	0	3
+28	1	0	1	8
+; 2 -> 1
+36	3	0	0	4
+37	11	0	0	2
+43	9	0	2	2
+40	2	0	0	1
+44	9	0	1	1
+35	10	0	2	4
+40	15	0	1	12
+24	12	0	0	5
+54	10	0	1	6
+20	4	0	0	10
+32	0	0	2	7
+23	0	0	1	5

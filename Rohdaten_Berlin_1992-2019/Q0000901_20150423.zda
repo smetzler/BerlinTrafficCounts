@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00901
+datum=23.04.2015
+kurzken=Q 00901/15
+bez=A100 - Zu- und Abfahrt Grenzallee   (Neukölln, 12057)
+arm1=Bergiusstr. (AS Grenzallee),2800,0100
+arm2=BAB (AD Neukölln),1000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+295	36	8	0	7
+311	39	15	1	6
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+712	37	9	1	30
+779	34	21	3	53
+854	21	6	2	33
+; 2 -> 1
+234	16	14	0	4
+220	14	16	0	1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+637	26	14	3	12
+821	27	11	4	18
+789	18	9	3	19

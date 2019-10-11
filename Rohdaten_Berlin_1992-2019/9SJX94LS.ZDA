@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6371037
+datum=17.05.1994
+kurzken=Q 6371037/94
+bez=An der Werderlake / südl. Neudecker Weg (Rudow)
+arm1=August-Fröhlich-Straße,200,0000
+arm2=Neudecker Weg,1300,0001
+arm3=An der Werderlake,2000,0000
+arm4=Neudecker Weg,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  meist heiter
+data=
+; 2 -> 4
+15 11
+19 1
+11 12
+8 6
+17 5
+16 15
+5 6
+7 12
+7 8
+5 5
+4 1
+6 7
+; 4 -> 2
+21 27
+21 27
+7 9
+6 2
+16 11
+4 4
+6 5
+7 6
+11 7
+10 4
+3 6
+4 2

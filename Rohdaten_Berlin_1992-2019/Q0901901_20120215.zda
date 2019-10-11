@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901901
+datum=15.02.2012
+kurzken=Q 0901901/12
+bez=Karl-Liebknecht-Straße (westl. Spandauer Straße)   (Mitte, 10178)
+arm1=Am Lustgarten,1300,0100
+arm2=Spandauer Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=4°C max T; 0 Std Sonne; 3 mm Niederschl.; 4 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm); \nSchnee und Eis (starker Frost in den Vortagen).
+data=
+; 1 -> 2
+7
+30
+51
+30
+31
+53
+46
+45
+80
+138
+128
+162
+; 2 -> 1
+98
+143
+182
+68
+59
+61
+53
+48
+55
+48
+60
+61

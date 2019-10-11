@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0920039
+datum=20.04.1999
+kurzken=Q 0920039/99
+bez=BAB A111 Zubringer HH (südl. Rote Chaussee)   (Heiligensee, 13503)
+arm1=Stadtgrenze,200,0100
+arm2=AS Schulzendorfer Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1432
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+2126	170	9	21
+1635	175	3	13
+1127	144	11	5
+1030	160	7	6
+971	166	9	6
+998	151	8	10
+937	154	10	21
+944	124	6	16
+1043	142	5	17
+1069	106	5	21
+1171	88	8	28
+995	68	5	16
+; 2 -> 1
+927	153	4	5
+1097	219	9	10
+1123	195	17	10
+1017	216	4	11
+1026	208	4	10
+982	187	8	12
+1071	191	5	18
+1450	192	5	18
+2017	147	10	21
+2451	118	5	26
+1815	93	7	27
+1470	81	3	23

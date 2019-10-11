@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0004122
+datum=17.6.1992
+kurzken=Q 4122/92
+bez=Fürstenwalder Damm westlich Ahornallee    ( Berlin 1162 - Köpenick )
+arm1=Ahornallee,1000,0100
+arm2=Aßmannstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Bis ca. 12.00 Uhr Streik der BVG ( Ost )
+data=
+; 1 -> 2
+969 
+758 
+871 
+742 
+730 
+596 
+625 
+573 
+809 
+623 
+668 
+883 
+; 2 -> 1
+547 
+683 
+676 
+574 
+572 
+496 
+526 
+518 
+903 
+888 
+596 
+384 

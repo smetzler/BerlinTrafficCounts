@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6536036
+datum=25.10.1993
+kurzken=Q 653603.6/93-F
+bez=Hohenschönhauser Straße westl. Otto-Marquardt-Straße    ( Lichtenberg )
+arm1=Nord,210,0100
+arm2=Süd,2010,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+22 46
+15 30
+20 6
+24 1
+10 0
+11 2
+14 4
+13 7
+16 8
+29 7
+21 4
+14 2
+; 2 -> 1
+43 6
+11 1
+31 4
+11 0
+7 0
+6 0
+16 1
+11 5
+12 6
+26 4
+16 7
+17 3

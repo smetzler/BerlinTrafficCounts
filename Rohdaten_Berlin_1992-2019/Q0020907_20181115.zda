@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020907
+datum=15.11.2018
+kurzken=Q 020907/18
+bez=Hosemannstr. (nordöstl. Erich-Weinert-Str.) (Pankow. 10409
+arm1=Hosemann Str.  (NO),3300,0000
+arm2=Hosemann Str.  (SO),1500,0000
+arm3=Erich-Weinert-Str. (NW),600,0001
+arm4=Erich-Weinert-Str. (SW),2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+14	29
+12	1
+19	2
+11	0
+9	0
+21	0
+38	21
+28	14
+41	17
+45	29
+39	22
+23	26
+; 4 -> 3
+43	12
+12	1
+21	1
+11	1
+12	1
+18	0
+34	8
+14	67
+32	13
+15	7
+39	8
+37	2

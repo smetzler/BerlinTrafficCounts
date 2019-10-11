@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915002
+datum=11.06.1998
+kurzken=Q 0915002/98
+bez=Eisenhutweg (südöstl. Stubenrauchstraße)   (Johannisthal, 12487)
+arm1=Stubenrauchstraße,700,0100
+arm2=Straße 196,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+297	19	5	11
+279	31	3	6
+248	31	1	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+315	10	2	6
+320	16	3	8
+325	9	3	9
+; 2 -> 1
+319	38	5	6
+249	37	3	4
+242	29	3	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+331	22	3	11
+290	8	2	19
+307	9	3	11

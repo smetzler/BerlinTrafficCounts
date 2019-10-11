@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912068
+datum=21.04.2004
+kurzken=Q 0912068/04
+bez=Klingsorstraße (südl. Barsekowstr., Höhe Parkweg)   (Steglitz, 12167)
+arm1=Birkbuschstraße,1500,0100
+arm2=Barsekowstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+483	10	0	10	10
+471	5	0	9	15
+374	12	0	4	13
+321	12	0	5	17
+366	8	0	3	7
+318	4	0	5	13
+346	7	0	12	14
+352	2	1	10	17
+418	1	0	12	16
+402	3	1	19	18
+367	0	0	15	14
+362	1	1	16	23
+; 2 -> 1
+399	11	1	11	39
+409	21	0	6	29
+348	12	0	13	17
+321	8	0	8	6
+359	10	1	7	11
+290	9	0	10	15
+325	9	1	14	14
+370	7	0	11	13
+454	8	0	8	10
+428	4	0	18	21
+439	5	0	18	14
+361	4	0	13	15

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 10274
+datum=28.09.1999
+kurzken=Q 10274/99
+bez=Paulsborner Str. (nordöstl. Friedrichsruher Str.)   (Wilmersdorf, 14199)
+arm1=Friedrichsruher Str. (NW),400,0010
+arm2=Paulsborner Str. (SW),1300,0000
+arm3=Friedrichsruher Str. (SO),2200,1000
+arm4=Paulsborner Str. (NO),3100,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+3	0
+1	0
+3	0
+0	0
+0	0
+0	0
+1	0
+0	0
+2	0
+2	0
+3	1
+1	0
+; 3 -> 1
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+2	0
+1	0
+0	0
+2	0
+2	0
+0	0

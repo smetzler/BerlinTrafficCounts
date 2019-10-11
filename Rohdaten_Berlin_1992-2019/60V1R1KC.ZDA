@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40239
+datum=13.12.1984
+kurzken=Q 40239/84
+bez=Cunostrasse zwischen Forckenbeckstr. und Kranzer Str.   ( Berlin 33 )
+Arm1=Forckenbeckstrasse,1750,0100
+Arm2=Kranzer Strasse,3550,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+0 116 9 3 1 0 88 11 3 0 1 80 6 11 0 
+0 130 10 7 0 0 155 9 8 0 0 120 15 8 0 
+0 156 7 6 0 1 122 6 5 0 0 184 12 5 1 
+1 186 7 3 0 2 193 4 2 0 1 152 1 0 0 
+; 2 -> 1
+1 261 6 5 0 0 166 11 3 1 1 120 8 4 1 
+0 119 6 4 1 0 101 8 5 1 0 114 9 4 0 
+0 141 4 6 0 1 184 5 7 0 2 204 10 1 0 
+3 172 4 1 0 1 156 3 1 0 1 132 1 2 0 

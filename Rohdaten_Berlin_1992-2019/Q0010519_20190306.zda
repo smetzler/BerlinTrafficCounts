@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010519
+datum=06.03.2019
+kurzken=Q 0010519/19
+bez=Bundesplatz-Tunnel (Schöneberg, 10715) 
+arm1=Hildegardstraße,50,0100
+arm2=Friedrich-Wilhelm-Platz,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+326	2	0	2	0
+370	10	0	2	0
+366	6	0	4	0
+402	6	0	4	0
+455	9	0	6	0
+468	4	0	10	0
+478	16	0	11	0
+615	4	0	11	0
+982	12	0	21	0
+1184	12	0	18	0
+1061	11	0	18	0
+798	9	0	12	0
+; 2 -> 1
+714	7	1	9	0
+956	13	2	8	0
+716	7	0	16	0
+542	6	0	12	0
+464	6	0	5	0
+357	1	0	3	0
+388	4	0	4	0
+402	5	0	3	0
+530	1	0	4	0
+424	4	0	8	0
+444	2	0	8	0
+426	1	0	4	0

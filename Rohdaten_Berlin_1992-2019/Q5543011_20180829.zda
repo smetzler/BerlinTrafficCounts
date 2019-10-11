@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5543011
+datum=29.08.2018
+kurzken=Q 5543011/18
+bez=Wilhelmstraße (nördl. Unter den Linden)   (Mitte, 10117)
+arm1=Wilhelmstraße (N),100,0000
+arm2=Unter den Linden (Pariser Pl.),1000,0001
+arm3=Wilhelmstraße (S),2000,0000
+arm4=Unter den Linden,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+60	6
+50	2
+150	6
+386	72
+420	38
+381	22
+394	12
+445	11
+292	14
+340	10
+337	21
+334	15
+; 4 -> 2
+50	1
+198	2
+273	13
+578	42
+914	84
+768	22
+569	45
+598	37
+465	20
+612	30
+456	14
+552	17

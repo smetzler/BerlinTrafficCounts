@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00911
+datum=08.05.2015
+kurzken=Q 00911/15
+bez=A113 - Zu- und Abfahrt Späthstraße (westl. BAB)   (Neukölln, 12057)
+arm1=BAB (AD Neukölln),200,0100
+arm2=Neue Späthstraße (W),1100,0010
+arm3=AS Johannisthaler Chaussee,2000,0000
+arm4=Neue Späthstraße (O),2800,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+330	6	4	1	10
+327	5	2	0	12
+328	5	4	0	14
+; 2 -> 3
+701	12	41	5	12
+615	15	37	4	16
+514	7	19	2	3

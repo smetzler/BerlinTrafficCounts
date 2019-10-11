@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911015
+datum=29.03.1999
+kurzken=Q 0911015/99
+bez=Potsdamer Straße (südl. Kurfürstenstraße)   (Schöneberg, 10783)
+arm1=Bülowstraße,1700,0100
+arm2=Kurfürstenstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1089	48	19	17
+1266	38	17	29
+1060	56	10	26
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+887	33	18	19
+1112	30	20	35
+948	19	20	26
+; 2 -> 1
+755	40	12	11
+716	55	10	8
+805	32	15	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+908	29	12	25
+1147	52	13	28
+1261	18	13	41

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58436
+datum=24.04.1986
+kurzken=Q 58436/86
+bez=Suedwestkorso  suedl. Fehlerstrasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+6 0 7 2 1 0 6 0 5 0 1 0 6 1 
+11 0 10 2 3 0 4 0 8 0 
+; 2 -> 1
+2 0 0 0 5 0 0 0 7 0 6 0 9 0 
+7 2 9 1 14 2 4 3 9 0 
