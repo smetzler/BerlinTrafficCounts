@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 059004
+datum=10.11.1999
+kurzken=Q 059004/99
+bez=Neue Kreisstraße in Höhe Landesgrenze  (Zehlendorf, 14109)
+arm1=R.-Breitscheid-Straße,1000,0100
+arm2=Bäkestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+130	7	6	0
+168	10	3	0
+103	3	4	0
+98	6	6	0
+98	10	7	0
+79	11	7	0
+104	15	2	0
+123	5	5	0
+128	2	2	0
+141	10	3	0
+181	11	0	0
+187	4	1	0
+; 2 -> 1
+37	1	4	0
+100	7	4	0
+182	8	7	1
+186	10	8	0
+126	3	9	2
+88	1	5	0
+119	6	2	0
+97	5	1	0
+101	10	0	1
+110	11	2	0
+164	6	1	0
+122	9	0	1

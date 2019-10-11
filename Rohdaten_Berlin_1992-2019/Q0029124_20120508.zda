@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29124
+datum=08.05.2012
+kurzken=Q 29122/12
+bez=Am Walde (östl. Rummelsburger Landstraße)   (Lichtenberg, 10318)
+arm1=Rummelsburger Landstraße (N),300,0010
+arm2=Fritz-König-Weg,1100,0000
+arm3=Rummelsburger Landstraße (S),2100,1000
+arm4= Am Walde,2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+1	0
+2	0
+0	0
+1	0
+0	0
+0	0
+1	0
+0	0
+0	0
+1	0
+1	0
+0	0
+; 3 -> 1
+0	0
+1	0
+0	0
+0	1
+1	0
+0	0
+3	0
+1	0
+0	0
+0	0
+0	0
+1	1

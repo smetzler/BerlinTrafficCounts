@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 62215
+datum=16.10.1990
+kurzken=Q 62215/90
+bez=Waldstrasse westlich Lienemannstrasse    ( Berlin 51 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+3 0 1 0 1 0 3 0 0 0 1 0 12 6 
+96 0 4 0 2 0 0 1 2 0 
+; 2 -> 1
+1 1 6 0 0 0 3 0 2 0 4 1 10 0 
+3 1 13 2 2 1 1 1 1 0 

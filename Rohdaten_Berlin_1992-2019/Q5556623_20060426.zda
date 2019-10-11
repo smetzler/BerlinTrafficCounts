@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5556623
+datum=26.04.2006
+kurzken=Q 5556623/06
+bez=Brunnenstraße (südl. Invalidenstraße)   (Mitte, 10119)
+arm1=Brunnenstraße,150,0000
+arm2=Invalidenstraße,1000,0001
+arm3=Brunnenstraße,2000,0000
+arm4=Veteranenstraße,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=4\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+34	6
+46	6
+55	26
+47	1
+42	0
+83	2
+129	33
+101	10
+82	23
+95	1
+110	4
+126	4
+; 4 -> 2
+53	53
+65	5
+60	10
+61	0
+63	1
+67	27
+67	3
+69	7
+77	3
+89	10
+92	8
+83	6

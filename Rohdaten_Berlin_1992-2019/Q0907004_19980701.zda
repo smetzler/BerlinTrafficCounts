@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907004
+datum=01.07.1998
+kurzken=Q 0907004/98
+bez=Bismarckstraße (westl. Kaiser-Friedrich-Straße)   (Charlottenburg, 10627)
+arm1=Fritschestraße,950,0100
+arm2=Kaiser-Friedrich-Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+2287	90	8	45
+2250	78	9	52
+2029	96	12	53
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1736	46	8	46
+1963	41	12	40
+1788	32	8	43
+; 2 -> 1
+1464	69	6	38
+1680	83	3	36
+1542	78	12	33
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+2209	63	2	58
+2472	43	6	73
+2375	33	2	57

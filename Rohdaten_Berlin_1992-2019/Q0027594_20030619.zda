@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27594
+datum=19.06.2003
+kurzken=Q 27594/03
+bez=Kadettenweg (südl. Curtiusstraße)   (Lichterfelde, 12205)
+arm1=Kadettenweg (N),200,0000
+arm2=Köhlerstraße,1400,0001
+arm3=Kadettenweg (S),1900,0000
+arm4=Curtiusstraße (O),2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+40	3
+51	69
+42	43
+30	14
+15	3
+22	15
+28	23
+24	7
+22	22
+29	5
+21	3
+17	5
+; 4 -> 2
+30	33
+21	17
+14	1
+15	1
+16	0
+22	3
+27	6
+23	2
+30	2
+29	5
+23	8
+31	3

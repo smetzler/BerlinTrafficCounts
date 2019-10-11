@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6471011
+datum=05.04.2016
+kurzken=Q 6471011/16
+bez=Edisonstraße (nördl. Wilhelminenhofstraße)   (Oberschöneweide, 12459)
+arm1=Edisonstraße (N),70,0000
+arm2=Wilhelminenhofstraße (W),700,0001
+arm3=Edisonstraße (S),1610,0000
+arm4=Wilhelminenhofstraße (O),2520,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+59	1
+73	0
+79	0
+53	0
+75	5
+52	1
+77	3
+84	7
+82	8
+73	6
+96	8
+90	10
+; 4 -> 2
+49	7
+39	9
+28	0
+34	0
+24	0
+59	0
+44	0
+34	7
+49	7
+59	11
+75	9
+55	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28483
+datum=27.09.2007
+kurzken=Q 28483/07
+bez=Zufahrtsstraße (südl. Annenallee)   (Köpenick, 12555)
+arm1=Hämmerlingstraße,50,0000
+arm2=Annenallee,750,0001
+arm3=Zufahrtsstraße,1450,0000
+arm4=Annenallee,2550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=0\,5 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	3
+9	2
+8	0
+15	0
+7	0
+2	0
+4	0
+6	0
+2	0
+3	1
+8	1
+6	1
+; 4 -> 2
+3	0
+4	0
+2	0
+11	0
+5	0
+4	0
+17	0
+6	1
+9	0
+13	0
+19	1
+9	2

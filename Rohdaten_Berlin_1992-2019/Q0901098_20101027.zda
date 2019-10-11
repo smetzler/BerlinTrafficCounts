@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901098
+datum=27.10.2010
+kurzken=Q 0901098/10
+bez=Am Nordbahnhof (nördl. Invalidenstraße)   (Mitte, 10115)
+arm1=Zinnowitzer Straße,300,0100
+arm2=Invalidenstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+214	6	0	6	32
+223	5	0	8	81
+227	5	0	7	72
+194	2	0	6	24
+173	4	0	7	27
+167	2	0	4	27
+143	3	0	0	26
+152	8	0	2	14
+182	4	0	8	24
+176	8	0	9	31
+147	2	0	5	33
+153	5	0	3	23
+; 2 -> 1
+201	12	8	3	8
+199	7	9	9	30
+240	12	11	3	27
+220	14	10	4	16
+239	7	11	3	4
+308	13	9	10	18
+279	11	8	2	31
+279	6	10	2	30
+296	10	10	8	16
+336	6	9	2	37
+343	4	8	8	33
+375	4	12	10	40

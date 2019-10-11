@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109032
+datum=19.09.2018
+kurzken=Q 109032/18
+bez=Zossener Straße (südl. Landsberger Chaussee)   (Hellersdorf, 12685)
+arm1=Landsberger Chaussee,0,0100
+arm2=Luckenwalder Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+135	7	0	4	17
+129	7	0	4	13
+113	6	0	1	15
+162	8	0	6	4
+159	5	0	4	9
+161	7	0	4	11
+163	9	0	5	17
+238	8	0	6	21
+329	14	0	10	22
+214	10	0	8	26
+242	7	0	6	15
+165	5	0	7	14
+; 2 -> 1
+178	5	0	1	7
+165	3	0	6	10
+140	6	0	3	8
+174	2	0	1	6
+134	11	0	3	5
+180	6	0	5	3
+192	8	0	3	7
+176	3	0	3	4
+255	3	0	2	5
+238	2	0	1	2
+152	1	0	1	2
+128	2	0	3	1

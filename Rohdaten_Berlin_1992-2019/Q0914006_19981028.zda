@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914006
+datum=28.10.1998
+kurzken=Q 0914006/98
+bez=Karl-Marx-Straße (östl. Reuterstraße)   (Neukölln, 12045)
+arm1=Reuterstraße,550,0100
+arm2=Weichselstraße,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+472	30	2	3
+484	35	0	3
+567	56	0	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+856	24	1	14
+1028	27	2	21
+854	26	0	13
+; 2 -> 1
+934	46	0	15
+852	41	0	13
+719	58	0	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+892	20	0	12
+666	17	0	14
+867	17	0	18

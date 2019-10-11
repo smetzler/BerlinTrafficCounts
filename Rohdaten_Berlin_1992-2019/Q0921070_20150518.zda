@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921070
+datum=18.05.2015
+kurzken=Q 0921070/15
+bez=von Märkische Allee (Ostfahrb.) > Landsberger A. (nach Westen)  (Marzahn, 12681)
+arm1=,0,0000
+arm2=Märkische Allee,1650,0010
+arm3=Landsberger A. (Hochfahrb. Ri. W.),2850,0000
+arm4=Märkische Allee,3450,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 3
+623	22	0	6	0
+526	18	1	12	0
+356	26	1	8	1
+304	27	1	5	0
+266	15	0	5	0
+273	26	0	2	0
+294	17	0	5	2
+284	16	0	9	2
+275	15	0	12	1
+312	9	0	8	1
+318	3	0	9	0
+244	6	0	8	0

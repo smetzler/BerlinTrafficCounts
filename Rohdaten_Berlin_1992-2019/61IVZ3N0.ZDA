@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 71135
+datum=13.05.1991
+kurzken=Q 71135/91
+bez=Wilhelmstrasse noerdlich Hedemannstrasse    ( Berlin 61 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend klar und trocken !
+data=
+; 1 -> 2
+17 23 0 22 4 0 26 3 1 25 4 1 20 2 1 
+24 4 2 21 1 0 24 4 0 28 6 4 35 9 1 
+32 3 1 19 4 4 
+; 2 -> 1
+24 5 0 21 0 0 29 1 0 30 0 1 25 10 7 
+56 18 2 26 4 4 18 1 5 19 5 2 42 1 6 
+34 1 3 16 7 2 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 18453
+datum=06.05.2013
+kurzken=Q 18453/13
+bez=Mariendorfer Damm (nördl. Säntisstraße - Tauernallee)   (Mariendorf, 12107)
+arm1=Mariendorfer Damm (N),200,0000
+arm2=Säntisstraße,1350,0001
+arm3=Mariendorfer Damm (S),2000,0000
+arm4=Tauernallee,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+8	10
+18	2
+6	2
+8	0
+15	0
+30	12
+24	3
+21	0
+23	19
+20	3
+29	4
+24	4
+; 4 -> 2
+1	17
+11	5
+12	2
+0	2
+8	0
+14	0
+18	0
+10	6
+18	0
+11	2
+32	4
+18	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 85421
+datum=27.09.2005
+kurzken=Q 85421/05
+bez=Wismarer Straße (nordwestl. Prettauer Pfad)   (Lichterfelde, 12207)
+arm1=Wismarer Straße,500,0000
+arm2=Prettauer Pfad,1400,0001
+arm3=Wismarer Straße,2200,0000
+arm4=((Nordosten)),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=7\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	0
+1	0
+7	0
+6	0
+0	0
+2	0
+1	0
+1	2
+0	1
+0	0
+0	3
+1	3
+; 4 -> 2
+0	0
+5	1
+2	0
+7	0
+1	0
+1	0
+1	1
+0	1
+0	0
+0	1
+3	3
+1	1

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5664011
+datum=26.04.2004
+kurzken=Q 5664011/04
+bez=Mühlenstraße (nördl. Masurenstraße)  (Pankow, 13189)
+arm1=Mühlenstraße,450,0000
+arm2=((Westen)),1200,0001
+arm3=Mühlenstraße,2070,0000
+arm4=Masurenstraße,2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+14	5
+21	6
+19	5
+13	4
+28	35
+11	31
+6	116
+9	2
+5	14
+10	8
+6	1
+2	0
+; 4 -> 2
+61	103
+22	38
+18	11
+31	26
+18	9
+0	0
+9	7
+12	5
+7	1
+12	4
+14	4
+10	3

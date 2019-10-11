@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0053
+datum=24.09.2015
+kurzken=Q 0053/15
+bez=A111 - Zubr. HH (Höhe Wittestr.)   (Reinickendorf, 13509)
+arm1=AS Waidmannsluster Damm,300,0100
+arm2=AS Holzhauser Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Wittestr. SPURAUFTEILUNG vor Ort festlegen!
+data=
+; 1 -> 2
+3687	73	113	6	62
+3150	86	100	6	38
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+1909	54	61	7	42
+2110	45	67	13	45
+2026	33	52	12	39
+; 2 -> 1
+1646	91	59	6	21
+1677	97	86	15	15
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+3814	70	57	7	93
+3683	58	61	12	74
+3538	46	49	9	83

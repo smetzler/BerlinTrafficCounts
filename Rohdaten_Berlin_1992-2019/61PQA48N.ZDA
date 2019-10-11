@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 80002
+datum=24.3.1993
+kurzken=Q 800-02/93
+bez=Kastaninenallee westl. Schönhauser Allee (PrenzlBerg)
+arm1=Oderberger Straße,1350,0100
+arm2=Schönhauser Allee,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+0 85 5 0 11 
+0 69 3 0 9 
+0 88 9 0 3 
+2 131 9 0 1 
+1 132 2 0 12 
+1 125 13 0 12 
+2 117 12 0 16 
+1 150 2 0 17 
+2 192 3 0 17 
+2 259 9 0 28 
+2 233 6 1 7 
+3 150 2 0 6 
+; 2 -> 1
+2 233 11 0 22 
+0 206 8 0 16 
+1 226 14 0 19 
+3 172 14 0 17 
+3 206 11 0 14 
+4 194 10 0 22 
+3 188 13 0 20 
+1 170 6 0 23 
+2 210 9 0 28 
+3 204 2 1 35 
+2 210 5 0 30 
+5 196 2 0 21 

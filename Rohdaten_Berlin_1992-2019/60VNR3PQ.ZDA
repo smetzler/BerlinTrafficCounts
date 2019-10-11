@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41031
+datum=15.8.1991
+kurzken=Q 4103.1/91-F
+bez=Schlosstrasse zw. Zimmermannstrasse und Deitmerstraasse    ( Berlin 41 )
+arm1=Deitmerstraße,900,0100
+arm2=Zimmermannstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe Haus Nr. 100 !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+27 
+59 
+236 
+428 
+597 
+587 
+498 
+453 
+452 
+407 
+597 
+395 
+; 2 -> 1
+40 
+118 
+360 
+655 
+931 
+724 
+675 
+590 
+746 
+752 
+841 
+582 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5583022
+datum=03.06.1996
+kurzken=Q 5583022/96.1
+bez=Lichtenberger Str.  südl. Singerstr.,(Friedrichshain, 10179)
+arm1=Andreasstraße,1600,0100
+arm2=Singerstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=14°C\, bedeckt\, 18\,6mm Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+522 46 1 6 10
+440 50 4 2 8
+405 62 4 7 5
+453 36 2 6 5
+449 46 3 3 3
+470 47 2 3 0
+310 35 0 5 8
+375 24 0 5 15
+655 32 0 6 10
+466 29 0 5 13
+568 21 3 7 11
+513 16 2 5 10
+; 2 -> 1
+827 38 2 13 17
+709 58 0 4 25
+465 56 1 2 9
+369 52 0 9 5
+401 44 0 2 3
+433 66 0 7 5
+333 41 1 0 5
+390 38 1 5 4
+455 25 0 10 11
+431 23 0 7 4
+436 25 0 9 12
+364 4 2 7 16

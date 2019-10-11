@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20412
+datum=06.09.2018
+kurzken=Q 20412/18
+bez=Glockenturmstrasse (südwestl. Angerburger Allee)    (14055, Charlottenburg)
+arm1=Angerburger Allee (NW),300,0010
+arm2=Glockenturmstrasse (SW),1350,0000
+arm3=Angerburger Allee (SO),2300,1000
+arm4=Glockenturmstrasse (NO),3150,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+4	0
+16	7
+11	1
+17	2
+5	1
+4	0
+1	1
+5	0
+3	5
+2	0
+2	0
+6	1
+; 3 -> 1
+4	0
+9	0
+11	1
+6	0
+7	2
+3	0
+4	0
+6	4
+1	0
+1	1
+1	0
+3	6

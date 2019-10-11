@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 15066
+datum=14.06.1988
+kurzken=Q 15066/88
+bez=Oberlandstrasse  westl. Holzmannstrasse   ( Berlin 42 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und trocken !
+data=
+; 1 -> 2
+1 0 0 1 2 4 1 0 8 3 1 0 
+; 2 -> 1
+4 1 1 1 4 5 1 1 0 2 1 0 

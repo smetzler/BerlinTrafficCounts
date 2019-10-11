@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020319
+datum=25.09.2018
+kurzken=Q 020319/18
+bez=Legiendamm (nördl. Waldemarstraße)   (Kreuzberg, 10179)
+arm1=Heinrich-Heine-Platz,3400,0100
+arm2=Waldemarstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+240	5	0	6	26
+307	3	0	9	49
+313	2	0	15	58
+172	1	0	8	12
+135	3	0	1	38
+122	8	0	5	37
+101	9	0	3	32
+125	8	1	4	22
+136	7	1	4	53
+186	2	0	6	64
+141	6	1	9	46
+102	3	0	10	42
+; 2 -> 1
+8	0	0	2	9
+14	2	0	0	19
+24	3	0	1	28
+16	0	0	0	12
+22	0	1	1	10
+13	1	0	1	12
+19	0	0	0	14
+22	1	0	1	12
+21	0	0	4	31
+24	0	0	2	20
+19	0	0	2	23
+26	0	0	0	25

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08035
+datum=28.03.1990
+kurzken=Q 8035/90
+bez=Wassertorstrasse westl. Prinzenstrasse    ( Berlin 61 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+21 3 23 2 35 4 25 6 49 15 43 19 59 17 
+69 13 67 18 86 27 83 31 48 4 
+; 2 -> 1
+41 36 33 13 39 9 34 7 61 19 58 8 52 26 
+45 12 96 27 107 28 88 22 43 8 

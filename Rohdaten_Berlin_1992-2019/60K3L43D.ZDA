@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26049
+datum=26.10.1992
+kurzken=Q 2604.9/92-F
+bez=Fürstenwalder Damm in Höhe Strandbad Müggelsee  (Bln.1165-Köp.)
+arm1=Zur Straßenbahn,1650,0100
+arm2=Eingang Strandbad Müggelsee,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+0 
+0 
+; 2 -> 1
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+4 
+2 
+0 
+3 
+0 

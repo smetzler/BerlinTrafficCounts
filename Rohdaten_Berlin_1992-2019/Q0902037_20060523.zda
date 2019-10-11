@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0902037
+datum=23.05.2006
+kurzken=Q 0902037/06
+bez=B96 Tunnel-Tiergarten (nördl. Invalidenstraße)   (Tiergarten, 10557)
+arm1=Heidestraße,0,0100
+arm2=B96 Tunnel-Tiergarten,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=nur Tunnel-Verkehr (ohne Nebenfahrbahnen der Minna-Cauer-Str.)!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+673	20	0	23
+746	27	4	33
+662	23	2	18
+526	20	0	10
+512	23	0	8
+429	27	1	6
+495	27	1	14
+505	18	2	18
+613	22	1	18
+657	16	0	14
+612	5	0	19
+531	10	1	16
+; 2 -> 1
+479	19	0	12
+486	13	1	17
+439	20	0	17
+390	19	0	7
+348	31	0	10
+375	16	0	10
+437	35	2	11
+527	28	0	10
+681	26	0	23
+683	18	2	24
+606	9	1	16
+538	7	1	19

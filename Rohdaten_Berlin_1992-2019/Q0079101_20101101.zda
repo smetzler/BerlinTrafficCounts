@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 79101
+datum=01.11.2010
+kurzken=Q 79101/10
+bez=Pfalzburger Straße (nördl. Hohenzollerndamm)    (Wilmersdorf, 10717)
+arm1=Pfalzburger Straße (N),3540,0000
+arm2=Hohenzollerndamm (W),1200,0001
+arm3=Pfalzburger Straße (S),1730,0000
+arm4=Hohenzollerndamm (O),3030,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+27	5
+22	0
+7	0
+10	0
+18	1
+21	26
+31	4
+32	0
+29	13
+40	27
+25	1
+23	0
+; 4 -> 2
+24	10
+14	1
+27	0
+29	25
+20	0
+15	1
+20	2
+15	7
+17	6
+17	10
+18	2
+16	1

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917005
+datum=24.06.1998
+kurzken=Q 0917005/98
+bez=Märkische Allee (südl. Bentschener Weg)   (Lichtenberg, 10365)
+arm1=Kulmseestraße,1750,0100
+arm2=Bentschener Weg,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten: je Richtung auf 1 Spur verengt!\nZählzeitraum: 7 - 10 und 15 - 18 Uhr. Durchführung der Erhebungen: 
+data=
+; 1 -> 2
+763	53	4	6
+673	59	12	8
+803	68	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1044	40	4	13
+1112	45	5	11
+1135	19	4	15
+; 2 -> 1
+1091	68	3	10
+972	89	4	5
+773	80	3	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1109	46	4	10
+1154	48	4	17
+1066	39	4	10

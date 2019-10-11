@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q6425017
+datum=10.3.1993
+kurzken=Q 642501.7/93-F
+bez=Harzer Straße östl. Treptower Straße    (Neukölln)
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+23 69 
+22 20 
+13 17 
+14 6 
+9 7 
+18 19 
+10 10 
+20 30 
+24 23 
+34 10 
+10 1 
+6 1 
+; 2 -> 1
+35 9 
+28 9 
+20 14 
+13 11 
+11 18 
+21 36 
+9 15 
+33 27 
+30 61 
+22 18 
+12 3 
+4 0 

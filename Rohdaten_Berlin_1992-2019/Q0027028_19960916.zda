@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27028
+datum=16.09.1996
+kurzken=Q 27028/96
+bez=Weichselstraße   (nördl. Oderstraße),(Friedrichshain, 10247)
+arm1=Oderstr. (West),700,0010
+arm2=,1600,0000
+arm3=Oderstr. (Ost),2500,1000
+arm4=,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C\, teils sonnig\, 0\,2 mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 3
+16 1
+4 1
+6 1
+7 0
+8 1
+4 0
+14 1
+13 1
+33 2
+36 11
+23 8
+22 6
+; 3 -> 1
+5 0
+5 0
+8 0
+14 1
+3 1
+11 4
+22 5
+22 8
+32 9
+43 11
+36 8
+30 15

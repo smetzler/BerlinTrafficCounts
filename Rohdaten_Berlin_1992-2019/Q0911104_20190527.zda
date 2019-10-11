@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911104
+datum=27.05.2019
+kurzken=Q 0911104/19
+bez=A100 Stadtring - Hauptfahrb.-Ri. West (westl. Abf. zu A103-Nord/Sachsend) (Schöneberg, 10829) 
+arm1=AK Schöneberg,900,0000
+arm2=H.-Ganswindt-Brücke (Priesterweg),2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+4174	178	11	35	0
+4312	153	15	71	0
+3900	165	14	50	0
+3745	174	11	47	0
+3715	174	3	29	0
+4075	114	7	46	0
+4312	205	20	61	0
+4724	53	14	96	0
+4032	103	9	96	0
+3750	116	11	71	0
+3746	76	9	79	0
+3602	79	10	53	0

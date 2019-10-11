@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00501
+datum=08.09.2015
+kurzken=Q 00501/15
+bez=A100 - Stadtring - Zu- und Abfahrt Britzer Damm   (Neukölln, 12051)
+arm1=AD Tempelhof,950,0100
+arm2=AS Britzer Damm,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk= Standort: Britzer Damm\nCity-Atlas Seite 118\, Feld 1d
+data=
+; 1 -> 2
+289	4	1	0	4
+366	10	2	1	6
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+380	9	1	0	6
+394	3	1	0	5
+428	2	0	0	9
+; 2 -> 1
+228	8	3	0	5
+293	9	1	1	4
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+322	5	4	0	3
+317	3	0	1	8
+302	1	1	1	7

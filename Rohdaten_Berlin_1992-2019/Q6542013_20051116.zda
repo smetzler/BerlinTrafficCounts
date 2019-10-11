@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6542013
+datum=16.11.2005
+kurzken=Q 6542013/05
+bez=Frankfurter Allee (östl. Gürtelstraße)  (Lichtenberg, 10247)
+arm1=Frankfurter Allee,800,0000
+arm2=Gürtelstraße,1600,0001
+arm3=Frankfurter Allee,2600,0000
+arm4=Möllendorffstraße,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=5\,5°C; Sonne=0 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+71	14
+61	2
+99	5
+134	8
+80	5
+65	6
+69	3
+89	16
+133	15
+98	8
+77	9
+65	1
+; 4 -> 2
+75	47
+55	25
+61	22
+107	4
+116	12
+112	18
+90	17
+90	13
+99	10
+146	12
+85	5
+77	2

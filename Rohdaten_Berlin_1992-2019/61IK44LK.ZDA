@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 70708
+datum=09.05.1994
+kurzken=Q 70708/94
+bez=Amtsstraße / östl. Kietzer Straße (Köpenick) 
+arm1=Kietzer Straße,1350,0100
+arm2=Landjägerstraße,3150,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+421,58,1,5,32
+478,83,0,3,24
+495,55,0,4,19
+416,57,1,1,24
+421,62,0,4,16
+482,48,0,5,12
+532,55,0,7,13
+513,34,0,5,29
+610,44,0,14,27
+709,25,1,10,30
+711,24,0,7,25
+573,19,0,7,20

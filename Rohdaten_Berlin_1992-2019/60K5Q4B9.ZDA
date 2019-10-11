@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26126
+datum=22.6.1993
+kurzken=Q 2612.6/93-F
+bez=Hönower Straße südl. Riesaer Straße    ( Hellersdorf )
+arm1=West,450,0100
+arm2=Ost,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+2 13 
+1 0 
+14 1 
+8 1 
+6 0 
+6 2 
+8 13 
+11 6 
+10 2 
+7 0 
+5 1 
+6 1 
+; 2 -> 1
+1 0 
+0 2 
+9 10 
+3 2 
+1 19 
+1 0 
+7 1 
+6 3 
+1 0 
+8 0 
+4 0 
+4 3 

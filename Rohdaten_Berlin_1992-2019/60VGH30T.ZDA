@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40769
+datum=14.06.1989
+kurzken=Q 40769/89
+bez=Graf-Spee-Fussgaengerbruecke  (Landwehrkanal)        (Berlin 30)
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+4 12 8 10 13 31 12 20 19 16 23 7 
+; 2 -> 1
+7 21 8 10 10 22 17 19 5 16 10 6 

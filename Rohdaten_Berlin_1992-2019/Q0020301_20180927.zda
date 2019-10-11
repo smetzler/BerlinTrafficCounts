@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020301
+datum=27.09.2018
+kurzken=Q 020301/18
+bez=Adalbertstraße (südl. Bethaniendamm)   (Mitte, 10179)
+arm1=Waldemarstraße,1600,0100
+arm2=Bethaniendamm,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 2
+187	11	0	9	88
+240	7	1	4	244
+257	3	0	10	209
+224	2	0	14	106
+175	7	0	14	83
+226	6	0	9	67
+181	1	0	10	110
+199	3	0	1	112
+283	1	0	19	126
+276	1	0	12	176
+223	1	1	19	165
+241	0	0	24	211
+; 2 -> 1
+253	3	0	4	62
+270	6	0	16	133
+207	6	0	13	123
+164	6	0	8	84
+159	22	1	14	55
+202	9	0	15	80
+182	3	3	10	79
+159	7	0	14	83
+233	6	1	17	130
+220	6	0	2	128
+229	1	1	10	197
+209	1	0	13	242

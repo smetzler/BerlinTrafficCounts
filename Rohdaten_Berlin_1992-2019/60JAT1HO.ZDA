@@ -1,0 +1,19 @@
+[ZA1001]
+knoten=Q 25013
+datum=13.09.1984
+kurzken=Q 25013/84
+bez=AK Reinickendorf: Abfahrt zur BAB B-HH von Scharnweberstr.  (Berlin 51)
+Arm1=Abfahrt,900,0100
+Arm2=,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+4 186 11 12 6 0 101 8 10 4 0 52 6 11 1 
+0 69 7 8 2 1 68 3 10 2 1 73 6 3 1 
+1 61 6 7 2 2 94 1 7 1 1 135 7 13 2 
+3 103 5 4 5 2 113 3 2 1 2 49 2 1 1 

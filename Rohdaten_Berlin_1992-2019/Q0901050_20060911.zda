@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901050
+datum=11.09.2006
+kurzken=Q 0901050/06
+bez=Markgrafenstraße (nördl. Leipziger Straße)   (Mitte, 10177)
+arm1=Kronenstraße,100,0100
+arm2=Leipziger Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=25°C max T; 12 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 1 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+96	2	2	2	9
+114	6	0	2	19
+156	2	4	1	18
+155	7	8	3	11
+121	7	4	2	17
+141	4	0	4	51
+123	6	5	7	17
+166	3	3	5	31
+162	2	0	12	20
+210	3	2	9	33
+225	1	4	12	49
+220	0	4	9	32
+; 2 -> 1
+67	6	0	5	14
+94	6	0	1	38
+127	3	4	4	37
+93	1	7	7	14
+69	6	13	0	16
+73	4	12	2	28
+66	4	11	2	16
+86	3	11	2	29
+52	0	10	0	18
+68	1	8	2	23
+92	2	7	4	19
+75	1	4	1	23

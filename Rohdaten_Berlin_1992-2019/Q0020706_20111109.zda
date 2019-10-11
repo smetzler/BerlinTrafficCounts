@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020706
+datum=09.11.2011
+kurzken=Q 020706/11
+bez=Brunnenstraße (südl. Bernauer Straße)   (Wedding, 10115)
+arm1=Bernauer Straße ,200,0100
+arm2=Schönholzer Straße ,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Brunnestr. vor Rosenthaler Platz R. Süd auf 1 FS eingeengt.\n
+data=
+; 1 -> 2
+468	33	0	8	52
+463	11	2	6	92
+459	21	1	11	116
+388	8	0	8	50
+413	16	0	8	58
+364	14	2	6	59
+406	13	0	12	58
+420	16	1	11	70
+485	13	0	12	65
+528	6	0	10	110
+457	6	0	7	106
+441	4	2	13	94
+; 2 -> 1
+503	16	1	4	21
+506	5	2	3	33
+441	22	3	5	47
+410	14	6	2	38
+369	26	3	4	44
+371	29	5	12	40
+469	22	3	10	49
+470	36	3	20	79
+524	24	5	16	72
+548	14	6	10	86
+553	5	7	11	97
+480	12	1	13	104

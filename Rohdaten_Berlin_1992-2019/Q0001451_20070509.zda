@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1451
+datum=09.05.2007
+kurzken=Q 1451/07
+bez=Residenzstraße (nördl. Emmentaler Straße)   (Reinickendorf, 13409)
+arm1=Residenzstraße (N),170,0000
+arm2=Emmentaler Straße (W),1130,0001
+arm3=Residenzstraße (S),1970,0000
+arm4=Emmentaler Straße (O),3040,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=7 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+22	22
+23	13
+39	3
+34	0
+40	16
+48	1
+36	8
+45	9
+47	8
+42	5
+35	7
+37	6
+; 4 -> 2
+14	8
+21	3
+24	1
+43	1
+28	0
+48	1
+44	24
+52	5
+59	21
+60	13
+51	8
+37	6

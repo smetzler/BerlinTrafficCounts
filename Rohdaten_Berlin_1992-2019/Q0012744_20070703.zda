@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12744
+datum=03.07.2007
+kurzken=Q 12744/07
+bez=Erkstraße (östl. Karl-Marx-Straße)   (Neukölln, 12043)
+arm1=Karl-Marx-Straße,550,0010
+arm2=,1030,0000
+arm3=Karl-Marx-Straße,2350,1000
+arm4=Erkstraße,2830,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+137	31
+248	57
+292	46
+373	24
+349	47
+401	13
+465	42
+451	93
+424	100
+479	62
+385	58
+349	52
+; 3 -> 1
+86	22
+139	29
+236	37
+339	15
+415	28
+460	20
+465	23
+494	54
+466	78
+436	77
+442	58
+384	44

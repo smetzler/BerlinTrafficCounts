@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109113
+datum=05.10.2016
+kurzken=Q 109113/16
+bez=Bergmannstraße (östl. Friesenstraße)    (Kreuzberg, 10965)
+arm1=Bergmannstraße (W),750,0000
+arm2=Friesenstraße,1800,0001
+arm3=Bergmannstraße (O),2550,0000
+arm4=((Norden)),0,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+78	72
+129	9
+116	7
+103	0
+122	36
+159	6
+124	1
+128	4
+155	17
+173	17
+166	10
+121	3
+; 4 -> 2
+23	6
+79	3
+88	1
+110	0
+104	17
+162	9
+170	16
+164	11
+195	17
+162	27
+169	7
+163	6

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0015
+datum=28.07.2015
+kurzken=Q 0015/15
+bez=B5 - Heerstraße (westl. Börnicker Straße)   (Spandau, 13595)
+arm1=Gatower Straße ,800,0100
+arm2=Börnicker Straße ,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!! Nebenfahrbahn einbeziehen  !!!!\nBaustelle: in beiden Ri. Höhe Jaczostr. Fahrbahn auf einen Fahrstreifen verengt
+data=
+; 1 -> 2
+1104	14	15	27	21	15
+1288	15	10	26	26	18
+1299	10	5	23	26	22
+; 2 -> 1
+1209	21	18	37	35	26
+1377	15	12	28	42	38
+1414	11	4	31	35	23

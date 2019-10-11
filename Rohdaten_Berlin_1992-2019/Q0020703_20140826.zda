@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020703
+datum=26.08.2014
+kurzken=Q 020703/14
+bez=Chausseestraße (südl. Liesenstraße)   (Wedding, 10115)
+arm1=Liesenstraße,400,0100
+arm2=Wöhlertstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Chausseestr.\, Vollsperrung in beiden Richtungen zw. Invalidenstr. u. Zinnowitzer Str. \n
+data=
+; 1 -> 2
+297	15	0	18	106
+337	26	2	20	175
+316	31	3	19	165
+340	28	2	6	68
+311	18	0	14	76
+345	26	0	6	95
+383	27	2	22	105
+346	19	0	11	94
+434	14	0	20	119
+356	12	0	14	134
+377	8	2	23	131
+379	8	0	14	141
+; 2 -> 1
+274	22	0	4	58
+238	19	1	5	81
+296	16	3	7	67
+312	24	2	12	46
+302	24	0	15	56
+314	29	2	14	106
+405	33	1	11	122
+450	26	0	12	95
+441	26	2	27	149
+448	12	0	30	150
+461	17	2	23	211
+486	12	1	20	198

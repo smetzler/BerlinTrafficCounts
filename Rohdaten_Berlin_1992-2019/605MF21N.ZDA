@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 07287
+datum=28.05.1986
+kurzken=Q 7287/86
+bez=Luetzowufer  oestl. Budapester Strasse   ( Berlin 30 )
+Arm1=Sued  ( 3a ),900,0100
+Arm2=Nord  ( 3b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend bedeckt und trocken
+data=
+; 1 -> 2
+30 16 26 6 25 39 25 26 34 23 38 15 
+; 2 -> 1
+22 37 10 19 20 21 17 16 19 18 39 23 

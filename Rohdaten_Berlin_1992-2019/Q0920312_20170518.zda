@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920312
+datum=18.05.2017
+kurzken=Q 0920312/17
+bez=Burgfrauenstraße (östl. Am Pfingstberg)   (Hemsdorf, 13465)
+arm1=Am Pfingstberg,1000,0100
+arm2=Olafstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kfz-Verkehr in Burgfrauenstraße zwischen Hohefeldstraße und Olafstraße; querende Fg i. H. Am Pfingstberg (auf ca. 50 m)\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+134	4	8	0	7
+141	3	7	4	13
+148	2	6	2	8
+118	14	6	2	16
+161	3	6	2	7
+165	4	5	4	6
+117	3	7	7	12
+122	6	7	5	19
+161	3	6	1	21
+138	4	6	2	12
+167	2	6	6	21
+157	1	6	1	9
+; 2 -> 1
+91	3	3	0	23
+99	5	6	1	7
+105	2	4	4	9
+98	2	4	0	14
+115	3	3	2	12
+98	2	3	4	7
+103	0	4	0	10
+106	4	2	3	16
+117	3	3	5	9
+150	0	4	0	22
+126	2	5	6	13
+123	0	3	3	15

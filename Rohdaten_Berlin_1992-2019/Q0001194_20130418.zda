@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1194
+datum=18.04.2013
+kurzken=Q 1194/13
+bez=Aalemannufer (östl. Niederneuendorfer Allee)   (Hakenfelde, 13587)
+arm1=Niederneuendorfer Allee (N),140,0010
+arm2=,890,0000
+arm3=Niederneuendorfer Allee (S),1940,1000
+arm4=Aalemannufer,2690,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die das Aalemannufer östl. der Niederneuendorfer A. (bis ca. 50m östl.) queren.\nWetter: max T=26°C; Sonne=8 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+3	2
+4	25
+2	0
+9	1
+7	4
+6	1
+11	2
+10	4
+13	6
+10	4
+12	0
+11	1
+; 3 -> 1
+17	7
+11	3
+14	4
+12	3
+2	0
+5	1
+9	1
+1	1
+3	0
+10	2
+6	1
+3	1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906069
+datum=07.09.2009
+kurzken=Q 0906069/09
+bez=Wilhelmstraße (nördl. Franz-Klühs-Straße)   (Kreuzberg, 10963)
+arm1=Franz-Klühs-Straße,50,0000
+arm2=Stresemannstraße,1850,0000
+arm3=((Westen)),950,0001
+arm4=((Osten)),2750,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Wilhelmstr. nördl. Fr.-Klühs-Str. (bis ca. 50m nördl.) queren.\nWetter: max T=22°C; Sonne=5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+2	0
+14	1
+18	2
+16	0
+23	2
+17	1
+24	1
+11	0
+4	0
+14	1
+21	0
+18	4
+; 4 -> 3
+6	2
+18	3
+46	0
+6	1
+21	4
+16	0
+25	1
+16	0
+10	2
+4	0
+7	1
+5	0

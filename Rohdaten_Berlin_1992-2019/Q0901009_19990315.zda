@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901009
+datum=15.03.1999
+kurzken=Q 0901009/99
+bez=Fischerinsel (südöstl. Mühlendamm)   (Mitte, 10179)
+arm1=Mühlendamm,450,0100
+arm2=Märkisches Ufer,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+426	19	6	3
+401	25	4	5
+360	21	2	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+378	14	4	9
+391	7	6	3
+334	3	3	4
+; 2 -> 1
+597	24	5	1
+668	37	4	5
+592	33	3	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+641	24	4	3
+707	10	5	8
+606	7	5	10

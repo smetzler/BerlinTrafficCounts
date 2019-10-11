@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159002
+datum=19.09.2018
+kurzken=Q 159002/18
+bez=Potsdamer Chaussee (B2) (westl. Ritterfelddamm) (Spandau, 14089)
+arm1=Seeburger Chaussee,1000,0100
+arm2=Ritterfelddamm,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+569	23	3	15	7
+487	12	5	10	8
+448	23	3	6	1
+350	14	4	12	1
+340	15	2	10	16
+291	10	4	7	9
+392	7	3	4	2
+401	8	4	14	1
+416	4	6	7	4
+384	2	4	8	2
+419	1	4	16	1
+435	4	2	15	2
+; 2 -> 1
+343	8	3	4	1
+355	19	4	7	2
+337	17	4	4	2
+330	16	4	8	2
+341	12	2	6	4
+265	16	5	9	7
+370	10	4	8	6
+421	12	3	21	5
+632	9	3	16	8
+528	1	4	18	4
+520	0	3	14	3
+408	0	3	12	3

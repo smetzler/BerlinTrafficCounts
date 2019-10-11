@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904036
+datum=22.04.2008
+kurzken=Q 0904036/08
+bez=Maiglöckchenstraße (östl. Syringenweg)   (Prenzlauer Berg, 10407)
+arm1=Syringenweg,850,0100
+arm2=Cyanenstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+52	2	0	1	8
+83	1	0	1	9
+94	0	0	1	10
+150	0	0	2	10
+120	0	0	1	12
+117	2	0	4	11
+119	0	0	4	17
+196	1	0	5	19
+270	0	0	12	42
+293	2	1	6	23
+274	0	0	11	30
+235	0	0	7	21
+; 2 -> 1
+330	2	0	7	40
+192	2	0	2	18
+156	1	0	3	12
+118	0	0	2	4
+129	2	0	1	16
+87	2	0	5	13
+88	1	0	0	14
+93	1	0	2	14
+122	0	0	6	18
+114	0	0	2	22
+97	0	0	5	13
+108	1	0	4	15

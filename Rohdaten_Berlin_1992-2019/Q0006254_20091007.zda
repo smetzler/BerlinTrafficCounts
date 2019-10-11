@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6254
+datum=07.10.2009
+kurzken=Q 6254/09
+bez=Krumme Straße (nördl. Bismarckstraße)   (Charlottenburg, 10627)
+arm1=Bismarckstraße (W),960,0010
+arm2=Krumme Straße (S),1870,0000
+arm3=Bismarckstraße (O),2760,1000
+arm4=Krumme Straße (N),3560,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=3 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+25	0
+43	0
+27	0
+29	0
+40	1
+55	0
+44	0
+49	0
+18	0
+32	0
+34	1
+32	0
+; 3 -> 1
+13	0
+19	1
+32	0
+38	0
+56	0
+62	0
+74	0
+55	0
+50	3
+43	3
+35	1
+34	3

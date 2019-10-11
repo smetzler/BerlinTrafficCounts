@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 11475
+datum=6.5.1991
+kurzken=Q 1147.5/91-F
+bez=Nassauische Strasse noerdlich Berliner Strasse    ( Berlin 31 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+37 10 17 
+67 6 4 
+147 7 3 
+151 3 6 
+159 11 8 
+188 4 11 
+168 10 6 
+150 3 8 
+167 11 7 
+192 9 8 
+173 1 4 
+46 5 1 
+; 2 -> 1
+42 9 9 
+71 6 1 
+124 4 2 
+149 4 6 
+178 14 4 
+179 7 6 
+162 7 12 
+139 5 4 
+154 9 5 
+151 10 12 
+180 8 3 
+69 5 1 

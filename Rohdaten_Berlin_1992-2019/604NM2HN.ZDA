@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 06034
+datum=28.10.1987
+kurzken=Q 6034/87
+bez=Spreeweg noerdl. Grosser Stern      ( Berlin 21 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+872 759 646 724 714 795 1006 899 1071 1250 934 674 
+; 2 -> 1
+1106 937 821 809 799 794 740 824 1067 1315 937 611 

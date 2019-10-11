@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25732
+datum=27.03.2006
+kurzken=Q 25732/06
+bez=Weißenfelser Straße (westl. Louis-Lewin-Straße)   (Hellersdorf, 12627)
+arm1=Louis-Lewin-Straße,150,0010
+arm2=Weißenfelser Straße,1150,0000
+arm3=Louis-Lewin-Straße,1950,1000
+arm4=Böhlener Straße,2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=2 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+17	6
+18	2
+24	2
+16	0
+12	0
+20	1
+11	0
+7	1
+10	1
+13	6
+16	3
+12	3
+; 3 -> 1
+19	1
+12	0
+16	0
+11	0
+12	6
+17	1
+18	3
+12	3
+16	8
+15	12
+13	2
+15	1

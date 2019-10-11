@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919089
+datum=08.06.2006
+kurzken=Q 0919089/06
+bez=Malchower Straße (östl. Wildstrubelpfad)   (Heinersdorf, 13089)
+arm1=Wildstrubelpfad,900,0100
+arm2=Straße 42,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+159	1	0	2	8
+131	2	0	6	9
+89	5	0	2	8
+138	6	0	0	30
+89	3	0	4	20
+82	5	0	1	4
+123	6	0	9	13
+139	6	0	6	21
+182	2	0	8	14
+215	5	0	8	18
+191	6	0	6	23
+170	5	0	11	23
+; 2 -> 1
+296	3	0	8	32
+269	2	0	4	18
+284	4	0	4	19
+396	2	0	0	18
+276	6	0	6	8
+250	3	0	3	9
+255	3	0	7	12
+341	11	0	10	11
+454	14	0	14	2
+473	9	0	10	23
+398	5	0	6	15
+315	2	0	9	17

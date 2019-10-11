@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0913011
+datum=17.03.1999
+kurzken=Q 0913011/99
+bez=Reißeckstraße (westl. Am Heidefriedhof)   (Mariendorf, 12107)
+arm1=Mariendorfer Damm,1050,0100
+arm2=Am Heidefriedhof,2850,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+983	108	27	11
+963	116	28	11
+791	106	18	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1259	79	29	25
+1179	51	27	22
+1121	27	29	23

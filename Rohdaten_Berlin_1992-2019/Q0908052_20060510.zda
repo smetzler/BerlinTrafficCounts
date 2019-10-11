@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908052
+datum=10.05.2006
+kurzken=Q 0908052/06
+bez=Str. 603 - Parkweg (südl. An der Felgenlake)   (Spandau, 13589)
+arm1=Reckeweg,1700,0100
+arm2=An der Felgenlake,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=22°C max T; 15 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+55
+31
+23
+26
+16
+41
+52
+40
+38
+53
+33
+26
+; 2 -> 1
+56
+30
+26
+32
+18
+39
+50
+39
+34
+51
+50
+38

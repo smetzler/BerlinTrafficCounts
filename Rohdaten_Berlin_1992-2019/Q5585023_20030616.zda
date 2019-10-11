@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5585023
+datum=16.06.2003
+kurzken=Q 5585023/03
+bez=Am Friedrichshain (östl. Bötzowstraße)   (Friedrichshain, 10405)
+arm1=Am Friedrichshain,980,0000
+arm2=(Süden),1700,0001
+arm3=Am Friedrichshain,2770,0000
+arm4=Bötzowstraße,3270,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+10	6
+6	27
+3	0
+2	0
+11	0
+11	1
+1	10
+6	8
+1	2
+14	15
+5	4
+17	11
+; 4 -> 2
+1	8
+6	31
+6	0
+5	16
+5	0
+7	0
+7	2
+3	16
+7	4
+16	15
+8	3
+9	0

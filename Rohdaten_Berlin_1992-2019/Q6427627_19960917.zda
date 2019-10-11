@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6427627
+datum=17.09.1996
+kurzken=Q 6427627/96
+bez=Puschkinallee   (östl. Eichenstraße)     (Treptow, 12435)
+arm1=,490,0000
+arm2=Süd,1600,0001
+arm3=,2610,0000
+arm4=Nord,3330,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+6 2
+4 0
+1 0
+2 1
+0 0
+4 0
+1 0
+2 0
+7 0
+7 0
+7 2
+4 1
+; 4 -> 2
+8 4
+5 0
+2 0
+4 0
+1 0
+0 0
+1 0
+3 0
+0 0
+3 0
+0 0
+2 0

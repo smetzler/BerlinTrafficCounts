@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 1481
+datum=19.11.1987
+kurzken=K 1481/87
+bez=Alboinplatz - Alboinstrasse / Kaiserin-Augusta-Strasse     ( Berlin 42 )
+Arm1=Alboinstrasse,0,0101
+Arm2=Alboinplatz,1300,1001
+Arm3=,0,0000
+Arm4=Kaiserin-Augusta-Str,2650,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+116 132 137 125 128 106 130 121 182 194 86 72 
+; 1 -> 4
+27 43 36 38 41 42 33 53 71 61 70 78 
+; 2 -> 1
+159 130 132 117 125 110 97 90 119 129 96 67 
+; 2 -> 4
+17 32 27 29 40 29 31 35 57 63 52 33 
+; 4 -> 1
+145 114 75 57 60 41 67 68 64 56 46 60 
+; 4 -> 2
+66 59 39 49 24 39 40 49 52 63 38 35 

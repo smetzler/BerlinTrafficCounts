@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41141
+datum=29.8.1991
+kurzken=Q 4114.1/91-F
+bez=Mehringdamm zw. Hagelberger Strasse und Yorckstrasse    ( Berlin 61 )
+arm1=Yorckstraße,900,0100
+arm2=Hagelberger Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe Haus Nr. 48 !\nWetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+157 
+183 
+298 
+274 
+299 
+292 
+278 
+304 
+344 
+328 
+347 
+266 
+; 2 -> 1
+100 
+157 
+234 
+275 
+319 
+226 
+216 
+233 
+320 
+445 
+377 
+225 

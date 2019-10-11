@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 97604
+datum=29.03.2006
+kurzken=Q 97604/06
+bez=Bergstraße (östl. Körnerstraße)   (Steglitz, 12169)
+arm1=Körnerstraße (N),100,0010
+arm2=Bergstraße (W),950,0000
+arm3=Körnerstraße (S),1800,1000
+arm4=Bergstraße (O),2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	7
+12	2
+9	0
+6	0
+14	0
+13	0
+12	1
+10	10
+10	2
+12	9
+22	5
+27	4
+; 3 -> 1
+4	1
+8	4
+16	4
+17	1
+21	0
+22	0
+20	1
+13	2
+12	2
+19	3
+25	3
+15	5

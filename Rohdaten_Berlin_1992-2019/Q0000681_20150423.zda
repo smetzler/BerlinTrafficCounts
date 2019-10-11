@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00681
+datum=23.04.2015
+kurzken=Q 00681/15
+bez=A103 - Abzw. Z'dorf - Zu-Abf. Filandastr. (westl. der BAB)  (Schöneberg, 12157)
+arm1=Schildhornstraße,600,0100
+arm2=AS Schloßstraße,1500,0000
+arm3=Filandastraße,2400,0000
+arm4=Feuerbachtunnel,3300,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+148	9	0	1	2
+96	2	1	0	4
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+229	1	1	0	7
+170	1	2	0	3
+181	1	1	0	7
+; 4 -> 1
+342	7	3	0	2
+441	15	6	0	8
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+487	10	1	0	13
+515	10	3	0	20
+468	3	0	0	8

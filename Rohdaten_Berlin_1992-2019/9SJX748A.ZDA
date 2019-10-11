@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q6371035
+datum=11.3.1993
+kurzken=Q 637103.5/93-F
+bez=August-Fröhlich-Straße / An der Werderlake    (Rudow)
+arm1=Ost,450,0100
+arm2=West,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+17 18 
+11 14 
+6 0 
+4 1 
+15 5 
+10 4 
+9 3 
+5 2 
+11 4 
+9 1 
+4 2 
+6 3 
+; 2 -> 1
+5 4 
+6 0 
+1 0 
+0 0 
+11 9 
+20 12 
+0 2 
+4 1 
+9 5 
+13 6 
+5 6 
+8 3 

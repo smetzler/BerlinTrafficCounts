@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6546013
+datum=25.08.2010
+kurzken=Q 6546013/10
+bez=Weißenseer Weg (südl. Landsberger Allee)    (Lichtenberg, 13055)
+arm1=Weißenseer Weg (N),230,0000
+arm2=Landsberger Allee (W),1100,0001
+arm3=Weißenseer Weg (S),1980,0000
+arm4=Landsberger Allee (O),2760,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+66	67
+65	24
+53	9
+65	1
+59	0
+55	4
+103	14
+85	15
+85	12
+108	5
+115	5
+93	4
+; 4 -> 2
+94	50
+69	13
+92	14
+97	3
+89	0
+61	8
+88	22
+82	40
+65	6
+120	18
+80	12
+87	5

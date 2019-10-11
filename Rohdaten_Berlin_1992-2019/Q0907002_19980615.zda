@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907002
+datum=15.06.1998
+kurzken=Q 0907002/98
+bez=Saatwinkler Damm (nördl. Fr.-Olbricht-Damm)   (Charlottenburg, 13627)
+arm1=Friedrich-Olbricht-Damm,1650,0100
+arm2=Hüttigpfad,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+670	59	7	17
+782	81	7	9
+718	51	4	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+866	37	5	42
+897	32	5	36
+755	20	6	23
+; 2 -> 1
+646	59	9	26
+721	65	8	16
+750	64	3	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+570	37	4	25
+562	20	6	24
+548	13	3	21

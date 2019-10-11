@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9006
+datum=07.03.1995
+kurzken=Q 9006/95
+bez=Manteuffelstraße (nördl. Oranienstraße),  (Kreuzberg, 10997) 
+arm1=Oranienstraße,1500,0100
+arm2=Naunynstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für  
+data=
+; 1 -> 2
+102 4 0 1 1
+155 22 1 1 2
+155 16 0 2 7
+159 20 0 1 4
+128 14 0 2 4
+174 6 0 1 7
+153 15 1 2 4
+142 9 0 2 3
+150 11 0 2 10
+200 16 0 2 18
+210 10 0 3 4
+189 4 0 5 10
+160 5 0 0 8
+; 2 -> 1
+125 2 1 1 2
+140 14 1 1 4
+179 13 1 0 7
+148 14 0 1 8
+156 16 0 3 5
+163 14 1 1 5
+147 13 0 0 9
+172 12 1 5 12
+176 2 0 2 12
+215 6 0 5 10
+240 4 0 3 10
+231 3 0 2 10
+189 1 0 3 9

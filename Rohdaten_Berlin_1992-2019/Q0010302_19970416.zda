@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010302
+datum=16.04.1997
+kurzken=Q 010302/97
+bez=Reichpietschufer (westl. Köthener Br.) (Kreuzb., 10785)
+arm1=Linkstraße,400,0000
+arm2=Köthener Brücke,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+1521 207 63 15 8
+1710 289 72 19 22
+2074 233 82 24 48
+1727 255 83 18 56
+1626 212 104 19 34
+1752 135 114 18 27
+1824 82 139 20 28
+1831 74 104 22 35
+1964 165 85 23 38
+2364 86 85 21 26
+2196 85 75 19 38
+2286 56 61 25 31

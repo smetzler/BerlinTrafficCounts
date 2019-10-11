@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q6276058
+datum=21.4.1993
+kurzken=Q 627605.8/93-F
+bez=Timmendorfer Weg östl. Waltersdorfer Chaussee    (Rudow)
+arm1=Süd,400,0100
+arm2=Nord,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+2 0 
+0 0 
+1 0 
+4 0 
+2 0 
+2 0 
+0 0 
+2 2 
+1 0 
+2 0 
+0 0 
+3 0 
+; 2 -> 1
+7 6 
+1 0 
+5 0 
+1 0 
+1 2 
+7 0 
+8 2 
+1 0 
+3 5 
+6 0 
+8 1 
+7 0 

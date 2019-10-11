@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25108
+datum=17.6.1991
+kurzken=Q 2510.8/91-F
+bez=Alt-Buch oestlich Karower Strasse    ( Pankow )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+19 
+20 
+43 
+31 
+34 
+24 
+23 
+44 
+104 
+38 
+35 
+15 
+; 2 -> 1
+79 
+15 
+28 
+34 
+37 
+27 
+47 
+39 
+51 
+59 
+51 
+27 

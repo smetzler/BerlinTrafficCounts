@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40800
+datum=04.12.1989
+kurzken=Q 40800/89
+bez=Grenzuebergang Falkenseer Chaussee    ( Berlin 20 )
+Arm1=nach Berlin West,900,0100
+Arm2=von Berlin West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,Fussg,,,,,
+zeit=0000,0700
+intv=60
+bemerk=
+data=
+; 1 -> 2
+4 0 4 1 1 0 0 0 0 0 3 1 2 14 
+; 2 -> 1
+4 5 3 5 0 0 0 0 1 0 1 0 2 0 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0904004
+datum=16.03.1999
+kurzken=Q 0904004/99
+bez=Ostseestraße (westl. Hosemannstraße)   (Prenzlauer Berg, 10409)
+arm1=Gubitzstraße,600,0100
+arm2=Hosemannstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1089	79	5	8
+895	106	4	6
+951	91	3	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1318	64	4	18
+1319	39	3	13
+1344	51	4	10
+; 2 -> 1
+1021	72	5	10
+955	81	4	6
+901	67	4	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1178	34	3	14
+1157	38	3	23
+1067	27	3	9

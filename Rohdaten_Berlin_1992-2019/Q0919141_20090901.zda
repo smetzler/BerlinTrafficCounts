@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919141
+datum=01.09.2009
+kurzken=Q 0919141/09
+bez=Dunckerstraße (südl. Kanzowstraße)   (Prenzlauer Berg, 10439)
+arm1=S-Bhf. Prenzlauer Allee,1600,0100
+arm2=Wichertstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+195	3	0	9	49
+180	3	0	11	57
+192	6	0	9	30
+144	10	0	4	20
+182	5	0	8	32
+272	7	0	14	42
+270	5	1	20	57
+413	9	0	30	48
+444	4	2	30	62
+586	1	0	53	84
+419	2	0	37	92
+362	4	0	39	118
+; 2 -> 1
+242	1	0	10	106
+196	0	0	11	101
+132	5	0	10	74
+48	2	0	2	40
+87	2	0	10	58
+78	1	0	11	43
+81	0	0	5	48
+67	0	0	4	64
+68	0	0	14	32
+70	0	0	12	124
+74	0	0	6	86
+61	1	0	14	82

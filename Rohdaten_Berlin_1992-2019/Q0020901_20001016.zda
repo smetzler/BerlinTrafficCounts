@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020901
+datum=16.10.2000
+kurzken=Q 020901/00
+bez=Eldenaer Str. (westl. Scheffelstr., S-Bahn.Brücke) (Friedrichshain, 10247)
+arm1=Pettenkoferstraße,1000,0100
+arm2=Scheffelstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Eldenaer Straße: Einbahnstraße in Richtung Scheffelstraße!
+data=
+; 1 -> 2
+95	16	6	0	18
+159	26	8	0	30
+131	29	8	0	22
+168	28	20	0	22
+148	34	13	0	10
+153	30	12	0	9
+196	41	10	1	12
+187	37	7	0	16
+228	44	12	3	20
+353	59	12	5	20
+490	69	12	2	35
+448	62	8	3	31
+; 2 -> 1
+10	2	0	0	13
+5	1	1	0	21
+5	0	1	0	22
+8	0	2	0	14
+3	1	0	0	8
+7	2	2	0	14
+6	2	1	0	12
+17	2	3	0	19
+9	2	3	1	20
+10	0	0	0	41
+3	1	0	1	32
+6	0	0	0	18

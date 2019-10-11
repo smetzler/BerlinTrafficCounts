@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911044
+datum=24.08.2006
+kurzken=Q 0911044/06
+bez=Yorckstraße (östl. Mansteinstraße)   (Schöneberg, 10783)
+arm1=Mansteinstraße,700,0100
+arm2=Katzlerstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+692	19	12	33	109
+897	30	9	30	159
+927	31	7	42	103
+986	30	8	30	114
+968	29	8	49	119
+984	27	6	43	141
+1054	22	8	59	167
+1055	23	8	62	196
+1360	24	8	82	230
+1334	24	8	88	243
+1352	29	10	79	292
+1272	5	6	87	356
+; 2 -> 1
+1100	23	7	62	186
+1420	50	7	67	298
+1205	22	7	65	253
+1144	34	6	40	172
+1004	23	6	58	139
+1079	22	8	50	189
+998	25	7	49	103
+1227	24	8	55	176
+1343	25	8	76	208
+1306	15	8	79	209
+1297	16	6	71	229
+1154	8	10	52	215

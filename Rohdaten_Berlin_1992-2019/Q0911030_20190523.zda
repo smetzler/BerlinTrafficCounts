@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911030
+datum=23.05.2019
+kurzken=Q 0911030/19
+bez=Abf. BAB-A100 (Wexstraße-Süd) nach Innsbrucker Platz) (Friedenau, 10825) 
+arm1=,0,0000
+arm2=BAB-A100 (Wexstr.-Süd),1000,0010
+arm3=Innsbrucker Platz,2800,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 3
+571	30	1	9	0
+738	38	1	8	0
+586	21	1	10	0
+384	16	2	10	0
+467	18	1	14	0
+479	13	1	9	0
+501	12	4	9	0
+606	14	5	11	0
+671	16	3	24	0
+620	18	0	16	0
+747	11	3	12	0
+741	4	1	17	0

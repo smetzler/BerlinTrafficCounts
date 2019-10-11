@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26718
+datum=12.10.1995
+kurzken=Q 26718/95
+bez=Maxie-Wander-Str. (nördl. Neue Grottkauer Str.)   (Hellersdorf, 12619)
+arm1=Neue Grottkauer Str.,780,0010
+arm2=Maxie-Wander-Straße,1700,0000
+arm3=Neue Grottkauer Str.,2580,1000
+arm4=Maxie-Wander-Straße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für  ;\nWetter: max T =15°\, bedeckt\, kein Niederschlag. 
+data=
+; 1 -> 3
+2 0
+2 0
+0 0
+3 0
+1 0
+1 0
+1 2
+0 1
+0 0
+1 0
+0 0
+0 0
+; 3 -> 1
+0 0
+1 0
+0 0
+0 0
+0 0
+0 0
+1 1
+0 1
+0 0
+1 0
+1 0
+0 0

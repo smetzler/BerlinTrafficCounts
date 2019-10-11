@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010202
+datum=28.04.2010
+kurzken=Q 010202/10
+bez=Leipziger Platz (östl. Stresemannstraße)   (Mitte, 10117)
+arm1=Stresemannstraße,900,0100
+arm2=Leipziger Straße ,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle) in beiden Richtungen zwischen Mauerstr. und Friedrichstr.\, Fahrbahnverengung
+data=
+; 1 -> 2
+540	31	8	21	18
+856	49	12	33	52
+1052	15	14	26	115
+1072	42	20	42	78
+851	24	21	22	56
+795	25	19	12	48
+910	39	25	30	45
+879	41	20	23	63
+1015	22	21	36	74
+1014	6	24	38	96
+926	14	15	39	117
+1023	10	25	37	132
+949	4	23	48	109
+; 2 -> 1
+1392	58	14	39	29
+1295	54	17	50	57
+1313	60	21	46	133
+1362	60	30	48	102
+1348	63	26	31	83
+1248	73	23	37	59
+1276	50	30	31	56
+1299	38	20	29	45
+1320	29	20	32	62
+1482	28	18	50	52
+1470	24	18	39	82
+1399	13	21	50	103
+1298	11	17	43	107

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00932
+datum=18.02.1988
+kurzken=Q 932/88
+bez=Eichborndamm suedl. Am Nordgraben    ( Berlin 51 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Riegel Reinickendorf
+data=
+; 1 -> 2
+818 511 389 426 407 442 403 426 460 564 485 479 
+; 2 -> 1
+631 523 454 474 465 491 586 648 1013 864 772 636 

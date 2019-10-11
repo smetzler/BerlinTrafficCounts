@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 0820
+datum=12.10.1988
+kurzken=K 820/88
+bez=Lietzenburger Strasse / Fasanenstrasse   ( Berlin 15 )
+Arm1=Lietzenburger Str.,980,0110
+Arm2=Fasanenstrasse,1760,0000
+Arm3=Lietzenburger Str.,2780,1000
+Arm4=Fasanenstrasse,3560,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+70 93 100 109 103 97 100 97 97 88 145 85 
+; 1 -> 3
+891 1179 1011 1058 1043 1004 1167 1078 1307 1284 1260 991 
+; 3 -> 1
+708 874 925 929 937 964 1038 956 1121 1295 1319 1109 
+; 4 -> 1
+104 153 144 197 227 212 225 222 230 317 235 225 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27771
+datum=27.10.2003
+kurzken=Q 27771/03
+bez=Kiefholzstraße (nordwestl. Bouchestraße)   (Treptow, 12435)
+arm1=Kiefholzstraße (NW),350,0000
+arm2=Bouchestraße   (SW),1350,0001
+arm3=Kiefholzstraße  (SO),2150,0000
+arm4=Bouchestraße (NO),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=9\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+121	209
+62	85
+17	43
+34	11
+29	8
+15	7
+47	11
+47	5
+56	11
+34	4
+44	6
+25	4
+; 4 -> 2
+32	18
+41	15
+52	9
+41	12
+52	19
+52	11
+67	42
+91	40
+96	37
+108	23
+87	23
+71	18

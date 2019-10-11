@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25059
+datum=27.5.1991
+kurzken=Q 2505.9/91-F
+bez=Bornholmer Strasse oestlich Bjoernsonstrasse    ( Prenzl.Berg )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und trocken !\nUeberquerung der suedliche Richtungsfahrbahn !
+data=
+; 1 -> 2
+207 11 7 
+153 1 4 
+121 14 2 
+123 15 2 
+111 9 2 
+118 11 4 
+113 4 1 
+118 12 5 
+123 13 6 
+153 17 10 
+121 7 4 
+69 2 1 
+; 2 -> 1
+60 7 10 
+25 4 5 
+12 1 1 
+5 0 0 
+12 2 0 
+11 1 3 
+9 0 0 
+11 0 0 
+17 4 5 
+28 5 2 
+19 0 5 
+15 1 0 

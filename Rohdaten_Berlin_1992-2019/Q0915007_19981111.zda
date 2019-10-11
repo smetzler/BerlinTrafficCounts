@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915007
+datum=11.11.1998
+kurzken=Q 0915007/98
+bez=Fennstraße (südl. Schnellerstraße)   (Niederschöneweide, 12439)
+arm1=Grünauer Straße,1350,0100
+arm2=Schnellerstraße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+207	32	0	0
+248	23	0	1
+251	23	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+312	24	0	4
+347	12	0	1
+354	9	0	2
+; 2 -> 1
+563	32	0	1
+406	38	1	2
+353	22	1	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+481	22	0	4
+438	20	0	5
+416	11	0	3

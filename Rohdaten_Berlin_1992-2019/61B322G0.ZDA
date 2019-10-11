@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 61022
+datum=01.09.1987
+kurzken=Q 61022/87
+bez=Riesestrasse  suedlich Hannemannstrasse     ( Berlin 47 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,Lkw,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+69 0 41 0 30 0 28 3 39 3 39 1 29 0 
+41 2 54 1 53 2 36 0 23 0 
+; 2 -> 1
+64 1 52 5 59 7 72 9 70 6 87 11 99 7 
+96 1 159 4 167 1 108 1 106 1 

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08874
+datum=19.06.1986
+kurzken=Q 8874/86
+bez=Adalbertstrasse  noerdl. Kottbusser Tor    ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+24 6 35 10 167 11 173 15 205 21 189 35 195 42 
+159 34 175 30 313 39 297 69 145 32 
+; 2 -> 1
+31 4 50 17 163 26 175 12 230 31 187 15 188 26 
+169 39 260 52 315 42 317 50 206 54 

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0010302
+datum=05.03.2019
+kurzken=Q 0010302/19
+bez=Reichpietschufer (westl. Köthener Brücke) (Kreuzberg, 10785) 
+arm1=Linkstraße,400,0000
+arm2=Köthener Brücke,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+1859	60	11	20	43
+1930	53	11	22	124
+1775	55	20	24	88
+1408	64	14	14	26
+1415	50	13	11	23
+1530	41	12	10	28
+1603	35	14	9	35
+1863	22	15	14	29
+2033	16	14	18	26
+1480	10	18	16	40
+1602	5	13	19	43
+1536	6	12	24	49

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26219
+datum=20.10.1993
+kurzken=Q 2621.9/93-F
+bez=Vincent-van-Gogh-Str. nördl. Welsestraße    ( Hohenschönhausen )
+arm1=West,900,0100
+arm2=Ost,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+6 5
+17 3
+21 1
+37 4
+45 6
+46 15
+37 14
+52 49
+69 59
+87 47
+94 56
+61 24
+; 2 -> 1
+26 16
+20 3
+29 2
+37 3
+25 4
+23 3
+14 7
+23 24
+29 19
+17 27
+45 18
+18 8

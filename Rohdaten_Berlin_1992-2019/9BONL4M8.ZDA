@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5584017
+datum=01.06.1994
+kurzken=Q 5584017/94
+bez=Palisadenstraße (östl. Lebuser Str.) (Friedrichshain, 10243) 
+arm1=Palisadenstraße,660,0000
+arm2=Lebuser Straße,1680,0001
+arm3=Palisadenstraße,2470,0000
+arm4=Friedrichsberger Str,3280,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für    \nWetter: max T = 25°\, vorm. sonnig\, nachm. bewölkt\, kein Niederschlag  
+data=
+; 2 -> 4
+50 35
+19 7
+41 4
+23 2
+34 1
+11 3
+7 3
+8 7
+7 5
+14 8
+8 7
+10 3
+; 4 -> 2
+45 12
+37 10
+26 1
+22 2
+29 1
+5 0
+6 5
+4 1
+9 9
+4 0
+3 1
+8 3

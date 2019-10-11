@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2123
+datum=07.08.2013
+kurzken=Q 2123/13
+bez=Osloer Straße (östl. Prinzenallee)   (Wedding, 13359)
+arm1=Osloer Straße (W),850,0000
+arm2=Prinzenallee (S),1550,0001
+arm3=Osloer Straße (O),2650,0000
+arm4=Prinzenallee (N),3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+22	7
+36	7
+44	3
+68	9
+77	13
+132	20
+113	14
+116	11
+93	16
+117	21
+114	16
+115	17
+; 4 -> 2
+58	24
+51	3
+64	15
+59	7
+44	5
+52	3
+80	14
+61	8
+70	4
+68	3
+59	6
+72	20

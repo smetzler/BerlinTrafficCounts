@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6522034
+datum=22.09.1999
+kurzken=Q 6522034/99
+bez=Niederbarnimstrsaße (nördl. Boxhagener Straße)  (Friedrichshain, 10245)
+arm1=Boxhagener Straße,700,0010
+arm2=Simon-Dach-Straße,1650,0000
+arm3=Boxhagener Straße,2540,1000
+arm4=Niederbarnimstraße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3\,5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+3	0
+2	0
+2	0
+9	0
+22	0
+22	0
+27	4
+47	3
+44	8
+60	5
+51	8
+47	3
+; 3 -> 1
+6	1
+2	0
+1	0
+8	0
+27	1
+34	3
+66	4
+47	2
+54	4
+44	3
+55	8
+33	4

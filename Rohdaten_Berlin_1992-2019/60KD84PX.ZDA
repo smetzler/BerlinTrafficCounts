@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26396
+datum=06.10.1994
+kurzken=Q 26396/94
+bez=Ahrensfelder Chaussee (westl. Dessauer Straße) (Falkenberg, 12680)
+arm1=Norden,200,0010
+arm2=Ahrensfelder Chaussee,1100,0000
+arm3=Dessauer Straße ,2000,1000
+arm4=Ahrensfelder Chaussee,2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 12°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 3
+2,12
+2,0
+1,0
+1,0
+1,0
+0,0
+0,0
+2,1
+1,12
+1,3
+4,1
+0,0
+; 3 -> 1
+0,1
+6,0
+2,0
+0,1
+0,1
+0,6
+3,3
+0,0
+0,10
+3,0
+3,0
+0,0

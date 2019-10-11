@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916052
+datum=10.09.2007
+kurzken=Q 0916052/07
+bez=Richterstraße (Fußgängerüberweg südl. Bruno-Taut-Str.)   (Grünau, 12524)
+arm1=Bruno-Taut-Straße,0,0000
+arm2=Buntzelstraße,1800,0000
+arm3=((Westen)),900,0001
+arm4=S-Bhf. Grünau,2700,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählung: Fußgänger  (unterschieden nach Erw und Jugend) und Radfahrer !\nWetter: max T=15°C; Sonne=1 Std; Niederschlag=8 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+95	34	24
+69	6	6
+101	3	2
+94	0	6
+127	5	5
+106	5	4
+84	4	6
+119	11	11
+146	21	9
+183	33	12
+130	4	5
+112	6	12
+; 4 -> 3
+123	19	9
+134	13	6
+169	4	6
+195	5	8
+206	3	6
+167	68	4
+154	57	11
+280	48	11
+351	69	13
+389	36	16
+334	24	11
+239	18	10

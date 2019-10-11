@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 9833
+datum=22.11.2005
+kurzken=Q 9833/05
+bez=Gneisenaustraße (östl. Mehringdamm)   (Kreuzberg, 10961)
+arm1=Yorckstraße,750,0000
+arm2=Mehringdamm,1600,0001
+arm3=Gneisenaustraße,2550,0000
+arm4=Mehringdamm,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+93	27
+92	12
+146	14
+153	8
+191	2
+219	18
+210	33
+240	14
+328	89
+261	14
+287	16
+268	4
+; 4 -> 2
+74	51
+144	102
+208	31
+196	13
+181	8
+222	6
+183	11
+295	11
+293	15
+302	22
+296	13
+275	7

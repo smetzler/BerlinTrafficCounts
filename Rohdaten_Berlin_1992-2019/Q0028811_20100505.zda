@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28811
+datum=05.05.2010
+kurzken=Q 28811/10
+bez=Am Eichgarten (westl. Siemsensstraße)    (Steglitz, 12167)
+arm1=Am Eichgarten,850,0000
+arm2=Siemsensstraße (S),1400,0001
+arm3=Borstellstraße,2650,0000
+arm4=Siemsensstraße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	0
+3	0
+5	0
+7	0
+6	0
+6	0
+5	2
+5	0
+8	0
+14	0
+14	1
+5	0
+; 4 -> 2
+9	2
+6	4
+9	0
+11	1
+17	0
+3	0
+8	5
+10	2
+14	2
+12	1
+10	3
+4	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912902
+datum=13.04.2011
+kurzken=Q 0912902/11
+bez=Grunewaldstraße (westl. Schloßstraße)   (Steglitz, 12163)
+arm1=Rothenburgstraße,700,0100
+arm2=Schloßstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=7°C max T; 0 Std Sonne; 9 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm)
+data=
+; 1 -> 2
+24
+10
+14
+20
+13
+9
+27
+24
+30
+22
+32
+35
+; 2 -> 1
+22
+32
+29
+34
+20
+19
+23
+20
+14
+24
+23
+19

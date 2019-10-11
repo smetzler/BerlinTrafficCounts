@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010702
+datum=06.06.2016
+kurzken=Q 010702/16
+bez=Nordhafenbrücke (östl. Heidestraße)   (Wedding, 10559)
+arm1=Heidestraße,1300,0100
+arm2=Am Nordhafen,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Heidestr.\, in beiden Ri. zw. Fennstr. und Minna-Cauer-Str. Fahrbahn von 2 auf 1 Fahrstreifen reduziert.\nSellerstr. in beiden Ri. zw. Am Nordhafen und Müllerstr. nur 1 Spur je Richtung.
+data=
+; 1 -> 2
+519	22	3	22	10
+682	22	0	21	11
+653	25	1	22	4
+654	28	0	18	16
+564	32	0	16	13
+613	24	0	6	7
+672	20	0	18	7
+800	22	0	21	6
+811	10	0	46	14
+558	8	0	44	30
+887	6	0	29	25
+744	6	0	24	10
+; 2 -> 1
+691	22	1	16	11
+687	15	4	15	30
+565	22	0	22	29
+476	14	0	8	22
+427	18	1	10	8
+482	24	0	5	4
+446	11	0	12	8
+537	7	1	15	10
+572	13	3	33	11
+548	11	0	27	2
+476	2	2	16	14
+424	0	0	16	6

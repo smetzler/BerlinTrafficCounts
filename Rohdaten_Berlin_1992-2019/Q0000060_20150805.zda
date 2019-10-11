@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0060
+datum=05.08.2015
+kurzken=Q 0060/15
+bez=A111/105 - AS Eichborndamm-Antonienstr.  (Reinickendorf, 13403)
+arm1=AK Reinickendorf,1700,0100
+arm2=Scharnweberstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Scharnweberstr.\, Zu- und Abfahrt südl. Scharnweberstr. zählen.\nCity-Atlas Seite 56\, Feld 6b
+data=
+; 1 -> 2
+565	30	1	0	29
+634	19	0	0	28
+512	9	2	0	25
+; 2 -> 1
+441	10	5	0	15
+450	6	2	1	17
+442	5	3	2	37

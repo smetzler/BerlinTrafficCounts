@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911107
+datum=10.03.2014
+kurzken=Q 0911107/14
+bez=A100-Stadtring - Nebenfahrbahn (Ri. Osten, südöstl. Werdauer Weg)   (Schöneberg, 10829)
+arm1=AS Innsbrucker Platz,500,0100
+arm2=AK Schöneberg,2300,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+193	12	0	2
+195	6	1	1
+178	16	2	1
+179	11	1	3
+158	12	0	0
+101	7	1	0
+148	7	0	3
+171	9	0	2
+183	7	0	6
+166	3	2	4
+195	2	0	7
+123	1	2	4

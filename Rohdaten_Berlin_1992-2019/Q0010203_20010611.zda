@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010203
+datum=11.06.2001
+kurzken=Q 010203/01
+bez=Dorotheenstraße (östl. Ebertstraße)       (Mitte, 10555)
+arm1=Ebertstraße,900,0000
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Dorotheenstraße gesperrt!
+data=
+; 2 -> 1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1

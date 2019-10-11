@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912018
+datum=17.03.1999
+kurzken=Q 0912018/99
+bez=Osdorfer Straße (südl. Lichterfelder Ring)   (Lichterfelde, 12207)
+arm1=Lichterfelder Ring,350,0100
+arm2=Stadtgrenze,2150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+200	4	0	3
+179	1	0	0
+151	11	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+474	9	0	11
+472	8	0	9
+335	9	0	4
+; 2 -> 1
+532	9	0	1
+356	6	0	3
+228	11	0	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+180	4	0	5
+211	9	0	6
+226	3	0	6

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03072
+datum=16.02.1988
+kurzken=Q 3072/88
+bez=Gorkistrasse suedl. Am Nordgraben    ( Berlin 27 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Riegel Reinickendorf
+data=
+; 1 -> 2
+227 238 227 235 285 276 302 287 386 406 294 299 
+; 2 -> 1
+307 289 217 230 293 269 297 286 326 351 345 344 

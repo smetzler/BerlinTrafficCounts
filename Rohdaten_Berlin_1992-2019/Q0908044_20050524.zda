@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0908044
+datum=24.05.2005
+kurzken=Q 0908044/05
+bez=Wasserstadtbrücke (östl. Rauchstraße)   (Spandau, 13599)
+arm1=Rauchstraße,850,0100
+arm2=Daumstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=BVG-Streik 7-10 Uhr: dadurch erhöhter Kfz-Verkehrs wurde rausgerechnet! \nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+550	19	3	20	50
+420	38	3	8	16
+293	26	3	14	13
+282	16	2	14	20
+248	14	3	16	19
+251	17	4	15	16
+265	16	3	13	27
+268	10	3	14	34
+341	15	4	17	24
+309	8	2	20	18
+302	2	4	12	14
+254	6	2	14	18
+; 2 -> 1
+295	13	4	9	16
+267	21	4	5	19
+229	18	3	10	27
+213	12	4	9	66
+180	17	3	2	21
+315	19	4	12	19
+280	21	4	10	11
+396	16	3	31	20
+448	20	3	34	24
+478	12	4	39	23
+479	7	4	27	25
+362	3	3	12	12

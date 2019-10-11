@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 9001
+datum=03.05.2006
+kurzken=Q 9001/06
+bez=Oranienstraße (nördl. Skalitzer Straße)  (Kreuzberg, 10999)
+arm1=Oranienstr.-Manteuffelstr. (N),580,0000
+arm2=Skalitzer Str. (W),1010,0001
+arm3=Wiener Straße,2380,0000
+arm4=Skalitzer Straße (O),2810,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	2
+1	1
+0	0
+0	0
+0	0
+0	0
+0	0
+4	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+2	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

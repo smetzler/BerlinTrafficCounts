@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3678225
+datum=01.06.1994
+kurzken=Q 3678225/94
+bez=Falkenplatz (nördl. Falkenhorststraße) (Konradshöhe, 13505) 
+arm1=Falkenplatz,50,0000
+arm2=Falkenhorststraße,800,0001
+arm3=Eichelhäherstraße,1500,0000
+arm4=Falkenplatz,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für    \nWetter: Max T = 25°\, vorm. sonnig\, nachm. bewölkt\, kein Niederschlag
+data=
+; 2 -> 4
+32,34
+21,9
+12,5
+18,2
+15,0
+8,0
+11,14
+25,8
+36,12
+46,16
+39,4
+13,1
+; 4 -> 2
+42,55
+29,14
+14,2
+21,9
+12,13
+14,19
+9,16
+11,19
+15,21
+21,24
+21,8
+5,0

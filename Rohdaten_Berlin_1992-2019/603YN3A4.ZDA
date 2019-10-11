@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 05135
+datum=29.03.1990
+kurzken=Q 5135/90
+bez=Alt-Moabit westl. Invalidenstrasse    ( Berlin 21 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+56 56 31 27 62 68 59 30 64 53 31 19 
+; 2 -> 1
+56 48 14 31 35 19 31 37 46 27 29 21 

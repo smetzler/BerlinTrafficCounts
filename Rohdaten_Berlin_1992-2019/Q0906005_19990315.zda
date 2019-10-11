@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906005
+datum=15.03.1999
+kurzken=Q 0906005/99
+bez=Stresemannstraße (südl. Askanischer Platz)   (Kreuzberg, 10963)
+arm1=Askanischer Platz,400,0100
+arm2=Möckernstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+201	23	8	3
+251	16	7	4
+272	24	7	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+377	23	8	10
+406	14	7	4
+392	8	7	15
+; 2 -> 1
+534	35	6	18
+636	40	7	8
+474	32	7	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+609	24	7	13
+602	17	8	11
+542	9	7	9

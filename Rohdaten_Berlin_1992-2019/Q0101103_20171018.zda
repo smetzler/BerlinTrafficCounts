@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 101103
+datum=18.10.2017
+kurzken=Q 101103/17
+bez=Kaulsdorfer Straße (südl. Bischofstaler Straße)   (Köpenick, 12555)
+arm1=Bischofstaler Straße ,300,0100
+arm2=Hoppendorfer Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+536	20	12	16	8
+440	14	12	6	4
+341	6	10	3	5
+396	8	12	6	8
+264	11	11	8	3
+204	9	11	5	6
+240	11	12	6	6
+268	15	13	3	8
+271	8	14	9	8
+450	8	14	10	14
+311	5	14	12	13
+268	3	13	7	7
+; 2 -> 1
+267	18	12	16	11
+291	8	12	2	9
+305	12	11	6	3
+364	10	12	4	1
+263	11	9	5	2
+301	15	12	9	9
+236	24	13	4	7
+305	14	12	8	11
+482	19	10	15	9
+490	10	16	12	14
+394	6	13	14	9
+344	4	11	13	4

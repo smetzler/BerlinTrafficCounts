@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00512
+datum=21.07.2015
+kurzken=Q 00512/15
+bez=A100 - Zu- und Abf. Buschkrugallee (südl. der BAB)   (Tempelhof,12099)
+arm1=Buschkrugallee (N),200,0000
+arm2=BAB (Tunnel Britz),950,0010
+arm3=Buschkrugallee (S),2000,0001
+arm4=BAB (AD Neukölln),2800,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zu- u. Abf. getrennt zählen!\nCity-Atlas Seite 118\, Feld 2d
+data=
+; 2 -> 3
+249	30	20	3	7
+296	19	22	4	5
+252	6	10	1	9
+; 3 -> 4
+277	11	8	4	5
+311	6	3	2	11
+235	9	6	10	9

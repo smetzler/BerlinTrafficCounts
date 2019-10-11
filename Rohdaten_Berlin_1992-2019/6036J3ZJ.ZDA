@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0004123
+datum=16.6.1992
+kurzken=Q 4123/92
+bez=Hansastraße in Höhe 30 km/h-Strecke    ( Berlin 1120-Weißensee )
+arm1=Buschallee,1600,0100
+arm2=Indira-Ghandi-Straße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1312 
+1091 
+853 
+777 
+670 
+655 
+637 
+626 
+747 
+743 
+697 
+691 
+; 2 -> 1
+512 
+514 
+561 
+656 
+788 
+700 
+835 
+757 
+1254 
+1236 
+1251 
+1228 

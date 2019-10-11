@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00682
+datum=10.09.2015
+kurzken=Q 00682/15
+bez=A103 - Abzw. Z'dorf - Zu-Abf. Filandastr. (östl. der BAB)  (Schöneberg, 12157)
+arm1=Schildhornstraße,600,0000
+arm2=AS Schloßstraße,1500,0010
+arm3=Filandastraße,2400,0001
+arm4=Feuerbachtunnel,3300,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: J-Tiburtius-Brücke. City-Atlas Seite 115\, Feld 5b-6a\nZufahrt 4 (Brücke > BAB-Nord)\, Abfahrt 2 (BAB-Süd > Brücke)\, getrennt als 2 Ströme zählen!\n
+data=
+; 2 -> 3
+322	2	1	0	9
+355	5	2	0	7
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+299	10	0	1	9
+302	5	0	1	8
+270	4	0	0	4
+; 3 -> 4
+464	12	1	0	11
+569	9	2	1	13
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+419	8	0	0	3
+416	4	0	2	10
+359	0	0	0	3

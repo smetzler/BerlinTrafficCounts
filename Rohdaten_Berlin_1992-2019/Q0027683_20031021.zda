@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27683
+datum=21.10.2003
+kurzken=Q 27683/03
+bez=Sredzkistraße (östl. Kollwitzstraße)   (Prenzlauer Berg, 10405)
+arm1=Sredzkistraße (W),850,0000
+arm2=Kollwitzstraße (S),1450,0001
+arm3=Sredzkistraße (O),2550,0000
+arm4=Kollwitzstraße (N),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=0 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	13
+2	37
+2	46
+2	38
+1	39
+3	53
+2	53
+6	38
+10	78
+3	56
+8	75
+0	28
+; 4 -> 2
+1	11
+0	23
+6	27
+0	24
+4	41
+3	41
+0	33
+8	35
+3	50
+3	44
+4	31
+0	22

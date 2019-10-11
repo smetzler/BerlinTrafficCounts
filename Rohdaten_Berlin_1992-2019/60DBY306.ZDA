@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 17278
+datum=23.05.1989
+kurzken=Q 17278/89
+bez=Saarburger Strasse oestl. Leonorenstrasse    ( Berlin 46 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+25 46 76 97 104 76 42 58 72 86 122 45 
+; 2 -> 1
+18 33 84 61 71 58 41 44 70 88 88 21 

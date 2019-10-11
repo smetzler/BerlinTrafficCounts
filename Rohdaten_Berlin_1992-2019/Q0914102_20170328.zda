@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914102
+datum=28.03.2017
+kurzken=Q 0914102/17
+bez=Johannisthaler Chaussee (südl. Stelzenweg)   (Neukölln, 12359)
+arm1=Fenchelweg,3300,0100
+arm2=Rohrdommelweg,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 2
+473	30	3	11	36
+403	33	2	9	24
+401	24	4	6	19
+402	28	2	2	22
+391	20	3	9	25
+466	20	3	12	12
+517	23	3	15	25
+639	13	3	14	23
+680	16	4	19	39
+634	4	2	18	36
+618	6	3	26	27
+622	3	4	12	37
+; 2 -> 1
+524	15	3	20	34
+529	21	4	12	18
+510	28	7	9	23
+514	28	2	20	28
+445	18	3	5	24
+491	18	4	12	29
+493	26	3	17	39
+577	25	5	17	34
+617	17	4	20	45
+569	11	4	12	40
+584	7	4	14	37
+542	6	3	15	42

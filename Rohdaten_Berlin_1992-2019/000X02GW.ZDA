@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 1188
+datum=01.10.1987
+kurzken=K 1188/87
+bez=Tempelhofer Damm / Manfred-von-Richthofen-Str. (Nord)     ( Berlin 42 )
+Arm1=Tempelhofer Damm,0,0110
+Arm2=M.-v.-Richthofen-Str,1220,1010
+Arm3=Tempelhofer Damm,1800,1000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+364 360 334 321 398 434 448 429 613 669 559 427 
+; 1 -> 3
+793 700 777 755 786 851 998 855 1170 1102 1063 987 
+; 2 -> 1
+736 583 371 355 381 309 351 359 526 472 394 314 
+; 2 -> 3
+28 20 40 31 27 36 41 26 22 40 30 35 
+; 3 -> 1
+1387 1228 905 924 912 818 867 967 1234 1164 903 801 

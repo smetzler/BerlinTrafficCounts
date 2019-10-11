@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109037
+datum=23.11.2011
+kurzken=Q 109037/11
+bez=Louis-Lewin-Straße (südl. Berliner Straße)   (Hellersdorf, 12629)
+arm1=Torgauer Straße,1750,0100
+arm2=Berliner Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Riesaer Str. Höhe U-Bhf. Hellersdorf Ri. Süd gesperrt.\n
+data=
+; 1 -> 2
+443	4	0	0	1
+371	3	0	3	1
+321	8	0	0	4
+286	6	0	0	0
+260	4	0	0	0
+236	1	0	0	0
+242	3	0	0	3
+262	4	0	1	1
+290	2	0	0	0
+321	4	0	0	1
+324	3	0	0	0
+263	4	1	0	0
+; 2 -> 1
+233	8	1	0	0
+159	5	0	0	0
+171	3	1	0	0
+198	6	0	0	0
+250	5	0	2	0
+247	8	0	0	1
+269	12	0	1	3
+339	4	0	3	1
+322	6	0	0	2
+338	6	0	0	4
+327	2	0	2	0
+335	6	0	0	0

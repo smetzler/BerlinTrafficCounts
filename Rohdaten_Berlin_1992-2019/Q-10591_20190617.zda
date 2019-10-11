@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10591
+datum=17.06.2019
+kurzken=Q-10591/19
+bez=Gosener Landstraße 1 (höhe Friedhof) (Müggelheim, 12559)  über Arm1
+arm1=Gosener Landstraße ,950,0100
+arm2=Gosener Landstraße ,2770,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+0	0
+4	0
+6	0
+8	2
+23	0
+8	0
+12	0
+3	0
+7	1
+8	2
+5	0
+7	0
+; 2 -> 1
+1	0
+3	0
+7	0
+20	2
+25	0
+11	0
+9	0
+4	0
+5	1
+12	2
+5	0
+6	0

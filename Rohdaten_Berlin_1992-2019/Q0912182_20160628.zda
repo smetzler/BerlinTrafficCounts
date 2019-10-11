@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912182
+datum=28.06.2016
+kurzken=Q 0912182/16
+bez=Carstennstraße (nördl. Murtener Straße)   (Lichterfelde, 14167)
+arm1=Finckensteinallee,200,0100
+arm2=Murtener Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Luzerner Straße zw. Thuner Platz und Osteweg Einbahnstr. Ri. Süd
+data=
+; 1 -> 2
+73	4	6	2	14
+167	3	6	1	7
+102	6	4	1	13
+92	10	4	6	10
+95	1	3	0	6
+104	4	4	2	3
+94	2	3	1	5
+143	5	3	0	10
+181	3	5	3	14
+202	4	8	4	22
+142	2	6	4	12
+121	0	4	1	14
+; 2 -> 1
+183	1	6	2	8
+200	4	6	0	11
+123	1	4	2	7
+112	2	4	0	10
+87	1	3	0	8
+72	3	2	0	2
+77	1	3	3	10
+101	0	3	2	6
+131	1	5	1	21
+112	2	6	2	12
+103	2	7	3	16
+87	2	4	2	7

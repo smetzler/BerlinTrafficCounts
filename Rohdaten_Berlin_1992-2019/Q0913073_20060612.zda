@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913073
+datum=12.06.2006
+kurzken=Q 0913073/06
+bez=Boelckestr. (zwischen Hessenring und Eschwegering)   (Tempelhof, 12101)
+arm1=Eschwegering,0,0100
+arm2=Hessenring,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+489	33	5	26	35
+600	28	3	26	47
+502	17	2	30	26
+552	24	5	16	35
+607	26	3	32	24
+609	23	3	31	37
+766	32	3	61	40
+825	26	3	60	46
+1201	35	7	86	56
+1092	30	3	86	54
+953	22	3	68	80
+823	4	5	51	56
+; 2 -> 1
+1182	39	6	79	55
+1229	45	3	67	61
+837	47	3	46	47
+684	34	3	30	31
+620	38	4	25	32
+607	29	3	28	24
+634	39	3	34	34
+715	42	4	46	48
+773	23	4	50	40
+765	23	3	60	48
+701	19	3	46	52
+610	8	3	43	57

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 62531
+datum=07.10.2009
+kurzken=Q 62531/09
+bez=Bismarckstr. (östl. Krumme Str., Südseite<>Mittelstrefen)   (Ch'burg, 10627)
+arm1=Bismarckstraße (W),960,0000
+arm2=Krumme Straße (S),1870,0001
+arm3=Bismarckstraße (O),2760,0000
+arm4=Krumme Straße (N),3560,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=nur Fußg. die zwischen dem südl. Gehweg und dem Mittelstreifen queren.\nWetter: max T=23°C; Sonne=3 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	0
+25	1
+29	1
+49	22
+50	0
+72	0
+45	0
+39	0
+48	3
+34	3
+50	10
+55	2
+; 4 -> 2
+8	3
+29	2
+54	0
+51	0
+46	1
+50	1
+55	0
+59	0
+23	12
+42	10
+40	8
+59	0

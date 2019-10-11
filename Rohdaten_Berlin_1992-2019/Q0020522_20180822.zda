@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20522
+datum=22.08.2018
+kurzken=K 20522/18
+bez=Treptower Straße (südwestl. Kiehlufer)    (Neukölln, 12059)
+arm1=Kiehlufer (NW),400,0010
+arm2=Treptower Straße (SW),1300,0000
+arm3=Kiehlufer (SO),2200,1000
+arm4=Treptower Straße (NO),3100,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 3
+16	2
+7	5
+6	0
+1	0
+0	0
+10	1
+3	0
+4	3
+2	7
+2	6
+4	5
+6	8
+; 3 -> 1
+3	0
+8	1
+1	0
+1	2
+0	0
+13	2
+7	1
+10	8
+2	2
+1	0
+1	0
+1	0

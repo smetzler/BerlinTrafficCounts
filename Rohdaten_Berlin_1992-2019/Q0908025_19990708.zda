@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908025
+datum=08.07.1999
+kurzken=Q 0908025/99
+bez=Haselhorster Damm (südl. Saatwinkler Damm)   (Spandau, 13599)
+arm1=Saatwinkler Damm,300,0100
+arm2=Burscheider Weg,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+650	23	6	31
+524	24	3	32
+383	34	3	13
+231	32	3	6
+312	45	3	18
+318	37	3	15
+328	32	4	29
+439	30	3	20
+423	16	5	25
+453	9	6	32
+402	11	4	22
+386	5	3	20
+; 2 -> 1
+279	34	4	12
+308	32	4	9
+327	29	4	10
+279	28	3	9
+385	44	3	13
+452	35	3	21
+387	33	3	21
+510	27	4	51
+617	30	5	46
+622	15	5	50
+604	16	5	37
+536	7	3	27

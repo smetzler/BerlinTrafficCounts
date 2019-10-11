@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0077
+datum=06.05.2019
+kurzken=Q 0077/19
+bez=A114 (AS Bucher Straße - AS Pasewalker Straße) (Pankow, 13127) 
+arm1=AS Bucher Straße,200,0100
+arm2=AS Pasewalker Straße,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1758	104	8	23	0
+1700	96	8	25	0
+1462	139	5	12	0
+1102	129	2	5	0
+926	123	2	13	0
+934	106	10	10	0
+945	93	5	9	0
+935	70	2	5	0
+1112	66	3	7	0
+1254	55	7	16	0
+1302	32	11	8	0
+1070	17	4	4	0
+; 2 -> 1
+1188	101	1	5	0
+1071	115	4	2	0
+898	130	22	10	0
+940	131	10	5	0
+896	122	4	7	0
+1035	118	0	5	0
+1184	127	2	12	0
+1665	129	3	19	0
+2174	111	6	20	0
+2227	74	1	38	0
+1996	49	1	22	0
+1517	28	2	21	0

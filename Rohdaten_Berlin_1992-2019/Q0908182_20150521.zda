@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908182
+datum=21.05.2015
+kurzken=Q 0908182/15
+bez=Adamstraße (Höhe Jägerstraße)   (Spandau, 13581)
+arm1=Földerichstraße,950,0000
+arm2=Pichelsdorfer Straße,2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Adamstraße in Höhe der Jägerstr. queren (ca. 50m westl. bis 50m östl.)\n
+data=
+; 3 -> 4
+25	11
+25	2
+58	2
+60	0
+86	0
+76	2
+77	9
+92	8
+72	9
+86	10
+79	5
+63	4
+; 4 -> 3
+20	3
+34	1
+56	4
+52	4
+53	4
+53	5
+74	14
+65	5
+79	10
+60	4
+80	12
+41	1

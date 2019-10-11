@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40059
+datum=25.10.1983
+kurzken=Q 40059/83
+bez=LICHTENRADER DAMM  suedl. Baldersheimer Weg  ( Berlin 49 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Verkehrsuntersuchung Spandau  ***  Kontrollerhebung Lichtenrade
+data=
+; 1 -> 2
+19 444 51 58 26 9 427 63 87 17 9 462 54 80 13 
+8 530 41 83 14 5 611 56 64 13 13 711 46 64 14 
+12 703 53 61 16 22 751 80 70 19 29 1090 48 49 26 
+32 1376 31 23 26 26 1368 46 19 26 21 1081 31 26 18 
+; 2 -> 1
+28 1378 84 50 29 14 910 66 74 20 7 734 44 82 14 
+13 641 46 74 13 11 501 46 76 13 7 525 59 78 15 
+12 662 76 62 16 17 657 49 55 16 18 683 79 41 17 
+12 713 44 43 18 25 784 22 16 21 16 783 19 9 15 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0111202
+datum=18.03.2019
+kurzken=Q 0111202/19
+bez=Spindlersfelder Straße (Wilhelm-Spindler-Brücke) (Köpenick, 12459) 
+arm1=An der Wuhlheide,50,0100
+arm2=Oberspreestraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1634	49	1	7	0
+1622	57	0	4	0
+1525	55	1	8	0
+1401	65	1	10	0
+1390	72	0	6	0
+1483	62	0	10	0
+1517	70	0	7	1
+1653	31	1	8	0
+1810	32	0	2	0
+1708	18	0	6	0
+1739	16	0	3	0
+1628	15	1	10	0
+; 2 -> 1
+1523	51	1	8	79
+1465	49	0	4	57
+1338	63	0	5	30
+1144	62	3	3	17
+1177	55	0	4	17
+1133	54	1	6	25
+1294	49	1	2	24
+1482	55	1	6	27
+1472	31	1	8	47
+1303	12	1	13	64
+1372	9	0	6	58
+1402	8	0	6	42

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010509
+datum=12.03.2019
+kurzken=Q 0010509/19
+bez=Mecklenburgische Straße (südl. Rudolstädter Straße) (Wilmersdorf, 14197) 
+arm1=Rudolstädter Straße,3100,0100
+arm2=Heidelberger Platz,1300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+683	12	8	3	50
+847	10	9	7	71
+685	12	10	1	60
+612	12	6	10	44
+728	14	6	11	36
+638	12	9	10	68
+681	6	10	12	55
+751	5	11	11	64
+881	4	9	16	89
+926	2	8	4	90
+815	2	9	11	99
+806	7	8	7	86
+; 2 -> 1
+866	6	8	6	104
+1197	23	9	8	138
+751	11	10	2	48
+734	14	6	6	46
+759	5	6	5	46
+679	11	5	12	34
+779	9	8	6	55
+842	10	9	10	61
+946	7	9	12	60
+766	0	6	12	22
+864	1	9	13	96
+816	1	10	8	68

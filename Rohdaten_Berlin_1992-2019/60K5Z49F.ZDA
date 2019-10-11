@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26135
+datum=20.4.1993
+kurzken=Q 2613.5/93-F
+bez=Cecilienstraße westl. Garzauer Straße    (Marzahn )
+arm1=Süd,0,0100
+arm2=Nord,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+18 5 
+15 0 
+21 5 
+27 0 
+33 2 
+27 4 
+25 2 
+34 21 
+57 5 
+93 16 
+108 35 
+56 11 
+; 2 -> 1
+50 63 
+55 32 
+48 4 
+54 5 
+33 20 
+19 130 
+24 66 
+43 29 
+48 17 
+38 28 
+34 37 
+25 12 

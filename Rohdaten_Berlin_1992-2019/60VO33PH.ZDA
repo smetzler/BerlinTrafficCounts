@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41043
+datum=6.8.1991
+kurzken=Q 4104.3/91
+bez=Tauentzienstrasse zw. Breitscheidplatz und Nuernberger Strasse    ( Berlin 30 )
+arm1=Nürnberger Straße,900,0100
+arm2=Breitscheidplatz,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+651 
+613 
+682 
+653 
+734 
+730 
+781 
+620 
+700 
+669 
+602 
+585 
+; 2 -> 1
+520 
+580 
+497 
+535 
+752 
+738 
+593 
+735 
+839 
+815 
+679 
+575 

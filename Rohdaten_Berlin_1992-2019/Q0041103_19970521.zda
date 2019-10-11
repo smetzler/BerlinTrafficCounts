@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 041103
+datum=21.05.1997
+kurzken=Q 041103/97
+bez=Treskowbrücke (Spree)   (Köpenick, 12459)
+arm1=Wilhelminenhofstraße,3400,0100
+arm2=Schnellerstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Einbahnstraße in Fahrtrichtung Wilhelminenhofstraße !
+data=
+; 1 -> 2
+15	0	0	3	37
+9	0	0	1	47
+10	0	0	0	33
+4	0	0	0	13
+10	0	0	0	15
+2	0	0	0	22
+0	1	0	0	10
+4	0	0	4	31
+6	0	3	3	33
+3	0	1	2	33
+2	2	0	0	36
+1	0	0	0	18
+; 2 -> 1
+812	140	132	2	23
+692	130	153	4	27
+587	126	220	6	13
+538	117	178	4	20
+561	122	216	0	23
+582	132	168	0	25
+576	113	178	1	19
+684	102	184	0	26
+784	96	164	2	44
+1106	139	134	2	56
+1222	162	100	2	42
+1099	107	95	6	25

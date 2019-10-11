@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910087
+datum=17.04.2007
+kurzken=Q 0910087/07
+bez=Argentinische Allee (westl. Waltraudstraße)   (Zehlendorf, 14169)
+arm1=Riemeisterstraße,950,0100
+arm2=Waltraudstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+754	13	1	19	106
+944	11	5	19	61
+668	17	4	19	62
+598	6	0	6	34
+519	10	2	11	36
+501	11	0	9	44
+553	9	1	18	52
+511	5	1	17	47
+542	6	0	20	44
+710	10	0	26	61
+632	2	2	19	60
+547	4	0	18	34
+; 2 -> 1
+320	12	3	4	48
+423	9	2	13	31
+438	15	0	6	33
+398	16	2	10	42
+474	10	2	12	28
+490	9	1	15	46
+461	10	1	16	51
+510	12	1	22	78
+562	11	0	17	62
+701	10	0	16	57
+694	3	1	23	76
+634	2	0	18	31

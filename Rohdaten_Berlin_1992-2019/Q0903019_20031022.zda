@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0903019
+datum=22.10.2003
+kurzken=Q 0903019/03
+bez=Schönwalder Straße (östl. Kunkelstraße, Pankegrünzug)   (Wedding, 13347)
+arm1=Kunkelstraße,1100,0100
+arm2=Neue Hochstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+187	9	0	1	16
+227	9	0	1	13
+240	8	0	2	12
+187	6	0	4	8
+222	7	0	1	8
+255	11	0	0	12
+266	14	0	3	12
+295	11	0	3	18
+326	10	1	2	20
+317	2	0	11	31
+279	5	0	10	20
+290	2	0	6	25
+; 2 -> 1
+468	6	0	7	25
+403	18	2	7	31
+292	14	0	5	20
+210	12	0	5	6
+203	10	1	5	5
+279	12	0	5	5
+290	15	1	5	12
+268	15	0	2	14
+350	6	0	2	14
+366	3	2	5	13
+302	3	0	2	9
+247	2	0	5	8

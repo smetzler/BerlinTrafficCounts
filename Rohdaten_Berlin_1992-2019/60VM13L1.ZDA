@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40969
+datum=6.3.1991
+kurzken=Q 4096.9/91-F
+bez=Buckower Chaussee am S-Bahnuebergang    ( Berlin 48 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+77 
+21 
+5 
+1 
+7 
+6 
+23 
+13 
+8 
+11 
+7 
+4 
+; 2 -> 1
+80 
+36 
+21 
+32 
+37 
+30 
+54 
+28 
+47 
+35 
+19 
+15 

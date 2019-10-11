@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910018
+datum=11.11.1998
+kurzken=Q 0910018/98
+bez=BAB AVUS (A115) (Höhe Brücke Alemannenstraße)   (Nikolassee, 14129)
+arm1=Alemannenstraße,100,0100
+arm2=Potsdamer Chaussee,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1849 194 6 8
+2283 221 8 4
+1945 295 11 5
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+2086 224 5 7
+2605 201 10 12
+2268 176 10 6
+; 2 -> 1
+2423 498 16 10
+2327 317 10 13
+1785 298 11 9
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+-1 -1 -1 -1
+2071 167 13 10
+2071 140 15 10
+2333 141 11 11

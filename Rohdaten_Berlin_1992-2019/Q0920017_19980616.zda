@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920017
+datum=16.06.1998
+kurzken=Q 0920017/98
+bez=Lindauer Allee (östl. Roedernallee)   (Reinickendorf, 13407)
+arm1=Roedernallee,750,0100
+arm2=Aroser Allee,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1311	79	13	68
+1235	82	10	31
+1110	95	9	36
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1320	42	12	65
+1316	31	10	36
+1220	15	13	30
+; 2 -> 1
+1157	57	14	43
+1034	52	9	27
+956	72	9	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1353	51	11	51
+1513	40	9	51
+1370	22	9	60

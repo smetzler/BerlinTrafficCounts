@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139005
+datum=28.10.2013
+kurzken=Q 139005/13
+bez=Waltersdorfer Chaussee (B179) (Stadtgrenze)   (Neukölln, 12355)
+arm1=Hiltrud-Dudek-Weg,300,0100
+arm2=Flughafen Schönefeld,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Neuköllner Straße stadtauswärts zwischen Stubenrauchstraße und Bildhauerweg gesperrt!\n
+data=
+; 1 -> 2
+341	21	14	7	7
+326	20	15	4	3
+277	17	13	1	5
+303	22	11	2	2
+316	28	13	3	3
+390	23	13	4	4
+343	8	11	3	9
+437	23	13	4	5
+589	18	13	7	12
+568	9	13	6	6
+452	4	11	3	3
+338	3	12	3	1
+; 2 -> 1
+655	36	15	3	10
+526	39	12	4	5
+358	23	15	1	6
+291	23	12	1	5
+336	16	11	2	4
+325	22	11	4	5
+304	11	13	3	6
+428	10	12	5	9
+581	20	13	7	5
+552	10	12	8	10
+490	11	11	7	7
+366	3	11	5	4

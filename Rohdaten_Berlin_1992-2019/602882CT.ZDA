@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 02888
+datum=14.05.1987
+kurzken=Q 2888/87
+bez=Gustav-Meyer-Allee  oestl. Hussitenstrasse    ( Berlin 65 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+14 10 4 22 8 9 8 6 24 39 14 13 
+; 2 -> 1
+29 12 2 12 8 5 6 9 25 13 6 6 

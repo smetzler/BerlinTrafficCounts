@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 15503
+datum=17.09.1987
+kurzken=Q 15503/87
+bez=Attilastrasse oestl. Attilaplatz      ( Berlin 42 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+792 676 575 612 565 553 651 730 847 833 739 632 
+; 2 -> 1
+1098 819 580 624 564 606 643 652 966 1128 756 640 

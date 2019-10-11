@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0911079
+datum=06.07.2009
+kurzken=K 0911079/09
+bez=AK Schöneberg - von A100-Ost nach A103-Nord  (Schöneberg, 10829)
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=A103-Saarstraße,1200,0000
+arm3=A100-Sachsendamm (Ost),2500,0001
+arm4=A103-Sachsendamm (Nord),3200,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+139	8	1	2
+100	6	1	2
+133	7	0	3
+126	10	0	3
+111	3	0	4
+99	6	0	3
+129	7	0	2
+107	7	0	0
+112	2	0	0
+118	4	0	3
+127	1	1	1
+104	4	0	0

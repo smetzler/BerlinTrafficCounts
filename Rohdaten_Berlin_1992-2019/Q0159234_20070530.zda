@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159234
+datum=30.05.2007
+kurzken=Q 159234/07
+bez=Kuhligkshofstraße (Fahrbahn Strom 3>4)   (Steglitz, 12165)
+arm1=Schloßstr. (N),400,0000
+arm2=Kuhligkshofstraße,2500,0000
+arm3=((Norden)),3500,0001
+arm4=((Süden)),1700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+64	15
+65	1
+74	3
+45	0
+87	0
+70	1
+85	18
+102	37
+99	3
+103	6
+92	17
+97	8
+; 4 -> 3
+70	3
+102	6
+112	53
+116	0
+91	3
+115	2
+111	0
+97	18
+117	11
+146	4
+99	5
+77	2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909036
+datum=04.07.2017
+kurzken=Q 0909036/17
+bez=Rudolstädter Straße (Höhe Fußgängerbr. "Hoher Bogen") (Wilm'dorf, 10713)
+arm1=Bechstedter Weg,250,0100
+arm2=Kalkhorster Straße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+128	0	0	2	45
+157	3	0	2	44
+142	5	0	6	24
+154	4	0	6	46
+119	3	0	7	25
+140	7	1	8	38
+158	5	1	10	41
+192	8	0	7	57
+274	4	0	14	62
+262	2	0	22	64
+251	7	0	7	85
+204	3	1	14	98
+; 2 -> 1
+272	6	1	10	63
+397	7	0	8	88
+317	12	2	6	66
+212	12	0	10	34
+176	4	0	11	36
+138	5	0	10	26
+195	8	1	14	29
+261	9	0	6	41
+550	14	0	17	48
+370	12	0	12	66
+293	4	2	14	65
+196	4	0	11	51

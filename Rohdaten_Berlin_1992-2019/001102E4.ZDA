@@ -1,0 +1,38 @@
+[ZA1001]
+knoten=K 1332
+datum=29.06.1987
+kurzken=K 1332/87
+bez=Rubensstrasse / Rembrandtstrasse - Vorarlberger Damm    ( Berlin 41 )
+Arm1=Rubensstrasse,50,0111
+Arm2=Rembrandtstrasse,1400,1011
+Arm3=Rubensstrasse,1850,1101
+Arm4=Vorarlberger Damm,2570,1110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung ;\nKnotenarme 3 und 4 : Verstaerkter Verkehr wegen Bauarbeiten im Grazer Damm !
+data=
+; 1 -> 2
+15 8 16 17 18 33 16 22 31 49 48 33 
+; 1 -> 3
+356 235 163 217 275 247 291 220 617 622 243 191 
+; 1 -> 4
+106 84 87 112 90 87 161 152 331 374 329 204 
+; 2 -> 1
+41 26 20 22 16 19 18 21 26 23 31 19 
+; 2 -> 3
+10 8 8 25 9 15 14 13 10 10 13 8 
+; 2 -> 4
+44 19 23 30 36 28 29 40 63 72 52 33 
+; 3 -> 1
+589 396 228 193 187 218 180 205 296 301 232 216 
+; 3 -> 2
+6 4 6 5 9 2 3 3 4 7 16 9 
+; 3 -> 4
+86 101 94 101 86 96 105 102 124 156 151 108 
+; 4 -> 1
+151 124 120 80 119 110 95 94 123 129 150 120 
+; 4 -> 2
+24 32 33 38 30 38 29 34 40 39 38 33 
+; 4 -> 3
+102 99 105 95 119 104 110 94 227 209 196 124 

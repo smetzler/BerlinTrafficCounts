@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907006
+datum=02.07.1998
+kurzken=Q 0907006/98
+bez=Hardenbergstraße (südl. Ernst-Reuter-Platz)   (Charlottenburg, 10623)
+arm1=Ernst-Reuter-Platz,500,0100
+arm2=Schillerstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1281	72	24	58
+1515	54	26	56
+1478	56	29	51
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1601	21	28	105
+1631	20	29	83
+1573	15	31	87
+; 2 -> 1
+1126	46	28	47
+1313	51	28	58
+1226	44	31	38
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1479	34	34	83
+1656	25	27	89
+1506	23	34	82

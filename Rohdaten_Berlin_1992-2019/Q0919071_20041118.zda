@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919071
+datum=18.11.2004
+kurzken=Q 0919071/04
+bez=Friedrich-Engels-Straße (nördl. Nordendstraße)   (Pankow, 13158)
+arm1=Str. 87,300,0100
+arm2=Nordendstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+189	12	2	2	11
+221	16	0	1	13
+223	7	1	0	10
+231	10	0	1	6
+239	9	0	2	11
+260	15	0	2	7
+294	15	0	0	16
+322	4	0	0	19
+383	5	0	3	20
+380	1	0	1	17
+320	2	0	1	11
+269	2	0	1	5
+; 2 -> 1
+359	8	0	0	14
+280	19	0	2	8
+240	8	0	2	15
+231	10	0	0	7
+208	4	0	1	10
+213	12	0	1	6
+230	5	0	0	9
+242	8	0	1	9
+276	4	0	0	23
+249	0	0	5	9
+234	1	0	3	10
+198	2	0	1	7

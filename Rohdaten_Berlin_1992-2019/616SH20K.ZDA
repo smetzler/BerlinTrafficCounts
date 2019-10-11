@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 55457
+datum=21.04.1986
+kurzken=Q 55457/86
+bez=Haselhorster Damm  suedl. Saatwinkler Damm   ( Berlin 20 )
+Arm1=West  ( 3a ),900,0100
+Arm2=Ost  ( 3b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw.,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+22 19 21 9 35 2 43 0 36 0 20 1 17 1 
+21 2 9 1 39 8 36 1 16 2 
+; 2 -> 1
+10 1 13 0 31 5 33 2 25 2 20 26 11 12 
+18 2 15 0 24 4 35 2 51 5 

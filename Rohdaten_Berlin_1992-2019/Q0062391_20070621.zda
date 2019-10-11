@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 62391
+datum=21.06.2007
+kurzken=Q 62391/07
+bez=Armbrustweg  (nördl. Emmentaler Straße)   (Reinickendorf, 13409)
+arm1=Armbrustweg,300,0000
+arm2=Emmentaler Straße (W),1250,0001
+arm3=Reginhardstraße,2200,0000
+arm4=Emmentaler Straße (O),3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=3 Std; Niederschlag=24 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+53	236
+22	23
+20	3
+16	0
+24	0
+27	0
+19	4
+14	4
+12	0
+18	2
+20	4
+16	1
+; 4 -> 2
+27	3
+25	5
+27	6
+39	2
+30	0
+21	0
+11	112
+20	97
+13	22
+10	5
+15	3
+11	1

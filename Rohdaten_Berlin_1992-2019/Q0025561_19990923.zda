@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25561
+datum=23.09.1999
+kurzken=Q 25561/99
+bez=Grünberger Straße (westl. Simon-Dach-Straße)   (Friedrichshain, 10245)
+arm1=Grünberger Straße (W),800,0000
+arm2=Simon-Dach-Straße (S),1700,0001
+arm3=Grünberger Straße (O),2600,0000
+arm4=Simon-Dach-Straße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonnenstd.=5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	0
+27	2
+35	0
+21	0
+12	0
+22	2
+31	0
+21	4
+32	1
+25	1
+55	8
+43	1
+; 4 -> 2
+6	2
+15	1
+40	0
+15	0
+18	0
+27	0
+52	4
+24	2
+46	0
+57	2
+76	7
+71	6

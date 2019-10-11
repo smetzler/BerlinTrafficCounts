@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20082
+datum=04.12.2002
+kurzken=Q 2008/02
+bez=A111 - BAB Zubr. HH (Hinkeldeybrücke - mittl. Spur) (Ch'burg, 13627)
+arm1=AS Saatwinkler Damm,1500,0100
+arm2=AS Kurt-Schumacher-Damm,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+873	112	96	34	7	8
+880	140	95	70	7	3
+812	71	124	85	5	3
+756	53	106	67	7	2
+873	76	134	58	6	0
+; 2 -> 1
+1208	231	103	51	3	7
+1110	183	76	67	2	3
+911	167	107	70	6	9
+921	157	86	71	3	3
+867	173	87	85	5	5

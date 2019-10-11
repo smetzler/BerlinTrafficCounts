@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025538
+datum=12.3.1992
+kurzken=Q 2553.8/92-F
+bez=Greifswalder Straße nördlich Prenzlauer Berg    ( Berlin 1055 Friedrh. )
+arm1=Ost,850,0100
+arm2=West,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+119 25 
+60 9 
+45 6 
+59 0 
+73 2 
+77 15 
+98 20 
+104 13 
+146 27 
+128 19 
+99 7 
+69 16 
+; 2 -> 1
+253 57 
+128 14 
+70 8 
+67 2 
+77 4 
+79 2 
+102 22 
+110 25 
+138 44 
+191 37 
+123 17 
+98 22 

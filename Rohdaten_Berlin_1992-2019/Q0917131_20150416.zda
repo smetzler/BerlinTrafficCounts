@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0917131
+datum=16.04.2015
+kurzken=Q 0917131/15
+bez=Alfredstraße (südl. Fanninger Straße)   (Lichtenberg, 10365)
+arm1=Roedeliusplatz (S),1750,0000
+arm2=Fanninger Straße,3550,1000
+arm3=,850,0000
+arm4=,2650,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+684	30	11	10	32
+668	29	10	6	26
+627	38	9	13	23
+652	17	12	6	18
+623	25	8	9	11
+529	22	15	5	11
+671	11	16	7	13
+709	8	21	11	11
+705	6	10	9	9
+642	4	8	10	12
+684	14	8	22	2
+709	6	6	7	10

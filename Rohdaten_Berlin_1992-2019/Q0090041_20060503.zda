@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 90041
+datum=03.05.2006
+kurzken=Q 90041/06
+bez=Skalitzer Straße (Südfahrbahnen) (östl. Wiener Str.)  (Kreuzberg, 10999)
+arm1=Oranienstr.-Manteuffelstr. (N),580,0010
+arm2=Skalitzer Str. (W),1010,0000
+arm3=Wiener Straße,2380,1000
+arm4=Skalitzer Straße (O),2810,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+168	45
+264	8
+283	13
+221	6
+185	43
+298	9
+279	57
+374	45
+421	55
+432	80
+384	53
+443	42
+; 3 -> 1
+256	82
+283	29
+347	7
+218	29
+225	3
+246	2
+307	43
+302	34
+358	36
+339	49
+359	56
+334	41

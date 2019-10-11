@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 21301
+datum=16.05.1994
+kurzken=Q 21301/94
+bez=Skalitzer Straße / östl. Görlitzer Straße (Kreuzberg)
+arm1=Görlitzer Straße,1000,0100
+arm2=Wrangelstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1400,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+522,55,4,23,78
+619,22,0,29,105
+672,19,0,34,120
+637,15,2,44,129
+; 2 -> 1
+459,41,2,18,124
+483,23,1,28,148
+473,19,0,23,119
+425,15,1,31,142

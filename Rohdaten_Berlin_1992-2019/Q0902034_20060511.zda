@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0902034
+datum=11.05.2006
+kurzken=Q 0902034/06
+bez=Zooweg (nördl. Hardenbergplatz)   (Tiergarten, 10787)
+arm1=Hardenbergplatz,1600,0100
+arm2=Schleuse,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+96
+128
+77
+70
+66
+76
+102
+116
+124
+162
+206
+228
+; 2 -> 1
+89
+139
+136
+100
+74
+96
+96
+102
+118
+137
+185
+191

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025725
+datum=25.3.1992
+kurzken=Q 2572.5/92-F
+bez=Cecilienstraße westlich Oberfeldstraße    ( Berlin 1141-Marz. )
+arm1=Süd,1750,0100
+arm2=Nord,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Am 25.3.92 Schulstreik !\nWetter : Regen !
+data=
+; 1 -> 2
+4 6 
+5 0 
+0 0 
+0 0 
+4 1 
+4 3 
+1 0 
+3 3 
+4 2 
+7 1 
+1 2 
+1 0 
+; 2 -> 1
+9 3 
+8 0 
+0 0 
+4 0 
+7 0 
+4 2 
+7 2 
+6 3 
+5 2 
+5 1 
+6 0 
+1 4 

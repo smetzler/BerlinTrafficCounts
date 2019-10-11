@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 1634
+datum=02.06.2004
+kurzken=Q 1634/04
+bez=Provinzstraße (nördl. Pankower Allee)   (Reinickendorf, 13409)
+arm1=Pankower Allee,950,0010
+arm2=Provinzstraße,1700,0000
+arm3=Papierstraße,2600,1000
+arm4=Provinzstraße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17\,5°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+5	3
+9	1
+2	0
+8	0
+9	0
+2	0
+4	0
+2	1
+4	0
+12	0
+5	0
+11	2
+; 3 -> 1
+4	1
+7	0
+3	1
+6	1
+9	0
+7	1
+12	2
+8	0
+11	1
+35	2
+13	2
+15	3

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0078
+datum=06.08.2015
+kurzken=Q 0078/15
+bez=A114/B109 - Prenzlauer Promenade (nördl. Neukirchstraße)   (Pankow, 13089)
+arm1=BAB- Zubr. Abzw. Pankow (A114),0,0100
+arm2=Neukirchstraße,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=4
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+1359	22	27	11	27
+1541	24	19	7	41
+1519	15	8	8	25
+; 2 -> 1
+2117	65	38	6	58
+2212	46	39	8	47
+1851	23	27	6	58

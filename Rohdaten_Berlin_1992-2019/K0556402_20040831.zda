@@ -1,0 +1,58 @@
+[ZA1001]
+knoten=K 556402
+datum=31.08.2004
+kurzken=K 556402/04
+bez=Anna-Louisa-Karsch-Str./ Spandauer Str. - A.d. Spandauer Br. (Mitte, 10178)
+arm1=Anna-Louisa-Karsch-Straße,1180,0101
+arm2=Spandauer Straße,2180,1001
+arm3=,0,0000
+arm4=An der Spandauer Brücke,3340,1100
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7-13 Uhr! Anna-Louisa-Karsch-Straße ist Sackgasse.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+183	18	0	7	7
+206	10	1	6	15
+197	22	1	5	2
+193	23	9	4	8
+224	13	9	4	5
+244	20	6	5	17
+; 1 -> 4
+22	2	0	0	12
+39	1	0	2	19
+59	8	0	1	13
+69	8	2	2	7
+84	6	1	2	10
+79	4	0	3	7
+; 2 -> 1
+18	1	0	1	2
+23	2	0	1	7
+16	0	0	0	6
+14	2	0	0	1
+16	3	0	1	0
+15	1	0	0	3
+; 2 -> 4
+246	18	0	10	33
+322	21	0	17	62
+363	18	1	17	66
+353	18	3	9	49
+374	20	8	10	34
+322	20	4	6	36
+; 4 -> 1
+3	0	0	1	4
+7	0	0	2	15
+4	0	0	2	8
+1	0	0	0	9
+8	0	0	1	9
+3	0	0	0	12
+; 4 -> 2
+49	3	0	1	8
+42	6	0	2	37
+35	4	0	3	10
+59	1	0	0	36
+52	3	0	2	40
+55	2	0	3	25

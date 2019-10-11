@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908068
+datum=20.09.2006
+kurzken=Q 0908068/06
+bez=Ruhlebener Straße (östl. Schulenburgstraße)   (Spandau, 13597)
+arm1=Schulenburgstraße,800,0100
+arm2=Teltower Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1875	64	17	115	60
+1858	66	20	85	58
+1310	58	14	46	47
+1234	60	14	36	54
+1111	55	14	45	43
+1149	57	14	44	54
+1260	54	16	56	27
+1329	55	21	59	38
+1530	60	16	66	48
+1433	38	12	70	70
+1326	28	13	63	52
+1323	18	12	46	57
+; 2 -> 1
+1060	63	13	49	41
+1025	56	15	39	37
+1100	67	11	23	40
+1210	68	14	36	34
+1155	81	15	42	40
+1299	62	15	40	42
+1362	40	12	56	36
+1544	46	13	78	46
+1578	40	16	92	52
+1984	32	13	117	55
+1875	22	14	107	58
+1587	21	16	90	57

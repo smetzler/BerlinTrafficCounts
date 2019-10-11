@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27973
+datum=20.04.2005
+kurzken=Q 27973/05
+bez=Trelleborger Straße (südl. Wisbyer Straße)    (Prenzlauer Berg, 10439)
+arm1=Trelleborger Straße (N),0,0000
+arm2=Wisbyer Straße (W),800,0001
+arm3=Trelleborger Straße (S),1650,0000
+arm4=Wisbyer Straße (O),2600,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=13 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+12	3
+10	1
+18	0
+18	0
+18	0
+16	0
+24	2
+17	0
+18	1
+21	0
+26	0
+29	2
+; 4 -> 2
+7	2
+13	1
+26	1
+15	0
+19	0
+16	1
+18	1
+24	2
+23	0
+19	2
+24	0
+28	0

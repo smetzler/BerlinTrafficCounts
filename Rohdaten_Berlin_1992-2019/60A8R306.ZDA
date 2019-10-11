@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13275
+datum=23.05.1989
+kurzken=Q 13275/89
+bez=Haehnelstrasse westl. Hauptstrasse    ( Berlin 41 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+43 2 46 4 85 2 58 3 88 5 78 6 55 7 
+38 10 77 12 80 10 45 12 34 5 
+; 2 -> 1
+31 15 48 2 52 4 95 4 56 2 62 1 63 18 
+37 9 44 10 62 10 67 12 43 5 

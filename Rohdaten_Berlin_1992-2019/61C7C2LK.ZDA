@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 62472
+datum=09.02.1988
+kurzken=Q 62472/88
+bez=Hermsdorfer Damm suedl. Forstweg     ( Berlin 28 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1258 997 607 468 418 402 426 429 465 411 397 490 
+; 2 -> 1
+297 278 275 295 378 491 537 479 679 874 952 910 

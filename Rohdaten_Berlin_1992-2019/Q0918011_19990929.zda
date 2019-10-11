@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0918011
+datum=29.09.1999
+kurzken=Q 0918011/99
+bez=Darßer Straße (westl. Nachtalbenweg)   (Weißensee, 13088)
+arm1=Schwarzelfenweg,950,0100
+arm2=Nachtalbenweg,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+406	42	3	5
+389	38	3	4
+382	55	3	3
+449	57	4	10
+408	57	3	8
+474	42	3	4
+548	47	3	9
+705	52	3	12
+875	49	3	16
+944	31	3	33
+827	26	3	6
+825	22	3	18
+; 2 -> 1
+934	52	4	18
+706	54	4	8
+612	32	3	3
+471	54	5	5
+513	48	4	12
+515	44	4	12
+530	60	3	8
+485	39	5	5
+682	58	7	12
+675	26	4	9
+681	15	4	12
+481	10	3	7

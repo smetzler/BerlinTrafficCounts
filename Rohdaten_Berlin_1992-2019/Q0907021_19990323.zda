@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907021
+datum=23.03.1999
+kurzken=Q 0907021/99
+bez=Kurfürstendamm (östl. Fasanenstraße)   (Charlottenburg, 10719)
+arm1=Fasanenstraße,1100,0100
+arm2=Meinekestraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+548	35	24	6
+739	45	31	6
+728	57	42	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+938	14	30	8
+940	14	28	17
+942	8	39	10
+; 2 -> 1
+446	31	30	3
+609	38	34	5
+609	48	27	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+810	16	27	6
+864	10	29	9
+872	5	37	11

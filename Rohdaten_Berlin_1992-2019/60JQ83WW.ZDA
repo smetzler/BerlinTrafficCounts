@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025568
+datum=17.3.1992
+kurzken=Q 2556.8/92-F
+bez=Simon-Dach-Straße nördlich Grünberger Straße    ( Berlin 1034-Frdh )
+arm1=Ost,800,0100
+arm2=West,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+26 2 
+29 5 
+18 0 
+47 1 
+40 0 
+30 0 
+26 0 
+25 5 
+49 3 
+39 1 
+39 5 
+22 2 
+; 2 -> 1
+22 2 
+13 1 
+35 1 
+33 3 
+22 2 
+33 0 
+50 5 
+32 4 
+26 4 
+31 1 
+42 5 
+13 0 

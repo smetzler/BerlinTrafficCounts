@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 62394
+datum=21.06.2007
+kurzken=Q 62394/07
+bez=Emmentaler Str. (östl. Reginhardstr. - Armburststr.) (Reinickendorf, 13409)
+arm1=Armbrustweg,300,0010
+arm2=Emmentaler Straße,1250,0000
+arm3=Reginhardstraße,2200,1000
+arm4=Emmentaler Straße,3050,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=3 Std; Niederschlag=24 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+53	227
+9	15
+12	3
+4	2
+8	0
+4	0
+6	3
+4	2
+5	0
+10	5
+8	0
+2	1
+; 3 -> 1
+4	2
+6	5
+2	4
+12	5
+12	7
+10	8
+31	80
+31	77
+17	15
+3	4
+0	4
+2	0

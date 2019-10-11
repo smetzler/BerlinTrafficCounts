@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923105
+datum=03.11.2015
+kurzken=Q 0923105/15
+bez=Cottbusser Straße (Höhe Nr. 23 - W.-A.-Mozart-Schule)   (Hellersdorf, 12627)
+arm1=Cottbusser Platz,950,0000
+arm2=Senftenberger Straße,2750,0000
+arm3=(Norden (Schule)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Cottbusserstr. im Bereich der Schule queren.
+data=
+; 3 -> 4
+47	8
+84	14
+101	6
+148	8
+178	22
+144	104
+165	19
+167	18
+147	27
+218	54
+184	16
+132	15
+; 4 -> 3
+82	179
+32	18
+36	21
+8	12
+8	14
+3	6
+11	8
+13	14
+13	7
+16	2
+15	1
+8	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6427613
+datum=23.05.2017
+kurzken=Q 642763/17
+bez=Elsenstraße (südl. Puschkinallee)  (Treptow, 12435)
+arm1=Puschkinallee (W),650,0000
+arm2=Elsenstraße (S),1400,0001
+arm3=Puschkinallee (O),2450,0000
+arm4=Elsenstraße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+51	0
+68	9
+49	7
+72	10
+67	8
+127	1
+75	33
+147	8
+179	34
+196	6
+163	4
+139	3
+; 4 -> 2
+235	4
+172	2
+176	1
+118	1
+101	2
+118	21
+83	13
+83	2
+136	9
+86	2
+94	0
+90	1

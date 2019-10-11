@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916042
+datum=12.06.2006
+kurzken=Q 0916042/06
+bez=Müggelheimer Damm (Höhe Str. zum Müggelhort)   (Köpenick, 12587)
+arm1=Am Großen Müggelsee,400,0000
+arm2=Ludwigshöheweg,2200,0000
+arm3=((Südwesten)),1300,0001
+arm4=((Nordosten)),3100,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die im Bereich der Str. zum Müggelhort (ca. + - 50m) den Müggelheimer Damm überqueren!\nWetter: max T=30°C; Sonne=16 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+1	1
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+4	0
+0	0
+0	0
+; 4 -> 3
+0	0
+0	0
+1	0
+3	0
+1	0
+0	0
+0	0
+0	0
+3	1
+0	0
+0	0
+3	0

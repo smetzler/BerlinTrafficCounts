@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3384181
+datum=04.04.2017
+kurzken=Q 3384181/17
+bez=Fürstenstraße (nördl. Potsdamer Straße)   (Zehlendorf, 14163)
+arm1=Fürstenstraße,250,0000
+arm2=Potsdamer Straße (W),1000,0001
+arm3=Tankstelle,1900,0000
+arm4=Potsdamer Straße (O),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 2 -> 4
+2	1
+1	0
+3	0
+8	2
+10	1
+2	0
+3	0
+2	0
+3	0
+4	0
+1	0
+1	0
+; 4 -> 2
+0	0
+2	0
+3	0
+6	0
+4	0
+7	1
+8	3
+18	3
+16	3
+24	4
+9	0
+15	2

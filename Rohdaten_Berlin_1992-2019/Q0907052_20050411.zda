@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907052
+datum=11.04.2005
+kurzken=Q 0907052/05
+bez=Straße des 17.Juni (östl. Großer Stern)   (Tiergarten, 10557)
+arm1=Großer Stern,950,0100
+arm2=Entlastungsstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1109	30	5	12	95
+1192	28	13	39	93
+1342	24	9	57	102
+1335	23	12	36	137
+1451	9	10	42	164
+1393	8	9	36	192
+; 2 -> 1
+1014	27	16	14	67
+837	52	17	17	66
+794	48	14	14	92
+1062	51	19	86	127
+1056	27	11	30	94
+1032	19	12	27	134

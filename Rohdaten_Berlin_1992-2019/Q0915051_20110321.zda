@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0915051
+datum=21.03.2011
+kurzken=Q 0915051/11
+bez=Frank-Schweitzer-Straße (südwestl. Hochstr. Landsberger Allee)   (Marzahn, 12681)
+arm1=Franz-Schweitzer-Straße,1150,0100
+arm2=Landsberger Allee (Hochstr.),3100,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=SIEHE beigefügte SKIZZE! \nFahrzeuge\, die von der Franz-Schweitzer-Straße zur Landsberger Allee (Hochstr. Ri. Ost) fahren.\n
+data=
+; 1 -> 2
+107	12	0	3	0
+69	6	0	0	1
+75	11	0	0	1
+79	11	0	1	0
+75	14	0	0	0
+69	9	0	4	2
+71	8	0	3	1
+143	7	0	6	0
+171	4	0	5	0
+134	0	0	1	0
+104	1	0	5	0
+73	2	0	3	1

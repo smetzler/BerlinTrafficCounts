@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010204
+datum=01.12.1999
+kurzken=Q 010204/99
+bez=Pariser Platz (östl. Brandenburger Tor)       (Mitte, 10557)
+arm1=Brandenburger Tor,900,0000
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+930	189	4	17
+1084	144	3	13
+1129	118	8	29
+1100	126	4	36
+926	110	7	33
+858	91	15	36
+1123	76	13	34
+1073	73	9	32
+494	60	6	32
+1104	83	10	40
+1198	92	8	28
+1148	71	5	31

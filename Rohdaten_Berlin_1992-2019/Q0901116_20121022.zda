@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901116
+datum=22.10.2012
+kurzken=Q 0901116/12
+bez=Neue Schönhauser Straße (Höhe Nr. 17)   (Mitte, 10178)
+arm1=Rosenthaler Straße,900,0100
+arm2=Weinmeisterstraße,2800,1000
+arm3=,200,0000
+arm4=,2000,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=zw. 8:30 und 13 Uhr starke Behinderungen des Kfz-Verkehrs durch Demontage der Tram-Oberleitung.\nAuch Fußgänger (unterschieden nach "Erw" und "Jugend") gezählt!\nWetter: max T=13°C; Sonne=0 Std; Niederschlag=0 mm
+data=
+; 1 -> 2
+16	7	0	9	23	8
+49	2	0	22	113	5
+58	1	0	18	124	6
+62	2	0	15	167	7
+44	2	1	20	310	61
+40	0	0	33	526	21
+76	11	0	58	453	20
+90	3	0	72	518	15
+70	3	1	103	473	12
+105	0	3	100	349	9
+103	2	2	94	472	5
+93	1	0	119	401	4
+; 2 -> 1
+0	0	0	15	52	4
+3	0	0	56	190	3
+0	0	0	76	189	2
+1	0	0	43	195	22
+0	0	0	23	259	14
+0	0	0	33	348	11
+0	0	0	28	408	14
+0	0	0	40	450	5
+0	0	0	4	371	18
+1	0	0	40	342	8
+1	0	0	39	384	11
+0	0	0	47	331	3

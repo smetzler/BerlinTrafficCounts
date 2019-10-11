@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907074
+datum=07.06.2006
+kurzken=Q 0907074/06
+bez=Olympische Straße (westl. Preußenallee)   (Westend, 14052)
+arm1=Oldenburgallee,1000,0100
+arm2=Preußenallee,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+245	8	0	9	16
+374	7	0	9	8
+378	16	1	9	13
+344	16	0	10	10
+371	14	1	8	17
+380	7	1	6	22
+304	11	1	12	11
+322	4	3	7	16
+366	12	0	12	34
+365	5	1	18	19
+338	3	2	22	29
+286	6	1	11	19
+; 2 -> 1
+206	14	0	7	11
+277	8	2	17	10
+328	9	3	5	23
+282	22	2	16	14
+364	10	1	18	23
+342	10	0	11	22
+301	5	2	10	15
+312	7	3	13	16
+300	6	0	6	26
+344	4	5	16	27
+369	6	2	18	26
+297	2	0	17	21

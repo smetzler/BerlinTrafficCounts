@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 71157
+datum=13.03.1991
+kurzken=Q 71157/91
+bez=Reichenberger Strasse oestlich Manteuffelstrasse    ( Berlin 36 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+21 62 4 20 3 0 31 4 1 26 2 1 13 5 2 
+25 3 2 40 18 2 41 16 2 26 16 14 33 16 9 
+46 13 14 23 8 3 
+; 2 -> 1
+10 17 0 11 8 0 22 2 1 34 8 1 32 8 2 
+34 37 6 38 19 3 43 27 1 36 25 19 57 17 8 
+53 17 4 33 7 10 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7614025
+datum=28.03.1995
+kurzken=Q 7614025/95
+bez=Dorfstr. (westl. Hohenschönhauser Str.)     (Falkenberg, 13057)
+arm1=Dorfstraße,640,0000
+arm2=Hohenschönhauser Str.,1440,0001
+arm3=Osten,2440,0000
+arm4=Ahrensfelder Ch.,2920,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für Verkehrserhebungen\nKeine Fußgänger aufgetreten !\nWetter: max T = 1°\, bedeckt\, 11\,5 mm Niederschlag\, Schnee- u. Eisglätte. \n
+data=
+; 2 -> 4
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+; 4 -> 2
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0

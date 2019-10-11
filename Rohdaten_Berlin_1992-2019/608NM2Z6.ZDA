@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11218
+datum=19.04.1989
+kurzken=Q 11218/89
+bez=Glogauer Strasse noerdl. Paul-Lincke-Ufer    ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: Regen !
+data=
+; 1 -> 2
+7 11 5 7 3 17 6 4 9 14 7 19 
+; 2 -> 1
+5 8 7 9 6 3 8 10 6 16 15 14 

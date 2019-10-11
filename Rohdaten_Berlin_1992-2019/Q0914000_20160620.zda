@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 0914000
+datum=20.06.2016
+kurzken=
+bez=Wehrbellinstraße (Neukölln)
+arm1=,0,0000
+arm2=,0,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=0
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle in der Karl-Marx-Allee !!
+data=

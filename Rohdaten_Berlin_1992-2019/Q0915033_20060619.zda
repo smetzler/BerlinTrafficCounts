@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0915033
+datum=19.06.2006
+kurzken=Q 0915033/06
+bez=Goethestraße (Höhe Bürgel-Schule)   (Lichtenrade, 12305)
+arm1=Warnitzer Straße,1000,0100
+arm2=Rackebüller Weg,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+88	1	0	2	25
+124	2	0	2	19
+71	1	0	0	10
+66	1	0	0	7
+53	2	0	0	8
+75	3	0	0	11
+51	1	0	2	5
+81	1	0	2	15
+64	2	0	2	20
+72	1	0	3	12
+83	0	0	4	18
+56	0	0	0	20
+; 2 -> 1
+35	1	0	0	5
+55	5	0	0	9
+51	1	0	1	8
+52	2	0	1	11
+55	2	0	0	9
+72	0	0	0	18
+73	0	0	2	16
+53	1	0	1	12
+50	0	0	0	14
+60	0	0	5	9
+68	0	0	4	20
+73	0	0	3	16

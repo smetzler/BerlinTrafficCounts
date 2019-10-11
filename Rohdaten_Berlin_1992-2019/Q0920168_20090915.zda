@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920168
+datum=15.09.2009
+kurzken=Q 0920168/09
+bez=Oranienburger Chaussee (nördl. Schwarzkittelweg, Frohnau, 13465)
+arm1=Jägerstieg,300,0100
+arm2=Schwarzkittelweg,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+528	21	5	21	6
+470	13	3	14	8
+390	21	4	8	11
+428	10	2	12	6
+357	15	3	4	6
+415	12	5	18	9
+382	17	4	12	3
+367	26	4	13	8
+418	20	6	10	18
+481	8	3	9	10
+476	9	4	24	13
+407	10	3	8	9
+; 2 -> 1
+315	16	5	6	17
+322	21	4	3	8
+309	27	4	6	4
+402	10	4	12	14
+380	26	3	4	11
+430	16	5	7	13
+423	21	3	6	21
+446	13	4	8	8
+614	22	4	12	18
+513	9	4	13	12
+494	6	3	24	15
+503	4	3	19	15

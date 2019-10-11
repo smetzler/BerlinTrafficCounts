@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0905001
+datum=09.11.1998
+kurzken=Q 0905001/98
+bez=Am Friedrichshain (östl. Friedenstraße)   (Friedrichshain, 10249)
+arm1=Friedenstraße,1000,0100
+arm2=Bötzowstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+394	19	16	7
+385	23	13	2
+417	29	10	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+631	27	17	6
+822	28	17	12
+905	15	17	8
+; 2 -> 1
+706	35	18	5
+641	33	17	6
+409	23	8	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+408	14	17	3
+369	10	16	2
+327	5	19	2

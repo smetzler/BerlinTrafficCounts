@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 14448
+datum=13.3.1991
+kurzken=Q 1444.8/91-F
+bez=Dammweg noerdlich Sonnenallee    ( Berlin 44 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+21 
+33 
+28 
+41 
+81 
+71 
+57 
+66 
+78 
+112 
+60 
+26 
+; 2 -> 1
+48 
+24 
+53 
+34 
+62 
+67 
+63 
+63 
+89 
+72 
+36 
+19 

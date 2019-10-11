@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28903
+datum=04.05.2010
+kurzken=Q 28903/10
+bez=Treskowstraße (südl. Schulstraße)   (Tegel, 13507)
+arm1=Treskowstraße (N),200,0000
+arm2=Schulstraße,950,0001
+arm3=Treskowstraße (S),2000,0000
+arm4=((Osten)),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+11	23
+12	0
+10	2
+9	0
+7	0
+7	2
+1	2
+8	2
+8	4
+4	1
+9	11
+5	2
+; 4 -> 2
+1	0
+1	0
+2	0
+5	0
+0	0
+6	2
+1	5
+3	2
+6	1
+5	0
+4	1
+0	0

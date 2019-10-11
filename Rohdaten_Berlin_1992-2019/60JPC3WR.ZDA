@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025536
+datum=12.3.1992
+kurzken=Q 2553.6/92-F
+bez=Hans-Beimler-Straße südlich Prenzlauer Berg    ( Berlin 1055 Friedrh. )
+arm1=Ost,850,0100
+arm2=West,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+4 3 
+6 2 
+2 0 
+3 0 
+2 0 
+1 0 
+2 0 
+0 0 
+4 0 
+3 1 
+0 0 
+4 5 
+; 2 -> 1
+9 2 
+5 0 
+2 0 
+2 0 
+1 0 
+2 1 
+6 0 
+3 0 
+2 0 
+4 0 
+1 0 
+2 0 

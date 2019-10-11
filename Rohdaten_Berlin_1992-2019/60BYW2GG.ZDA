@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 15512
+datum=17.09.1987
+kurzken=Q 15512/87
+bez=Attilastrasse suedl. Attilaplatz       ( Berlin 42 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1165 835 719 696 582 577 680 678 837 949 757 621 
+; 2 -> 1
+762 615 604 591 608 694 751 753 1109 1185 945 818 

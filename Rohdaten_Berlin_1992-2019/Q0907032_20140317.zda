@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907032
+datum=17.03.2014
+kurzken=Q 0907032/14
+bez=AD Funkturm - von Parkplatz Nordkurve nach A115 AVUS  (Charlottenburg, 14055)
+arm1=A115 AVUS,700,0000
+arm2=Parkplatz Nordkurve,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+5	6	1	0
+6	5	0	0
+10	9	0	0
+13	8	0	0
+8	6	0	0
+40	9	1	0
+51	18	2	0
+33	5	1	1
+42	5	0	0
+66	8	1	1
+70	5	4	1
+61	5	0	0

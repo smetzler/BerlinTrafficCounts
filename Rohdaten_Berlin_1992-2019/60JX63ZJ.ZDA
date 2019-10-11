@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025818
+datum=16.6.1992
+kurzken=Q 25818/92-F
+bez=Wongrowitzer Steig östlich Kaulsdorfer Straße    ( Berlin 1170-Köpenick )
+arm1=Süd,80,0100
+arm2=Nord,1880,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+3 0 
+2 0 
+3 0 
+1 0 
+10 0 
+3 0 
+1 0 
+1 0 
+5 0 
+2 1 
+1 0 
+1 0 
+; 2 -> 1
+2 1 
+0 0 
+4 0 
+1 1 
+6 0 
+2 0 
+3 0 
+5 3 
+2 0 
+0 0 
+1 0 
+1 0 

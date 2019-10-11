@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6683018
+datum=11.10.1994
+kurzken=Q 6683018/94
+bez=Seehauser Straße (östl. Pablo-Picasso-Straße) (Wartenberg, 13057)
+arm1=Pablo-Picasso-Straße,670,0010
+arm2=,0,0000
+arm3=Pablo-Picasso-Straße,2260,1000
+arm4=Seehausener Straße,3020,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 3
+8,1
+6,31
+1,1
+2,0
+2,2
+10,0
+0,0
+0,0
+2,0
+4,2
+1,0
+0,0
+; 3 -> 1
+0,0
+4,0
+2,0
+3,0
+6,28
+12,0
+5,4
+8,0
+12,0
+9,3
+10,0
+5,0

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00921
+datum=08.05.2015
+kurzken=Q 00921/15
+bez=A113 - (Zu- Abfahrt Johannisthaler Chaussee)   (Treptow, 12487)
+arm1=AS Späthstraße,500,0100
+arm2=Johannisthaler Chaussee,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+618	2	0	1	13
+491	6	2	0	11
+428	6	0	1	9
+; 2 -> 1
+262	4	1	0	5
+324	1	1	0	4
+293	2	0	1	6

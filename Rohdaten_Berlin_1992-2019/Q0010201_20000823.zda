@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010201
+datum=23.08.2000
+kurzken=Q 010201/00
+bez=Invalidenstraße (östl. Heidestraße / Sandkrugbrücke) (Tiergarten, 10557)
+arm1=Heidestraße,1200,0100
+arm2=Alexanderufer,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=9; Niederschlag=0\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+47
+98
+90
+64
+53
+61
+49
+98
+94
+101
+106
+151
+; 2 -> 1
+64
+164
+135
+69
+71
+73
+65
+85
+66
+92
+114
+115

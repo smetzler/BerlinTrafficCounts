@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00921
+datum=09.10.2015
+kurzken=Q 00921/15
+bez=A113 - (Zu- Abfahrt Johannisthaler Chaussee)   (Treptow, 12487)
+arm1=AS Späthstraße,500,0100
+arm2=Johannisthaler Chaussee,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Ernst-Keller-Brücke. City-Atlas Seite 119\, Feld 8c
+data=
+; 1 -> 2
+558	12	1	0	4
+592	8	1	1	11
+436	6	0	0	4
+; 2 -> 1
+295	8	2	0	2
+348	3	1	0	2
+329	2	1	1	8

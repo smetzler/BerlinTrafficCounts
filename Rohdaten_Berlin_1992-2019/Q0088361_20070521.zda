@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 88361
+datum=21.05.2007
+kurzken=Q 88361/07
+bez=Rudower Straße (nördl. Kormoranweg - Möwenweg)   (Britz, 12351)
+arm1=Rudower Straße,360,0000
+arm2=Kormoranweg,1460,0001
+arm3=Rudower Straße,2110,0000
+arm4=Möwenweg,3110,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=30°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	1
+15	1
+27	0
+27	0
+26	0
+23	0
+25	5
+21	1
+30	2
+25	4
+15	0
+31	4
+; 4 -> 2
+7	1
+10	2
+21	1
+31	2
+34	2
+19	1
+27	3
+23	2
+21	3
+11	4
+19	0
+21	1

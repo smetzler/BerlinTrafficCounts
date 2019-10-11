@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q1003
+datum=27.03.2019
+kurzken=Q1003/19
+bez=Blankenburger Straße (zwischene Klothidestraße und Lindenberger Straße) (Niederschönhausen, 13156) 
+arm1=Klothidestraße,1160,0100
+arm2=Lindenberger Straße,2960,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+; 2 -> 1

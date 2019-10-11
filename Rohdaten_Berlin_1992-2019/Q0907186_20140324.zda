@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907186
+datum=24.03.2014
+kurzken=Q 0907186/14
+bez=A111 (BAB-Zubr. HH)   (Höhe Heckerdamm, ohne Zu-Abf.)   (Charlottenburg, 13627)
+arm1=AD Charlottenburg,1700,0100
+arm2=AS Flughafen Tegel,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=nur Fahrzeuge\, die den Heckerdamm unterqueren (ohne Zu-Abfahrt).\n
+data=
+; 1 -> 2
+3073	173	7	11
+3347	137	9	14
+2639	189	10	10
+2371	268	11	10
+2419	172	8	8
+2461	265	3	18
+2634	221	10	22
+3077	208	7	25
+3203	151	12	32
+3258	117	8	33
+3138	83	6	29
+2683	81	11	27
+; 2 -> 1
+3447	288	1	21
+3099	248	3	30
+2244	236	5	22
+2345	269	10	10
+2228	264	7	13
+2270	228	4	14
+2266	227	11	24
+2668	171	5	16
+2376	161	9	15
+2654	105	10	31
+2172	109	6	24
+2409	40	6	23

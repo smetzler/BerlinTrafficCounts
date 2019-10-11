@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4303
+datum=27.02.1995
+kurzken=Q 4303/95
+bez=Rathausstraße (östl. Poststraße) (Mitte, 10718)
+arm1=Poststraße ,1300,0100
+arm2=Spandauer Straße ,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+123 8 0 0 2
+134 11 0 1 1
+161 9 0 0 4
+159 11 0 0 7
+142 6 0 0 12
+141 5 0 0 7
+180 8 0 0 10
+169 6 0 4 16
+241 5 1 1 20
+315 3 0 0 18
+202 3 0 2 16
+203 1 0 1 8
+; 2 -> 1
+411 2 0 2 6
+285 5 0 2 10
+151 9 0 0 8
+105 8 0 0 3
+114 5 2 1 9
+91 0 0 1 10
+126 2 1 2 7
+104 2 0 3 13
+128 3 1 2 11
+101 0 1 0 5
+107 2 0 0 22
+99 0 0 1 9

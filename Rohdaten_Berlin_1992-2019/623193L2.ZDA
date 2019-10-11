@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 97245
+datum=07.03.1991
+kurzken=Q 97245/91
+bez=Brunnenstrasse noerdlich Stralsunder Strasse    ( Berlin 65 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+30 142 0 67 20 0 172 15 6 235 33 13 240 12 9 
+223 25 12 186 41 18 146 28 7 266 27 41 303 25 20 
+265 44 21 81 30 4 
+; 2 -> 1
+14 12 0 57 6 0 140 8 10 218 21 8 287 15 15 
+274 23 13 165 20 13 192 92 15 293 24 26 314 48 21 
+267 40 18 140 20 1 

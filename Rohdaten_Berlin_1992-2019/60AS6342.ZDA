@@ -1,0 +1,19 @@
+[ZA1001]
+knoten=Q 13974
+datum=03.10.1989
+kurzken=Q 13974/89
+bez=Rembrandtstrasse noerdl. Friedenauer Bruecke    ( Berlin 41 )
+Arm1=Nord,900,0100
+Arm2=,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+1 30 4 0 0 0 29 4 4 0 1 53 5 1 0 
+0 28 5 1 0 1 28 5 4 0 1 52 14 8 0 
+7 40 3 4 0 1 54 4 5 0 0 59 3 0 1 
+1 56 1 0 0 2 68 0 1 0 0 66 3 0 0 

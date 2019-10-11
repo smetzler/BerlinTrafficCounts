@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031207
+datum=13.09.2004
+kurzken=Q 031207/04
+bez=Wildenbruchstraße (nördl. Heidelberger Straße) (Neukölln, 12045)
+arm1=Heidelberger Straße ,1400,0100
+arm2=Karl-Kunger-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle in der Elsenstraße: Richtung 2>1 gesperrt!
+data=
+; 1 -> 2
+173	19	9	12	15
+284	42	11	12	37
+280	39	15	10	28
+259	35	10	9	28
+253	38	19	9	17
+280	42	10	9	20
+254	38	18	9	35
+294	50	11	10	31
+348	59	7	12	37
+358	70	6	15	33
+400	50	11	11	52
+348	38	5	11	36
+; 2 -> 1
+336	55	15	12	13
+394	66	16	11	29
+408	64	22	13	18
+318	62	18	9	22
+352	58	22	8	20
+387	63	20	8	23
+316	49	21	9	20
+332	57	10	10	35
+324	55	13	9	23
+370	56	7	16	35
+412	64	10	11	40
+424	42	6	12	28

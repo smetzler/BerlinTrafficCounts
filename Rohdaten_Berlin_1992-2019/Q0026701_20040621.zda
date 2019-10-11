@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26701
+datum=21.06.2004
+kurzken=Q 26701/04
+bez=Treseburger Straße (westl. Karower Damm)     (Blankenburg, 13129)
+arm1=Treseburger Straße,600,0000
+arm2=Karower Damm,1450,0001
+arm3=Straße 26,2400,0000
+arm4=Karower Damm,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 20°C; Sonne: 12 Std; Niederschlag: 2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+3	0
+3	0
+4	0
+5	0
+6	0
+5	0
+2	1
+6	1
+12	2
+3	0
+; 4 -> 2
+0	0
+2	2
+0	0
+1	0
+0	0
+1	0
+2	0
+3	0
+2	0
+7	1
+14	2
+6	0

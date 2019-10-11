@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 14746
+datum=14.03.1989
+kurzken=Q 14746/89
+bez=Goettinger Strasse suedlich Thorwaldsenstrasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: wolkig bis bedeckt !
+data=
+; 1 -> 2
+3 1 5 1 7 0 7 0 17 0 4 1 6 1 
+4 1 15 4 12 2 19 1 9 2 
+; 2 -> 1
+2 1 4 0 8 0 6 0 6 0 7 0 9 1 
+5 2 10 0 9 1 13 7 10 4 

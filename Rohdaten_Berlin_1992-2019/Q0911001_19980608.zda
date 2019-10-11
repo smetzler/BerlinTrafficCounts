@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911001
+datum=08.06.1998
+kurzken=Q 0911001/98
+bez=Bundesallee (südl. Südwestkorso)   (Friedenau, 12161)
+arm1=Südwestkorso,0,0100
+arm2=Ortrudstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+701	23	5	23
+787	25	2	30
+821	38	2	37
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1413	32	0	113
+1607	11	0	126
+1375	11	0	93
+; 2 -> 1
+1555	28	0	96
+1922	37	1	97
+1328	29	0	55
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1090	9	0	63
+1116	6	0	86
+1149	6	0	79

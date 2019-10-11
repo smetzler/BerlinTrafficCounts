@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00582
+datum=05.07.2015
+kurzken=Q 00582/15
+bez=A111 - Zubr. HH (Zu-Abfahrt nördl.Heckerdamm) (R'dorf, 13627)
+arm1=Heckerdamm,1600,0100
+arm2=AS Flughafen Tegel,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Heckerdamm\, nur die Zu- und Abfahrt nördl. Heckerd. zählen! \nCity-Atlas Seite 70\, Feld 5d
+data=
+; 1 -> 2
+512	1	1	26	6
+574	0	0	24	8
+523	1	1	29	6
+; 2 -> 1
+503	1	2	25	12
+580	2	0	26	10
+1203	3	0	28	16

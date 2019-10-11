@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42023
+datum=10.08.2004
+kurzken=Q 42023/04
+bez=Schwedter Straße (südl. Bernauer Straße)   (Prenzlauer Berg, 10437)
+arm1=Schwedter Straße,110,0000
+arm2=Bernauer Straße,1120,0001
+arm3=Schwedter Straße,1960,0000
+arm4=Eberswalder Straße,2860,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=31°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+14	8
+14	1
+10	1
+13	0
+13	0
+19	1
+11	1
+13	0
+8	3
+21	2
+13	0
+18	1
+; 4 -> 2
+5	0
+9	0
+17	19
+18	0
+3	0
+14	1
+10	0
+16	5
+21	0
+20	4
+6	1
+11	1

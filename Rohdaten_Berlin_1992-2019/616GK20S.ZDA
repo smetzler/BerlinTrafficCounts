@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 55028
+datum=29.04.1986
+kurzken=Q 55028/86
+bez=Kladower Damm  noerdl. Neukladower Allee   ( Berlin 22 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : heiter und trocken
+data=
+; 1 -> 2
+4 0 8 0 4 1 2 1 4 7 3 0 5 0 
+0 0 1 1 1 0 1 0 1 1 
+; 2 -> 1
+0 0 3 6 3 1 0 0 2 3 0 0 2 0 
+0 0 0 0 3 1 0 0 0 0 

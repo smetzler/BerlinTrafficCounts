@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27814
+datum=03.05.2004
+kurzken=Q 27814/04
+bez=Schirmerstraße (nordöstl. Germanenstraße)   (Alt-Glienicke, 12524)
+arm1=Germanenstraße (NW),400,0010
+arm2=Schirmerstraße (SW),1400,0000
+arm3=Germanenstraße (SO),2200,1000
+arm4=Schirmerstraße (NO),3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=4 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+5	3
+3	1
+7	0
+2	0
+2	0
+1	2
+0	5
+3	1
+4	5
+0	0
+1	0
+1	0
+; 3 -> 1
+1	5
+2	0
+1	0
+1	0
+1	0
+1	0
+1	2
+3	7
+0	1
+3	0
+0	1
+1	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7311037
+datum=18.08.1993
+kurzken=Q 731103.7/93-F
+bez=Grünauer Straße östl. Köpenicker Straße    ( Alt-Glienicke )
+arm1=Nord,1470,0100
+arm2=Süd,3420,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+9 8
+7 0
+16 4
+17 0
+16 0
+4 0
+10 16
+11 7
+6 4
+9 0
+14 5
+14 3
+; 2 -> 1
+9 3
+11 3
+14 2
+11 0
+7 0
+7 3
+11 9
+10 4
+12 0
+8 2
+7 4
+4 2

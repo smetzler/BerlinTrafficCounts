@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 71848
+datum=11.3.1993
+kurzken=Q 7084.8/93-F
+bez=Kochstraße östl. Charlottenstraße     (Krzbg.)
+arm1=Süd,900,0100
+arm2=Nord,3600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+4 0 
+4 0 
+1 1 
+2 0 
+3 0 
+15 0 
+12 1 
+13 0 
+10 0 
+5 0 
+6 0 
+6 0 
+; 2 -> 1
+1 0 
+22 3 
+12 2 
+5 1 
+9 2 
+6 0 
+5 1 
+7 2 
+6 2 
+12 3 
+8 0 
+6 0 

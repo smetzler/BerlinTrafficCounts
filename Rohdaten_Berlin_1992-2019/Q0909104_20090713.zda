@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909104
+datum=13.07.2009
+kurzken=Q 0909104/09
+bez=Pfalzburger Straße (südl. Düsseldorfer Straße)   (Wilmersdorf, 10707)
+arm1=Hohenzollerndamm,1700,0000
+arm2=Düsseldorfer Straße,3500,0000
+arm3=((Westen)),800,0001
+arm4=((Osten)),2600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Pfalzburger Straße südl. der Düsseldorfer Str. (bis ca. 50m nördl.) queren.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+28	4
+29	3
+40	0
+24	0
+32	1
+23	4
+31	40
+50	42
+46	13
+31	17
+49	3
+34	4
+; 4 -> 3
+13	23
+34	4
+20	0
+48	2
+32	1
+34	15
+39	8
+44	13
+63	23
+38	16
+51	7
+63	12

@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 90042
+datum=03.05.2006
+kurzken=Q 90042/06
+bez=Skalitzer Straße (Nordfahrbahnen) (östl. Oranienstr.)  (Kreuzberg, 10999)
+arm1=Oranienstr.-Manteuffelstr. (N),580,0010
+arm2=Skalitzer Str. (W),1010,0000
+arm3=Wiener Straße,2380,1000
+arm4=Skalitzer Straße (O),2810,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0
+bemerk=Wetter: max T=23°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+98	114
+129	32
+186	68
+140	32
+137	53
+160	46
+181	26
+212	31
+235	37
+283	34
+232	13
+278	30
+; 3 -> 1
+72	28
+128	29
+155	26
+116	42
+119	44
+169	56
+205	22
+218	29
+216	22
+279	34
+269	20
+239	12

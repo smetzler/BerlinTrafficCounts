@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041249
+datum=17.6.1992
+kurzken=Q 4124.9/92-F
+bez=Blankenburger Str. westlich Lindenberger Str.    ( Berlin 1100-Pankow )
+arm1=Süd,100,0100
+arm2=Nord,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+16 5 
+10 1 
+14 1 
+12 0 
+19 4 
+25 6 
+26 2 
+23 5 
+34 11 
+40 9 
+16 1 
+4 0 
+; 2 -> 1
+5 6 
+3 0 
+8 0 
+4 0 
+17 2 
+16 9 
+1 2 
+4 5 
+9 3 
+29 5 
+19 0 
+21 3 

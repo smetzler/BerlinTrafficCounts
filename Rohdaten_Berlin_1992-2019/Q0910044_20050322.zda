@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0910044
+datum=22.03.2005
+kurzken=Q 0910044/05
+bez=Spanische Allee (westl. Wasgenstraße)   (Schlachtensee, 141291)
+arm1=Palmzeile,900,0100
+arm2=Wasgenstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+118	4	3	2	23
+161	3	4	1	10
+145	3	5	0	22
+132	6	2	2	6
+161	3	3	1	9
+145	2	3	4	10
+; 2 -> 1
+161	6	4	4	7
+182	3	4	2	17
+176	4	3	1	6
+154	4	2	0	8
+155	1	4	4	19
+167	2	2	3	16

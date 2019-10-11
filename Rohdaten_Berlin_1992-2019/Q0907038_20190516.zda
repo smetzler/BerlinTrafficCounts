@@ -1,0 +1,45 @@
+[ZA1001]
+knoten=Q 0907038
+datum=16.05.2019
+kurzken=Q 0907038/19
+bez=A100-Stadtring - Zu-Abfahrt Siemensdamm (Charlottenburg, 13627) 
+arm1=Siemensdamm,900,0100
+arm2=BAB A100,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=1>2 gesperrt von 6:15 bis 11:15 Uhr und 13:35 bis 18 Uhr
+Durchführung der Erhebung:   - Projektbüro Berlin  
+data=
+; 1 -> 2
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+260	19	0	0	0
+360	22	0	0	0
+195	20	0	0	0
+271	11	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+421	16	0	4	0
+; 2 -> 1
+612	36	1	6	0
+640	23	1	10	0
+507	48	0	1	0
+446	36	0	0	0
+376	45	0	0	0
+244	13	3	0	0
+354	20	0	1	0
+314	14	0	3	0
+218	16	0	2	0
+308	16	0	8	0
+414	13	0	0	0
+384	6	0	2	0

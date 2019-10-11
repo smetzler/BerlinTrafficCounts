@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912021
+datum=18.03.1999
+kurzken=Q 0912021/99
+bez=Drakestraße (südl. Curtiusstraße)   (Lichterfelde, 12205)
+arm1=Curtiusstraße,300,0100
+arm2=Gardeschützenweg,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+495	18	13	7
+546	35	12	8
+565	35	12	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+801	14	13	24
+918	16	12	17
+835	11	12	13
+; 2 -> 1
+858	39	12	26
+935	35	19	11
+863	34	11	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+821	29	16	21
+866	10	12	18
+795	9	12	11

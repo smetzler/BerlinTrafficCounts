@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912020
+datum=17.03.1999
+kurzken=Q 0912020/99
+bez=Leonorenstraße (südl. Calandrellistraße)   (Lankwitz, 12247)
+arm1=Calandrellistraße,250,0100
+arm2=Corneliusstraße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+637	34	44	7
+729	36	36	9
+705	38	33	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+959	20	39	20
+938	17	41	13
+938	8	38	21
+; 2 -> 1
+1219	38	43	24
+1140	52	40	6
+916	60	38	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+970	16	41	28
+908	36	40	17
+957	6	39	28

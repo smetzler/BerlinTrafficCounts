@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919085
+datum=11.05.2006
+kurzken=Q 0919085/06
+bez=Schloßallee-Verl. (Parkweg) (östl. Siegfriedstr.)  (Niederschönhausen, 13127)
+arm1=Siegfriedstraße,1000,0100
+arm2=Klothildestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+42
+37
+28
+28
+41
+32
+27
+40
+96
+84
+73
+45
+; 2 -> 1
+78
+44
+42
+49
+69
+30
+28
+41
+54
+87
+52
+40

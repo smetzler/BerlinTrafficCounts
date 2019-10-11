@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0506042
+datum=17.11.2011
+kurzken=Q 0506042/11
+bez=A115 - AVUS Zu.-Abfahrt Hüttenweg (westl. AVUS)   (Zehlendorf, 14129)
+arm1=AD Funkturm,3300,0001
+arm2=Hüttenweg (O),2400,0000
+arm3=AS Spanische Allee,1500,0000
+arm4=Hüttenweg (W),600,0010
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=AS Hüttenweg gesperrt  !! \n
+data=
+; 1 -> 4
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+; 4 -> 3
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0

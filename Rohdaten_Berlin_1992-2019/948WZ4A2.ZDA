@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q5237027
+datum=11.5.1993
+kurzken=Q 523702.7/93-F
+bez=Motzener Straße südl. Nahmitzer  Damm    (Marienfelde)
+arm1=Ost,900,0100
+arm2=West,2930,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken 
+data=
+; 1 -> 2
+25 0 
+15 0 
+17 1 
+11 0 
+6 0 
+16 0 
+18 0 
+4 0 
+7 0 
+16 1 
+15 0 
+5 0 
+; 2 -> 1
+8 0 
+3 0 
+10 0 
+7 1 
+7 0 
+28 0 
+19 0 
+5 0 
+62 0 
+22 6 
+4 1 
+0 0 

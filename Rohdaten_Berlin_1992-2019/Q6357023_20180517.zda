@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6357023
+datum=17.05.2018
+kurzken=Q 6357023/18
+bez=Königsheideweg (östl. Johannisthaler Chaussee)   (Johannisthal, 12437)
+arm1=Königsheideweg (W),620,0000
+arm2=Johannisthaler Chaussee,1450,0001
+arm3=Königsheideweg (O),2420,0000
+arm4=(Nordosten),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+1	1
+3	0
+3	5
+12	1
+6	1
+2	0
+5	0
+1	1
+5	2
+2	0
+3	0
+1	1
+; 4 -> 2
+0	1
+2	0
+2	0
+6	0
+3	0
+0	0
+2	0
+3	1
+3	1
+2	1
+4	2
+3	1

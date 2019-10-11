@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 70504
+datum=10.05.1994
+kurzken=Q 70504/94
+bez=Salv.-Allende-Straße / nördl. Friedrichshagener Straße (Köpenick) 
+arm1=Fürstenwalder Damm,50,0100
+arm2=Friedrichshagener Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1400,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für      
+data=
+; 1 -> 2
+941 109 20 12 56
+1161 71 20 14 69
+1704 32 23 35 50
+1294 31 24 26 41
+; 2 -> 1
+948 141 21 26 93
+1272 83 17 47 91
+1064 44 31 29 85
+1109 79 18 24 105

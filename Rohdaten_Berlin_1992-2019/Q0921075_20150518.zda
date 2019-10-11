@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921075
+datum=18.05.2015
+kurzken=Q 0921075/15
+bez=Georg-Knorr-Straße (Marzahner Brücken, Abf. von Landsberger A.) (Marzahn, 12681)
+arm1=Georg-Knorr-Straße,900,0000
+arm2=Landsberger Allee (Hochstr.),2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+89	6	0	4	4
+96	5	1	4	1
+76	7	0	2	0
+57	10	0	2	2
+66	4	0	2	1
+82	10	0	3	3
+82	5	0	2	2
+69	9	0	3	1
+56	3	0	4	1
+74	4	0	6	1
+61	2	0	4	0
+38	6	0	4	1

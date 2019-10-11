@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5646637
+datum=16.05.1995
+kurzken=Q 5646637/95.2
+bez=Straße vor Schönholz (südöstl. Provinzstraße)   (Schönholz, 13409)
+arm1=Straße vor Schönholz,420,0000
+arm2=Provinzstraße,1720,0001
+arm3=Straße vor Schönholz,2240,0000
+arm4=Nordosten,3520,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 15°C; wolkig; kein Niederschlag.\nDurchführung der Erhebungen: \n - büro für   und  
+data=
+; 2 -> 4
+0 0
+2 0
+3 0
+0 0
+2 2
+2 0
+1 0
+2 0
+0 0
+4 0
+8 2
+5 0
+; 4 -> 2
+1 1
+0 0
+2 0
+0 0
+1 0
+0 0
+2 1
+0 0
+0 0
+1 0
+0 0
+0 0

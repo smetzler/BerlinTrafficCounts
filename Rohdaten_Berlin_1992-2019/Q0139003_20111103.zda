@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139003
+datum=03.11.2011
+kurzken=Q 139003/11
+bez=Waßmannsdorfer Chaussee (Stadtgrenze)   (Rudow, 12355)
+arm1=Brandenburg,1600,0100
+arm2=Rhodeländerweg,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+54	4	0	3	6
+45	8	0	1	0
+35	3	0	0	1
+22	4	0	2	0
+50	5	0	0	4
+53	5	0	2	7
+52	4	0	0	8
+51	7	0	1	6
+54	3	0	0	6
+74	4	0	3	3
+46	1	0	3	2
+28	1	0	2	6
+; 2 -> 1
+60	2	0	0	6
+45	5	0	0	3
+38	6	0	0	2
+44	2	0	0	2
+31	1	0	3	1
+47	8	0	1	7
+50	3	0	1	4
+56	7	0	2	9
+50	4	0	1	2
+53	1	0	3	1
+40	0	0	2	0
+17	1	0	1	2

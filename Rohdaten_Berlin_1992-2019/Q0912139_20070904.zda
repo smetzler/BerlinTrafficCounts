@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912139
+datum=04.09.2007
+kurzken=Q 0912139/07
+bez=Birkbuschstraße (Fußg.-Rad-Überweg nördl. Teltowkanal))   (Steglitz, 12167)
+arm1=Darlandweg,150,0000
+arm2=Teltowkanal,1950,0000
+arm3=Prommenade (westl. Birkbuschstr.),1050,0001
+arm4=Prommenade (östl. Birkbuschstr.),2850,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählung: Fußgänger  (unterschieden nach Erw und Jugend) und Radfahrer !\nWetter: max T=14°C; Sonne=4 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+29	4	53
+51	2	25
+44	0	24
+49	0	10
+43	1	14
+12	0	19
+20	1	18
+29	0	35
+48	4	20
+32	2	52
+50	2	47
+51	1	26
+; 4 -> 3
+27	1	70
+41	2	64
+40	0	47
+53	0	21
+35	0	11
+11	1	18
+17	3	18
+28	2	26
+13	1	19
+46	1	31
+51	4	37
+46	1	23

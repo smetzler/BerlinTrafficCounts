@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3714
+datum=31.05.2006
+kurzken=Q 3714/06
+bez=Altstädter Ring (nördl. Seegefelder Str. - Stabholzgarten)  (Spandau ,13597)
+arm1=Seegefelder Straße,700,0010
+arm2=Klosterstraße,1600,0000
+arm3=Stabholzgarten,2450,1000
+arm4=Altstädter Ring,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=2\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+133	35
+165	13
+198	22
+222	20
+287	17
+241	57
+279	24
+392	6
+340	20
+365	33
+361	41
+239	24
+; 3 -> 1
+68	29
+91	21
+195	35
+338	15
+431	31
+479	53
+453	43
+540	26
+548	34
+538	50
+572	45
+442	67

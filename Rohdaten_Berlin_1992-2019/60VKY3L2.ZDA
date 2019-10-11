@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40930
+datum=7.3.1991
+kurzken=Q 4093.0/91
+bez=Lipschitzallee Nr. 20 (Gesundheitszentrum)    ( Berlin 47 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+137 
+148 
+185 
+220 
+206 
+198 
+238 
+280 
+310 
+279 
+335 
+374 
+; 2 -> 1
+165 
+160 
+170 
+163 
+157 
+150 
+142 
+165 
+181 
+244 
+191 
+196 

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 20101
+datum=05.08.2015
+kurzken=Q 20101/15
+bez=A111 Zu- u. Abfahrt südl. Schulzendorfer Str.  (Reinckendorf, 13503)
+arm1=AS Schulzendorfer Straße ,100,0100
+arm2=AS Waidmannsluster Damm,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Schulzendorfer Str.\, nur die südliche Zu-Abf. der AS Schulzendorfer Str. zählen.\nCity-Atlas Seite 33\, Feld 7d
+data=
+; 1 -> 2
+431	0	0	1	9
+404	1	0	0	10
+416	3	0	1	16
+; 2 -> 1
+714	20	0	2	29
+778	10	0	0	29
+647	6	0	0	31

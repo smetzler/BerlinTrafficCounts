@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20023
+datum=04.12.2002
+kurzken=Q 2002/02
+bez=A115 - BAB AVUS (nördl. Hüttenweg - mittl. Spur)   (Zehlendorf, 14193)
+arm1=Hüttenweg,1400,0100
+arm2=AD Funkturm,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=1000,1500
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Aus Sichtgründen konnte 1>2 nicht spurabhängig gezählt werden (Daten siehe Q2002).\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+; 2 -> 1
+700	102	3	0	1	0
+669	68	3	1	0	3
+730	69	4	0	3	2
+883	99	4	0	1	1
+1035	97	4	0	1	2

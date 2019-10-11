@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0921002
+datum=23.06.1998
+kurzken=Q 0921002/98
+bez=Märkische Allee (südl. Poelchaustraße)   (Marzahn, 12681)
+arm1=Allee der Kosmonauten,1850,0100
+arm2=Poelchaustraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+804	68	0	10
+762	94	4	6
+746	67	2	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1374	57	0	16
+1295	46	1	26
+1212	41	0	11
+; 2 -> 1
+1136	87	0	15
+951	76	0	9
+957	86	1	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1218	58	0	21
+1281	43	0	18
+1206	31	3	12

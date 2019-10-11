@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q002994
+datum=17.06.2019
+kurzken=Q002994/19
+bez=Altstädter Ring / Moritzstraße (Spandau, 13597)  über Arm4
+arm1=Moritzstraße (W),600,0010
+arm2=Altstädter Ring (S),1700,0000
+arm3=Moritzstraße (O),2400,1000
+arm4=Altstädter Ring (N),3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+104	4
+218	19
+313	41
+298	66
+288	21
+247	34
+217	20
+223	30
+165	23
+156	10
+154	32
+92	8
+; 3 -> 1
+19	34
+24	18
+76	21
+144	14
+127	19
+104	6
+134	13
+120	14
+87	7
+92	12
+111	19
+93	11

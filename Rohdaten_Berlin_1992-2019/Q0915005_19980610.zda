@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0915005
+datum=10.06.1998
+kurzken=Q 0915005/98
+bez=Baumschulenstraße (nördl. Königsheideweg)   (Johannisthal, 12437)
+arm1=Königsheideweg,1500,0100
+arm2=Forsthausallee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+956	64	5	29
+817	54	8	19
+715	59	8	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+870	31	8	20
+888	37	7	22
+855	29	8	19
+; 2 -> 1
+702	59	7	24
+765	43	7	10
+665	65	8	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+787	36	7	39
+706	18	9	24
+751	19	6	15

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909043
+datum=26.04.2004
+kurzken=Q 0909043/04
+bez=Durlacher Straße (südöstl. Tübinger Straße)   (Wilmersdorf, 10715)
+arm1=Tübinger Straße,500,0100
+arm2=Bruchsaler Straße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+49	3	0	2	15
+76	3	0	3	14
+69	1	0	4	14
+60	3	0	0	19
+58	2	0	2	15
+63	0	0	0	14
+48	1	0	2	25
+89	0	0	2	20
+98	0	0	2	32
+95	1	0	2	28
+87	0	0	2	19
+79	0	0	2	24
+; 2 -> 1
+203	7	0	7	26
+314	2	0	9	26
+142	1	0	4	16
+84	1	0	0	25
+99	5	0	0	27
+87	0	0	0	29
+111	1	0	3	15
+107	2	0	5	23
+142	0	0	2	24
+131	0	0	3	11
+141	0	0	5	20
+109	0	0	1	13

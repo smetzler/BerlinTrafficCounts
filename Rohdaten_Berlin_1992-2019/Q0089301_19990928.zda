@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 89301
+datum=28.09.1999
+kurzken=Q 89301/99
+bez=Imbischweg (nördl. Johannisthaler Chaussee)   (Buckow, 12351)
+arm1=Imbuschweg,410,0000
+arm2=Johannisthaler Ch.,1190,0001
+arm3=Imbuschweg,2020,0000
+arm4=Johannisthaler Ch.,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+6	1
+15	1
+16	3
+26	5
+25	8
+19	7
+29	27
+31	9
+47	6
+42	14
+35	3
+28	3
+; 4 -> 2
+23	36
+41	14
+34	9
+25	2
+17	0
+14	3
+30	3
+18	3
+51	8
+31	7
+27	5
+18	1

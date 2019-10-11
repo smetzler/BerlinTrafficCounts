@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15992
+datum=26.08.2010
+kurzken=Q 15992/10
+bez=Bismarckstraße (südl. Steglitzer Damm)   (Steglitz, 12169)
+arm1=Steglitzer Damm W),800,0010
+arm2=Bismarckstraße (S),1700,0000
+arm3=Steglitzer Damm (O),2600,1000
+arm4=Bismarckstraße (N),3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+26	11
+37	2
+26	1
+43	3
+53	1
+72	30
+102	33
+92	29
+147	18
+141	11
+134	10
+99	1
+; 3 -> 1
+43	44
+22	8
+48	0
+26	0
+43	0
+45	4
+42	1
+49	11
+80	13
+63	9
+70	3
+50	3

@@ -1,0 +1,57 @@
+[ZA1001]
+knoten=K 2697
+datum=05.11.2009
+kurzken=K 2697/09
+bez=Strausberger Platz / Lichtenberger Str. (Süd)       (Friedrichshain, 10243)
+arm1=,0,0000
+arm2=Strausberger Platz (W),500,0011
+arm3=Lichtenberger Straße (Süd),1600,0001
+arm4=Strausberger Platz (O),2900,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Karl-Marx-Str. östl. Straußberger Platz nur 2 statt 3 Spuren je Richtung.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 3
+1040	30	0	8	33
+1062	30	6	13	77
+894	16	0	8	47
+784	31	4	4	26
+771	17	4	9	31
+749	18	0	5	21
+652	34	0	4	32
+692	38	5	11	20
+808	30	1	19	10
+792	28	1	7	12
+738	22	5	10	28
+678	2	2	7	40
+; 2 -> 4
+548	45	2	8	23
+666	36	0	7	22
+742	51	4	12	35
+766	42	6	5	22
+782	52	5	5	41
+827	72	4	7	57
+967	32	4	10	72
+1337	28	3	9	76
+1713	13	3	10	121
+1739	47	4	24	158
+1769	18	4	11	189
+1666	16	5	23	270
+; 3 -> 4
+464	27	0	4	9
+508	32	2	3	20
+534	21	6	11	18
+596	41	7	6	14
+577	37	3	2	16
+607	28	6	2	18
+744	34	1	4	23
+1023	37	1	12	33
+1411	29	0	18	45
+1376	31	0	15	55
+1349	25	0	13	38
+1303	11	4	10	67

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 85208
+datum=25.09.1995
+kurzken=Q 85208/95
+bez=Goerzallee (zwischen Luzerner Str. u. Ruthnerweg)  (Lichterfelde, 12207)
+arm1=Luzerner Straße ,1500,0000
+arm2=Ruthnerweg,3300,0000
+arm3=Westen,600,0001
+arm4=Osten,2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 20°\, sonnig\, kein Niederschlag. 
+data=
+; 3 -> 4
+16 3
+8 2
+5 3
+1 0
+12 3
+10 0
+3 0
+13 3
+19 2
+14 2
+29 5
+16 0
+; 4 -> 3
+10 4
+9 2
+1 1
+2 0
+6 0
+1 0
+3 0
+2 2
+6 2
+2 0
+4 0
+6 0

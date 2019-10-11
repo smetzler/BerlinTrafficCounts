@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27563
+datum=03.06.2003
+kurzken=Q 27563/03
+bez=Godesberger Straße  (östl. Treskowallee)   (Karlshorst, 10318)
+arm1=Dorotheastraße ,800,0000
+arm2=Treskowallee ,1700,0001
+arm3=Godesberger Straße   ,2600,0000
+arm4=Treskowallee ,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=32°C; Sonne=13 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	0
+4	0
+10	0
+13	0
+9	0
+8	3
+7	0
+19	0
+4	1
+17	0
+9	1
+4	0
+; 4 -> 2
+9	3
+9	0
+7	0
+10	0
+8	0
+8	0
+2	0
+8	0
+9	0
+10	0
+11	1
+2	0

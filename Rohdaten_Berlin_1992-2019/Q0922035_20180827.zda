@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922035
+datum=27.08.2018
+kurzken=Q 0922035/18
+bez=Dorfstraße (östl. Falkenberger Chaussee)   (Falkenberg, 13057)
+arm1=Falkenberger Chaussee,700,0100
+arm2=Hausvaterweg,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+350	11	11	8	48
+286	23	7	4	4
+308	13	3	8	13
+270	8	4	2	2
+305	19	2	5	9
+322	18	4	6	15
+358	18	8	6	12
+406	8	6	10	13
+490	8	8	11	23
+544	10	8	4	22
+424	2	6	9	26
+325	1	6	11	16
+; 2 -> 1
+434	18	10	14	24
+419	13	8	5	15
+292	13	4	3	16
+306	10	4	2	10
+312	13	3	2	9
+254	14	3	6	6
+330	11	7	12	10
+371	6	7	5	11
+393	9	6	7	32
+426	2	6	2	18
+293	1	7	15	12
+299	1	6	5	13

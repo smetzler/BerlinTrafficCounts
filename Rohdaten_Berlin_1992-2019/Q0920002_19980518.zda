@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920002
+datum=18.05.1998
+kurzken=Q 0920002/98
+bez=Schulzendorfer Straße (östl. Ruppiner Chaussee)   (Schulzendorf, 13503)
+arm1=Ruppiner Chaussee,1050,0100
+arm2=BAB A111,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+902	19	0	28
+720	23	0	19
+548	23	0	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+583	38	1	31
+533	25	3	14
+501	19	0	15
+; 2 -> 1
+454	24	0	20
+379	20	0	8
+380	29	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+685	29	0	21
+758	29	0	25
+714	24	1	25

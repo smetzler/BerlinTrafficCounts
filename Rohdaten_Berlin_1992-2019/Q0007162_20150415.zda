@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7162
+datum=15.04.2015
+kurzken=Q 7162/15
+bez=Joachimsthaler Straße (südl. Kurfürstendamm)   (Charlottenburg, 10623)
+arm1=Kurfürstendamm (W),1100,0010
+arm2=Joachimsthaler Straße (S),1750,0000
+arm3=Kurfürstendamm (O),2900,1000
+arm4=Joachimsthaler Straße (N),3550,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+52	0
+91	1
+214	7
+382	31
+449	70
+625	71
+662	83
+663	105
+698	103
+707	76
+826	89
+858	81
+; 3 -> 1
+52	1
+142	8
+227	21
+297	46
+472	61
+554	35
+675	76
+638	78
+683	136
+684	132
+802	128
+802	152

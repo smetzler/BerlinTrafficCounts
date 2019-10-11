@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919025
+datum=13.09.1999
+kurzken=Q 0919025/98
+bez=BAB A114, Zu-Abf. Damerowstr. (östl. BAB)  ( Pankow, 13089)
+arm1=BAB A114,650,0100
+arm2=Damerowstr. - An der Bahn,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+429	50	1	8
+374	35	0	5
+350	38	1	4
+432	57	0	9
+440	53	0	7
+409	51	0	6
+456	33	0	18
+474	33	0	8
+565	26	1	20
+599	16	0	24
+591	24	0	12
+546	9	0	21
+; 2 -> 1
+271	21	0	2
+190	44	1	0
+200	32	1	4
+178	23	1	0
+212	42	0	7
+223	54	0	2
+272	36	0	7
+326	36	0	7
+541	34	0	13
+690	34	0	17
+571	25	0	11
+293	11	0	4

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 10877
+datum=19.11.1987
+kurzken=Q 10877/87
+bez=Kreuzbergstrasse oestlich Moeckernstrasse     ( Berlin 61 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : regnerisch !
+data=
+; 1 -> 2
+3 0 6 2 2 4 6 2 7 3 1 2 
+; 2 -> 1
+2 2 8 3 4 5 8 8 6 4 0 3 

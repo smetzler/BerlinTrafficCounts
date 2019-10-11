@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0029
+datum=11.09.2015
+kurzken=Q 0029/15
+bez=B101 - Marienfelder Allee (nördl. Landesgrenze)   (Tempelhof, 12279)
+arm1=Landesgrenze,1500,0100
+arm2=Tilkeroder Weg,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 150\, Feld 5c
+data=
+; 1 -> 2
+699	33	24	9	3	31
+715	23	12	4	10	17
+712	20	10	5	8	9
+; 2 -> 1
+974	47	41	4	10	17
+884	50	34	5	13	11
+722	31	23	3	9	10

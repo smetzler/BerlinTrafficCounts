@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7614026
+datum=28.03.1995
+kurzken=Q 7614026/95
+bez=Hohenschönhauser Str. (südl. Dorfstraße) (Falkenberg, 13057)
+arm1=Dorfstraße,640,0010
+arm2=Hohenschönhauser Str,1440,0000
+arm3=Osten,2440,1000
+arm4=Ahrensfelder Ch.,2920,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 1°\, bedeckt\, 11\,5 mm Niederschlag\, Schnee- u. Eisglätte. \n
+data=
+; 1 -> 3
+1 5
+1 1
+1 0
+3 1
+0 0
+3 0
+0 2
+0 0
+2 3
+1 2
+0 0
+6 0
+; 3 -> 1
+1 1
+3 0
+1 0
+2 3
+1 0
+3 0
+1 4
+0 0
+1 2
+2 1
+1 1
+0 0

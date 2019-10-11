@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 62397
+datum=31.05.1994
+kurzken=Q 62397/94
+bez=Reginhardstraße (südl. Emmentaler Straße)  (Reinickendorf, 13409) 
+arm1=Armbrustweg,300,0000
+arm2=Emmentaler Straße,1250,0001
+arm3=Reginhardstraße,2200,0000
+arm4=Emmentaler Straße,3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  heiter\, wolkig - ab 17 Uhr Regen
+data=
+; 2 -> 4
+8 17
+9 1
+4 0
+4 0
+12 1
+20 2
+11 4
+8 5
+13 3
+12 2
+15 1
+16 2
+; 4 -> 2
+0 1
+8 1
+4 0
+3 3
+15 2
+17 1
+4 1
+12 4
+9 3
+11 2
+10 3
+8 1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905026
+datum=08.05.2007
+kurzken=Q 0905026/07
+bez=Grünberger Straße (westl. Simon-Dach-Straße)   (Friedrichshain, 10245)
+arm1=Warschauer Straße,800,0100
+arm2=Simon-Dach-Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+187	10	6	4	20
+227	9	7	5	31
+222	9	7	6	35
+305	17	6	8	38
+284	15	6	7	43
+273	9	7	4	39
+310	10	7	6	73
+351	11	7	6	68
+487	14	7	11	68
+545	16	5	11	84
+550	5	7	14	102
+520	4	6	12	113
+; 2 -> 1
+478	5	6	9	43
+286	12	3	3	50
+308	9	5	5	61
+205	4	7	4	30
+159	5	5	2	21
+140	6	5	7	19
+190	10	6	7	47
+175	5	6	6	31
+158	4	6	3	34
+204	3	6	6	37
+245	5	5	2	49
+180	0	6	1	35

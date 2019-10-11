@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6513021
+datum=18.05.2017
+kurzken=Q 6513021/17
+bez=Karl-Marx-Allee (westl. Straße der Pariser Kommune)   (Friedrichshain, 10243)
+arm1=Karl-Marx-Allee (W),800,0000
+arm2=Straße der Pariser Kommune (S),1700,0001
+arm3=Karl-Marx-Allee (O),2600,0000
+arm4=Straße der Pariser Kommune (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+11	1
+19	5
+36	2
+42	3
+42	6
+33	3
+58	2
+41	3
+52	2
+60	10
+52	7
+42	4
+; 4 -> 2
+29	6
+49	10
+41	4
+45	2
+44	3
+62	1
+64	4
+49	1
+76	4
+62	14
+56	9
+29	2

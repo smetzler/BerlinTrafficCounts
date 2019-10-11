@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 251332
+datum=17.04.2012
+kurzken=Q 251331/12
+bez=Wallstraße (Südseite, östl. Neue Roßstraße)   (Mitte, 10179)
+arm1=Mittelinsel,550,0010
+arm2=Wallstraße (W),1180,0000
+arm3=Neue Roßstraße (S),2050,1000
+arm4=Wallstraße (O),2980,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Wallstr. östl. der Neuen Roßstr. zwischen dem südl. Gehweg-Wallstr. und der Mittelinsel (U-Bhf.) queren.\n
+data=
+; 1 -> 3
+214	13
+195	4
+79	0
+17	0
+28	0
+41	0
+71	0
+74	2
+47	0
+52	0
+35	0
+61	1
+; 3 -> 1
+45	1
+58	0
+28	0
+18	0
+27	0
+35	0
+83	0
+140	1
+84	6
+71	0
+35	1
+42	2

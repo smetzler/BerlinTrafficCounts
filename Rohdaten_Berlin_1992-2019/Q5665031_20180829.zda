@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5665031
+datum=29.08.2018
+kurzken=Q 5665031/18
+bez=Ossietzkystraße (nördl. Breite Straße)   (Pankow, 13187)
+arm1=Ossietzkystraße,150,0000
+arm2=Breite Straße (W),1180,0001
+arm3=Berliner Straße,1980,0000
+arm4=Breite Straße (S),2980,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+67	0
+66	0
+109	0
+162	1
+167	0
+165	3
+110	7
+92	20
+92	34
+132	40
+126	34
+102	28
+; 4 -> 2
+50	7
+74	10
+23	21
+70	46
+203	20
+208	2
+123	11
+153	25
+179	62
+180	52
+131	42
+121	40

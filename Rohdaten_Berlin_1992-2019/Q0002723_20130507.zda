@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2723
+datum=07.05.2013
+kurzken=Q 2723/13
+bez=Amrumer Straße (südöstl. Seestraße)   (Wedding, 13351)
+arm1=Afrikanische Straße,400,0000
+arm2=Seestraße (SW),1300,0001
+arm3=Amrumer Straße,2200,0000
+arm4=Seestraße (NO),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=2 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+10	4
+9	2
+45	3
+21	1
+36	24
+61	0
+53	3
+43	0
+40	7
+73	10
+44	3
+23	3
+; 4 -> 2
+84	1
+88	5
+65	3
+37	0
+26	0
+47	0
+38	2
+35	3
+27	7
+22	1
+28	2
+10	3

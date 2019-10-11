@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5578038
+datum=03.04.2006
+kurzken=Q 5578038/06
+bez=Prenzlauer All.-Westfahrbahnen (nördl. Danziger Str.)   (Prenzl. Berg, 10405)
+arm1=Danziger Straße (W),650,0010
+arm2=Prenzlauer Allee (S),1600,0000
+arm3=Danziger Straße (O),2450,1000
+arm4=Prenzlauer Allee (N),3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Westsseite bis Mittelstreifen!\nWetter: max T=13°C; Sonne=2 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+43	9
+64	7
+64	9
+49	26
+57	6
+43	8
+51	1
+55	2
+68	1
+94	12
+63	5
+63	1
+; 3 -> 1
+42	37
+66	10
+80	13
+82	10
+59	13
+73	3
+63	6
+73	5
+101	6
+116	17
+107	4
+82	3

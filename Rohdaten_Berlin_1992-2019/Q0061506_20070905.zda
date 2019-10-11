@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 061506
+datum=05.09.2007
+kurzken=Q 061506/07
+bez=Am Juliusturm (Juliusturmbrücke) (Spandau, 13599)
+arm1=Breite Straße ,900,0100
+arm2=Zitadellenweg,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Ri. Westen auf der Juliusturmbrücke!\nFahrbahn auf zwei Fahrstreifen verengt.
+data=
+; 1 -> 2
+1599	292	87	14	70
+2088	242	85	12	106
+1634	182	85	13	96
+1310	164	118	9	73
+1241	169	110	9	54
+1317	163	95	11	39
+1249	116	91	5	67
+1388	145	86	9	76
+1304	114	75	6	71
+1372	171	62	11	85
+1444	112	36	19	48
+1212	76	39	8	51
+; 2 -> 1
+694	125	54	6	14
+910	135	88	7	47
+1005	144	94	7	44
+1072	130	71	6	63
+1046	100	82	6	67
+1071	127	90	7	69
+1241	128	96	7	66
+1382	117	79	7	63
+1830	163	77	14	101
+2046	190	75	9	95
+1888	172	52	9	85
+1999	135	51	7	98

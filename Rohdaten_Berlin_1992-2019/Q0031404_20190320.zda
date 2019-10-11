@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0031404
+datum=20.03.2019
+kurzken=Q 0031404/19
+bez=Gottlieb-Dunkel-Straße (nördl. Gradestraße) (Tempelhof, 12109) 
+arm1=Industriestraße,3300,0100
+arm2=Ullsteinstraße - Gradestraaße,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+391	44	5	4	35
+366	28	6	1	50
+358	38	3	5	21
+380	50	2	6	20
+328	33	3	4	19
+352	36	9	5	16
+409	26	6	4	21
+519	34	5	3	25
+657	19	8	7	50
+528	4	6	10	44
+468	9	7	7	36
+385	16	9	3	31
+; 2 -> 1
+547	32	6	7	41
+510	30	5	3	40
+448	42	4	4	16
+382	42	4	4	12
+348	40	4	1	15
+265	37	2	2	13
+386	39	4	9	16
+404	47	6	5	19
+398	21	6	9	40
+398	12	6	2	28
+390	7	5	3	41
+305	10	3	2	29

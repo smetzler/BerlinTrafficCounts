@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 021201
+datum=12.09.1994
+kurzken=Q 021201/94
+bez=Elsenstraße (Elsenbrücke, Spree) (Friedrichshain, 12435) 
+arm1=Stralauer Allee,3300,0100
+arm2=S-Bhf. Treptower Park,1500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Strom 2>1 am Nachmittag erheblicher Rückstau\, Bauarbeiten Puschkinallee / Am Treptower Park \nDurchführung der Erhebung: \n - büro für   
+data=
+; 1 -> 2
+1850,192,139,7,13
+1434,159,155,10,12
+1284,169,207,6,24
+1191,149,174,8,10
+1086,132,163,5,9
+998,134,211,7,6
+1117,118,161,2,8
+1189,156,151,2,12
+1162,171,147,5,18
+1323,133,96,3,18
+1476,156,90,2,11
+1212,108,53,3,16
+; 2 -> 1
+1489,180,91,8,11
+982,104,86,5,8
+805,93,92,2,5
+844,103,150,1,5
+848,133,132,4,5
+938,124,149,10,6
+997,110,103,3,17
+1109,102,125,1,9
+1308,119,81,4,18
+1259,75,65,2,31
+1086,63,26,1,27
+981,64,32,0,20

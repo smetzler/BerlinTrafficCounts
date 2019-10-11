@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q4332086
+datum=8.6.1993
+kurzken=Q 433208.6/93-F
+bez=Dahlemer Weg südl. Seehofstraße    (Zehlendorf)
+arm1=West,750,0100
+arm2=Ost,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken 
+data=
+; 1 -> 2
+2 1 
+4 0 
+1 0 
+7 1 
+4 0 
+1 0 
+2 0 
+1 0 
+2 0 
+4 1 
+4 0 
+2 0 
+; 2 -> 1
+1 2 
+2 0 
+6 0 
+12 1 
+1 0 
+1 0 
+13 0 
+7 1 
+4 0 
+10 3 
+11 0 
+3 0 

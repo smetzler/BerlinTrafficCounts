@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 1855
+datum=15.06.1995
+kurzken=Q 1855/95
+bez=Hohenzollernring (westl. Streitstraße), (Spandau, 13585) 
+arm1=Wansdorfer Steig,900,0100
+arm2=Streitstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+155 13 0 9 10
+165 16 0 2 8
+154 16 0 1 13
+186 26 2 6 10
+184 17 0 4 21
+157 16 0 3 12
+183 8 0 4 38
+276 9 0 15 39
+330 12 0 12 22
+345 18 0 18 23
+273 4 0 11 10
+254 1 0 5 16
+; 2 -> 1
+186 18 0 4 45
+158 12 0 2 19
+148 13 0 6 20
+184 22 2 8 6
+154 12 0 3 16
+156 7 0 3 6
+193 10 0 11 16
+231 12 0 4 11
+280 12 0 4 24
+267 16 0 9 22
+256 10 0 7 11
+232 7 0 4 11

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00371
+datum=23.04.2015
+kurzken=Q 00371/15
+bez=AS Kaiserda.-Süd (Zu- u. Abf. Messeda. [zw. Kaiserd. u. Kantstr.])   (Ch'burg, 14057)
+arm1=Messedamm - ICC,800,0100
+arm2=A100 (Funkturm),1700,0000
+arm3=A100 (Kaiserdamm),3500,1000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+955	18	12	1	18
+1024	23	13	3	21
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+987	22	16	3	24
+1057	14	14	2	28
+993	21	17	3	37
+; 3 -> 1
+116	4	3	0	5
+134	5	3	0	4
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+42	4	3	0	3
+37	2	2	1	1
+62	3	3	0	4

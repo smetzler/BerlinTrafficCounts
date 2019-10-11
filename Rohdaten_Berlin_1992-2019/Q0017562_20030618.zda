@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 17562
+datum=18.06.2003
+kurzken=Q 17562/03
+bez=Ostpreußendamm (südl. Bäkestraße)   (Lichterfelde, 12207)
+arm1=Bäkestraße,600,0010
+arm2=Ostpreußendamm,1500,0000
+arm3=((Osten)),2400,1000
+arm4=Ostpreußendamm,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	0
+2	2
+2	1
+2	0
+4	0
+2	0
+2	0
+0	0
+2	0
+1	0
+5	1
+5	1
+; 3 -> 1
+0	0
+2	0
+1	0
+0	0
+0	0
+0	0
+3	0
+1	0
+2	0
+1	1
+7	1
+1	0

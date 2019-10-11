@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40940
+datum=5.3.1991
+kurzken=Q 4094.0/91
+bez=Egon-Erwin-Kisch-Strasse in Hoehe S-Bahnhof Wartenberg  (Bln.-Hohenschoenh.)
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+261 
+208 
+216 
+228 
+174 
+212 
+197 
+256 
+286 
+285 
+268 
+223 
+; 2 -> 1
+223 
+205 
+126 
+169 
+199 
+231 
+166 
+181 
+365 
+445 
+282 
+243 

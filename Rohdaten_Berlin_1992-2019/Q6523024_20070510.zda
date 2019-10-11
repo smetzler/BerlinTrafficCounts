@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6523024
+datum=10.05.2007
+kurzken=Q 6523024/07
+bez=Frankfurter Allee (östl. Warschauer Straße)   (Friedrichshain, 10243)
+arm1=Petersburger Straße,100,0010
+arm2=Karl-Marx-Allee,810,0000
+arm3=Warschauer Straße,1620,1000
+arm4=Frankfurter Allee,2620,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=0\,5 Std; Niederschlag=17 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+36	20
+28	2
+65	3
+53	0
+59	8
+61	7
+77	0
+30	3
+82	2
+84	1
+76	6
+90	2
+; 3 -> 1
+13	5
+15	3
+36	4
+52	1
+60	8
+72	4
+112	1
+77	3
+102	12
+90	2
+117	5
+70	2

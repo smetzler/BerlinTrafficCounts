@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906031
+datum=29.05.2006
+kurzken=Q 0906031/06
+bez=Görlitzer Parkweg (verl. Glogauer Straße)   (Kreuzberg, 10999)
+arm1=Wiener Straße,1500,0100
+arm2=Görlitzer Park,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+33
+67
+81
+56
+40
+55
+51
+66
+52
+70
+73
+62
+; 2 -> 1
+36
+72
+87
+60
+52
+37
+55
+59
+70
+96
+99
+87

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5578033
+datum=03.04.2006
+kurzken=Q 5578033/06
+bez=Danziger Str.-Südfahrbahnen (östl. Prenzlauer Allee)   (Prenzl. Berg, 10405)
+arm1=Danziger Straße (W),650,0000
+arm2=Prenzlauer Allee (S),1600,0001
+arm3=Danziger Straße (O),2450,0000
+arm4=Prenzlauer Allee (N),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Südseite bis Mittelstreifen!\nWetter: max T=13°C; Sonne=2 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+49	19
+52	21
+75	9
+60	1
+82	2
+92	1
+40	5
+32	7
+48	8
+58	10
+58	6
+51	5
+; 4 -> 2
+45	24
+89	32
+70	20
+106	2
+89	7
+112	13
+74	11
+90	20
+111	15
+125	17
+143	8
+106	5

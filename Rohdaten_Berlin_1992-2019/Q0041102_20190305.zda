@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0041102
+datum=05.03.2019
+kurzken=Q 0041102/19
+bez=An der Wuhlheide (westl. Köpenicker Allee) (Köpenick, 12459) 
+arm1=Weiskopffstraße,850,0100
+arm2=Rudolf-Rühl-Allee,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+876	41	3	4	27
+855	34	1	2	16
+853	54	3	4	15
+762	34	0	2	18
+828	52	0	3	19
+862	36	1	1	11
+997	49	0	9	28
+1213	32	0	7	34
+2033	30	0	21	60
+1876	18	2	20	52
+1212	13	0	15	34
+833	4	1	12	29
+; 2 -> 1
+1459	37	2	13	47
+1379	52	5	11	52
+1213	67	2	9	31
+628	36	2	4	12
+730	44	0	6	12
+741	47	0	5	13
+748	36	2	10	27
+682	26	1	5	20
+776	20	0	4	27
+716	6	0	0	32
+581	3	1	2	20
+649	3	2	2	12

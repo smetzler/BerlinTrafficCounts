@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909015
+datum=12.11.1998
+kurzken=Q 0909015/98
+bez=BAB A100 (nördl. Hoher-Bogen-Brücke)   (Wilmersdorf, 10718)
+arm1=AS Hohenzollerndamm,400,0100
+arm2=AK Wilmersdorf,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+4953	394	6	66
+4727	394	5	34
+4500	460	9	26
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+5028	245	3	66
+5431	200	6	53
+5432	150	4	31
+; 2 -> 1
+5255	396	7	71
+4931	456	7	43
+4618	512	7	38
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+5123	262	3	70
+4044	181	2	54
+4722	185	2	39

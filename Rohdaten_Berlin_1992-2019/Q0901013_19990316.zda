@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901013
+datum=16.03.1999
+kurzken=Q 0901013/99
+bez=Alexanderstraße (südl. Magazinstraße)   (Mitte, 10179)
+arm1=Magazinstraße,100,0100
+arm2=Schillingstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+920	64	0	12
+1049	85	2	10
+933	77	0	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1063	59	3	11
+1154	52	2	19
+1014	26	3	11
+; 2 -> 1
+1037	88	3	14
+1000	76	3	15
+1076	73	3	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1155	56	0	16
+1264	24	4	23
+1053	22	6	7

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26402
+datum=19.09.2002
+kurzken=Q 26402/02
+bez=Siegfriedstraße (südl. Bornitzstraße )   (Lichtenberg, 10365)
+arm1=West,900,0010
+arm2=Siegfriedstraße,1750,0000
+arm3=Ost,2700,1000
+arm4=Siegfriedstraße,3550,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 19°C; Sonne: 3 Std; Niederschlag: 0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	3
+5	2
+6	0
+6	1
+9	1
+34	1
+11	5
+22	1
+42	6
+18	2
+16	0
+20	3
+; 3 -> 1
+3	0
+8	6
+8	0
+6	3
+3	0
+13	0
+19	2
+6	0
+30	5
+5	0
+10	0
+11	0

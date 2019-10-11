@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091002
+datum=21.04.1997
+kurzken=Q 091002/97
+bez=Dessauer Straße (südl. Ahrensfelder Chaussee) (Marzahn, 12689)
+arm1=Ahrensfelder Chaussee,300,0100
+arm2=Schwarzwurzelstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Ab 14 Uhr Vollsperrung wegen Bauarbeiten !
+data=
+; 1 -> 2
+127 22 5 0 2
+168 21 7 0 0
+112 12 6 0 2
+81 9 2 0 3
+92 9 4 0 4
+85 14 3 0 3
+73 14 4 0 6
+93 13 7 0 4
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+; 2 -> 1
+227 39 6 0 3
+164 20 7 0 1
+121 11 5 0 4
+109 17 3 0 3
+109 9 3 0 3
+94 13 2 0 8
+79 9 3 0 4
+85 8 2 0 2
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0

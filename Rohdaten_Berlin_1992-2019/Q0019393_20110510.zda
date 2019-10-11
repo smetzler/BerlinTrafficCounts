@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 19393
+datum=10.05.2011
+kurzken=Q 19393/11
+bez=Buckower Chaussee  (östl. Motzener Straße)   (Marienfelde, 12277)
+arm1=Buckower Chaussee (W),830,0000
+arm2=Motzener Strasse,2180,0001
+arm3=Buckower Chaussee (O),2630,0000
+arm4=Zehrensdorfer Straße,3180,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=13 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+10	1
+25	2
+5	0
+10	2
+3	0
+7	2
+7	0
+8	0
+2	0
+7	1
+8	0
+3	0
+; 4 -> 2
+6	2
+4	1
+2	0
+4	0
+5	0
+19	1
+16	0
+4	0
+4	0
+8	0
+7	0
+5	0

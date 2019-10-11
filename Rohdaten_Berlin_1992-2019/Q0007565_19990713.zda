@@ -1,0 +1,66 @@
+[ZA1001]
+knoten=Q 7565
+datum=13.07.1999
+kurzken=Q 7565/99
+bez=Friedrichstraße (nördl. Kochstraße)   (Kreuzberg, 10969)
+arm1=Friedrichstraße,70,0000
+arm2=Westen,950,0001
+arm3=Friedrichstraße,1870,0000
+arm4=Osten,2750,0100
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=28°C\, bewölkt\, vereinzelte Schauer.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+1	0
+3	0
+0	0
+1	0
+1	0
+20	0
+5	0
+56	0
+102	49
+74	35
+75	8
+107	2
+146	5
+86	20
+119	18
+91	8
+70	15
+52	6
+34	11
+20	0
+28	2
+10	0
+3	0
+; 4 -> 2
+9	0
+0	0
+1	0
+0	0
+0	0
+1	0
+21	2
+41	18
+78	24
+100	15
+92	1
+114	6
+85	5
+81	5
+86	3
+132	29
+120	8
+81	8
+67	9
+41	19
+18	10
+29	3
+4	0
+3	0

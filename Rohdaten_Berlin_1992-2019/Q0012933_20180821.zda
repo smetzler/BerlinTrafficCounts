@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12933
+datum=21.08.2018
+kurzken=K 12933/18
+bez=Sonnenallee (südöstl. Thiemannstraße)   (Neukölln, 12059)
+arm1=Sonnenallee (W),500,0000
+arm2=Thiemannstraße (S),1450,0001
+arm3=Sonnenallee (O),2300,0000
+arm4=Thiemannstraße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 2 -> 4
+24	3
+20	0
+29	3
+32	2
+15	0
+23	3
+26	5
+24	2
+27	3
+32	4
+19	3
+21	3
+; 4 -> 2
+8	2
+10	0
+12	1
+14	1
+18	2
+19	2
+21	4
+20	3
+23	2
+22	2
+18	4
+19	3

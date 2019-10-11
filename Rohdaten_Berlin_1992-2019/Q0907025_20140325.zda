@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907025
+datum=25.03.2014
+kurzken=Q 0907025/14
+bez=A100 - BAB-Stadtring (Goerdeler-Damm-Brücke [Beusselstr.])   (Charlottenb., 13627)
+arm1=A100 (AS J.-Kaiser-Platz),1000,0100
+arm2=Seestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Cityatlas 71/5c\n(nur Fahrzeuge\, die die Brücke unterqueren\, ohne Zu-Abf.)\nStrom 1>2 ab 8 Uhr stockender Verkehr\n
+data=
+; 1 -> 2
+1454	76	1	8
+1253	65	1	15
+946	57	0	5
+1045	53	2	5
+1116	55	0	8
+967	63	2	5
+951	40	0	2
+1021	36	0	4
+1024	25	0	7
+1045	25	1	6
+1045	23	2	15
+1042	15	0	8
+; 2 -> 1
+2120	69	4	18
+1988	82	1	11
+1652	63	2	4
+1313	60	3	4
+1240	56	0	7
+1477	144	5	6
+1598	110	2	7
+1604	89	2	16
+1610	61	1	15
+1825	58	0	7
+1695	38	2	11
+1722	28	1	13

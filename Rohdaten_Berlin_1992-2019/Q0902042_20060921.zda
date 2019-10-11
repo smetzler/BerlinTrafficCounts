@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0902042
+datum=21.09.2006
+kurzken=Q 0902042/06
+bez=Straße des 17. Juni (östl. Entlasungsstraße)   (Tiergarten, 10785)
+arm1=Entlastungsstraße,950,0100
+arm2=Brandenburger tor,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=KFZ-Zählung nur bis 12 Uhr brauchbar\, danach Straßensperrung für Kfz!!\n24°C max T; 11 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+860	32	4	58	82
+1073	36	8	45	181
+1112	40	29	46	164
+1015	39	26	30	106
+906	39	28	29	91
+30	3	1	0	134
+7	2	0	0	183
+7	3	1	2	144
+8	2	0	0	195
+0	2	0	0	239
+11	0	0	1	274
+3	1	0	1	316
+; 2 -> 1
+718	18	3	34	102
+869	17	7	24	228
+873	23	14	15	188
+708	30	9	20	96
+662	29	10	21	98
+22	3	1	1	100
+15	3	0	0	176
+4	1	0	0	102
+8	1	0	0	133
+2	1	0	1	143
+0	0	0	0	188
+3	2	0	0	200

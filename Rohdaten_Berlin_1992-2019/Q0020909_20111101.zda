@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020909
+datum=01.11.2011
+kurzken=Q 020909/11
+bez=Frankfurter Allee (B1/5) (Höhe S-Bhf. Frankf. Allee)   (Friedrichshain, 10247)
+arm1=Jessnerstraße,800,0100
+arm2=Gürtelstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: stadteinwärts zwi. Ruschestr. u. Möllendorffstr. re. FS gesperrt.\n
+data=
+; 1 -> 2
+1004	45	0	19	60
+978	52	1	12	79
+978	60	1	20	86
+1036	66	0	13	72
+1009	62	3	14	98
+1055	54	0	23	91
+2399	72	0	30	68
+2617	64	1	33	47
+2641	53	3	27	87
+2555	46	3	27	128
+2447	116	1	38	124
+2339	19	2	26	109
+; 2 -> 1
+1971	40	2	13	100
+1673	25	0	7	99
+1459	17	1	12	51
+1167	28	0	6	49
+1081	23	3	13	77
+968	15	3	9	74
+875	30	2	16	113
+674	25	2	11	116
+783	27	0	15	88
+1106	22	0	20	117
+1349	13	2	14	124
+1201	17	4	13	99

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 06041
+datum=28.10.1987
+kurzken=Q 6041/87
+bez=Altonaer Strasse  westl. Grosser Stern     ( Berlin 21 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1068 937 777 687 759 767 796 908 1136 1195 880 716 
+; 2 -> 1
+941 788 662 645 649 705 810 813 1049 1162 988 694 

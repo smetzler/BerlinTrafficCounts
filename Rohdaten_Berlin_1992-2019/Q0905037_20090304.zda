@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905037
+datum=04.03.2009
+kurzken=Q 0905037/09
+bez=Wedekindstraße (westl. Gubener Straße)   (Friedrichshain, 10243)
+arm1=Marschlewskistraße,1100,0100
+arm2=Gubener Straße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1305,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+83	6	6	0	8
+124	5	6	2	7
+126	8	5	2	4
+100	6	6	0	4
+125	8	6	0	19
+163	2	5	0	15
+185	5	5	8	26
+220	4	8	1	23
+238	2	4	2	18
+322	5	6	4	32
+303	2	6	7	40
+283	2	3	6	63
+; 2 -> 1
+362	7	6	2	53
+356	4	5	7	82
+189	5	6	1	49
+144	2	6	0	26
+122	6	5	1	18
+118	6	6	0	21
+163	8	5	4	26
+117	5	6	2	25
+174	2	6	2	19
+181	3	8	1	23
+157	0	6	6	28
+156	0	4	7	25

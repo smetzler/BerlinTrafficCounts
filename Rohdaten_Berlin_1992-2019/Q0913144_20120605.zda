@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913144
+datum=05.06.2012
+kurzken=Q 0913144/12
+bez=Bahnhofstraße (westl. Riedlinger Straße)   (Lichtenrade, 12307)
+arm1=Briesingstraße,950,0100
+arm2=Riedlinger Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1305,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch Fußgänger (unterschieden nach "Erw" und "Jugend") gezählt!\nWetter: max T=15°C; Sonne=3 Std; Niederschlag=7 mm;
+data=
+; 1 -> 2
+203	6	15	38	102	83
+184	4	15	22	119	20
+209	7	10	26	150	7
+202	2	12	31	188	12
+204	5	12	36	183	25
+153	6	10	18	93	6
+191	2	12	35	142	9
+234	1	14	34	181	14
+226	3	15	32	184	23
+257	3	14	34	146	19
+274	0	15	55	173	9
+235	0	16	46	98	11
+; 2 -> 1
+167	6	18	18	78	4
+181	6	19	36	165	14
+214	8	12	37	171	6
+238	3	16	49	276	12
+279	10	14	44	313	29
+161	4	15	48	158	34
+196	7	15	63	207	67
+205	2	16	44	202	36
+227	3	17	47	249	26
+260	10	19	48	227	32
+253	2	18	54	174	11
+239	0	18	45	186	17

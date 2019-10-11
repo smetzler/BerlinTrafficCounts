@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 93472
+datum=10.05.2004
+kurzken=Q 93472/04
+bez=Königin-Luise-Straße (westl. Arnimallee)   (Dahlem, 14195)
+arm1=((Norden)),3500,0010
+arm2=Königin-Luise-Straße,830,0000
+arm3=Arnimallee,1300,1000
+arm4=Königin-Luise-Straße,2850,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=4\,5 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	0
+0	0
+11	0
+4	0
+6	0
+8	0
+3	0
+0	0
+1	0
+0	0
+1	0
+0	0
+; 3 -> 1
+1	-1
+1	-1
+3	-1
+2	-1
+4	-1
+6	-1
+2	-1
+5	-1
+2	-1
+1	-1
+2	-1
+-1	-1

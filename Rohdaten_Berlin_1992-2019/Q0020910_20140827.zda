@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020910
+datum=27.08.2014
+kurzken=Q 020910/14
+bez=Greifswalder Straße (südl. Lehderstraße)   (Prenzlauer Berg,10409)
+arm1=Cohnstraße,1200,0100
+arm2=Lehderstraße,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Greifswalder Str.\, stadtauswärts vor Kreuzung Storkower Str.\, Fahrbahn von 2 auf 1 Fahrstreifen reduziert
+data=
+; 1 -> 2
+708	37	1	22	129
+501	33	2	13	81
+915	44	1	16	97
+842	46	4	16	74
+886	44	1	20	62
+806	59	0	24	98
+940	51	2	33	125
+1153	58	3	54	159
+1385	28	1	66	161
+1412	22	4	80	228
+1276	20	6	75	221
+1177	13	6	59	207
+; 2 -> 1
+1303	57	7	36	277
+1142	63	5	63	273
+915	79	1	41	169
+934	68	2	26	98
+871	47	1	25	94
+843	61	1	20	112
+895	49	3	32	139
+902	40	1	21	120
+1025	27	2	37	113
+968	10	0	30	134
+965	13	0	25	12
+845	12	0	34	175

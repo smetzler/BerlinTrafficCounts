@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909014
+datum=10.11.1998
+kurzken=Q 0909014/98
+bez=Hubertusallee (südl. Bismarckplatz)   (Grunewald, 14193)
+arm1=Bismarckplatz,0,0100
+arm2=Lynarstraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+594	39	10	9
+593	32	6	7
+582	25	7	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+667	12	7	18
+679	14	7	11
+691	4	6	8
+; 2 -> 1
+800	33	10	9
+737	35	10	8
+678	42	9	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+711	36	6	15
+726	20	8	11
+682	10	7	14

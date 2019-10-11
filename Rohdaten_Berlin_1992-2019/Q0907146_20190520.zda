@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907146
+datum=20.05.2019
+kurzken=Q 0907146/19
+bez=A100 Stadtring - Zufahrt Messedamm-Kaiserdamm (Süd) (Charlottenburg, 10711) 
+arm1=Messedamm - Kaiserdamm,350,0100
+arm2=A100 Stadtring (AD Funkturm),1700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+812	23	1	9	0
+857	33	2	4	0
+729	42	3	19	0
+590	46	2	8	0
+586	32	0	15	0
+646	27	0	12	0
+645	25	1	5	0
+972	25	2	17	0
+989	17	1	19	0
+960	4	6	10	0
+940	8	0	5	0
+805	7	1	6	0

@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0920035
+datum=20.04.1999
+kurzken=Q 0920035/99
+bez=BAB A111 Zu- Ausf. Tunnel Tegel südl. Scharnweberstr.   (R'dorf, 13405)
+arm1=Seidel-\, Scharnweberstraße,200,0100
+arm2=Tunnel Flughafen Tegel,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1432
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+3653	186	4	30
+2708	196	2	48
+2000	185	9	21
+1404	171	11	16
+1410	195	5	28
+1493	152	1	20
+1723	152	6	24
+1888	138	3	41
+1855	130	5	32
+1855	101	5	45
+2157	77	4	49
+2107	53	3	35
+; 2 -> 1
+1890	145	7	13
+1897	203	7	24
+1917	215	16	20
+1779	199	2	13
+1915	230	2	21
+1925	212	14	39
+2629	167	6	43
+2647	133	4	45
+3300	91	9	53
+3407	95	7	59
+3594	71	5	63
+2924	63	4	58

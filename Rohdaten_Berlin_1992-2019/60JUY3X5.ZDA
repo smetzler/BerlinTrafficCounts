@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025738
+datum=26.3.1992
+kurzken=Q 2573.8/92-F
+bez=Böhlener Str. östlich Louis-Lewin-Str.    ( Berlin 1150-Helldf. )
+arm1=Süd,1150,0100
+arm2=Nord,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+62 31 
+44 20 
+62 12 
+82 17 
+42 6 
+37 6 
+52 20 
+66 31 
+56 27 
+71 30 
+73 12 
+32 7 
+; 2 -> 1
+26 7 
+57 4 
+51 5 
+60 27 
+58 11 
+61 8 
+57 19 
+59 21 
+130 36 
+130 16 
+179 19 
+72 10 

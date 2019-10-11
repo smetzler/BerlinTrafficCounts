@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025685
+datum=25.3.1992
+kurzken=Q 2568.5/92-F
+bez=Allee d.Kosmonauten westlich Elisabethstraße    ( Berlin 1141-Marz )
+arm1=Süd,1550,0100
+arm2=Nord,3350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : Regen !
+data=
+; 1 -> 2
+3 0 
+2 0 
+1 0 
+2 2 
+2 0 
+4 1 
+0 18 
+2 0 
+0 0 
+0 0 
+0 0 
+7 0 
+; 2 -> 1
+2 0 
+2 0 
+5 1 
+5 4 
+2 5 
+3 8 
+3 1 
+0 0 
+3 1 
+0 3 
+0 0 
+1 0 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 4914
+datum=16.03.2016
+kurzken=Q 4914/16
+bez=Otto-Suhr-Allee (östl. Luisenplatz)   (Charlottenburg, 10585)
+arm1=Luisenplatz,0,0010
+arm2=Spandauer Damm,950,0000
+arm3=Kaiser-Friedrich-Straße,1900,1000
+arm4=Otto-Suhr-Allee,2400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+16	1
+29	4
+24	1
+20	0
+40	0
+19	1
+26	3
+44	4
+63	5
+42	5
+62	13
+27	0
+; 3 -> 1
+18	6
+35	8
+19	1
+23	1
+29	2
+40	1
+41	4
+53	8
+32	7
+58	17
+46	2
+34	4

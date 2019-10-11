@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26295
+datum=19.05.1994
+kurzken=Q 26295/94
+bez=Gleiwitzer Straße / westl. Köpenicker Straße (Biesdorf-Süd)
+arm1=Gleiwitzer Straße,900,0000
+arm2=Köpenicker Straße,1700,0001
+arm3=Heesestraße,2600,0000
+arm4=Köpenicker Straße,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  bedeckt\, Dauerregen
+data=
+; 2 -> 4
+2 0
+1 0
+0 0
+3 10
+2 0
+0 0
+3 1
+1 3
+4 0
+1 0
+1 0
+3 0
+; 4 -> 2
+0 17
+2 6
+0 0
+2 0
+0 3
+1 2
+2 0
+4 0
+0 0
+7 2
+5 0
+5 1

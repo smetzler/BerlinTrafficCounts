@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0039
+datum=04.08.2015
+kurzken=Q 0039/15
+bez=A100 -Stadtring (Höhe Paulsborner Brücke)   (Wilmersdorf, 10709)
+arm1=AS Schwarzbacher Straße ,400,0100
+arm2=AS Hohenzollerndamm,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=- A100 in beiden Ri. zw. AD Funkturm u. AS Kurfürstend. von 3 auf 2 Fahrstreifen reduziert. \n- AS Kurfürstendamm gesperrt.\n- A100-Ri. Wedding zw. Konstanzer Str. u. Kurfürstend. von 3 auf 1 FS reduziert\n
+data=
+; 1 -> 2
+3216	100	84	5	98
+3094	58	51	8	79
+2945	65	29	10	89
+; 2 -> 1
+1661	41	58	7	51
+1664	46	33	11	48
+1531	24	29	6	38

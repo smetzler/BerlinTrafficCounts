@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010205
+datum=14.11.2011
+kurzken=Q 010205/11
+bez=Behrenstraße (östl. Ebertstraße)   (Mitte, 10557)
+arm1=Ebertstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Behrenstr. Ri. Ost  zw. Wilhelmstr. u. Glinkastr. gesperrt\n
+data=
+; 1 -> 2
+557	19	2	7	13
+836	25	1	10	29
+828	22	1	9	20
+710	28	4	6	10
+573	29	3	6	7
+617	34	4	4	11
+592	19	0	10	23
+704	26	5	9	8
+862	18	0	8	21
+976	2	10	6	20
+890	9	4	9	15
+743	8	5	9	23
+; 2 -> 1
+377	19	0	5	7
+403	11	0	7	8
+307	20	0	12	20
+206	18	10	2	4
+202	11	10	3	13
+271	14	14	3	8
+215	10	12	1	7
+264	11	15	5	11
+318	4	12	5	12
+352	8	6	8	40
+328	3	8	3	21
+297	4	4	2	18

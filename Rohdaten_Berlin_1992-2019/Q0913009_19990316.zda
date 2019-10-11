@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913009
+datum=16.03.1999
+kurzken=Q 0913009/99
+bez=Goltzstraße (östl. Bahnhofstraße)   (Lichtenrade, 12305)
+arm1=Bahnhofstraße,1250,0100
+arm2=Lichtenrader Damm,3050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+345	13	10	6
+405	20	10	4
+494	22	9	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+542	7	10	7
+563	8	7	8
+591	7	12	7
+; 2 -> 1
+328	18	17	3
+470	20	13	4
+515	17	10	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+597	8	15	8
+624	8	16	5
+584	6	15	6

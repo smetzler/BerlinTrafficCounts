@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5051
+datum=04.05.2004
+kurzken=Q 5051/04
+bez=Halemweg (nördl. Toepler Straße)    (Charlottenburg, 13627)
+arm1=Halemweg,0,0000
+arm2=Toepler Straße,900,0001
+arm3=Halemweg,1800,0000
+arm4=((Osten)),2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	5
+6	3
+6	1
+1	1
+1	0
+3	0
+8	3
+1	2
+5	0
+3	0
+0	0
+0	0
+; 4 -> 2
+0	0
+2	0
+0	0
+0	0
+0	0
+0	0
+12	5
+2	1
+5	5
+1	0
+1	4
+0	0

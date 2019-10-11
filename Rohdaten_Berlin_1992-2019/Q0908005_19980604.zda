@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908005
+datum=04.06.1998
+kurzken=Q 0908005/98
+bez=Heerstraße (westl. Magistratsweg)   (Staaken, 13593)
+arm1=Pillnitzer Weg,800,0100
+arm2=Magistratsweg,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+637	76	30	20
+525	47	19	11
+462	43	23	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+498	34	21	12
+585	20	25	17
+525	15	21	22
+; 2 -> 1
+373	44	31	6
+500	40	26	10
+591	43	21	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+674	24	19	24
+691	37	26	27
+662	25	24	23

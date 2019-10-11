@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13278
+datum=23.05.1989
+kurzken=Q 13278/89
+bez=Hauptstrasse noerdl. Haehnelstrasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+5 1 8 8 7 0 8 1 9 1 10 1 7 2 
+1 0 7 0 7 0 7 0 4 0 
+; 2 -> 1
+6 1 8 8 4 0 5 1 8 0 11 4 0 0 
+1 0 8 2 7 0 3 1 2 0 

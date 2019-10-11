@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0076
+datum=07.05.2019
+kurzken=Q 0076/19
+bez=A114 (AS Schönerlinder Straße - AS Bucher Straße) (Pankow, 13127) 
+arm1=AS Schönerlinder Straße,300,0100
+arm2=AS Bucher Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+789	77	2	3	0
+718	110	8	5	0
+656	117	4	3	0
+642	106	4	1	0
+661	112	0	5	0
+689	102	3	6	0
+786	117	5	4	0
+1124	103	6	10	0
+1429	72	6	18	0
+1365	61	5	26	0
+1250	37	4	8	0
+1093	25	5	8	0
+; 2 -> 1
+1295	80	1	13	0
+1130	84	2	11	0
+825	84	2	5	0
+685	209	1	2	0
+602	84	4	2	0
+679	104	5	6	0
+515	62	1	10	0
+708	62	2	3	0
+640	56	1	4	0
+930	34	1	1	0
+1086	18	8	7	0
+896	13	3	12	0

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 54295
+datum=17.07.1984
+kurzken=Q 54295/84
+bez=Knobelsdorffstr. / Danckelmannstr.  (Berlin 19) ;  Fussgaengerzaehlung
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Ueberweg Knotenarm 1\nWetter : Vormittags Regen
+data=
+; 1 -> 2
+11 1 5 1 11 1 32 5 10 3 24 6 18 5 
+17 6 25 3 30 17 24 4 32 12 
+; 2 -> 1
+14 1 6 3 15 0 16 4 18 2 20 2 17 19 
+17 3 31 3 25 8 23 11 34 5 

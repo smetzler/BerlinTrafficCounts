@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20111
+datum=04.12.2002
+kurzken=Q 2011/02
+bez=A114 - BAB-Abzw. Pankow (nördl. AS Bucher Str. - re. Spur) (B'holz, 13127)
+arm1=AS Schönerlinder Straße,300,0100
+arm2=AS Bucher Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1426	172	87	66	2	2
+944	122	68	49	0	1
+955	97	53	35	8	2
+717	80	47	43	4	0
+691	85	46	41	3	0
+; 2 -> 1
+523	58	55	24	10	1
+366	45	48	67	0	0
+356	56	59	38	0	3
+346	52	77	50	1	0
+347	55	61	39	1	0

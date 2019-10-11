@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20251
+datum=12.03.2018
+kurzken=Q 20251/18
+bez=Mahonienweg (nordwestl. Johannisthaler Chaussee)     (Baumschulenweg, 12437)
+arm1=Mahonienweg,600,0000
+arm2=Johannisthaler Chaussee (SW),1500,0001
+arm3=(Südosten),2400,0000
+arm4=Johannisthaler Chaussee (NO),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+4	0
+2	0
+2	0
+2	0
+3	0
+2	0
+1	0
+5	3
+4	7
+6	10
+2	3
+3	1
+; 4 -> 2
+6	1
+1	0
+2	0
+1	1
+3	3
+1	0
+2	1
+6	7
+4	2
+2	2
+3	0
+2	0

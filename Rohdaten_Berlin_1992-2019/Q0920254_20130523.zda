@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920254
+datum=23.05.2013
+kurzken=Q 0920254/13
+bez=Medebacher Weg (Höhe Alt-Tegel)   (Tegel, 13507)
+arm1=Am Tegeler Hafen,200,0000
+arm2=Schulstraße,2000,0000
+arm3=((Westen)),1100,0001
+arm4=((Osten)),2900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Medebacher Weg in Höhe Alt-Tegel. (ca. 50m südl. bis 50m nördl.) queren.\n
+data=
+; 3 -> 4
+57	43
+126	11
+114	10
+138	10
+146	11
+157	15
+185	8
+197	23
+267	66
+257	48
+572	72
+291	32
+; 4 -> 3
+41	12
+91	28
+100	5
+150	18
+293	14
+275	21
+211	43
+221	41
+246	43
+279	47
+224	55
+181	21

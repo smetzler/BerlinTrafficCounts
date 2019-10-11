@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119005
+datum=17.09.2018
+kurzken=Q 119005/18
+bez=Fürstenwalder Allee - Berliner Str. (Stadtgrenze) (Köpenick, 12587)
+arm1=Lindenstraße,800,0100
+arm2=Erkner,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+391	18	3	7	80
+413	17	3	5	17
+325	15	3	6	20
+262	24	4	8	24
+269	12	3	4	36
+337	16	3	6	33
+329	19	4	2	28
+341	25	3	7	32
+436	14	3	9	23
+414	14	2	12	30
+371	6	3	8	46
+317	9	3	7	29
+; 2 -> 1
+372	10	3	5	23
+355	14	3	4	22
+326	14	3	1	24
+354	16	2	2	26
+311	11	3	10	45
+283	21	3	7	29
+291	15	5	7	42
+312	12	3	8	59
+376	5	3	9	61
+430	6	2	12	66
+379	3	6	13	47
+284	4	3	7	34

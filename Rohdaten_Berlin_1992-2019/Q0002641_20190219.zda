@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q002641
+datum=19.02.2019
+kurzken=
+bez=Gartenfelder Straße / Paulsternstraße (Haselhorst, 13599)
+arm1=Gartenfelder Straße (N),950,0000
+arm2=Paulsternstraße,1600,0001
+arm3=,0,0000
+arm4=Gartenfelder Straße (S),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=4
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+4	0
+16	0
+6	1
+6	0
+3	0
+5	0
+12	1
+12	0
+11	4
+14	2
+7	0
+4	0
+; 4 -> 2
+17	1
+11	0
+14	0
+4	0
+2	0
+7	0
+12	0
+18	0
+10	2
+12	0
+9	0
+3	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907161
+datum=25.10.2010
+kurzken=Q 0907161/10
+bez=Platanenallee (östl. Kastanienallee)   (Westend, 14050)
+arm1=Katanienallee,800,0100
+arm2=Lindenallee,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+368	2	0	2	24
+486	1	1	4	28
+386	5	2	4	15
+270	6	0	5	11
+215	4	0	7	15
+229	3	0	0	16
+255	4	0	7	19
+244	6	1	10	34
+291	3	1	6	25
+277	5	0	4	16
+293	0	0	6	15
+248	3	0	7	21
+; 2 -> 1
+261	2	0	2	24
+292	3	0	2	21
+291	8	0	4	11
+322	7	3	9	15
+317	3	1	7	8
+310	5	0	4	9
+323	3	1	8	15
+462	4	1	2	12
+570	6	0	15	16
+541	4	0	11	5
+505	1	0	3	11
+426	4	0	5	4

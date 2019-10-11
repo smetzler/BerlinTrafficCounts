@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 25003
+datum=12.04.2018
+kurzken=Q 25003/18
+bez=Müggelschlößchenweg (östl. Salvador-Allende-Str.) (Köpenick, 12559)
+arm1=Pablo-Neruda-Str.,950,0000
+arm2=Salvador-Allende-Str. (S),1700,0001
+arm3=Müggelschlößchenw.,2800,0000
+arm4=Salvador-Allende-Str. (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+14	7
+30	4
+20	1
+40	2
+36	3
+34	2
+27	1
+28	2
+25	5
+24	4
+8	1
+12	0
+; 4 -> 2
+11	1
+22	3
+18	1
+26	2
+19	2
+11	1
+15	1
+10	2
+12	5
+10	1
+6	1
+10	0

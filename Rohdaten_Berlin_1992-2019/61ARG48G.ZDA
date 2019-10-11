@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 60604
+datum=17.3.1993
+kurzken=Q 606-04/93
+bez=Blankenfelder Chaussee nördl. Rosenthaler Weg (Pankow)
+arm1=Rosenthaler Weg,1900,0100
+arm2=Hauptstraße,100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993\nHochrechnung aus S 606-13
+data=
+; 1 -> 2
+1 249 40 6 3 
+2 283 48 5 0 
+1 236 37 4 2 
+1 323 25 3 0 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+; 2 -> 1
+1 413 17 7 3 
+2 296 23 5 0 
+1 246 20 3 2 
+2 203 26 4 1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 
+-1 -1 -1 -1 -1 

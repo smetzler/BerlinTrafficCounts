@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920134
+datum=23.04.2008
+kurzken=Q 0920134/08
+bez=Gotthardstr. (westl. Winterthurstr., Höhe Mittelinsel)   (Reinickendorf, 13407)
+arm1=Holländerstraße,1000,0100
+arm2=Winterthurstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+328	23	4	10	17
+457	22	3	13	10
+380	27	4	11	13
+370	22	2	10	14
+379	43	2	13	10
+458	43	3	17	11
+452	34	3	11	21
+566	37	3	30	30
+656	22	2	36	28
+588	13	3	23	38
+625	12	4	32	25
+576	10	3	24	22
+; 2 -> 1
+535	25	3	10	17
+542	23	3	11	33
+418	18	3	15	14
+394	14	3	18	18
+349	16	3	13	19
+320	23	4	12	13
+344	18	3	15	31
+345	21	3	9	18
+361	16	3	12	17
+326	8	4	23	24
+310	9	3	14	16
+275	10	5	12	12

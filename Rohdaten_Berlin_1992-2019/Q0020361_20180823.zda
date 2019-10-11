@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20361
+datum=23.08.2018
+kurzken=Q 20361/18
+bez=Sonnenallee (westl. Hertzbergstraße)   (Neukölln, 12059)
+arm1=Sonnenallee (NW),500,0000
+arm2=Hertzbergstraße,1750,0001
+arm3=Sonnenallee (SO),2300,0000
+arm4=Treptower Straße,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+15	23
+33	0
+23	2
+16	1
+30	2
+37	5
+51	9
+47	4
+49	15
+46	4
+55	5
+66	9
+; 4 -> 2
+17	15
+46	3
+39	20
+18	1
+28	0
+34	1
+40	6
+31	6
+39	5
+50	8
+60	9
+54	8

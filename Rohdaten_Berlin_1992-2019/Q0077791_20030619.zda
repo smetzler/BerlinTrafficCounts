@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 77791
+datum=19.06.2003
+kurzken=Q 77791/03
+bez=Im Rosengrund (nördl. Mohriner Allee)   (Britz, 12349)
+arm1=Im Rosengrund,130,0000
+arm2=Mohriner Allee,1090,0001
+arm3=,0,0000
+arm4=Mohriner Allee,2890,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+7	0
+7	0
+2	0
+2	0
+3	2
+7	1
+5	1
+7	3
+6	3
+3	0
+6	0
+9	0
+; 4 -> 2
+3	0
+12	5
+3	0
+5	0
+3	0
+3	0
+4	0
+6	0
+5	3
+8	1
+4	0
+7	0

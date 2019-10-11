@@ -1,0 +1,38 @@
+[ZA1001]
+knoten=Q 41064
+datum=10.8.1993
+kurzken=Q 4106.4/93
+bez=Kurfürstendamm zw. Knesebeckstr. u. Uhlandstr.    ( Charlottenburg )
+arm1=Knesebeckstraße,850,0100
+arm2=Uhlandstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Taxi,Bus,Sonst,Radf,
+zeit=0900,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Nur Busspur gezählt ! \nDie Busspur ist bis 9.00 Uhr für alle Fahrzeuge offen !
+data=
+; 1 -> 2
+48 111 56 18 43 
+39 92 43 30 36 
+53 145 54 24 71 
+62 124 72 17 69 
+64 109 55 27 76 
+81 126 45 21 47 
+84 117 54 26 82 
+78 113 55 21 88 
+63 144 53 26 82 
+32 101 49 9 71 
+; 2 -> 1
+18 96 45 6 20 
+8 70 39 6 21 
+12 99 44 8 73 
+8 88 57 6 67 
+11 95 41 4 49 
+8 69 63 5 27 
+12 99 59 5 55 
+5 88 49 2 51 
+11 112 48 2 93 
+9 101 45 7 74 

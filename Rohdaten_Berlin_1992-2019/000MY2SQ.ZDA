@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 0826
+datum=11.10.1988
+kurzken=K 826/88
+bez=Lietzenburger Strasse / Emser Strasse   ( Berlin 15 )
+Arm1=Lietzenburger Str.,950,0110
+Arm2=Emser Strasse,1750,0010
+Arm3=Lietzenburger Str.,2750,1100
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Zufahrt 2 : Links- und Rechtsabbiegen verboten ;\nZufahrt 3 : Linksabbiegen verboten !
+data=
+; 1 -> 2
+51 63 73 59 69 57 70 76 64 70 81 38 
+; 1 -> 3
+882 1084 917 902 820 856 881 842 1038 1097 1017 811 
+; 2 -> 3
+0 1 1 2 1 4 2 1 1 3 2 1 
+; 3 -> 1
+555 740 779 806 968 1028 1021 1010 1184 1239 1322 1116 
+; 3 -> 2
+5 1 2 3 3 3 2 2 1 7 5 1 

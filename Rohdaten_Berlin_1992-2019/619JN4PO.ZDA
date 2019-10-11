@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 59027
+datum=29.09.1994
+kurzken=Q 59027/94
+bez=Mariannenstraße (südl. Geraer Straße) (Lichterfelde, 12209) 
+arm1=Mariannenstraße,300,0000
+arm2=Westen,1200,0001
+arm3=Mariannenstraße,2100,0000
+arm4=Osten,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 16°\, wolkig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+10,7
+3,3
+2,0
+5,0
+4,3
+1,0
+1,2
+6,4
+4,4
+4,0
+6,1
+6,1
+; 4 -> 2
+2,0
+0,0
+0,0
+3,0
+1,0
+2,0
+1,0
+6,2
+5,4
+4,0
+2,0
+5,0

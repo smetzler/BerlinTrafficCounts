@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40859
+datum=04.07.1990
+kurzken=Q 40859/90
+bez=Heerstrasse 455    ( Berlin 20 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+11 16 25 16 22 10 12 10 7 11 18 11 
+; 2 -> 1
+83 60 69 65 54 34 41 59 45 67 66 40 

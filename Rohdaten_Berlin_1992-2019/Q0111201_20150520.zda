@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 111201
+datum=20.05.2015
+kurzken=Q 111201/15
+bez=Lange Brücke (Spree)   (Köpenick,12557)
+arm1=Gutenbergstraße,800,0100
+arm2=Alt-Köpenick,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 17°C max T; 1 Std Sonne; 0\,0 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+294
+224
+130
+128
+98
+112
+129
+182
+219
+240
+218
+196
+; 2 -> 1
+147
+104
+106
+86
+105
+92
+119
+128
+182
+170
+163
+141

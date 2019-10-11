@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28791
+datum=30.11.2009
+kurzken=Q 28791/09
+bez=Dankratstraße (westl. Köpenicker Straße)   (Biesdorf-Süd, 12683)
+arm1=Dankratstraße,850,0000
+arm2=Köpenicker Straße (S),1700,0001
+arm3=Eichenallee,2650,0000
+arm4=Köpenicker Straße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=0 Std; Niederschlag=0\,2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	0
+5	0
+6	0
+2	0
+4	0
+1	0
+0	0
+3	3
+0	1
+2	1
+2	0
+9	0
+; 4 -> 2
+0	5
+3	0
+7	0
+9	0
+5	1
+1	0
+0	0
+5	4
+1	4
+2	2
+1	0
+3	0

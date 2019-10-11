@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 893
+datum=22.04.2009
+kurzken=Q 893/09
+bez=Berliner Straße (südl. Veitstraße)   (Tegel, 13507)
+arm1=Berliner Straße (N),250,0000
+arm2=Veitstraße (W),1000,0001
+arm3=Berliner Straße (S),2050,0000
+arm4=Veitstraße (O),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=6 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	0
+13	49
+10	2
+35	1
+41	8
+33	5
+38	1
+44	8
+62	5
+77	12
+71	13
+62	23
+; 4 -> 2
+17	3
+34	6
+49	54
+63	6
+48	9
+37	2
+51	20
+67	4
+74	12
+44	16
+51	10
+60	9

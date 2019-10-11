@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020304
+datum=29.09.1994
+kurzken=Q 020304/94
+bez=Köpenicker Straße (westl. Bethaniendamm) (Kreuzberg, 10179) 
+arm1=Engeldamm,600,0100
+arm2=Bethaniendamm,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Umleitungsverkehr infolge Vollsperrung der Holzmarktstraße.\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+817,164,79,14,12
+747,144,79,22,21
+639,149,99,11,14
+627,164,72,10,15
+567,128,90,9,38
+592,153,90,10,22
+631,148,73,10,15
+664,107,84,11,21
+785,113,89,15,35
+802,105,79,16,41
+821,93,69,16,58
+865,72,60,16,38
+; 2 -> 1
+257,32,28,4,12
+238,37,43,6,11
+238,36,32,4,19
+170,52,18,2,8
+220,46,24,4,16
+213,39,27,4,14
+207,44,35,4,12
+247,37,36,4,22
+253,29,27,5,13
+161,21,18,2,5
+159,21,17,4,23
+236,19,16,4,26

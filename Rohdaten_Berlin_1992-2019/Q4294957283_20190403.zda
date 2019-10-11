@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10013
+datum=03.04.2019
+kurzken=Q-10013/19
+bez=Kantstraße- Weimarer Straße(Charlottenburg, 10625)  über Arm4-
+arm1=Kantstraße (W),850,0100
+arm2=Kantstraße (O),2700,1000
+arm3= ,1750,0000
+arm4=Weimarer Straße (N),3550,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+35	1
+37	0
+67	2
+82	1
+109	0
+190	0
+149	1
+158	0
+148	2
+155	1
+216	1
+158	2
+; 2 -> 1
+29	2
+66	1
+55	0
+72	0
+112	0
+113	0
+154	2
+107	2
+112	0
+110	1
+146	0
+123	1

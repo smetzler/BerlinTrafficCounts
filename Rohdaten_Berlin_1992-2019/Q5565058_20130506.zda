@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5565058
+datum=06.05.2013
+kurzken=Q 5565058/13
+bez=Torstraße - Nordfahrbahn (östl. Rosa-Luxemburg-Straße)   (Mitte, 10119)
+arm1=Torstraße (W),720,0000
+arm2=Rosa-Luxemburg-Straße,2000,0001
+arm3=Torstraße (O),2520,0000
+arm4=Schönhauser Allee (Nebenspur),0,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, zwischen dem nördl. Gehweg und dem Mittelstreifen.\nWetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+91	11
+188	16
+255	11
+166	2
+232	10
+525	2
+309	18
+295	49
+323	22
+351	26
+322	32
+397	12
+; 4 -> 2
+195	11
+418	3
+447	5
+141	3
+144	9
+422	13
+212	2
+320	30
+328	26
+279	19
+279	44
+243	12

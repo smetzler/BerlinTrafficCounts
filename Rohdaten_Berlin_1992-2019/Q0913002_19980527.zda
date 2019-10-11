@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913002
+datum=27.05.1998
+kurzken=Q 0913002/98
+bez=Lichtenrader Damm (nördl. Groß-Ziethener-Straße)   (Lichtenrade, 12305)
+arm1=Fehlingstraße,50,0100
+arm2=Groß-Ziethener-Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+932	98	25	13
+1033	98	22	12
+1010	112	16	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1466	75	25	54
+1658	65	23	43
+1544	39	23	61
+; 2 -> 1
+1343	114	26	34
+1258	130	23	18
+1104	118	16	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1058	50	30	36
+1110	51	23	39
+1203	34	24	42

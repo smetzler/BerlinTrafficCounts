@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010601
+datum=26.04.2010
+kurzken=Q 010601/10
+bez=Beusselstraße (südl. BAB, Ludwig-Hoffmann-Brücke)   (Tiergarten, 10553)
+arm1=Seestraße,200,0100
+arm2=Großmarkt,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle\, Fahrstreifenverschwenkung beide Richtungen auf der Goerdelerdamm-Brücke
+data=
+; 1 -> 2
+1017	81	15	46	51
+1062	101	15	39	55
+1122	102	19	25	80
+986	104	22	26	38
+1038	81	15	29	34
+810	106	23	16	36
+763	76	19	27	33
+809	84	15	31	23
+837	58	17	22	45
+844	67	13	43	43
+847	55	19	23	35
+823	36	20	10	35
+950	35	16	6	31
+; 2 -> 1
+607	101	12	24	12
+664	89	17	3	46
+656	86	15	10	36
+660	60	20	6	32
+606	72	16	19	32
+595	53	19	19	30
+749	79	17	11	35
+741	61	12	21	37
+764	52	18	22	38
+788	53	13	27	39
+839	27	16	18	26
+887	29	17	17	44
+817	20	19	20	37

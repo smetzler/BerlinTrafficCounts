@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909006
+datum=02.07.1998
+kurzken=Q 0909006/98
+bez=Spichernstraße (südl. Geisbergstraße)   (Wilmersdorf, 10777)
+arm1=Bundesallee,1350,0100
+arm2=Geisbergstraße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1012	19	4	36
+1242	24	8	49
+1027	18	1	37
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+898	18	3	47
+895	14	2	56
+902	13	0	47
+; 2 -> 1
+608	27	0	10
+666	13	1	18
+598	24	0	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+977	11	2	67
+1079	7	1	58
+1031	3	2	66

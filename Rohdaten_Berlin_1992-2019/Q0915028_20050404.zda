@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0915028
+datum=04.04.2005
+kurzken=Q 0915028/05
+bez=Am Seegraben (östl. Paradiesstraße)   (Falkenberg, 12526)
+arm1=BAB A113,1400,0100
+arm2=Adlergestell,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1632	186	2	12	-1
+1463	145	1	11	-1
+1137	139	3	10	-1
+937	137	5	2	-1
+950	98	2	7	-1
+893	124	1	13	-1
+; 2 -> 1
+1481	115	3	11	-1
+1301	124	4	6	-1
+1357	143	8	8	-1
+1480	162	0	8	-1
+1040	134	0	10	-1
+1009	125	1	17	-1

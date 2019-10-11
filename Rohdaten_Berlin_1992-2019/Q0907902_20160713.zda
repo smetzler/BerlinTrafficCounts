@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907902
+datum=13.07.2016
+kurzken=Q 0907902/16
+bez=Lietzenburger Straße (östl. Joachimstaler Str.)   (Charlottenburg, 10623)
+arm1=Joachimstaler Straße,950,0100
+arm2=Rankestraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 23°C max T; 3 Std Sonne; 18 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+25
+45
+50
+40
+25
+27
+41
+44
+74
+92
+62
+75
+; 2 -> 1
+28
+41
+39
+30
+8
+23
+40
+39
+35
+62
+88
+83

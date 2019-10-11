@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908024
+datum=20.05.1999
+kurzken=Q 0908024/99
+bez=Kladower Damm (nördl. Ritterfelddamm)   (Kladow, 14089)
+arm1=Ritterfelddamm,1300,0100
+arm2=Runebergweg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+464	12	14	11
+423	21	9	12
+337	24	9	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+358	23	13	14
+406	11	9	17
+356	5	9	12
+; 2 -> 1
+204	20	9	12
+267	23	9	7
+269	23	10	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+441	11	11	17
+469	9	10	14
+458	5	10	11

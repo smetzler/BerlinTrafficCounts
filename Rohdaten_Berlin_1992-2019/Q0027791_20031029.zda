@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27791
+datum=29.10.2003
+kurzken=Q 27791/03
+bez=Piesporter Straße (nördl. Falkenberger Straße)    (Weißensee, 13088)
+arm1=Piesporter Straße,100,0000
+arm2=Falkenberger Straße,1000,0001
+arm3=,0,0000
+arm4=Falkenberger Straße,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7\,5°C; Sonne=2\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+11	9
+38	10
+36	7
+36	8
+21	4
+13	2
+11	0
+9	0
+17	4
+24	10
+7	2
+2	0
+; 4 -> 2
+18	16
+39	8
+41	9
+56	12
+29	5
+9	3
+12	1
+13	3
+16	1
+7	2
+23	1
+6	2

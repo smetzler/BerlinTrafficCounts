@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906015
+datum=28.10.2003
+kurzken=Q 0906015/03
+bez=Prinzenstraße (Baerwaldbrücke)   (Kreuzberg, 10969)
+arm1=Carl-Herz-Ufer,1600,0100
+arm2=Gitschiner Straße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+330	22	4	9	69
+418	15	3	6	119
+432	17	3	6	107
+348	8	4	11	68
+342	22	5	5	70
+351	12	2	4	48
+245	12	6	4	32
+413	10	3	9	30
+462	21	3	4	59
+392	12	3	3	31
+358	1	3	8	23
+314	5	3	11	11
+; 2 -> 1
+410	15	4	6	28
+447	18	5	3	40
+416	17	4	4	34
+384	29	3	2	36
+423	23	3	5	39
+328	19	4	11	40
+385	18	4	12	48
+439	18	4	13	53
+494	18	5	14	58
+420	7	3	13	71
+417	9	3	12	49
+416	7	3	13	49

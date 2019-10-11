@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4919
+datum=28.06.1994
+kurzken=Q 4919/94
+bez=Friedrichstraße (südl. Behrenstraße) (Mitte, 10117)
+arm1=Behrenstraße,50,0100
+arm2=Französische Straße ,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+255 11 0 4 13
+278 19 0 4 12
+303 10 2 3 29
+299 10 1 6 34
+332 9 3 3 53
+299 12 0 1 31
+323 19 3 4 51
+318 16 3 4 64
+414 10 3 18 54
+431 8 1 14 42
+369 8 1 8 58
+346 4 4 9 44
+; 2 -> 1
+61 4 0 2 14
+73 3 1 0 17
+120 6 1 0 15
+99 12 0 0 16
+62 4 0 1 22
+63 4 0 1 16
+62 3 0 1 41
+69 5 0 0 29
+54 5 1 2 55
+69 4 1 2 52
+63 4 1 2 52
+70 0 2 0 52

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031208
+datum=04.10.2000
+kurzken=Q 031208/00
+bez=Elsenstraße (nördl. Heidelberger Straße) (Neukölln, 12435)
+arm1=Heidelberger Straße ,1400,0100
+arm2=Karl-Kunger-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Umleitungsverkehr: Wildenbruchstr. teilweise gesperrt
+data=
+; 1 -> 2
+296	73	10	11	8
+484	94	14	13	14
+446	75	18	13	13
+356	86	8	12	14
+304	73	16	11	11
+352	75	11	11	16
+336	54	29	9	10
+411	60	33	10	12
+495	65	18	11	13
+464	82	28	8	18
+556	62	16	12	23
+508	52	12	12	29
+; 2 -> 1
+348	75	14	13	10
+369	77	14	11	23
+377	63	3	13	10
+324	46	4	12	16
+264	60	14	12	9
+296	54	5	9	13
+313	48	23	13	19
+360	62	22	9	10
+300	48	18	11	18
+378	72	20	10	24
+403	40	9	11	30
+371	47	15	12	20

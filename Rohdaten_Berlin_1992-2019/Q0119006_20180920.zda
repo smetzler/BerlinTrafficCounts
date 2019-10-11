@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119006
+datum=20.09.2018
+kurzken=Q 119006/18
+bez=Schöneicher Landstraße (Stadtgrenze, südl. Waldstraße)   (Köpenick, 12587)
+arm1=S-Bhf. Friedrichshagen,1200,0100
+arm2=Friedrichshagener Straße ,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+163	3	0	0	5
+159	7	0	5	6
+202	4	0	1	3
+186	10	0	0	46
+181	7	0	2	8
+152	8	0	3	10
+216	13	0	7	17
+281	8	0	12	19
+276	8	0	14	21
+324	10	0	14	26
+289	7	0	8	23
+218	2	0	5	8
+; 2 -> 1
+198	6	0	10	25
+183	10	0	2	17
+202	5	0	5	15
+198	10	0	8	12
+163	9	0	5	12
+148	8	0	5	6
+139	13	0	5	9
+172	6	0	4	20
+189	5	0	4	13
+196	2	0	6	8
+164	4	0	5	9
+112	0	0	4	14

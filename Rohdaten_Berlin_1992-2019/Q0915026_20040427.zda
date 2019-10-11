@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0915026
+datum=27.04.2004
+kurzken=Q 0915026/04
+bez=Glienicker Weg (nordöstl. Nipkowstraße)   (Adlershof, 12489)
+arm1=Nipkowstraße,1500,0100
+arm2=Handjerystraße,3050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+568	60	10	9	34
+562	51	6	5	16
+498	52	3	4	10
+392	58	3	2	8
+402	55	3	5	10
+422	67	3	13	20
+487	44	3	5	15
+543	38	3	9	24
+712	28	3	14	22
+760	29	3	23	12
+818	16	3	14	18
+573	13	2	14	18
+; 2 -> 1
+749	47	6	11	18
+760	67	6	13	5
+653	49	3	4	16
+580	78	4	5	18
+532	45	2	3	8
+466	66	3	4	10
+505	48	3	8	20
+547	46	3	6	17
+638	50	2	8	20
+665	34	5	8	22
+636	26	3	13	16
+565	12	3	10	14

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6451011
+datum=27.09.2016
+kurzken=Q 6451011/16
+bez=Kiefholzstraße (nördl. Baumschulenstraße)   (Baumschulenweg, 12437)
+arm1=Kiefholzstraße (N),400,0000
+arm2=Baumschulenstraße (SW),1400,0001
+arm3=Kiefholzstraße (S),2200,0000
+arm4=Baumschulenstraße (NO),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+59	19
+90	10
+115	7
+126	6
+106	7
+130	3
+140	27
+105	16
+100	22
+202	46
+135	35
+106	2
+; 4 -> 2
+26	10
+91	3
+101	5
+115	2
+80	3
+117	4
+96	9
+103	3
+110	13
+155	16
+115	8
+92	3

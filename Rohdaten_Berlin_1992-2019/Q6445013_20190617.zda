@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q6445013
+datum=17.06.2019
+kurzken=Q6445013/19
+bez=Alt-Treptow - Neue Krugallee / Bulgarische Straße (Treptow, 12435)  über Arm3
+arm1=Alt-Treptow,280,0000
+arm2=Bulgarische Straße (SW),1300,0001
+arm3=Neue Krugallee,2070,0000
+arm4=Bulgarische Straße (NO),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+4	0
+12	1
+18	22
+4	0
+13	0
+16	2
+13	0
+10	0
+17	1
+32	8
+5	0
+28	2
+; 4 -> 2
+8	0
+3	0
+7	1
+22	0
+5	19
+23	1
+31	0
+16	0
+13	7
+34	2
+15	0
+11	0

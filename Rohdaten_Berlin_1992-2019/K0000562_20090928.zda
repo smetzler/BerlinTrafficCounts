@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=K 562
+datum=28.09.2009
+kurzken=K 562/09
+bez=Spreeweg - Lutherbrücke / John-Foster-Dulles-Allee   (Tiergarten, 10557)
+arm1=,0,0000
+arm2=Spreeweg,1300,0011
+arm3=J.-Foster-Dulles-A.,2550,0101
+arm4=Lutherbrücke,3500,0110
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1000
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählzeit nur 7-10 Uhr\, da ab 10 Uhr Sperrung der Str. des 17. Juni.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 3
+153	0	1	14	2
+221	4	7	8	7
+210	6	15	7	8
+; 2 -> 4
+482	13	4	20	56
+770	13	10	33	130
+710	14	8	23	74
+; 3 -> 2
+65	3	6	3	13
+72	4	8	5	15
+85	5	10	6	16
+; 3 -> 4
+5	4	0	0	35
+4	0	0	0	61
+11	0	0	0	41
+; 4 -> 2
+352	19	5	26	71
+543	25	12	31	144
+506	12	7	18	98
+; 4 -> 3
+8	1	0	1	63
+16	2	0	2	103
+12	1	0	0	58

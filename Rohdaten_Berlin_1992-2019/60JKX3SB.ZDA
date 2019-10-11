@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025377
+datum=12.11.1991
+kurzken=Q 2537.7/91-F
+bez=Regattastraße südlich Königsseestraße    ( Berlin 1180 - Köp.)
+arm1=Ost,1050,0100
+arm2=West,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Zählung erfolgte durch  -  Verkehr Berlin 
+data=
+; 1 -> 2
+56 
+14 
+6 
+8 
+17 
+3 
+3 
+4 
+16 
+10 
+7 
+2 
+; 2 -> 1
+22 
+9 
+9 
+23 
+13 
+21 
+35 
+72 
+23 
+30 
+13 
+3 

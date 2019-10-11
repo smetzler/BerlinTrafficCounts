@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6683017
+datum=11.10.1994
+kurzken=Q 6683017/94
+bez=Pablo-Picasso-Straße (südl. Seehausener Straße) (Wartenberg, 13057)
+arm1=Pablo-Picasso-Straße,670,0000
+arm2=Weaten,1220,0001
+arm3=Pablo-Picasso-Straße,2260,0000
+arm4=Seehausener Straße,3020,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 14°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+0,0
+0,0
+1,0
+1,0
+2,0
+1,0
+0,2
+1,0
+0,0
+0,0
+4,0
+0,0
+; 4 -> 2
+3,1
+1,0
+0,0
+1,0
+3,0
+0,0
+1,0
+1,0
+1,0
+0,0
+0,0
+0,0

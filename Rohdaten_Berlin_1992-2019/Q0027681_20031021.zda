@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27681
+datum=21.10.2003
+kurzken=Q 27681/03
+bez=Sredzkistraße (westl. Kollwitzstraße)   (Prenzlauer Berg, 10405)
+arm1=Sredzkistraße (W),850,0000
+arm2=Kollwitzstraße (S),1450,0001
+arm3=Sredzkistraße (O),2550,0000
+arm4=Kollwitzstraße (N),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=0 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	3
+9	1
+10	0
+11	0
+24	0
+24	0
+32	1
+17	4
+41	8
+30	3
+29	2
+20	1
+; 4 -> 2
+4	0
+12	1
+15	1
+8	3
+7	0
+13	0
+30	2
+20	4
+24	0
+24	1
+45	4
+33	5

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915219
+datum=04.09.2018
+kurzken=Q 0915219/18
+bez=Oberspreestraße (Höhe Nr. 37, östl. Bärenlauchstr.)   (Niederschöneweide, 12439)
+arm1=Bärenlauchstraße,700,0100
+arm2=Ostritzer Straße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+274	6	5	10	22
+256	12	5	5	10
+309	7	3	3	16
+320	12	4	4	2
+283	12	3	7	16
+277	13	5	9	11
+271	11	7	6	24
+322	12	4	10	31
+341	8	5	17	46
+416	6	4	14	50
+353	7	6	19	51
+284	2	5	16	37
+; 2 -> 1
+560	11	5	26	106
+461	17	5	10	59
+362	13	4	3	38
+344	14	4	8	28
+293	19	3	8	23
+291	11	4	6	32
+232	9	5	10	14
+198	7	5	11	21
+296	11	6	12	32
+276	6	4	16	30
+259	4	6	16	32
+261	5	4	17	38

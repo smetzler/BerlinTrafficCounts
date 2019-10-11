@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00623
+datum=10.05.2015
+kurzken=Q 00623/15
+bez=A115 - AVUS - Zu- u. Abfahrt Spanische Allee (westl. BAB)   (Zehlendorf, 14129)
+arm1=Spanische Allee (W),700,0100
+arm2=A115 (AD Zehlendorf),1700,0000
+arm3=Spanische Allee (O),2700,0000
+arm4=A115 (AS Hüttenweg),3400,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zu- u. Abfahrt westl.BAB getrennt zählen: \n(Zuf.: Ri. AK Zehlendorf\, Abf.: aus Ri. Hüttenweg (Fahrz. zur Raststätte mitzählen)\nCity-Atlas Seite 128\, Feld 4d
+data=
+; 1 -> 2
+154	0	0	0	10
+146	0	0	1	12
+132	0	0	0	10
+; 4 -> 1
+386	0	0	0	21
+327	0	0	0	13
+341	0	0	0	37

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920903
+datum=12.12.2012
+kurzken=Q 0920903/12
+bez=Scharnweberstraße (südöstl. Kapweg)   (Tegel, 13403)
+arm1=Kapweg,450,0100
+arm2=Afrikanische Straße,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=-2°C max T; 1\,5 Std Sonne; 0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 3 Niederschlagtag(e) Vorwoche (>2 mm).\nGeshlossene Schnee- und  Eisdecke!
+data=
+; 1 -> 2
+34
+15
+10
+5
+5
+11
+11
+16
+16
+18
+12
+9
+; 2 -> 1
+21
+11
+10
+6
+8
+9
+9
+12
+7
+8
+12
+13

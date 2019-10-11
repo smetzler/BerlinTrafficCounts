@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 80381
+datum=29.09.2005
+kurzken=Q 80381/05
+bez=Clauertstraße (nördl. Königsweg)   (Zehlendorf, 14163)
+arm1=Clauertstraße (N),610,0000
+arm2=Königsweg (W\,nur Radf)\,\,1\,11\,117,1170,0001
+arm3=Clauertstraße (S),2410,0000
+arm4=Königsweg (O),2970,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=1 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	0
+1	0
+1	0
+1	0
+2	1
+0	0
+1	1
+1	1
+0	0
+1	1
+2	0
+1	0
+; 4 -> 2
+1	1
+2	0
+1	0
+0	0
+2	0
+0	0
+1	0
+0	0
+0	0
+2	0
+0	2
+1	0

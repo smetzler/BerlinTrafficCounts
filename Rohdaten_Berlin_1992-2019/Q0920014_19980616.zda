@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920014
+datum=16.06.1998
+kurzken=Q 0920014/98
+bez=Oranienburger Straße (südl. Wilhelmsruher Damm)   (Wittenau, 13435)
+arm1=Wilhelmsruher Damm,100,0100
+arm2=Roedernallee,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1388	42	30	50
+1280	55	28	26
+1009	48	17	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+970	27	24	32
+981	32	25	24
+923	8	29	26
+; 2 -> 1
+608	41	31	25
+696	47	23	16
+779	59	17	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1260	28	25	37
+1208	31	24	40
+1261	22	25	37

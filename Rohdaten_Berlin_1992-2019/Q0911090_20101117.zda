@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0911090
+datum=17.11.2010
+kurzken=Q 0911090/10
+bez=Pallasstraße (östl. Elsholzstraße)   Schöneberg, 10781)
+arm1=Elsßholzstraße,850,0100
+arm2=Potsdamer Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+301	10	4	5	25
+433	5	5	4	45
+460	10	4	2	40
+380	8	6	0	26
+352	10	3	4	27
+364	6	3	2	34
+361	8	3	5	42
+393	11	4	0	41
+468	4	4	2	92
+479	9	3	5	59
+497	3	4	2	51
+396	2	3	1	58
+; 2 -> 1
+406	14	4	2	51
+488	15	3	1	66
+460	10	5	3	39
+394	12	4	0	40
+433	6	3	5	35
+433	3	4	2	48
+464	3	3	4	50
+487	4	3	4	45
+548	2	2	4	52
+590	3	4	4	43
+520	0	3	6	62
+501	0	3	3	57

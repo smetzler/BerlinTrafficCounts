@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901090
+datum=18.05.2009
+kurzken=Q 0901090/09
+bez=Hannoversche Str. (westlicher Gehweg R.-Koch-Platz (Ost))  (Mitte,, 10115)
+arm1=Luisenstraße,950,0000
+arm2=Robert-Koch-Platz (Ost),2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=6 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+63	7
+92	10
+87	7
+69	0
+88	1
+80	4
+77	0
+65	4
+48	3
+52	2
+44	1
+19	-1
+; 4 -> 3
+7	0
+7	0
+21	0
+53	4
+57	3
+74	0
+127	2
+160	1
+125	5
+74	5
+77	1
+98	8

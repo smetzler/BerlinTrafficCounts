@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 02396
+datum=09.04.1986
+kurzken=Q 2396/86
+bez=Seestrasse  westl. Antwerpener Strasse  ( Berlin 65 )
+Arm1=Sued  ( 2a ),900,0100
+Arm2=Nord  ( 2b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw>65,Erw<65,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 102 23 3 30 15 8 19 2 5 28 0 6 24 2 
+3 27 8 5 9 4 3 10 8 0 34 17 4 30 7 
+1 35 8 1 17 2 
+; 2 -> 1
+1 12 10 7 16 6 6 15 1 9 19 0 4 26 2 
+2 27 5 1 11 20 8 21 9 4 52 10 2 60 5 
+3 35 7 1 19 8 

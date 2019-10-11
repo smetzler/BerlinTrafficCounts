@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912013
+datum=27.10.1998
+kurzken=Q 0912013/98
+bez=Siemenstraße (westl. Brucknerstraße)   (Steglitz, 12247)
+arm1=Nicolaistraße,1100,0100
+arm2=Brucknerstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+370	29	13	4
+445	36	11	10
+483	33	11	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+503	10	7	9
+489	19	10	8
+468	8	10	3
+; 2 -> 1
+611	44	11	8
+659	47	11	13
+686	43	11	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+813	28	9	8
+887	14	11	19
+824	7	9	12

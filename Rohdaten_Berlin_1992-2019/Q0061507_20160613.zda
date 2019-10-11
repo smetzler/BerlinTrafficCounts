@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 061507
+datum=13.06.2016
+kurzken=Q 061507/16
+bez=Spandauer See-Brücke   (Spandau, 13599)
+arm1=An der Havelspitze,750,0100
+arm2=Salzhof,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Sperrung der Spandauer See-Brücke von 9 bis 16 Uhr\, nur Busse fei
+data=
+; 1 -> 2
+127	1	5	4	27
+117	1	7	3	17
+0	0	6	0	0
+0	0	6	0	0
+0	0	6	0	0
+0	0	6	0	0
+0	0	6	0	0
+0	0	6	0	0
+2	0	6	0	6
+68	6	6	3	5
+41	3	5	1	9
+34	2	5	0	8
+; 2 -> 1
+44	2	9	3	7
+49	2	6	0	5
+0	0	7	0	0
+0	0	6	0	0
+0	0	6	0	0
+0	0	5	0	0
+0	0	7	0	0
+0	0	6	0	0
+3	0	7	0	15
+95	5	6	3	15
+96	1	5	0	18
+71	1	5	2	14

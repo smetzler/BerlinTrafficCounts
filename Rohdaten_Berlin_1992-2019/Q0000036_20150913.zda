@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0036
+datum=13.09.2015
+kurzken=Q 0036/15
+bez=A100 - Stadtring (südl. Kaiserdamm)   (Charlottenburg, 14057)
+arm1=Kaiserdamm,3500,0100
+arm2=AS Kaiserdamm-Süd,1700,1000
+arm3=,3500,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Kaiserdammbrücke (oder Dresselsteg-S-Bhf.). Spuraufteilung vor Ort festlegen!
+data=
+; 1 -> 2
+5546	13	12	15	129
+5570	11	6	10	137
+5634	5	12	12	108
+; 2 -> 1
+4247	16	3	13	144
+4383	15	1	12	120
+4275	16	0	11	114

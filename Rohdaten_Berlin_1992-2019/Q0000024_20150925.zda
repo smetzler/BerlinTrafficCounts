@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0024
+datum=25.09.2015
+kurzken=Q 0024/15
+bez=B96a - Schildower Straße (südl. Am Wäldchen)   (Blankenfelde, 13159)
+arm1=Am Wäldchen,200,0100
+arm2=Hauptstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 36\, Feld 2d
+data=
+; 1 -> 2
+410	3	4	5	9	24
+453	1	1	5	21	34
+407	1	2	4	14	17
+; 2 -> 1
+760	4	4	4	17	24
+798	1	0	4	27	27
+630	1	0	7	21	22

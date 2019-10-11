@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28341
+datum=24.04.2007
+kurzken=Q 28341/07
+bez=Frankfurter Allee (westl. Jessnerstr. - Pettenk. Str.)  (Friedrichshain, 10247)
+arm1=Frankfurter Allee,800,0000
+arm2=Jessnerstraße,1650,0001
+arm3=Frankfurter Allee,2600,0000
+arm4=Pettenkofer Straße,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22 °C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+43	7
+76	4
+57	4
+100	3
+85	1
+61	0
+82	2
+87	4
+138	9
+135	17
+98	12
+84	5
+; 4 -> 2
+40	22
+52	2
+80	2
+78	0
+138	3
+137	3
+101	8
+156	6
+190	17
+210	30
+228	26
+186	24

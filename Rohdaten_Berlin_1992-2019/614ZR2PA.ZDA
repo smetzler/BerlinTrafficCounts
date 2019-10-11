@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 53127
+datum=15.06.1988
+kurzken=Q 53127/88
+bez=Wrangelstrasse  oestl. Manteuffelstrasse   ( Berlin 36 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+26 53 15 9 14 5 19 17 26 2 20 6 23 7 
+23 10 18 8 28 6 21 27 25 2 
+; 2 -> 1
+0 1 7 2 15 1 18 0 20 6 13 11 15 15 
+18 1 12 3 19 9 11 8 2 1 

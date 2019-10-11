@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0911083
+datum=27.09.2010
+kurzken=Q 0911083/10
+bez=Feurigstraße (Höhe Nr. 57, Teltow-Grundschule)   (Schöneberg, 10323)
+arm1=Albertstraße,1300,0100
+arm2=Kolonnenstraße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+116	3	0	1	5
+167	5	0	1	10
+243	7	0	0	11
+144	2	0	0	10
+143	7	0	2	5
+129	0	0	1	8
+117	1	0	2	19
+116	2	0	1	9
+126	2	0	10	5
+140	3	0	0	21
+154	0	0	2	12
+102	1	0	5	13
+; 2 -> 1
+107	5	0	1	7
+158	7	0	2	11
+173	9	0	4	12
+130	3	0	1	5
+147	7	0	2	5
+130	3	0	0	19
+154	2	0	0	15
+164	2	0	0	9
+170	8	0	6	24
+191	1	0	3	16
+193	1	0	1	17
+164	0	0	4	16

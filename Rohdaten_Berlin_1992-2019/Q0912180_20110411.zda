@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912180
+datum=11.04.2011
+kurzken=Q 0912180/11
+bez=Heinersdorfer Straße (Höhe Lange Straße)   (Lichterfelde, 12209)
+arm1=Grabenstraße,1650,0000
+arm2=Oberhofer Platz,3450,0000
+arm3=((Westen)),750,0001
+arm4=((Osten)),2550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Heinersdorfer Str. in Höhe der Lange Str. (ca. 50m südl. bis 50m nördl.) queren.\nWetter: max T=21°C; Sonne=7\,5 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+2	0
+3	0
+5	0
+8	0
+4	0
+0	0
+3	4
+3	1
+8	0
+10	0
+1	0
+4	0
+; 4 -> 2
+9	4
+13	6
+2	1
+6	0
+2	0
+8	3
+3	0
+5	3
+7	0
+2	0
+3	0
+6	1

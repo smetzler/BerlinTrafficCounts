@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5665021
+datum=26.04.2007
+kurzken=Q 5665021/07
+bez=Ein-/Ausfahrt Rathaus-Center (nördl. Breite Straße)   (Pankow, 13187)
+arm1=Ein-/Ausfahrt Rathaus-Center,150,0000
+arm2=Breite Straße,1060,0001
+arm3=Mühlenstraße,2000,0000
+arm4=Breite Straße,2860,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24 °C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+79	15
+102	2
+243	3
+318	7
+333	4
+324	5
+321	25
+251	26
+304	22
+372	39
+324	39
+253	18
+; 4 -> 2
+108	16
+106	16
+221	4
+288	3
+379	4
+283	3
+352	22
+365	31
+314	7
+336	34
+366	48
+274	33

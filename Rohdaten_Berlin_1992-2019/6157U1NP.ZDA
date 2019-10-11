@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 53418
+datum=06.03.1985
+kurzken=Q 53418/85
+bez=Stallschreiberstrasse  noerdl. Oranienstrasse   ( Berlin 61 )
+Arm1=West  (4a),900,0100
+Arm2=Ost  (4b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+28 26 43 51 53 50 41 40 72 66 45 21 
+; 2 -> 1
+21 15 48 38 41 49 22 55 107 59 30 26 

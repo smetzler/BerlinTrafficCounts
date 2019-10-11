@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0014
+datum=11.08.2015
+kurzken=Q 0014/15
+bez=B5 - Heerstraße (westl. Gatower Straße)   (Spandau, 13593)
+arm1=Wilhelmstraße,800,0100
+arm2=Gatower Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 81\, Feld 6d
+data=
+; 1 -> 2
+1013	27	18	10	17	16
+1098	19	13	13	35	19
+1048	15	16	13	26	24
+; 2 -> 1
+1513	11	32	12	57	38
+1524	4	14	12	50	32
+1394	6	8	11	46	28

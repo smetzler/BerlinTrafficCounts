@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915095
+datum=18.05.2010
+kurzken=Q 0915095/10
+bez=Königsheideweg (Höhe Herrenhausstraße)   (Johannisthal, 12487)
+arm1=Sterndamm,450,0000
+arm2=Seegelfliegerdamm,2250,0000
+arm3=Herrenhausstraße,1350,0001
+arm4=((Nordosten)),3150,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Königsheideweg in Höhe der Herrenhausstr. (ca. 50m westl. bis 50m östl.) queren.\nWetter: max T=13°C; Sonne=0\,5 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+41	32
+21	0
+21	3
+21	1
+16	0
+15	0
+22	6
+22	9
+20	3
+18	2
+16	4
+22	1
+; 4 -> 3
+18	1
+5	1
+13	0
+7	1
+11	0
+12	0
+15	22
+16	12
+23	25
+18	2
+28	11
+14	3

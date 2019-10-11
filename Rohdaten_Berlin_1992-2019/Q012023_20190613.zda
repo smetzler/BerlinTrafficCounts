@@ -1,0 +1,45 @@
+[ZA1001]
+knoten=Q012023
+datum=13.06.2019
+kurzken=Q012023/19
+bez=Sonnenallee / Pannierstraße (Neukölln, 12047)  über Arm3
+arm1=Sonnenallee (W),600,0000
+arm2=Pannierstraße (S),1500,0001
+arm3=Sonnenallee (O),2400,0000
+arm4=Pannierstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin. 
+Wenige Fußgänger über 1, da kein Überweg vorhanden ist.
+data=
+; 2 -> 4
+104	60
+130	32
+152	52
+212	28
+163	9
+200	20
+219	28
+230	43
+219	23
+256	26
+208	30
+277	11
+; 4 -> 2
+69	18
+99	22
+82	8
+100	4
+168	11
+202	9
+213	41
+199	30
+205	17
+226	38
+233	17
+239	30

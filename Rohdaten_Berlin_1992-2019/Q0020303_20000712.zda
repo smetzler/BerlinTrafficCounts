@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020303
+datum=12.07.2000
+kurzken=Q 020303/00
+bez=Friedrichstraße (südl. Zimmerstraße) (Kreuzberg, 10969)
+arm1=Zimmerstraße,30,0100
+arm2=Kochstraße,1830,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonnenstd.=0\,5; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+31
+63
+72
+68
+62
+97
+106
+80
+116
+141
+167
+132
+; 2 -> 1
+65
+135
+133
+84
+82
+79
+87
+94
+76
+85
+101
+81

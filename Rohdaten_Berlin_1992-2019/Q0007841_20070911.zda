@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7841
+datum=11.09.2007
+kurzken=Q 7841/07
+bez=Brandenburgische Str. (nördl. Xantener Str.)   (Wilmersdorf, 10707)
+arm1=Brandenburgische Str,100,0000
+arm2=Paulsborner Straße,1400,0001
+arm3=Brandenburgische Str,1900,0000
+arm4=Xantener Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=3 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+10	0
+23	1
+18	0
+44	0
+32	0
+40	0
+50	0
+38	1
+43	4
+45	0
+40	2
+49	6
+; 4 -> 2
+19	4
+38	0
+27	15
+34	1
+42	0
+45	0
+48	1
+47	1
+39	2
+41	3
+60	3
+47	1

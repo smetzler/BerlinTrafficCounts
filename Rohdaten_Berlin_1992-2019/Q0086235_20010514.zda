@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 86235
+datum=14.05.2001
+kurzken=Q 86235/01
+bez=Ostpreußendamm (nördl. Schillerstraße)   (Lichterfelde, 12207)
+arm1=Ostpreußendamm,20,0000
+arm2=Schillerstraße,980,0001
+arm3=Ostpreußendamm,1680,0000
+arm4=Schillerstraße,2410,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 25\,5°C; Sonne: 13 Std; Niederschlag: 0 mm;\n - büro für   
+data=
+; 2 -> 4
+6	0
+4	0
+2	0
+2	0
+3	0
+6	1
+1	1
+1	0
+3	1
+4	2
+8	7
+2	0
+; 4 -> 2
+4	1
+0	1
+4	0
+4	0
+2	0
+6	1
+2	2
+4	0
+4	1
+6	0
+4	3
+6	2

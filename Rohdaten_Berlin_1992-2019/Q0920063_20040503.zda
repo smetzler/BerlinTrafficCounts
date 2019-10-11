@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920063
+datum=03.05.2004
+kurzken=Q 0920063/04
+bez=Scharnweberstraße (westl. Schillingstraße)   (Reinickendorf, 13403)
+arm1=Engelmannweg,700,0100
+arm2=Schillingstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+548	16	11	21	44
+588	23	16	26	30
+615	28	6	19	42
+693	16	10	44	38
+602	28	6	28	43
+638	17	7	16	54
+577	23	9	30	51
+639	15	8	26	59
+639	9	9	36	65
+699	17	10	18	54
+613	7	10	35	56
+650	4	11	39	67
+; 2 -> 1
+420	27	21	15	25
+511	25	8	19	41
+661	25	15	22	48
+712	38	8	26	44
+702	23	6	25	86
+711	33	6	26	48
+730	13	10	27	50
+654	14	8	34	55
+824	16	10	56	64
+902	6	11	61	63
+793	4	11	46	69
+773	4	9	52	67

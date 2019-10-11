@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 89098
+datum=13.05.1991
+kurzken=Q 89098/91
+bez=Lahnstrasse oestlich Mierstrasse    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 
+; 2 -> 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 

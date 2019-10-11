@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913063
+datum=24.08.2006
+kurzken=Q 0913063/06
+bez=Manteuffelstraße (südl. Alt-Tempelhof)   (Tempelhof, 12103)
+arm1=Podewilsstraße,1700,0100
+arm2=Alt-Tempelhof,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1483	54	4	72	74
+1464	48	3	61	78
+1057	49	5	47	52
+872	32	4	38	34
+978	31	3	26	51
+860	38	3	33	32
+894	28	4	39	56
+923	19	3	58	63
+1068	28	2	62	54
+1172	17	2	47	70
+1044	11	4	61	84
+897	6	3	35	69
+; 2 -> 1
+813	26	3	22	54
+872	38	2	13	44
+778	35	2	15	19
+670	16	2	6	22
+868	27	3	7	30
+713	19	1	13	18
+1027	43	4	47	62
+1220	37	3	68	56
+1352	28	4	84	48
+1409	28	3	116	52
+1257	19	4	79	70
+1235	15	4	44	60

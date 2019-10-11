@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010523
+datum=19.05.2010
+kurzken=Q 010523/10
+bez=Prinzregentenstraße (südl. Wexstraße)   (Wilmersdorf, 10715)
+arm1=Wexstraße,0,0100
+arm2=Varziner Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Handjerystr. / Varziner Str.\, Varziner Str. Einbahnstr. Ri. Bundesallee.
+data=
+; 1 -> 2
+25	5	0	1	8
+52	3	0	1	27
+66	2	0	1	45
+58	2	0	0	64
+70	2	0	2	52
+73	2	0	2	35
+56	1	0	2	39
+74	0	0	2	49
+89	1	0	2	52
+96	2	0	4	72
+93	2	0	1	68
+107	0	0	2	80
+79	0	0	2	111
+; 2 -> 1
+10	1	0	0	7
+10	0	0	3	59
+11	0	0	0	88
+13	0	0	1	61
+22	0	0	0	62
+18	0	0	0	32
+12	0	0	2	42
+13	0	0	0	46
+20	0	0	1	38
+14	0	0	0	60
+18	0	0	1	61
+23	0	0	2	88
+19	0	0	0	103

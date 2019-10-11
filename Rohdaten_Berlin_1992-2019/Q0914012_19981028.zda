@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914012
+datum=28.10.1998
+kurzken=Q 0914012/98
+bez=Grüner Weg (südl. Rotkehlchenweg)   (Britz, 12359)
+arm1=Rotschwanzweg,1650,0100
+arm2=Rotkehlchenweg,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+452	5	4	5
+401	4	3	6
+274	7	3	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+324	4	4	4
+291	2	4	5
+211	1	4	4
+; 2 -> 1
+169	2	7	0
+174	7	3	2
+199	4	5	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+351	5	3	3
+357	1	3	12
+320	2	3	9

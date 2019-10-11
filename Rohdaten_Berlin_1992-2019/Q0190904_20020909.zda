@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 190904
+datum=09.09.2002
+kurzken=Q 190904/02
+bez=Machnower Straße (nördl. Gutzmannstraße)   (Zehlendorf, 14165)
+arm1=West,700,0010
+arm2=Machnower Straße,1650,0000
+arm3=Ost,2550,1000
+arm4=Machnower Straße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 27°C; Sonne: 11 Std; Niederschlag: 0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+7	2
+5	3
+3	0
+6	0
+3	0
+3	0
+3	1
+8	1
+4	1
+5	2
+5	0
+1	1
+; 3 -> 1
+0	0
+3	1
+0	0
+4	0
+2	0
+2	0
+2	1
+0	1
+4	2
+4	3
+2	1
+3	0

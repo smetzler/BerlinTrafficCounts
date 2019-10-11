@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 5859
+datum=04.05.1988
+kurzken=K 5859/88
+bez=Rheinstrasse / Peschkestrasse   ( Berlin 41 )
+Arm1=,0,0000
+Arm2=Rheinstrasse,1460,0010
+Arm3=Peschkestrasse,2400,0101
+Arm4=Rheinstrasse,3260,0010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 24 und 42 nicht erfasst !
+data=
+; 2 -> 3
+18 27 29 16 25 24 23 37 46 36 45 43 
+; 3 -> 2
+28 15 9 2 17 18 8 16 20 33 19 21 
+; 3 -> 4
+30 17 19 14 30 45 27 29 35 33 42 40 
+; 4 -> 3
+9 18 30 21 26 30 26 25 30 42 36 31 

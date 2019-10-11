@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0916006
+datum=25.06.1998
+kurzken=Q 0916006/98
+bez=Fürstenwalder Damm (östl. Salv.-Allende-Straße)   (Köpenick, 12555)
+arm1=Salv.-Allende-Straße,900,0100
+arm2=Sternallee,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+754	72	10	13
+698	64	1	10
+744	62	1	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1146	44	5	27
+1114	37	2	25
+1093	38	2	19
+; 2 -> 1
+658	61	1	7
+961	89	3	8
+968	82	0	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+918	52	0	13
+967	36	5	28
+924	22	0	20

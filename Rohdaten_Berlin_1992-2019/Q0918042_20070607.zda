@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918042
+datum=07.06.2007
+kurzken=Q 0918042/07
+bez=Smetanastr. (Gehwegvorstreckung südl. Gounodstr.)   (Weißensee, 13088)
+arm1=Gounodstraße,250,0000
+arm2=Chopinstraße,2050,0000
+arm3=((Westen)),1150,0001
+arm4=((Osten)),2950,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Smetanastr. in Höhe der markierten Gehwegvorstreckung südl. der \nGounodstr. (50m nördl. bis 50m südl.) queren!\nWetter: max T=29°C; Sonne=9 Std; Niederschlag=5 mm; Durchführung der Erhebungen:  
+data=
+; 3 -> 4
+17	48
+15	3
+10	3
+10	1
+6	0
+5	2
+9	1
+13	2
+8	2
+8	0
+12	3
+10	0
+; 4 -> 3
+9	3
+6	2
+13	3
+7	1
+9	3
+6	2
+17	8
+16	11
+11	15
+21	7
+19	4
+9	2

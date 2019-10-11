@@ -1,0 +1,30 @@
+[ZA1001]
+knoten=Q 00622
+datum=22.09.2015
+kurzken=Q 00622/15
+bez=A115 - AVUS - AS Spanische Allee (Zufahrt östl. BAB)   (Zehlendorf, 14129)
+arm1=Spanische Allee (W),1700,0100
+arm2=BAB (AS Hüttenweg),3400,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 128\, Feld 5c
+data=
+; 1 -> 2
+322	5	2	0	7
+294	8	4	0	3
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+243	3	1	0	8
+250	2	0	0	6
+256	3	1	2	11

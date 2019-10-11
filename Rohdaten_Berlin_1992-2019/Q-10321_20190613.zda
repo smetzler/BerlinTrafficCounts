@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10321
+datum=13.06.2019
+kurzken=Q-10321/19
+bez=Beusselstraße (im Bereich Zwinglistraße) (Tiergarten, 10553)  über Arm1
+arm1=Beusselstraße (S),1650,0000
+arm2=Zwinglistraße (O),2650,0001
+arm3=Beusselstraße (N),3470,0000
+arm4=Westen,900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+5	0
+3	0
+5	0
+6	0
+7	0
+7	0
+9	0
+11	0
+8	0
+9	1
+7	0
+9	0
+; 4 -> 2
+4	0
+8	1
+6	0
+3	0
+7	0
+9	0
+7	0
+13	1
+10	1
+7	0
+10	0
+8	0

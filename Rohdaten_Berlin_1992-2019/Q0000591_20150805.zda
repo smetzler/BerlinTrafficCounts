@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00591
+datum=05.08.2015
+kurzken=Q 00591/15
+bez=A111 - Zu- Abfahrt K.-Schum.-Da. (südl. Heckerdamm) (Ch'burg, 13627)
+arm1=BAB (AD Charlottenburg),1500,0100
+arm2=Heckerdamm,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Heckerdamm oder K.-Schumacher-Da. NUR die BAB-ZU-u. ABFAHRT SÜDL. Heckerdamm zählen!\nCity-Atlas Seite 70\, Feld 8b
+data=
+; 1 -> 2
+41	4	3	1	5
+28	5	4	2	7
+39	1	1	0	6
+; 2 -> 1
+84	0	0	0	3
+91	2	1	2	0
+83	2	1	0	1

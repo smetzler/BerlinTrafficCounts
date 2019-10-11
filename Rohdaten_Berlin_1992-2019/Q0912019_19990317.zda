@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912019
+datum=17.03.1999
+kurzken=Q 0912019/99
+bez=Thorwaldsenstraße (südl. Rubensstraße)   (Steglitz, 12157)
+arm1=Rubensstraße,400,0100
+arm2=Prellerweg,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+415	18	10	11
+417	15	11	8
+383	18	12	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+819	11	15	28
+830	15	18	28
+786	6	20	29
+; 2 -> 1
+912	22	12	33
+919	25	16	14
+632	21	14	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+667	8	13	12
+658	12	16	20
+629	5	13	22

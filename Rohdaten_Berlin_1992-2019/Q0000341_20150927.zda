@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00341
+datum=27.09.2015
+kurzken=Q 00341/15
+bez=A100 - Stadtring (Zu.- u. Abf. nördl. Spandauer Da.)   (Charlottenburg, 14059)
+arm1=AD Charlottenburg,200,0100
+arm2=Spandauer Damm,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=die Zu-Abf. südl. Spandauer Damm werden nicht mehr gezählt\, Oberzähler entfällt.\nStandort: Spandauer Damm-Brücke
+data=
+; 1 -> 2
+486	0	0	6	8
+516	1	0	4	6
+510	1	1	5	9
+; 2 -> 1
+431	2	0	4	11
+421	3	0	8	4
+404	2	1	4	3

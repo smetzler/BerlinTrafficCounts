@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 73761
+datum=10.09.2003
+kurzken=Q 73761/03
+bez=Rathausstraße (nördl. Prinzenstraße)   (Mariendorf, 12105)
+arm1=Rathausstraße,160,0000
+arm2=((Westen)),940,0001
+arm3=Rathausstraße,1950,0000
+arm4=Prinzenstraße,2740,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=19\,5°C; Sonne=3\,5 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+7	2
+3	0
+6	0
+3	0
+0	0
+2	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+0	0
+4	2
+8	0
+11	0
+5	0
+6	0
+0	0
+0	0
+0	0
+0	0
+2	0
+4	0

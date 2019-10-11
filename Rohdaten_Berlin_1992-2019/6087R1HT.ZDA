@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 10647
+datum=18.09.1984
+kurzken=Q 10647/84
+bez=Martin-Luther-Strasse  suedl. Barbarossastrasse  (Berlin 30)
+Arm1=West (3a),900,0100
+Arm2=Ost (3b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+19 1 33 6 43 1 57 0 54 2 41 5 44 6 
+31 2 38 3 55 7 51 6 31 3 
+; 2 -> 1
+25 9 32 3 43 1 46 3 39 7 47 2 44 2 
+38 3 34 3 37 4 44 9 21 0 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26191
+datum=17.06.2003
+kurzken=Q 26191/03
+bez=Heerstraße (westl. Chemnitzer Straße)    (Hellersdorf, 12621)
+arm1=Heerstraße (W),550,0000
+arm2=Chemnitzer Straße (S),1750,0001
+arm3=Heerstraße (O),2350,0000
+arm4=Chemnitzer Straße (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonne=13\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+1	0
+3	0
+2	0
+2	0
+0	0
+1	0
+1	0
+1	0
+1	0
+3	3
+3	0
+; 4 -> 2
+3	2
+4	0
+1	0
+3	0
+4	0
+0	0
+3	1
+4	0
+1	0
+2	0
+3	1
+2	0

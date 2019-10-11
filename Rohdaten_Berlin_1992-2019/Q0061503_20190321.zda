@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0061503
+datum=21.03.2019
+kurzken=Q 0061503/19
+bez=Rominter Allee (südl. Charlottenburger Chaussee) (Ruhleben, 14052) 
+arm1=Machandelweg,1600,0100
+arm2=Charlottenburger Chaussee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+78	5	0	0	4
+97	4	1	1	2
+89	5	0	0	1
+86	4	0	0	0
+110	8	0	1	2
+122	5	0	2	3
+103	6	1	4	1
+139	6	2	4	5
+224	3	1	4	5
+156	0	0	2	4
+148	0	1	2	2
+136	1	1	2	4
+; 2 -> 1
+131	8	26	0	5
+156	7	29	2	4
+117	10	26	1	1
+120	6	24	2	2
+175	7	24	2	0
+123	4	25	5	0
+111	5	24	1	5
+135	4	29	1	2
+154	3	27	3	2
+130	0	24	2	2
+136	0	32	2	4
+121	1	33	2	4

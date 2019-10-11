@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907037
+datum=16.05.2019
+kurzken=Q 0907037/19
+bez=Goerdeler Damm - Zufahrt BAB Stadtring (A100) (Charlottenburg, 13627) 
+arm1=Goerdeler Damm (J.-Kaiser-Platz),900,0100
+arm2=A100 (AD Charlottenburg),2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+250	17	0	1	0
+203	20	1	0	0
+210	38	1	1	0
+177	29	0	0	0
+178	22	0	0	0
+201	23	0	0	0
+169	19	0	0	0
+217	24	0	2	0
+258	25	0	3	0
+252	14	0	0	0
+257	8	0	4	0
+151	2	0	2	0

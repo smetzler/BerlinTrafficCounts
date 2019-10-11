@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0909066
+datum=18.09.2006
+kurzken=Q 0909066/06
+bez=Prinzregentenstraße (südl. Durlacher Straße)   (Wilmersdorf, 10715)
+arm1=Wexstraße,1750,0100
+arm2=Durlacher Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=27°C max T; 9 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+270	1	0	8	189
+355	5	0	16	258
+299	4	1	13	155
+196	0	0	8	82
+154	2	0	6	87
+296	5	0	8	71
+167	6	0	6	86
+186	12	1	7	121
+194	16	0	14	114
+196	6	1	15	77
+154	5	0	11	61
+146	0	0	3	54
+; 2 -> 1
+12	0	0	5	113
+141	5	0	0	162
+94	2	0	2	133
+114	0	0	2	78
+118	0	0	2	81
+121	0	0	6	76
+146	2	1	4	68
+177	8	0	8	136
+188	8	2	10	132
+172	3	0	6	86
+143	4	1	4	68
+121	3	0	2	61

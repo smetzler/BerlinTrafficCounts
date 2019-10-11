@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08904
+datum=19.06.1986
+kurzken=Q 8904/86
+bez=Skalitzer Strasse  ( Ost )  oestl. Reichenberger Strasse    ( Berlin 36 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter:  ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+59 12 71 10 98 11 101 18 154 12 146 19 144 30 
+163 29 208 35 189 26 205 28 160 4 
+; 2 -> 1
+61 13 52 8 92 6 98 20 137 44 118 21 124 23 
+195 34 215 37 178 28 189 18 107 15 

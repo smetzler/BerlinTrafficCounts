@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 10444
+datum=24.04.2007
+kurzken=Q 10444/07
+bez=Konstanzer Straße (nördl. Hohenzollerndamm)   (Wilmersdorf, 10713)
+arm1=Hohenzollerndamm (W),1150,0010
+arm2=Konstanzer Straße (S),1800,0000
+arm3=Hohenzollerndamm (O),2950,1000
+arm4=Konstanzer Straße (N),3500,0000
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22 °C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+0	0
+0	0
+0	0
+4	0
+1	0
+7	1
+10	1
+9	0
+24	1
+16	2
+10	5
+19	5
+9	0
+9	3
+29	12
+13	6
+11	6
+15	3
+5	0
+7	2
+8	3
+8	0
+0	0
+; 3 -> 1
+2	0
+0	0
+1	0
+0	0
+1	0
+0	0
+6	0
+11	1
+14	0
+13	3
+15	2
+11	2
+18	1
+32	3
+22	4
+21	12
+8	9
+12	6
+13	4
+16	4
+6	2
+19	5
+6	2
+4	3

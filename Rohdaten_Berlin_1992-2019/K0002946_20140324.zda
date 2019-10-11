@@ -1,0 +1,57 @@
+[ZA1001]
+knoten=K 2946
+datum=24.03.2014
+kurzken=K 2946/14
+bez=Kurt-Schumacher-Damm / Rue Ambroise Pare - Rue Dominique-Larrey   (Tegel, 13405)
+arm1=Rue Ambroise Pare - Rue D. Larrey,800,0100
+arm2=Kurt-Schumacher-Damm (S),1600,0000
+arm3=,0,0000
+arm4=Kurt-Schumacher-Damm (N),3400,1100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+15	1	0	2
+29	0	0	0
+22	5	6	1
+9	0	0	0
+8	0	0	0
+14	1	0	1
+13	0	0	1
+9	1	1	0
+17	0	0	1
+16	0	0	0
+15	0	0	0
+8	0	0	1
+; 4 -> 1
+2	0	0	0
+5	0	0	0
+7	2	2	1
+11	0	0	1
+6	0	0	0
+15	0	0	0
+14	1	0	0
+14	0	0	0
+13	1	0	0
+23	0	0	1
+22	0	0	0
+31	0	0	1
+; 4 -> 2
+747	55	18	7
+850	55	19	5
+787	81	26	8
+747	73	19	6
+731	59	18	4
+848	65	19	9
+966	76	18	16
+1177	81	23	16
+1281	60	19	17
+1113	37	19	19
+1283	43	20	23
+1119	49	20	15

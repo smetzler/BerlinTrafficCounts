@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041063
+datum=1.4.1992
+kurzken=Q 4106.3/92
+bez=Kurfürstendamm zw. Knesebeckstr. u. Uhlandstr.    ( Berlin 31 )
+arm1=Knesebeckstraße,600,0100
+arm2=Uhlandstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=IV-Verkehr ohne Busspur !
+data=
+; 1 -> 2
+524 
+656 
+622 
+719 
+747 
+762 
+597 
+660 
+721 
+691 
+616 
+631 
+; 2 -> 1
+490 
+525 
+582 
+647 
+631 
+607 
+674 
+742 
+655 
+621 
+653 
+564 

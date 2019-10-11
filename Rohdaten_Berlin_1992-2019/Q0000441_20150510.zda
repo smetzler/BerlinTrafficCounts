@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00441
+datum=10.05.2015
+kurzken=Q 00441/15
+bez=A100 - Stadtring (Tunnel Innsbrucker Platz) (Schöneberg, 10715)
+arm1=AS Wexstraße,500,0100
+arm2=AK Schöneberg,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=SPURAUFTEILUNG vor Ort festlegen !\nStandort: westl. Innsbrucker Pl.\, nur Tunnel zählen!
+data=
+; 1 -> 2
+4805	20	5	15	49
+5239	16	3	31	47
+5356	15	2	18	59
+; 2 -> 1
+3830	21	0	12	35
+4066	13	0	10	31
+3221	14	0	9	45

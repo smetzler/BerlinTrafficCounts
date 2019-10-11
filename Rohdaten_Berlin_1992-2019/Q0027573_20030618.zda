@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27573
+datum=18.06.2003
+kurzken=Q 27573/03
+bez=Akazienallee (östl. Wilhelm-Blos-Straße)   (Mahlsdorf, 12621)
+arm1=Akazienallee (W),800,0000
+arm2=Wilhelm-Blos-Straße (S),1700,0001
+arm3=Akazienallee (O),2600,0000
+arm4=Wilhelm-Blos-Straße (S),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	0
+0	0
+0	0
+0	0
+3	0
+2	0
+0	0
+3	0
+5	0
+0	0
+0	0
+5	5
+; 4 -> 2
+2	2
+0	0
+2	0
+0	0
+3	0
+1	0
+0	0
+3	1
+0	0
+0	0
+0	0
+2	1

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 14755
+datum=14.03.1989
+kurzken=Q 14755/89
+bez=Rubensstrasse noerdlich Thorwaldsenstrasse    ( Berlin 41 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: wolkig bis bedeckt !
+data=
+; 1 -> 2
+0 0 6 0 5 0 3 1 2 1 1 3 5 1 
+3 0 4 2 5 1 4 0 4 0 
+; 2 -> 1
+6 1 3 1 3 0 2 1 7 1 3 2 6 2 
+2 1 2 1 3 1 1 0 5 0 

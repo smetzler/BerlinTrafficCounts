@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12934
+datum=08.09.2016
+kurzken=Q 12934/16
+bez=Thiemannstraße (nördl. Sonnenallee)   (Neukölln, 12059)
+arm1=Sonnenallee (W),500,0010
+arm2=Thiemannstraße (S),1450,0000
+arm3=Sonnenallee (O),2300,1000
+arm4=Thiemannstraße (N),3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=30°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+20	1
+17	1
+19	3
+19	1
+18	1
+20	0
+22	2
+17	9
+26	3
+24	8
+19	2
+20	1
+; 3 -> 1
+17	22
+24	1
+31	23
+33	2
+17	0
+32	1
+20	7
+33	2
+33	8
+26	5
+31	12
+32	9

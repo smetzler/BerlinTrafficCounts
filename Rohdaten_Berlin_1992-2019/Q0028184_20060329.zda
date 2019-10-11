@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 28184
+datum=29.03.2006
+kurzken=Q 28184/06
+bez=Bundschuhweg (östl. Oranienburger Chaussee )   (Frohnau, 13465)
+arm1=Oranienburger Chaussee (N),200,0010
+arm2=Bundschuhweg (W),1100,0000
+arm3=Oranienburger Chaussee (S),1950,1000
+arm4=Bundschuhweg (O),2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+1	0
+0	0
+2	0
+3	0
+0	0
+3	1
+2	0
+3	2
+2	1
+0	0
+1	0
+; 3 -> 1
+0	0
+1	2
+2	0
+1	0
+0	0
+0	0
+5	0
+3	1
+2	2
+1	0
+0	0
+0	0

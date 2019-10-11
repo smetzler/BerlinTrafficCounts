@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40069
+datum=27.10.1983
+kurzken=Q 40069/83
+bez=LINTRUPER STRASSE  suedl. Buckower Chaussee  ( Berlin 49 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Verkehrsuntersuchung Spandau  ***  Kontrollerhebung Lichtenrade
+data=
+; 1 -> 2
+0 3 0 1 0 0 7 0 1 0 0 5 1 1 0 
+1 2 0 0 0 0 7 2 0 0 0 16 1 0 0 
+1 8 1 0 0 0 14 3 0 0 0 26 2 0 0 
+1 42 0 2 0 0 31 1 0 0 0 15 2 0 0 
+; 2 -> 1
+0 40 1 0 0 0 20 0 0 0 0 9 0 0 0 
+0 7 2 0 0 0 8 0 1 0 0 10 1 1 0 
+0 10 1 1 0 0 6 1 0 0 1 14 0 2 0 
+0 8 0 0 0 0 19 0 0 0 0 14 1 0 0 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27673
+datum=22.10.2003
+kurzken=Q 27673/03
+bez=Marienburger Straße (östl. Winsstraße)   (Prenzlauer Berg, 10405)
+arm1=Marienburger Straße (W),600,0000
+arm2=Winsstraße (S),1500,0001
+arm3=Marienburger Straße (O),2400,0000
+arm4=Winsstraße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=2 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+14	13
+30	4
+51	3
+37	0
+50	0
+46	3
+72	8
+74	12
+89	29
+122	17
+98	7
+130	4
+; 4 -> 2
+14	4
+36	3
+38	0
+42	0
+40	0
+38	18
+48	4
+52	9
+70	11
+94	26
+85	17
+81	12

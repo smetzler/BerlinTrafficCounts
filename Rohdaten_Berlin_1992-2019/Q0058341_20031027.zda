@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 58341
+datum=27.10.2003
+kurzken=Q 58341/03
+bez=Stierstraße (nördl. Hauptstraße)   (Schöneberg, 121599)
+arm1=Stierstraße,0,0000
+arm2=Hauptstraße,1400,0001
+arm3=,0,0000
+arm4=Hauptstraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=6°C; Sonne=9\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	3
+23	1
+31	0
+66	3
+46	2
+53	1
+25	0
+34	5
+79	1
+72	1
+96	8
+22	1
+; 4 -> 2
+18	1
+56	0
+58	0
+57	1
+60	2
+54	0
+25	0
+21	1
+50	3
+62	4
+37	4
+23	2

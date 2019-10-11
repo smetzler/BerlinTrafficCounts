@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10181
+datum=03.04.2019
+kurzken=Q-10181/18
+bez=Nalepastraße/ Kunheimstraße - Helmholzstraße (Treptow-Köpen, 12459)  über Arm1
+arm1=Helmholzstraße (NW),270,0100
+arm2=Kunheimstr. (SO),2070,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+0	0
+0	0
+2	0
+0	0
+0	0
+1	0
+0	0
+1	0
+1	0
+2	0
+0	0
+0	0
+; 2 -> 1
+1	0
+0	0
+0	0
+1	1
+0	0
+0	0
+4	0
+5	0
+1	0
+2	0
+3	1
+1	0

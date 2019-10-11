@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025528
+datum=12.3.1992
+kurzken=Q 2552.8/92-F
+bez=Plesser Straße östlich Karl-Kunger-Straße    ( Berlin 1193 Trept. )
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+3 1 
+6 0 
+25 6 
+21 6 
+13 2 
+14 7 
+18 4 
+16 0 
+34 4 
+18 6 
+20 4 
+11 2 
+; 2 -> 1
+0 0 
+7 0 
+17 2 
+22 1 
+10 0 
+19 0 
+15 1 
+27 10 
+14 0 
+10 0 
+21 0 
+12 0 

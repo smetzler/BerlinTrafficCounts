@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5565031
+datum=06.05.2013
+kurzken=Q 5565031/13
+bez=Torstraße (westl. Schönhauser Allee)   (Mitte, 10119)
+arm1=Torstraße (W),720,0000
+arm2=Alte Schönhauser Straße,1500,0001
+arm3=Torstraße (O),2520,0000
+arm4=Schönhauser Allee,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+35	4
+76	1
+102	0
+117	2
+105	0
+127	1
+58	2
+71	3
+140	5
+102	8
+85	11
+105	11
+; 4 -> 2
+30	2
+93	14
+91	4
+130	4
+121	1
+174	4
+60	0
+62	7
+100	3
+90	3
+86	9
+115	15

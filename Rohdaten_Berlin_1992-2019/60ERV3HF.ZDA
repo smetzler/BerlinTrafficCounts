@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19147
+datum=04.12.1990
+kurzken=Q 19147/90
+bez=Briesingstrasse suedlich Bahnhofstrasse    ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+46 7 75 4 107 10 122 5 269 66 205 29 136 12 
+134 22 187 19 219 24 176 8 97 8 
+; 2 -> 1
+50 55 104 30 90 7 124 4 124 8 120 15 86 15 
+118 18 151 38 207 22 153 7 63 2 

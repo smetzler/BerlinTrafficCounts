@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914186
+datum=22.11.2017
+kurzken=Q 0914186/17
+bez=Rosenthaler Weg (östl. Cunistraße)   (Französisch Buchholz, 13127)
+arm1=Cunistraße,1000,0000
+arm2=Krugpfuhlweg,2800,0000
+arm3=(Norden),100,0001
+arm4=(Süden),1900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fußgänger über Rosenthaler Weg östl. der Cunistraße\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+0	0
+1	2
+5	0
+1	0
+6	0
+7	0
+12	0
+10	5
+23	2
+34	7
+9	0
+7	0
+; 4 -> 3
+4	5
+6	0
+6	0
+1	0
+15	0
+6	0
+12	7
+13	1
+16	4
+30	4
+22	1
+18	0

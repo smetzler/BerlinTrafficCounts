@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904902
+datum=08.05.2019
+kurzken=Q 0904902/18
+bez=Schwedter Straße (nördl. Kastanienallee) (Prenzlauer Berg, 10435) 
+arm1=Griebeowstraße,150,0100
+arm2=Kastanienallee,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+152
+262
+192
+86
+76
+35
+40
+52
+37
+86
+41
+72
+; 2 -> 1
+59
+96
+112
+72
+59
+51
+69
+88
+97
+138
+120
+130

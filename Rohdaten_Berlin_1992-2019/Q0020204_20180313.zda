@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20204
+datum=13.03.2018
+kurzken=Q 20204/18
+bez=Ein- / Ausf. Gewerbegebiet (Würth) (östl. Teltower Damm)     (Schönow, 14167)
+arm1=Teltower Damm (N),100,0010
+arm2=Alt Schönow,950,0000
+arm3=Teltower Damm (S),2100,1000
+arm4=Ein- / Ausf. Gewerbegebiet (Würth),3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+2	0
+3	0
+5	0
+8	0
+14	0
+18	0
+13	0
+9	0
+20	0
+8	0
+14	0
+8	0
+; 3 -> 1
+11	0
+10	0
+17	0
+6	0
+18	0
+21	0
+15	0
+13	0
+12	1
+8	0
+17	0
+7	0

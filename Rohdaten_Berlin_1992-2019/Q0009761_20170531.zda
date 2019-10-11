@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9761
+datum=31.05.2017
+kurzken=Q 9761/17
+bez=Pallasstraße (westl. Potsdamer Straße)   (Schöneberg, 10781)
+arm1=Pallasstraße,830,0000
+arm2=Potsdamer Straße ,1790,0001
+arm3=Goebenstraße,2510,0000
+arm4=Potsdamer Straße,3590,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+22	5
+48	2
+74	5
+56	8
+54	2
+96	11
+99	15
+106	38
+80	22
+74	30
+102	34
+83	46
+; 4 -> 2
+36	13
+81	5
+68	4
+76	1
+60	2
+66	4
+93	8
+85	27
+90	11
+78	20
+114	18
+96	21

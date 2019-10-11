@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921066
+datum=11.09.2014
+kurzken=Q 0921066/14
+bez=Abfahrt v. Märkische All. (N) zur Wuhletalstr. (westl. Märkische A.) (Marzahn, 12687)
+arm1=Wuhletalstraße,1500,0000
+arm2=Märkische Allee (N),3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+192	13	0	2	0
+157	7	2	3	0
+124	13	0	1	0
+118	18	0	0	0
+110	19	0	0	0
+91	26	0	3	0
+144	28	1	1	0
+116	17	0	0	0
+149	9	0	1	0
+162	5	0	4	2
+131	5	0	3	0
+120	10	0	1	0

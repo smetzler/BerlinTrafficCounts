@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923020
+datum=28.03.2017
+kurzken=Q 0923020/17
+bez=Pekrunstraße (südl. Sterckmannsweg)   (Marzahn, 12685)
+arm1=Sterckmannsweg,550,0100
+arm2=Blumenbachweg,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 2
+48	0	0	0	10
+34	0	0	0	6
+37	0	0	0	4
+44	0	0	0	6
+36	0	0	2	9
+33	1	0	0	6
+35	0	0	0	8
+63	0	0	1	10
+95	0	0	2	11
+76	3	0	2	12
+69	2	0	1	6
+64	0	0	1	9
+; 2 -> 1
+65	0	0	0	6
+47	0	0	0	6
+50	0	0	0	9
+40	2	0	0	12
+25	0	0	0	9
+30	0	0	1	10
+33	0	0	1	5
+29	0	0	0	14
+47	0	0	2	10
+37	0	0	1	8
+35	0	0	1	20
+39	0	0	0	8

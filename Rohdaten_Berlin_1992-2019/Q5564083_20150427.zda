@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5564083
+datum=27.04.2015
+kurzken=Q 5564083/14
+bez=Alexanderplatz (östl. Karl-Liebknecht-Straße)    (Mitte, 10178)
+arm1=Memhardstraße,700,0000
+arm2=Karl-Liebknecht-Straße (S),1300,0001
+arm3=Alexanderplatz,2500,0000
+arm4=Karl-Liebknecht-Straße (N),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+162	9
+254	6
+273	21
+218	5
+267	10
+314	25
+295	31
+221	16
+204	43
+275	16
+267	31
+327	18
+; 4 -> 2
+75	3
+104	14
+154	50
+265	8
+316	8
+227	34
+305	37
+254	98
+231	37
+316	24
+424	12
+351	11

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00402
+datum=05.08.2015
+kurzken=Q 00402/15
+bez=A100 - Stadtring (Zu.- u. Abf. südl. Hohenzollendamm)   (Wilmersdorf, 10718)
+arm1=Hohenzollerndamm,400,0100
+arm2=A100 (AS Schmargendorf),2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Abfahrt 2>1 gesperrt!
+data=
+; 1 -> 2
+337	9	8	3	11
+326	7	2	0	5
+322	1	2	0	6
+; 2 -> 1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1

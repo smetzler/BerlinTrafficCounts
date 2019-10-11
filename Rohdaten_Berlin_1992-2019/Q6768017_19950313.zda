@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6768017
+datum=13.03.1995
+kurzken=Q 6768017/95
+bez=Robert-Rössle-Straße (östl. Karower Chaussee) (Buch, 13125)
+arm1=W.-Heinz-Straße,650,0000
+arm2=Karower Chaussee,1500,0001
+arm3=Robert-Rössle-Straße,2430,0000
+arm4=Karower Chaussee,3480,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =5°; bedeckt; kein Niederschlag. \n
+data=
+; 2 -> 4
+7 12
+13 6
+14 3
+9 3
+7 4
+10 0
+6 3
+3 4
+7 4
+10 2
+3 3
+4 2
+; 4 -> 2
+11 40
+4 0
+3 3
+9 1
+9 0
+1 0
+7 1
+8 6
+9 5
+16 6
+17 4
+7 3

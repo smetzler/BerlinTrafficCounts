@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917098
+datum=23.11.2010
+kurzken=Q 0917098/10
+bez=Waldowallee (nördl. Loreleystraße)   (Karlshorst, 10318)
+arm1=Andernacher Straße,150,0100
+arm2=Loreleysraße,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+81	2	0	0	27
+113	9	0	0	6
+120	12	0	0	7
+142	3	0	0	7
+144	5	0	0	3
+146	6	0	0	1
+165	9	0	0	3
+182	10	0	0	2
+260	4	0	0	12
+319	2	0	4	3
+250	0	0	0	6
+167	3	0	2	0
+; 2 -> 1
+405	5	0	3	9
+320	8	0	1	5
+196	8	0	0	3
+156	6	0	0	1
+163	4	0	2	5
+149	5	0	0	5
+159	10	0	0	14
+175	6	0	1	9
+158	8	0	2	4
+169	6	0	1	9
+141	1	0	2	2
+137	1	0	0	4

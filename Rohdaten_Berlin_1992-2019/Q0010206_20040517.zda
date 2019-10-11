@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010206
+datum=17.05.2004
+kurzken=Q 010206/04
+bez=Voßstraße (östl. Ebertstraße) (Mitte, 10117)
+arm1=Ebertstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten: Strom von Voßstraße in die Ebertstr. von 7-18 Uhr gesperrt! Ab 12:15 Uhr Baustellen-Sperrung auch Richtung Wilhelmstraße: Zählung abgebrochen!
+data=
+; 1 -> 2
+10	3	1	0	2
+22	5	1	0	9
+20	6	3	0	16
+20	5	1	0	4
+16	6	0	0	6
+14	9	5	0	2
+1	0	0	0	1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+; 2 -> 1
+24	12	3	0	3
+16	10	3	0	7
+22	12	1	0	8
+33	7	1	0	13
+17	6	0	0	8
+23	6	6	0	13
+5	0	0	0	0
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1

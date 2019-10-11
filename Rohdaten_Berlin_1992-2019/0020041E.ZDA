@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=K 2592
+datum=19.08.1992
+kurzken=K 2592/92
+bez=Alt-Köpenick / Rosenstraße    ( Berlin 1170-Köpenick )
+arm1=,0,0000
+arm2=Alt-Köpenick,1670,0000
+arm3=Rosenstraße,2650,0100
+arm4=Alt-Köpenick,3470,0100
+art=Kfz
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 3 -> 2
+6
+10
+28
+19
+16
+18
+18
+14
+11
+10
+10
+10
+; 4 -> 2
+925
+974
+1203
+1051
+1177
+1063
+1141
+1093
+1181
+1129
+1205
+1078

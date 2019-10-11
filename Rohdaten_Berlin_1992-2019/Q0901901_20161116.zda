@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901901
+datum=16.11.2016
+kurzken=Q 0901901/16
+bez=Karl-Liebknecht-Straße (westl. Spandauer Straße)   (Mitte, 10178)
+arm1=Am Lustgarten,1300,0100
+arm2=Spandauer Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 9°C max T; 0 Std Sonne; 2 mm Niederschl.; 4 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+56
+96
+93
+82
+82
+104
+137
+148
+189
+208
+287
+354
+; 2 -> 1
+244
+394
+269
+156
+83
+63
+68
+77
+57
+66
+67
+90

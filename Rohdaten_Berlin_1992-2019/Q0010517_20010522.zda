@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010517
+datum=22.05.2001
+kurzken=Q 010517/01
+bez=Hohenzollerndamm (südl. Seesener Straße) (Wilmersdorf, 14199)
+arm1=Zu- u. Abfahrt BAB,1350,0100
+arm2=Seesener Straße ,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle Hohenzollerndamm: BAB-Abfahrten und Zufahrt Ri. Süd gesperrt!
+data=
+; 1 -> 2
+468	29	16	3	19
+964	53	21	7	49
+1383	77	32	6	30
+1342	89	32	6	35
+950	71	29	4	24
+901	93	19	4	13
+905	92	24	3	45
+941	81	13	10	59
+874	86	29	8	61
+1104	96	19	8	68
+1118	74	22	9	85
+1141	56	5	6	78
+; 2 -> 1
+580	60	20	5	20
+1010	119	30	10	74
+1239	110	39	8	56
+1360	122	49	6	70
+1148	85	38	4	45
+1256	124	39	6	49
+1282	201	37	6	30
+1397	170	33	7	47
+1338	141	30	11	44
+1785	175	23	9	76
+1733	146	15	9	83
+1814	99	9	7	78

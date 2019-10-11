@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910005
+datum=26.05.1998
+kurzken=Q 0910005/98
+bez=Mühlenstraße (östl. Teltower Damm)   (Zehlendorf, 14167)
+arm1=Teltower Damm,1100,0100
+arm2=Prinz-Handjery-Straße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+446	8	4	9
+515	15	5	5
+425	14	3	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+527	6	4	10
+573	11	3	13
+577	3	10	19
+; 2 -> 1
+352	12	4	10
+397	7	8	10
+290	12	3	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+456	8	3	10
+468	3	3	12
+497	4	6	11

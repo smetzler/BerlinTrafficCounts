@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920267
+datum=03.07.2014
+kurzken=Q 0920267/14
+bez=Schönfließer Straße (westl. Gollanczstraße)   (Frohnau, 13465)
+arm1=Kniggeweg,1000,0000
+arm2=Gollanczstraße,2800,0000
+arm3=((Norden)),100,0001
+arm4=((Süden)),1900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Sewanstr. westl. der Gollanczstr. (bis ca. 50m westl.) queren.\nWetter: max T=25°C; Sonne=9 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+0	10
+1	2
+2	4
+0	0
+2	0
+0	1
+5	0
+7	1
+3	2
+2	0
+1	1
+5	0
+; 4 -> 3
+0	2
+2	1
+3	0
+0	0
+4	1
+2	1
+2	12
+4	1
+2	5
+0	0
+0	1
+2	0

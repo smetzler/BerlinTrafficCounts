@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0903005
+datum=05.11.1998
+kurzken=Q 0903005/98
+bez=Schulstraße (nordöstl. Reinickendorfer Straße)   (Wedding, 13357)
+arm1=Reinickendorfer Straße,1400,0100
+arm2=Martin-Opitz-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+529	31	7	6
+563	40	4	10
+506	34	4	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+914	26	3	11
+977	27	3	20
+858	9	3	7
+; 2 -> 1
+725	39	5	9
+705	25	4	9
+597	33	5	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+678	20	4	8
+624	8	4	9
+541	6	4	1

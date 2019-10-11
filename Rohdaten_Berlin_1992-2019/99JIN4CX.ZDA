@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5484047
+datum=18.08.1993
+kurzken=Q 548404.7/93-F
+bez=Morusstraße südl. Werbellinstraße    ( Neukölln )
+arm1=West,950,0100
+arm2=Ost,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+13 23
+8 3
+5 1
+26 0
+19 45
+23 5
+18 9
+29 7
+21 12
+25 15
+14 6
+7 1
+; 2 -> 1
+14 5
+7 30
+7 2
+10 1
+5 3
+18 23
+17 20
+32 12
+29 10
+21 13
+19 3
+8 0

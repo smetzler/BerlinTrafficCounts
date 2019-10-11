@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0902010
+datum=15.03.1999
+kurzken=Q 0902010/99
+bez=Alt-Moabit (östl. Paulstraße)   (Tiergarten, 10557)
+arm1=Paulstraße,850,0100
+arm2=Invalidenstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1033	54	11	14
+1058	72	9	12
+1131	73	9	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1212	32	9	17
+1330	37	6	25
+1112	14	7	13
+; 2 -> 1
+1048	36	11	15
+1189	60	10	10
+1016	46	7	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+994	30	7	18
+1092	26	7	21
+996	21	6	16

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0918005
+datum=22.06.1998
+kurzken=Q 0918005/98
+bez=Berliner Allee (nördl. Rennbahnstraße)   (Weißensee, 13088)
+arm1=Rennbahnstraße,1850,0100
+arm2=Liebermannstraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+407	42	13	4
+403	48	14	5
+412	69	13	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+645	59	10	7
+695	22	9	14
+570	18	11	12
+; 2 -> 1
+684	39	12	7
+617	59	13	5
+604	52	13	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+605	31	11	13
+606	21	9	12
+528	25	11	13

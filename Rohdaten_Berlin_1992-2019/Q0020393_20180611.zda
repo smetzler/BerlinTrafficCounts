@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20393
+datum=11.06.2018
+kurzken=Q 20393/18
+bez=Hussitenstraße (südl. Feldstraße)   (Wedding, 13355)
+arm1=Hussitenstraße (N),280,0000
+arm2=Feldstraße,1450,0001
+arm3=Hussitenstraße (S),2290,0000
+arm4=Usedomer Straße,2960,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+12	3
+27	0
+32	1
+16	0
+18	0
+15	0
+13	0
+10	0
+12	0
+13	3
+14	1
+11	0
+; 4 -> 2
+7	2
+16	6
+15	0
+22	0
+15	2
+6	0
+17	0
+13	0
+29	0
+9	1
+13	0
+12	0

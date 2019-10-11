@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0015
+datum=11.08.2015
+kurzken=Q 0015/15
+bez=B5 - Heerstraße (östl. Gatower Straße)   (Spandau, 13595)
+arm1=Gatower Straße ,800,0100
+arm2=Börnicker Straße ,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Spuraufteilung vor Ort festlegen. City-Atlas Seite 81\, Feld 6d
+data=
+; 1 -> 2
+1252	23	15	31	17	15
+1344	16	10	29	31	21
+1482	14	16	39	31	32
+; 2 -> 1
+1554	27	26	35	63	34
+1646	20	9	27	57	34
+1664	21	13	29	56	37

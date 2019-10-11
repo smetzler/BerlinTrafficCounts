@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7161
+datum=15.04.2015
+kurzken=Q 7161/15
+bez=Kurfürstendamm (westl. Joachimsthaler Straße)   (Charlottenburg, 10623)
+arm1=Kurfürstendamm (W),1100,0000
+arm2=Joachimsthaler Straße (S),1750,0001
+arm3=Kurfürstendamm (O),2900,0000
+arm4=Joachimsthaler Straße (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+49	5
+112	4
+217	40
+216	16
+250	28
+297	18
+340	56
+429	27
+448	30
+421	49
+491	22
+424	13
+; 4 -> 2
+135	2
+256	2
+221	2
+217	51
+279	34
+333	14
+326	25
+404	38
+384	24
+407	24
+475	28
+411	32

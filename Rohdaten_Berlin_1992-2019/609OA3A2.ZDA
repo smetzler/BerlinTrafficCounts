@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 12538
+datum=27.03.1990
+kurzken=Q 12538/90
+bez=Feurigstrasse noerdl. Dominicusstrasse    ( Berlin 62 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+36 29 37 19 55 14 50 17 87 29 79 31 70 32 
+63 22 142 37 93 23 128 25 56 28 
+; 2 -> 1
+6 13 9 16 50 24 77 26 79 17 83 31 79 39 
+58 34 102 32 108 28 108 26 82 36 

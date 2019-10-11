@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41023
+datum=14.8.1991
+kurzken=Q 4102.3/91
+bez=Schlosstrasse zw. Treitschkestrasse und Feuerbachstrasse    ( Berlin 41 )
+arm1=Feuerbachstraße,900,0100
+arm2=Treitschkestraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+666 
+729 
+1032 
+963 
+924 
+829 
+1055 
+992 
+1139 
+957 
+1130 
+1088 
+; 2 -> 1
+821 
+723 
+795 
+864 
+856 
+791 
+805 
+671 
+867 
+953 
+887 
+841 

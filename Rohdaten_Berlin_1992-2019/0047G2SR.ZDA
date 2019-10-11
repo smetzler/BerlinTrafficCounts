@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 5452
+datum=12.10.1988
+kurzken=K 5452/88
+bez=Olivaer Platz / Wielandstrasse   ( Berlin 15 )
+Arm1=Olivaer Platz,800,0000
+Arm2=,0,0000
+Arm3=Olivaer Platz,2600,1001
+Arm4=Wielandstrasse,3550,1000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstrom 13 nicht erfasst !
+data=
+; 3 -> 1
+358 463 545 569 712 714 766 715 851 834 864 821 
+; 3 -> 4
+15 29 38 26 37 32 27 32 22 36 21 17 
+; 4 -> 1
+10 16 44 32 55 60 51 31 33 36 29 35 

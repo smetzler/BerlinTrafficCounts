@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11963
+datum=06.05.2013
+kurzken=Q 11963/13
+bez=Karl-Marx-Straße (östl. Hermannplatz - Hermannstraße)   (Neukölln, 10967)
+arm1=Hasenheide,720,0000
+arm2=Hermannstraße,1800,0001
+arm3=Karl-Marx-Straße,2330,0000
+arm4=Hermannplatz,3330,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+32	1
+88	10
+173	10
+203	39
+285	19
+274	10
+288	20
+262	27
+291	27
+257	34
+264	16
+227	11
+; 4 -> 2
+60	17
+103	7
+192	13
+200	38
+226	10
+249	11
+222	27
+273	12
+281	28
+244	25
+218	14
+206	11

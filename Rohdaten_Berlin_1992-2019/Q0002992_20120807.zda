@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2992
+datum=07.08.2012
+kurzken=Q 2992/12
+bez=Altstädter Ring (südl. Moritzstraße)   (Spandau, 13597)
+arm1=Moritzstraße (W),600,0010
+arm2=Altstädter Ring (S),1700,0000
+arm3=Moritzstraße (O),2400,1000
+arm4=Altstädter Ring (N),3250,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+55	15
+94	8
+151	30
+163	6
+160	40
+145	4
+130	60
+135	112
+127	21
+129	18
+115	33
+57	13
+; 3 -> 1
+39	113
+31	13
+53	6
+79	1
+99	10
+121	2
+79	9
+85	11
+96	13
+66	16
+95	17
+84	11

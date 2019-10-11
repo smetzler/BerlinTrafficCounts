@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3384184
+datum=04.04.2017
+kurzken=Q 3384184/17
+bez=Potsdamer Straße (östl. Fürstenstraße)   (Zehlendorf, 14163)
+arm1=Fürstenstraße,250,0010
+arm2=Potsdamer Straße (W),1000,0000
+arm3=Tankstelle,1900,1000
+arm4=Potsdamer Straße (O),2800,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 1 -> 3
+2	0
+0	0
+2	0
+2	0
+2	0
+2	0
+3	0
+1	0
+0	0
+5	0
+0	0
+2	0
+; 3 -> 1
+1	0
+1	0
+0	0
+0	0
+1	0
+2	0
+0	0
+8	0
+7	0
+2	0
+1	0
+0	0

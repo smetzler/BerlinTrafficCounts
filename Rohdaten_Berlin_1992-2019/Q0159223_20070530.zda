@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159223
+datum=30.05.2007
+kurzken=Q 159223/07
+bez=BAB-Abzw. Zehlendorf (A103) (Fahrbahn Strom 2>3)   (Steglitz, 12165)
+arm1=((Nordwest)),500,0001
+arm2=Wolfensteindamm,1800,0000
+arm3=BAB-Abzw. Zehlendorf (A103),3200,0000
+arm4=((Südost)),2300,1000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 4
+11	0
+11	0
+23	0
+18	0
+27	1
+22	0
+45	6
+43	30
+33	3
+31	1
+29	0
+32	3
+; 4 -> 1
+17	4
+30	1
+51	22
+66	0
+44	2
+52	1
+54	2
+50	4
+51	4
+59	3
+49	8
+42	2

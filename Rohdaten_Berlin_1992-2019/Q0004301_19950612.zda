@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4301
+datum=12.06.1995
+kurzken=Q 4301/95
+bez=Kronenstraße (westl. Friedrichstraße),(Mitte, 10117)
+arm1=Glinkastraße,1000,0100
+arm2=Friedrichstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+26 5 0 0 0
+63 7 0 0 4
+66 2 0 0 6
+80 9 1 2 1
+61 6 0 0 4
+52 8 0 0 1
+51 9 0 0 2
+42 1 0 1 4
+50 3 0 0 3
+71 6 0 1 2
+47 0 0 0 1
+42 0 0 0 5
+; 2 -> 1
+123 6 0 0 0
+146 5 0 1 4
+131 8 1 1 8
+71 6 3 0 2
+105 4 2 0 4
+95 3 0 0 3
+117 4 2 0 5
+88 1 2 0 6
+96 0 1 0 3
+139 5 1 1 11
+141 1 1 0 6
+98 3 0 0 2

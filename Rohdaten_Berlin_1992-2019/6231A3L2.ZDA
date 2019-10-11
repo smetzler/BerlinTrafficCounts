@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 97246
+datum=07.03.1991
+kurzken=Q 97246/91
+bez=Stralsunder Strasse westlich Brunnenstrasse    ( Berlin 65 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+11 5 0 81 7 5 226 10 15 284 9 11 269 5 23 
+290 21 28 227 8 23 246 22 17 254 14 30 315 50 32 
+295 15 34 191 10 12 
+; 2 -> 1
+10 18 1 66 2 2 130 12 9 223 8 5 302 21 9 
+269 14 26 227 11 14 192 18 7 272 21 27 333 29 17 
+232 18 22 125 9 12 

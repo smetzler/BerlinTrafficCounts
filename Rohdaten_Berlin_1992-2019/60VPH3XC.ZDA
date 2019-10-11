@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041093
+datum=1.4.1992
+kurzken=Q 4109.3/92
+bez=Joachimstaler Str. zw. Kurfürstendamm u. Kantstr.    ( Berlin 31 )
+arm1=Kurfürstendamm,1500,0100
+arm2=Kantstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=IV-Verkehr ohne Busspur !
+data=
+; 1 -> 2
+737 
+878 
+889 
+966 
+1073 
+1081 
+942 
+943 
+1078 
+1044 
+900 
+898 
+; 2 -> 1
+1173 
+1247 
+1190 
+895 
+1123 
+1038 
+982 
+877 
+1125 
+1087 
+1248 
+1090 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912012
+datum=27.10.1998
+kurzken=Q 0912012/98
+bez=Bismarckstraße (südl. Sachsenwaldstraße)   (Steglitz, 12157)
+arm1=Sachsenwaldstraße,50,0100
+arm2=Lauenburger Platz,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+126	8	13	9
+231	13	10	3
+232	8	12	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+410	6	18	10
+474	3	17	9
+459	2	17	6
+; 2 -> 1
+429	16	14	10
+414	13	12	7
+375	17	12	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+318	6	16	7
+337	2	19	5
+297	3	16	6

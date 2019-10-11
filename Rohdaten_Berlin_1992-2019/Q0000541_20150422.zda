@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00541
+datum=22.04.2015
+kurzken=Q 00541/15
+bez=A111 - Zubr. HH (Zu- Abf. nördl. Scharnweberstr.) (Reinickendorf, 13403)
+arm1=AS Holzhauser Straße ,0,0100
+arm2=AS Scharnweber- Seidelstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+72	4	0	0	2
+110	2	4	0	5
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+104	3	0	0	1
+89	4	2	0	2
+90	0	1	0	0
+; 2 -> 1
+100	4	0	1	2
+88	4	4	0	1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+278	3	2	0	6
+257	5	1	1	6
+205	2	0	0	9

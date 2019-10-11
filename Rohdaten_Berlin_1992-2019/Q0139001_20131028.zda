@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 139001
+datum=28.10.2013
+kurzken=Q 139001/13
+bez=Groß-Ziethener Chaussee (Stadtgrenze)   (Rudow, 12355)
+arm1=Groß-Ziethen,1200,0100
+arm2=Am Rudower Waldrand,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Neuköllner Straße stadtauswärts zwischen Stubenrauchstraße und Bildhauerweg gesperrt!\n
+data=
+; 1 -> 2
+288	5	2	5	8
+245	5	0	6	9
+211	9	3	1	1
+204	12	0	2	2
+207	18	1	1	5
+185	9	1	1	2
+206	9	1	1	5
+335	8	1	8	6
+360	8	1	4	4
+394	4	1	9	12
+345	2	1	3	8
+251	0	2	2	4
+; 2 -> 1
+374	5	3	6	7
+302	11	1	2	7
+202	10	1	3	2
+208	10	1	4	2
+202	8	1	0	2
+205	11	1	1	1
+268	7	2	5	5
+271	14	1	2	8
+325	5	1	7	10
+343	5	2	4	11
+314	0	1	3	7
+267	2	2	2	4

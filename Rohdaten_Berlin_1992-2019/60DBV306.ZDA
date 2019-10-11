@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 17275
+datum=23.05.1989
+kurzken=Q 17275/89
+bez=Leonorenstrasse noerdl. Charlottenstrasse    ( Berlin 46 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken !
+data=
+; 1 -> 2
+4 2 3 5 5 4 1 2 3 1 2 7 
+; 2 -> 1
+6 4 1 4 1 5 2 0 2 2 2 2 

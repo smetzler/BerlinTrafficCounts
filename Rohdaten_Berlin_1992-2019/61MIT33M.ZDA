@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 75845
+datum=19.09.1989
+kurzken=Q 75845/89
+bez=Neuendorfer Strasse noerdl. Schaeferstrasse    ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+30 29 32 13 42 5 27 13 23 11 27 10 20 4 
+35 16 36 12 24 8 18 13 9 2 
+; 2 -> 1
+17 8 15 9 38 3 12 7 17 8 19 7 23 12 
+19 15 29 16 31 13 19 13 13 5 

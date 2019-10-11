@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901047
+datum=14.09.2006
+kurzken=Q 0901047/06
+bez=Werderscher Markt (Schleusenbrücke)   (Mitte, 10177)
+arm1=Unterwasserstraße,1050,0100
+arm2=Schloßplatz,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=26°C max T; 12 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+185	18	4	12	22
+190	22	6	8	15
+240	28	8	4	36
+242	35	21	8	28
+249	20	21	14	29
+259	32	18	12	61
+372	20	24	16	104
+464	21	22	17	102
+650	18	24	42	138
+661	10	19	39	97
+611	7	19	40	188
+523	6	13	29	215
+; 2 -> 1
+995	40	8	49	152
+967	39	9	42	267
+614	30	20	16	220
+309	25	16	15	99
+282	26	14	18	72
+267	18	17	10	95
+338	19	12	18	122
+323	17	15	19	113
+362	16	18	20	102
+301	11	18	9	74
+305	7	13	16	88
+303	3	8	18	108

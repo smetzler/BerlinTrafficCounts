@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0902035
+datum=11.05.2006
+kurzken=Q 0902035/06
+bez=Stülerstraße (nördl. Corneliusstraße)   (Tiergarten, 10787)
+arm1=Corneliusbrücke,1500,0100
+arm2=Corneliusstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+75
+147
+99
+81
+68
+76
+73
+67
+66
+93
+89
+113
+; 2 -> 1
+65
+151
+120
+71
+72
+91
+48
+61
+74
+92
+116
+96

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920028
+datum=16.03.1999
+kurzken=Q 0920028/99
+bez=Borsigdamm (Höhe Borsigdammbrücke)   (Tegel, 13507)
+arm1=Eisenhammerweg,0,0100
+arm2=Neheimer Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+589	15	0	16
+398	11	0	5
+231	7	0	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+233	2	0	5
+281	4	0	6
+209	1	1	6
+; 2 -> 1
+137	14	0	3
+170	10	0	6
+152	9	0	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+349	4	0	9
+351	1	0	10
+293	2	0	1

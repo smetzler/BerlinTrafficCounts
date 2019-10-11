@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020307
+datum=10.11.2011
+kurzken=Q 020307/11
+bez=Markgrafenstraße (südl. Zimmerstraße)   (Kreuzberg, 10117)
+arm1=Zimmerstraße,100,0100
+arm2=Rudi-Dutschke-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Sperrung zwischen Zimmerstr. und R.-Dutschke-Str.\, für Radfahrer Durchfahrt möglich.\n
+data=
+; 1 -> 2
+35	3	0	2	16
+31	0	0	1	19
+54	1	0	1	42
+42	0	0	0	12
+52	0	0	1	21
+48	0	0	0	35
+43	1	0	1	16
+49	0	0	1	33
+44	0	0	1	31
+58	2	0	2	50
+49	2	0	2	63
+54	0	0	1	55
+; 2 -> 1
+19	0	0	0	44
+11	1	0	3	111
+40	1	0	4	125
+34	2	0	0	64
+32	0	0	1	23
+10	0	0	0	34
+10	0	0	1	21
+14	0	0	0	36
+11	0	0	0	27
+20	0	0	0	26
+16	0	0	1	30
+10	0	0	3	33

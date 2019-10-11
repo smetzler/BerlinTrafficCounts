@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 17591
+datum=04.07.2016
+kurzken=Q 17591/16
+bez=Dillgesstraße (nördl. Kaiser-Wilhelm-Straße)    (Lankwitz, 12247)
+arm1=Dillgesstraße (N),400,0000
+arm2=Kaiser-Wilhelm-Straße (W),1350,0001
+arm3=Dillgesstraße (S),2200,0000
+arm4=Kaiser-Wilhelm-Straße (O),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+31	3
+53	1
+75	1
+107	0
+95	1
+98	2
+93	10
+43	5
+55	3
+54	5
+70	8
+44	4
+; 4 -> 2
+36	32
+50	9
+67	1
+81	1
+137	1
+87	3
+70	5
+71	4
+84	5
+75	7
+112	6
+70	3

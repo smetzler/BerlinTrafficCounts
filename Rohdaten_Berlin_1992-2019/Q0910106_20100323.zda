@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910106
+datum=23.03.2010
+kurzken=Q 0910106/10
+bez=Fischerhüttenstraße (nördl. Potsdamer Straße)   (Zehlendorf, 14163)
+arm1=Bergamannstraße,600,0100
+arm2=Potsdamer Straße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+104	3	3	0	32
+131	7	4	1	13
+121	3	3	1	11
+124	6	4	2	16
+124	6	3	2	10
+99	3	4	2	18
+106	4	3	1	12
+127	4	4	2	11
+138	2	4	10	18
+112	2	3	1	10
+133	0	3	2	18
+87	0	3	1	9
+; 2 -> 1
+170	5	9	3	5
+146	1	7	5	6
+157	9	8	0	5
+132	4	6	2	2
+133	3	10	0	9
+128	3	9	5	12
+158	3	10	2	17
+149	3	8	2	23
+142	0	12	8	18
+152	0	9	4	17
+174	0	9	10	21
+116	0	7	1	14

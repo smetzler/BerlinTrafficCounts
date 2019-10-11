@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 08028
+datum=05.03.1985
+kurzken=Q 8028/85
+bez=Prinzenstrasse  noerdl. Moritzplatz   ( Berlin 61 )
+Arm1=Ost  (3a),900,0100
+Arm2=West  (3b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+18 34 39 58 47 36 27 25 45 49 46 18 
+; 2 -> 1
+7 29 44 41 40 37 44 34 34 49 52 22 

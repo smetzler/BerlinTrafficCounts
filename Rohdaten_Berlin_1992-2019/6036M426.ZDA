@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4126
+datum=15.09.1992
+kurzken=Q 4126/92
+bez=Grunerstraße; Tunnelfahrbahnen     ( Berlin 1080 - Mitte )
+arm1=Littenstraße,1350,0100
+arm2=Alexanderplatz,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+723
+736
+678
+649
+668
+686
+749
+943
+1045
+1040
+810
+946
+; 2 -> 1
+1437
+1337
+1054
+896
+911
+839
+889
+864
+963
+759
+701
+734

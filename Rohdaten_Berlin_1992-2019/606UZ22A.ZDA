@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 08891
+datum=19.06.1986
+kurzken=Q 8891/86
+bez=Skalitzer Strasse  ( West )   westl. Admiralstrasse   ( Berlin 36 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerueberwege mit LSA\nWetter:  ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+57 24 74 8 144 15 191 14 159 56 210 24 180 26 
+132 33 258 16 355 39 189 34 117 21 
+; 2 -> 1
+78 63 90 25 148 13 175 19 158 27 149 25 163 47 
+161 24 214 22 187 51 268 32 189 20 

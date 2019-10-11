@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00491
+datum=04.08.2015
+kurzken=Q 00491/15
+bez=A102 - Abzw. Tempelhof (nördl. der Gradestraße) (Tempelhof, 12099)
+arm1=AS Oberlandstraße,200,0100
+arm2=AS Gradestraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 117\, Feld 6c-d
+data=
+; 1 -> 2
+493	10	11	0	27
+455	6	16	0	23
+528	3	12	1	17
+; 2 -> 1
+428	13	21	2	14
+436	5	9	0	15
+427	0	8	1	15

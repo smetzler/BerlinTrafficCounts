@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 80001
+datum=24.3.1993
+kurzken=Q 800-01/93
+bez=Pappelallee östl. Schönhauser Allee (Prenzlberg)
+arm1=Schönhauser Allee,1350,0100
+arm2=Raumerstraße,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf,
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Straßenverkehrszählung 1993
+data=
+; 1 -> 2
+1 109 16 0 15 
+2 147 24 0 9 
+0 161 18 1 38 
+0 181 18 1 31 
+1 146 11 0 10 
+3 189 17 0 14 
+1 213 11 1 63 
+2 200 13 0 48 
+7 398 23 2 24 
+10 512 13 0 39 
+2 438 7 1 48 
+0 212 8 1 41 
+; 2 -> 1
+0 62 4 2 14 
+0 68 1 0 7 
+0 60 6 0 18 
+0 61 3 0 21 
+0 73 5 0 8 
+0 62 6 0 11 
+0 60 12 0 35 
+2 58 3 0 20 
+5 63 1 0 17 
+0 61 4 0 27 
+0 67 4 0 34 
+0 70 2 1 21 

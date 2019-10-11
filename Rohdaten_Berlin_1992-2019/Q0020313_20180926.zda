@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020313
+datum=26.09.2018
+kurzken=Q 020313/18
+bez=Seydelstraße (nordwestl. Alte Jakobstraße)   (Mitte, 10179)
+arm1=Neue Grünstraße,300,0100
+arm2=Alte Jakobstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+27	1	0	0	4
+39	0	0	2	25
+37	1	0	0	17
+24	1	0	0	16
+13	0	0	0	13
+23	0	0	0	14
+22	0	0	3	18
+40	0	0	0	23
+52	0	0	0	32
+42	0	0	0	58
+47	0	0	2	68
+42	0	0	2	54
+; 2 -> 1
+59	3	0	2	37
+68	1	0	5	123
+64	2	0	3	73
+46	2	0	1	42
+40	5	0	4	17
+26	2	0	2	28
+41	1	0	3	19
+74	1	0	3	21
+73	1	0	4	32
+104	1	0	1	20
+86	1	0	4	28
+61	1	0	4	37

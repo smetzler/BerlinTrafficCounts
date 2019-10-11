@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915155
+datum=17.10.2017
+kurzken=Q 0915155/17
+bez=Schnellerstraße (östl. Britzer Straße)   (Niederschöneweide, 12439)
+arm1=Britzer Straße,800,0000
+arm2=Rudower Straße,2600,0000
+arm3=((Norden)),3500,0001
+arm4=((Süden)),1700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fg östlich Britzer Straße \nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+10	15
+17	8
+43	0
+14	0
+24	0
+3	0
+4	1
+7	0
+25	0
+1	0
+3	0
+3	1
+; 4 -> 3
+13	8
+30	0
+64	1
+28	2
+34	0
+11	0
+16	0
+28	4
+13	5
+10	2
+6	1
+17	1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11551
+datum=08.10.2009
+kurzken=Q 11551/09
+bez=Innsbrucker Straße (nördl. Badensche Straße)    (Schöneberg, 10825)
+arm1=Innsbrucker Straße (N),120,0000
+arm2=Badensche Straße (W),840,0001
+arm3=Innsbrucker Straße (S),1920,0000
+arm4=Badensche Straße (O),2640,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=1 Std; Niederschlag=28 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	0
+10	0
+11	2
+18	0
+6	0
+24	2
+16	0
+21	4
+8	2
+18	5
+19	4
+17	1
+; 4 -> 2
+10	2
+13	1
+10	0
+5	0
+10	0
+10	0
+7	0
+20	2
+2	1
+11	1
+9	1
+10	1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5584073
+datum=15.05.2007
+kurzken=Q 5584073/07
+bez=Landsberger Allee (östl. Platz d. Vereinten Nationen)  (Friedrichshain, 10249)
+arm1=Landsberger Allee,930,0000
+arm2=Platz d. Vereinten Nationen (Süd),1800,0001
+arm3=Landsberger Allee,2730,0000
+arm4=Platz d. Vereinten Nationen (Nord),0,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Stadtatlas-2005: Seite 71\, Planquadrat L-M40
+data=
+; 2 -> 4
+9	9
+17	1
+11	3
+8	0
+6	1
+9	0
+4	12
+10	12
+14	9
+8	5
+15	6
+9	1
+; 4 -> 2
+7	22
+8	0
+14	3
+8	0
+0	0
+3	0
+9	0
+4	1
+7	0
+4	3
+8	0
+0	0

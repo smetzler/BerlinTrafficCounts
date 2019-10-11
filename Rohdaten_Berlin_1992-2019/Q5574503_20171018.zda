@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574503
+datum=18.10.2017
+kurzken=Q 5574503/17
+bez=Alexanderstraße (östl. Grunerstraße)    (Mitte, 10179)
+arm1=(Alexanderplatz),550,0000
+arm2=Grunerstraße,1450,0001
+arm3=Alexanderstraße,2150,0000
+arm4=Grunerstraße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+25	19
+95	12
+54	3
+66	1
+83	2
+111	17
+155	6
+148	5
+133	18
+111	10
+207	15
+197	4
+; 4 -> 2
+34	16
+37	13
+56	4
+75	3
+97	4
+108	9
+144	11
+100	13
+117	9
+126	7
+138	18
+134	13

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 020706
+datum=12.07.2000
+kurzken=Q 020706/00
+bez=Brunnenstraße (südl. Bernauer Straße)   (Wedding, 10115)
+arm1=Bernauer Straße ,200,0100
+arm2=Schönholzer Straße ,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonnenstd.=0\,5; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+14
+29
+26
+34
+41
+40
+48
+47
+43
+64
+65
+57
+; 2 -> 1
+21
+32
+36
+21
+31
+41
+42
+33
+46
+69
+38
+53

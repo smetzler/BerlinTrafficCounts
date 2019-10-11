@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16246
+datum=15.03.1989
+kurzken=Q 16246/89
+bez=Fritz-Reuter-Allee suedlich Blaschkoallee    ( Berlin 47 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+6 0 5 0 4 1 5 2 4 1 6 2 3 1 
+1 2 3 1 7 1 2 0 1 2 
+; 2 -> 1
+4 0 5 0 5 0 3 2 5 1 4 2 2 2 
+1 0 5 1 4 0 1 0 2 1 

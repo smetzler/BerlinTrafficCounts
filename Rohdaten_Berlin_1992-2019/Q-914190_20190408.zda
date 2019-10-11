@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-0914190
+datum=08.04.2019
+kurzken=Q-0914190/-2000
+bez=Rosenthaler Weg (Höhe Guyotstraße)   (Pankow, 13127) 
+arm1=Rosenthaler Weg (W),1040,0100
+arm2=Rosenthaler Weg (O),2840,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+355	18	3	6	4
+341	14	3	3	11
+339	33	4	3	7
+337	21	3	7	7
+340	24	3	6	4
+330	26	3	6	2
+365	23	3	8	6
+512	21	2	11	13
+539	18	3	14	20
+544	11	3	11	23
+497	11	4	12	21
+450	2	3	11	17
+; 2 -> 1
+644	21	4	12	24
+596	18	3	11	16
+422	36	3	6	12
+372	37	4	6	7
+365	29	4	5	1
+362	25	3	5	6
+378	25	3	6	6
+371	20	3	5	9
+461	9	3	6	6
+432	12	3	9	6
+439	4	3	5	8
+368	7	3	4	9

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0914168
+datum=04.06.2019
+kurzken=Q 0914168/19
+bez=AD Neukölln - von Bergiusstr. nach A113-Süd (Neukölln, 12057) 
+arm1=A113-Süd,1100,0000
+arm2=Bergiusstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+166	60	2	3	0
+164	50	0	1	0
+200	43	1	4	0
+208	58	0	4	0
+254	42	0	3	0
+190	35	1	2	0
+260	42	0	11	0
+339	38	2	4	0
+414	27	2	9	0
+552	16	0	0	0
+407	18	2	7	0
+355	13	0	8	0

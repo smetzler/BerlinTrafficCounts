@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911036
+datum=26.05.1999
+kurzken=Q 0911036/99
+bez=Rubensstraße (nördl. Traegerstraße)   (Schöneberg, 12161)
+arm1=Hauptstraße,50,0100
+arm2=Traegerstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+154	16	5	6
+201	10	4	10
+217	12	3	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+370	9	6	34
+365	8	6	32
+389	4	6	19
+; 2 -> 1
+391	19	6	27
+401	9	5	20
+289	8	3	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+292	4	3	16
+270	4	3	14
+261	0	3	15

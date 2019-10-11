@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910063
+datum=19.06.2006
+kurzken=Q 0910063/06
+bez=Schönower Straße (Höhe Droste-Hülshoff-Schule)   (Zehlendorf, 14165)
+arm1=Machnower Straße,1000,0100
+arm2=Teltower Damm,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+310	5	2	10	30
+405	5	0	10	23
+285	7	1	10	24
+226	7	0	4	19
+209	3	0	11	11
+197	2	1	8	6
+222	8	0	8	10
+224	7	2	5	15
+293	2	2	7	22
+260	4	1	11	19
+279	2	0	11	29
+250	0	0	8	32
+; 2 -> 1
+183	6	2	16	75
+243	5	0	5	30
+219	4	0	8	17
+178	3	0	2	20
+160	4	1	5	20
+198	7	0	6	24
+217	5	2	5	22
+241	3	1	4	14
+316	4	2	8	26
+283	2	0	11	30
+257	2	1	13	36
+296	1	0	12	29

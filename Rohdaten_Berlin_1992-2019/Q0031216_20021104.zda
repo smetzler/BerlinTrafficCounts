@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 031216
+datum=04.11.2002
+kurzken=Q 031216/02
+bez=Mengerzeile (nördl. Harzer Straße)   (Neukölln, 12435)
+arm1=Harzer Straße,1400,0100
+arm2=Schmollerstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+1	2	0	0	1
+2	1	1	0	1
+0	0	1	0	1
+4	0	1	0	2
+4	0	0	0	3
+7	0	0	0	2
+7	1	0	0	3
+9	0	1	0	3
+11	1	1	0	7
+15	0	0	0	4
+11	0	0	0	2
+15	1	0	0	1
+; 2 -> 1
+4	0	0	0	1
+10	1	1	0	4
+6	0	3	0	2
+10	0	0	0	5
+4	0	1	0	3
+5	1	0	0	0
+9	0	0	0	4
+6	0	0	0	2
+7	0	3	0	4
+7	1	2	0	2
+7	0	0	0	0
+5	0	0	0	2

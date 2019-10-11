@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 15949
+datum=25.05.1987
+kurzken=K 15949/87
+bez=Unter den Eichen (Nebenfahrbahn) / Begonienplatz   ( Berlin 45 )
+Arm1=Unt.d.Eichen(Hfbahn),300,0010
+Arm2=Unt.d.Eichen(Nfbahn),1200,1010
+Arm3=Begonienplatz,2100,1000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Dargestellt sind die Belastungen der Nebenfahrbahn Unter den Eichen sowie die\nzusammengefassten Richtungsbelastungen des Begonienplatzes ;\nBelastungen der Hauptfahrbahnen Unter den Eichen siehe K 1594/87
+data=
+; 1 -> 3
+15 15 14 27 21 28 29 38 39 32 25 22 
+; 2 -> 1
+20 11 12 10 14 17 16 13 11 14 17 18 
+; 2 -> 3
+4 4 5 11 6 9 8 9 9 14 8 4 
+; 3 -> 1
+11 6 11 7 13 23 11 26 22 15 15 8 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031201
+datum=28.08.2007
+kurzken=Q 031201/06
+bez=BAB A113n (nördl. Späthstr., incl. Zu- und Abfahrt)   (Treptow, 12437)
+arm1=AD Neukölln,200,0100
+arm2=Späthstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Daten wurden aus Dauerzählstelle bestimmt!
+data=
+; 1 -> 2
+1433
+1928
+2078
+1904
+2020
+2110
+2228
+2493
+2887
+3314
+3186
+2593
+; 2 -> 1
+3694
+3885
+3344
+2476
+2045
+1707
+1696
+1684
+1692
+1678
+1740
+1830

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907219
+datum=23.05.2018
+kurzken=Q 0907219/18
+bez=Schillerstraße (westl. Schlüterstraße)   (Charlottenburg, 10625)
+arm1=Herderstraße,1000,0100
+arm2=Schlüterstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+18	2	0	2	118
+34	6	0	6	194
+18	2	0	2	81
+34	2	0	2	40
+37	0	0	1	41
+57	1	0	6	62
+45	2	0	3	47
+47	0	0	6	48
+47	0	0	9	49
+52	0	0	1	40
+33	1	0	5	53
+36	1	0	3	74
+; 2 -> 1
+83	-1	0	0	18
+116	1	0	3	49
+80	0	0	0	45
+60	2	0	4	36
+52	1	0	3	34
+61	0	0	4	43
+59	1	0	5	64
+62	2	0	6	84
+46	3	0	4	49
+72	0	0	6	108
+64	0	0	10	81
+62	0	0	4	124

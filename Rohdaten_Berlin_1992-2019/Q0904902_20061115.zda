@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0904902
+datum=15.11.2006
+kurzken=Q 0904902/06
+bez=Schwedter Straße (nördl. Kastanienallee)   (Prenzlauer Berg, 10435)
+arm1=Griebeowstraße,150,0100
+arm2=Kastanienallee,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 5 Std Sonne; 1 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+37
+86
+103
+74
+40
+44
+58
+53
+56
+97
+76
+52
+; 2 -> 1
+18
+33
+36
+38
+40
+23
+45
+65
+102
+94
+86
+91

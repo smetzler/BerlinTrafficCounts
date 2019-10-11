@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7463035
+datum=25.03.1999
+kurzken=Q 7463035/99
+bez=Kohlisstraße (westl. Hultschiner Damm) (Mahlsdorf-Süd, 12623)
+arm1=Kohlisstraße,530,0000
+arm2=Hultschiner Damm,1750,0001
+arm3=Osten,2650,0000
+arm4=Hultschiner Damm,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C\, bewölkt\, 0\,1mm Niederschlag.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	2
+9	0
+9	2
+23	0
+17	1
+7	2
+9	11
+15	0
+25	4
+2	0
+2	3
+7	0
+; 4 -> 2
+6	1
+6	0
+9	0
+12	0
+16	0
+7	0
+3	0
+15	8
+5	0
+13	5
+10	2
+12	4

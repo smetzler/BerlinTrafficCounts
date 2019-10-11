@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0918006
+datum=18.03.1999
+kurzken=Q 0918006/99
+bez=Karower Damm (südl. Treseburger Straße)   (Blankenburg, 13129)
+arm1=Villacher Straße,1500,0100
+arm2=Treseburger Straße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+249	40	12	3
+279	41	10	4
+287	32	6	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+508	24	9	10
+514	13	9	10
+455	17	10	6
+; 2 -> 1
+523	35	12	9
+446	49	12	4
+366	35	9	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+451	25	10	5
+475	21	9	5
+414	9	10	7

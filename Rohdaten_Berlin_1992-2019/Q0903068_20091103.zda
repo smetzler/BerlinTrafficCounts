@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0903068
+datum=03.11.2009
+kurzken=Q 0903068/09
+bez=Klemkestraße (Höhe Mittelinsel Emmentaler Str.)   (Wedding, 13409)
+arm1=((Norden)),100,0100
+arm2=((Süden)),1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgänger\, die die Klemkestr. in Höhe der Mittelinsel queren.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+11	10
+17	9
+12	12
+14	2
+15	1
+19	1
+12	2
+8	1
+20	3
+10	2
+16	0
+10	0
+; 2 -> 1
+7	7
+9	5
+12	2
+9	2
+11	1
+11	1
+9	4
+14	1
+7	2
+7	0
+7	1
+7	0

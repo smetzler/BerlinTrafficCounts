@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 55247
+datum=14.11.1984
+kurzken=Q 55247/84
+bez=Blasewitzer Ring  oestl. Seeburger Weg   ( Berlin 20 )
+Arm1=Sued  (3a),900,0100
+Arm2=Nord  (3b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kinder,Erw<65,Erw>65,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 0 1 1 2 0 0 0 0 0 0 0 2 0 0 
+7 9 1 0 3 0 0 0 0 6 4 0 1 2 0 
+0 0 0 0 0 0 
+; 2 -> 1
+0 0 0 3 2 1 0 1 0 0 2 0 0 1 0 
+1 4 0 2 1 1 4 1 0 6 6 0 0 1 0 
+1 2 0 5 4 0 

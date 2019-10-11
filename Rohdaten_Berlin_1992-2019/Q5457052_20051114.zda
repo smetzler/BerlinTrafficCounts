@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5457052
+datum=14.11.2005
+kurzken=Q 5457052/05
+bez=Mittenwalder Straße (südl. Blücherstraße)   (Kreuzberg, 10961)
+arm1=Blücherstraße,500,0010
+arm2=Mittenwalder Straße,1650,0000
+arm3=Blücherstraße,2250,1000
+arm4=Brachvogelstraße,3350,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+12	2
+15	0
+10	0
+12	0
+10	0
+23	0
+33	2
+41	8
+46	10
+52	5
+50	3
+38	2
+; 3 -> 1
+7	2
+18	1
+12	3
+10	0
+21	0
+30	0
+34	4
+24	4
+35	6
+32	4
+50	9
+28	1

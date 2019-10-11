@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919304
+datum=28.03.2017
+kurzken=Q 0919304/17
+bez=Kastanienalle (Höhe Birkenallee)   (Rosenthal, 13158)
+arm1=Akazienallee,1000,0100
+arm2=Ahornallee,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+173	13	0	3	9
+180	16	0	2	2
+154	9	0	5	7
+206	30	0	4	16
+193	19	0	2	9
+195	21	0	5	11
+184	15	0	4	9
+381	11	0	17	14
+456	19	0	19	21
+470	14	0	12	32
+391	8	0	8	22
+267	2	0	11	10
+; 2 -> 1
+472	18	0	9	29
+386	14	0	8	17
+202	14	0	5	6
+152	22	0	4	6
+161	15	0	6	5
+193	15	0	4	3
+156	11	0	5	7
+167	18	0	5	10
+178	10	0	5	9
+162	6	0	4	10
+201	1	0	4	14
+159	2	0	3	12

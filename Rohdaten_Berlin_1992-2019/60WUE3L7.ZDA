@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 42566
+datum=12.3.1991
+kurzken=Q 4256.6/91-F
+bez=Bethaniendamm suedlich Koepenicker Strasse    ( Berlin 36 )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+3 0 
+1 0 
+8 0 
+5 0 
+9 0 
+11 0 
+7 0 
+7 2 
+17 2 
+16 1 
+9 3 
+6 0 
+; 2 -> 1
+3 0 
+3 0 
+11 1 
+9 1 
+5 1 
+11 0 
+5 0 
+13 2 
+20 0 
+6 0 
+16 0 
+5 1 

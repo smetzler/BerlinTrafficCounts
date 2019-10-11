@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923030
+datum=26.09.2007
+kurzken=Q 0923030/07
+bez=Kaulsdorfer Straße (südl. Deutschhofer Allee)   (Köpenick, 12527)
+arm1=Damerauer Allee,1850,0100
+arm2=Deutschhofer Allee,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+220	7	9	6	6
+243	17	9	3	5
+254	17	9	2	2
+267	7	9	3	4
+244	10	9	3	2
+306	13	9	6	6
+281	14	9	8	4
+306	7	9	4	5
+396	11	9	10	3
+452	21	9	18	12
+465	9	9	9	6
+336	7	9	4	3
+; 2 -> 1
+329	18	10	3	9
+316	13	9	6	3
+260	8	9	0	4
+292	12	9	1	2
+256	15	10	3	1
+234	14	9	4	3
+232	9	9	5	1
+257	5	8	5	4
+275	8	6	8	7
+352	8	9	9	6
+333	5	8	8	9
+341	2	9	7	2

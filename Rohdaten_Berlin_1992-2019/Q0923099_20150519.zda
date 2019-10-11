@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923099
+datum=19.05.2015
+kurzken=Q 0923099/15
+bez=Rahnsdorfer Straße (östl. Pilgramer Straße)   (Mahlsdorf, 12623)
+arm1=Pilgramer Straße,600,0000
+arm2=Hochwieser Straße,2400,0000
+arm3=((Norden)),3300,0001
+arm4=((Süden)),1500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Rahnsdorfer Str. östl. Pilgramer Str. queren (bis 50m östl.)\n
+data=
+; 3 -> 4
+2	3
+3	1
+1	0
+0	0
+0	0
+0	1
+2	0
+3	0
+2	2
+2	0
+2	1
+1	0
+; 4 -> 3
+8	5
+8	2
+4	2
+0	0
+1	0
+1	0
+4	2
+9	3
+4	0
+0	0
+3	3
+2	0

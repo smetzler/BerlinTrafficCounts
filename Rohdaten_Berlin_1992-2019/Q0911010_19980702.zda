@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911010
+datum=02.07.1998
+kurzken=Q 0911010/98
+bez=Hohenstaufenstraße (östl. Eisenacher Straße)   (Schöneberg, 10781)
+arm1=Eisenacher Straße,1000,0100
+arm2=Kyffhäuser Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+502	15	5	21
+631	19	3	15
+608	20	3	23
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+781	10	3	40
+797	13	3	46
+723	9	3	41
+; 2 -> 1
+589	24	5	25
+664	30	5	34
+646	31	9	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+692	20	8	34
+758	15	6	36
+743	12	6	39

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020705
+datum=11.04.2016
+kurzken=Q 020705/16
+bez=Bornholmer Straße (Bösebrücke)   (Wedding, 10439)
+arm1=Sonderburger Straße ,850,0100
+arm2=Norweger Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Bösebrücke Ri. Prenzlauer Berg gesperrt\, Umleitung über Behmstraßenbrücke.
+data=
+; 1 -> 2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+; 2 -> 1
+1214	49	16	33	142
+1094	41	13	19	126
+861	70	13	16	100
+712	82	12	8	104
+878	44	16	11	35
+740	43	11	16	36
+928	73	16	26	57
+793	47	15	17	37
+895	38	12	26	48
+864	18	12	16	68
+592	15	13	16	60
+720	32	11	16	67

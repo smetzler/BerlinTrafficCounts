@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03223
+datum=22.06.1988
+kurzken=Q 3223/88
+bez=Charlottenstrasse  suedl. Breite Strasse   ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+227 191 211 247 277 281 290 335 478 483 448 340 
+; 2 -> 1
+473 324 287 271 317 292 298 265 313 334 302 301 

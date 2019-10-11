@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7631022
+datum=16.03.2010
+kurzken=Q 7631022/10
+bez=Zufahrt Wohngebiet (südl. Raoul-Wallenberg-Straße)   (Marzahn, 12679)
+arm1=Raoul-Wallenberg-Straße,740,0010
+arm2=Zufahrt Wohngebiet,1500,0000
+arm3=Raoul-Wallenberg-Straße,2350,1000
+arm4=Jan-Petersen-Straße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=1 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+6	0
+6	0
+6	0
+6	0
+7	0
+4	0
+1	0
+2	0
+8	2
+5	1
+1	0
+2	0
+; 3 -> 1
+2	2
+1	0
+3	0
+5	0
+2	0
+1	0
+1	0
+2	0
+2	0
+1	0
+6	0
+2	0

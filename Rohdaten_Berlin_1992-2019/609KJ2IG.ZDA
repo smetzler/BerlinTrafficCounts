@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 12403
+datum=25.11.1987
+kurzken=Q 12403/87
+bez=Blissestrasse suedl. Detmolder Strasse       ( Berlin 31 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+561 592 453 439 391 485 449 460 488 513 481 497 
+; 2 -> 1
+302 336 457 430 427 463 461 454 757 852 712 645 

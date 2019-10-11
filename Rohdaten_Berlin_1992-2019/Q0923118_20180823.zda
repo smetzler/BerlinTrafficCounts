@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923118
+datum=23.08.2018
+kurzken=Q 0923118/18
+bez=Brodauer Straße (Querung südl. Heinrich-Grüber-Platz)   (Kaulsdorf, 12619)
+arm1=Wallstraße,1330,0000
+arm2=Heinrich-Grüber-Platz,2930,0000
+arm3=Nodwest,310,0001
+arm4=Südost,2210,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+27	66
+10	1
+12	0
+11	1
+12	0
+20	5
+26	8
+18	16
+33	10
+31	4
+25	14
+19	4
+; 4 -> 3
+38	21
+21	5
+18	1
+12	6
+13	35
+12	10
+12	6
+18	7
+21	14
+24	12
+9	6
+19	13

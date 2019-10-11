@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3516036
+datum=17.08.1993
+kurzken=Q 351603.6/93-F
+bez=Brunsbütteler Damm westl. Barmbeker Weg    ( Staaken )
+arm1=Nord,50,0100
+arm2=Süd,950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+11 3
+8 1
+17 1
+14 2
+14 2
+11 5
+10 4
+14 5
+11 3
+16 2
+21 3
+5 1
+; 2 -> 1
+4 0
+3 1
+8 1
+3 0
+10 3
+13 1
+8 0
+6 0
+9 0
+4 0
+11 0
+7 2

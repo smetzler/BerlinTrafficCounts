@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40740
+datum=27.09.1988
+kurzken=Q 40740/88
+bez=Andornsteig suedl. Helmkrautstrasse     ( Berlin 27 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+27 18 30 17 28 31 59 51 90 94 93 97 
+; 2 -> 1
+93 55 49 28 19 23 27 30 35 39 28 34 

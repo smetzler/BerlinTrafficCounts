@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6768023
+datum=03.12.2002
+kurzken=Q 6768023/02
+bez=Karower Chaussee (südl. Wiltbergstraße)   (Buch, 13125)
+arm1=,3400,0000
+arm2=West,550,0001
+arm3=Karower Chaussee,1600,0000
+arm4=Ost,2230,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 5°C; Sonne: 0 Std; Niederschlag: 0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+5	0
+5	2
+2	0
+4	1
+10	6
+6	2
+2	1
+; 4 -> 2
+0	0
+3	0
+0	0
+2	0
+3	0
+3	0
+7	0
+12	5
+17	2
+15	1
+7	3
+7	3

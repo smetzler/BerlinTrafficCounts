@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5672018
+datum=21.11.2005
+kurzken=Q 5672018/05
+bez=Bornholmer Str. (Südseite, westl. Schönhauser A.)  (Prenzlauer Berg, 10439)
+arm1=Bornholmer Straße ,850,0000
+arm2=Schönhauser Allee ,1650,0001
+arm3=Wisbyer Straße ,2600,0000
+arm4=Schönhauser Allee,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Südl. Fahrbahn bis Mittelstreifen!\nWetter: max T=5°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+35	24
+67	15
+98	26
+111	37
+102	35
+105	40
+152	6
+179	19
+175	36
+173	3
+187	3
+163	3
+; 4 -> 2
+61	36
+83	19
+52	72
+83	89
+116	75
+181	102
+146	11
+154	15
+193	20
+104	1
+122	3
+98	4

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 079006
+datum=21.05.2001
+kurzken=Q 079006/01
+bez=Ruppiner Chaussee (Stadtgrenze) (Reinickendorf,13503)
+arm1=Stolpe-Süd,300,0100
+arm2=Hennigsdorfer Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Beyschlagtunnel nur 1 Spur je Richtung\, Umleitung über Ruppiner Chauussee.
+data=
+; 1 -> 2
+513	75	20	0	11
+523	48	29	0	20
+450	54	31	1	12
+288	31	19	0	9
+298	36	31	2	15
+254	18	20	0	17
+275	25	14	0	21
+306	14	13	0	30
+273	21	10	0	26
+335	34	7	1	22
+371	9	8	0	21
+389	22	5	0	20
+; 2 -> 1
+211	20	10	0	8
+225	18	14	0	5
+251	21	16	1	6
+298	24	16	0	11
+239	22	26	0	11
+247	28	26	0	10
+274	32	15	0	9
+330	36	16	0	25
+359	38	14	0	29
+442	40	11	0	21
+559	58	12	0	32
+423	27	8	0	25

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918041
+datum=07.06.2007
+kurzken=Q 0918041/07
+bez=Smetanastraße (südl. Gounodstraße)   (Weißensee, 13088)
+arm1=Gounodstraße,250,0100
+arm2=Chopinstraße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+74	0	2	0	14
+82	0	0	2	7
+87	1	2	2	13
+90	2	0	4	12
+62	2	0	6	10
+154	3	0	5	12
+97	2	1	6	7
+142	0	5	6	25
+176	2	0	4	28
+190	1	0	13	26
+175	0	0	9	14
+148	0	0	4	13
+; 2 -> 1
+93	2	0	1	22
+80	2	0	5	18
+61	2	1	1	8
+64	4	0	6	10
+70	1	0	3	8
+65	2	1	2	14
+58	1	2	1	22
+57	4	2	4	17
+84	0	0	4	28
+80	1	0	7	20
+65	0	0	2	22
+60	0	0	3	9

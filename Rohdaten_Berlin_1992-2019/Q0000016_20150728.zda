@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0016
+datum=28.07.2015
+kurzken=Q 0016/15
+bez=B5 - Heerstraße ( Stößenseebrücke)   (Spandau, 13595)
+arm1=Siemenswerder Weg,800,0100
+arm2=Am Rupenhorn,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Spuraufteilung und Radfahrer-Zählung vor Ort festlegen! City-Atlas Seite 82\, Feld 9a\nBaustelle Höhe Freybrücke: in beiden Ri. von 3 auf 2 Fahrstreifen reduziert
+data=
+; 1 -> 2
+1105	10	21	19	17	20
+1235	11	15	19	14	32
+1076	8	8	16	18	25
+; 2 -> 1
+1734	39	25	28	36	44
+1760	23	14	20	49	55
+1603	20	7	23	58	44

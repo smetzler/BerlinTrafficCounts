@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916035
+datum=09.05.2006
+kurzken=Q 0916035/06
+bez=Hämmerlingstraße (nördl. Seelenbinderstraße)   (Köpenick, 12459)
+arm1=Friedenstraße,50,0100
+arm2=Seelenbinderstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+311	6	0	8	25
+260	3	1	10	21
+193	0	0	2	10
+192	2	0	4	4
+132	3	0	5	12
+142	2	0	2	16
+122	2	0	4	7
+175	9	0	3	20
+216	6	0	6	26
+209	8	0	4	26
+242	2	0	8	21
+192	1	0	10	13
+; 2 -> 1
+210	3	0	8	13
+220	1	0	2	23
+224	2	0	4	5
+170	2	0	2	4
+191	4	0	4	12
+212	2	0	5	7
+185	5	0	5	10
+251	5	0	9	18
+336	4	0	20	34
+382	2	0	14	14
+361	1	0	19	15
+315	4	0	14	24

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917091
+datum=13.10.2009
+kurzken=Q 0917091/09
+bez=Falkenberger Ch. (Höhe Fußweg, östl. Wartiner Straße)   (H'hausen, 13057)
+arm1=Warteiner Straße,1000,0100
+arm2=Dorfstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+319	10	10	8	43
+253	14	3	2	6
+306	9	3	4	13
+284	12	3	4	4
+283	11	5	3	4
+288	13	3	1	5
+341	14	4	6	9
+326	16	8	8	8
+396	11	7	6	17
+336	10	6	8	15
+340	3	8	7	10
+361	5	3	1	8
+; 2 -> 1
+405	15	10	7	10
+317	10	8	3	5
+306	14	5	4	6
+290	12	4	6	2
+306	19	4	3	13
+325	14	4	5	9
+336	13	4	7	40
+406	14	8	6	10
+381	6	7	7	28
+421	8	8	9	25
+436	5	6	1	2
+305	4	7	9	5

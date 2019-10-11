@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20101
+datum=03.07.2017
+kurzken=Q 20101/17
+bez=Werneuchener Straße (westl. Große-Leege-Straße)   (Hohenschönhausen, 13055)
+arm1=Werneuchener Straße (NW),450,0000
+arm2=Große-Leege-Straße (SW),1350,0001
+arm3=Werneuchener Straße (SO),2250,0000
+arm4=Große-Leege-Straße (NO),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+6	20
+1	0
+11	2
+10	2
+4	2
+8	1
+5	20
+3	0
+4	1
+8	0
+8	4
+6	3
+; 4 -> 2
+2	12
+5	1
+19	3
+8	2
+10	3
+4	1
+5	17
+3	2
+15	4
+4	2
+9	4
+6	3

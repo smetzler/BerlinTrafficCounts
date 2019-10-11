@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 26402
+datum=17.06.2015
+kurzken=Q 26402/15
+bez=Siegfriedstraße (südl. Bornitzstraße)    (Lichtenberg, 10365)
+arm1=Bornitzstraße,900,0010
+arm2=Siegfriedstraße (S),1750,0000
+arm3=((Osten)),2700,1000
+arm4=Siegfriedstraße (N),3550,0000
+art=Erw,Jugend,mobFuß
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=mobFuß = mobilitätsbehinderte Fußg. (z.B. Rollstuhl\, Krücken\, Rollator o.ä.)
+data=
+; 1 -> 3
+7	4	0
+5	3	0
+7	0	0
+5	2	0
+6	0	0
+9	0	0
+5	1	0
+4	1	0
+3	0	0
+4	0	0
+5	1	0
+2	0	0
+; 3 -> 1
+5	0	0
+2	0	0
+3	0	0
+5	0	0
+2	0	0
+2	3	0
+5	0	0
+2	7	0
+5	0	0
+15	0	0
+4	1	0
+4	6	0

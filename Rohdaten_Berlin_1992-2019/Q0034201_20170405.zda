@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 34201
+datum=05.04.2017
+kurzken=Q 34201/17
+bez=Dunckerstraße (nördl. Danziger Straße)   (Prenzlauer Berg, 10435)
+arm1=Dunckerstraße,3400,0000
+arm2=Danziger Straße (W),750,0001
+arm3=Haltestelle Husemannstr.,1650,0000
+arm4=Danziger Straße (O),2550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 2 -> 4
+33	34
+63	13
+76	5
+73	3
+66	5
+70	0
+88	18
+110	32
+135	38
+124	23
+160	27
+113	13
+; 4 -> 2
+44	8
+59	5
+66	1
+29	0
+32	3
+56	3
+55	4
+82	17
+62	21
+76	17
+112	18
+118	17

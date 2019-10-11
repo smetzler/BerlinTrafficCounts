@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922901
+datum=10.04.2019
+kurzken=Q 0922901/18
+bez=Pablo-Picasso-Straße (südl. Falkenberger Ch.) (Hohenschönhausen, 13059) 
+arm1=Falkenberger Chaussee,100,0100
+arm2=Randowstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+32
+11
+24
+24
+17
+12
+28
+26
+34
+60
+48
+31
+; 2 -> 1
+26
+24
+18
+2
+18
+13
+9
+10
+11
+40
+19
+21

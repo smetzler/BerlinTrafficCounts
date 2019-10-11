@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0920255
+datum=16.08.2013
+kurzken=Q 0920255/13
+bez=Pankower Allee (Bereich Letteplatz)   (Reinickendorf, 13409)
+arm1=Kühleweinstraße,1000,0000
+arm2=Mickestraße,2800,0000
+arm3=((Norden)),100,0001
+arm4=(Letteplatz),1900,0100
+art=Erw,Jugend
+zeit=1800,2200
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Pankower Allee im Bereich östl. Kühleweinstr. bis westl. Mickestr. (ohne Zebrastreifen) queren.\n
+data=
+; 3 -> 4
+35	32
+22	28
+20	19
+11	5
+; 4 -> 2
+29	35
+13	7
+16	16
+10	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9763
+datum=31.05.2017
+kurzken=Q 9763/17
+bez=Goebenstraße (östl. Potsdamer Straße)   (Schöneberg, 10781)
+arm1=Pallasstraße,830,0000
+arm2=Potsdamer Straße ,1790,0001
+arm3=Goebenstraße,2510,0000
+arm4=Potsdamer Straße,3590,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+43	20
+56	9
+54	4
+52	22
+73	5
+110	12
+109	8
+96	21
+131	20
+140	10
+139	10
+61	9
+; 4 -> 2
+29	15
+36	6
+35	1
+44	2
+66	4
+89	8
+64	10
+67	4
+129	12
+96	8
+116	8
+66	11

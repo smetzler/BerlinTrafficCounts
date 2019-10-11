@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905036
+datum=06.11.2008
+kurzken=Q 0905036/08
+bez=Simplonstraße (westl. Niemannstraße)   (Friedrichshain, 10245)
+arm1=Modersohn-Straße,800,0100
+arm2=Haasestraße,2600,1000
+arm3=((Norden)),3500,0000
+arm4=((Süden)),1700,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+32	2	0	1	14
+31	1	0	0	8
+12	0	0	1	4
+26	0	0	0	2
+21	2	0	2	3
+25	3	0	2	3
+49	3	0	1	6
+44	0	0	2	4
+52	2	0	2	6
+53	0	0	4	9
+61	1	0	1	8
+69	0	0	3	4
+; 2 -> 1
+104	1	0	1	14
+120	0	0	3	32
+76	2	0	3	22
+48	0	0	0	8
+47	4	0	1	15
+34	2	0	0	6
+59	2	0	3	16
+45	2	0	1	19
+52	0	0	0	26
+71	1	0	2	32
+39	0	0	1	24
+29	0	0	1	17

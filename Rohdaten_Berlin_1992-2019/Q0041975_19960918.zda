@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41975
+datum=18.09.1996
+kurzken=Q 41975/96
+bez=Klemkestraße  in Höhe Haus Nr. 78-80,(Reinickendorf, 13409)
+arm1=,950,0000
+arm2=,2750,0000
+arm3=Süd,1850,0001
+arm4=Nord,50,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C\, bewölkt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+13 9
+21 16
+8 1
+7 0
+10 1
+10 2
+11 3
+11 1
+9 2
+7 2
+2 0
+1 0
+; 4 -> 3
+10 0
+17 3
+5 1
+12 0
+10 1
+12 8
+7 14
+9 3
+10 6
+7 4
+2 0
+0 0

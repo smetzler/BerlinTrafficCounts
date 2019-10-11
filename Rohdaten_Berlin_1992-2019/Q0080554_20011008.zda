@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 80554
+datum=08.10.2001
+kurzken=Q 80554/01
+bez=Berlepschstraße (östl. Idsteiner Straße)   (Zehlendorf, 14165)
+arm1=Nord,100,0010
+arm2=Berlepschstraße,1150,0000
+arm3=Süd,1900,1000
+arm4=Berlepschstraße,3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 22°C; Sonne: 8 Std; Niederschlag: 1 mm;\n - büro für   
+data=
+; 1 -> 3
+2 0
+0 0
+5 0
+1 0
+0 0
+2 1
+8 1
+6 1
+4 0
+8 0
+4 0
+4 0
+; 3 -> 1
+5 0
+1 0
+5 0
+6 2
+2 0
+2 0
+5 0
+1 1
+2 2
+6 0
+6 1
+6 1

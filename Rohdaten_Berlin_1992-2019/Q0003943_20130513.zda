@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3943
+datum=13.05.2013
+kurzken=Q 3943/13
+bez=Beusselstraße (südl. Sickingenstraße - Siemensstraße)   (Moabit, 10553)
+arm1=Beusselstraße (N),0,0000
+arm2=Sickingenstraße,1050,0001
+arm3=Beusselstraße (S),1800,0000
+arm4=Siemensstraße,2650,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=8 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+24	16
+30	14
+55	2
+49	0
+32	0
+31	2
+34	1
+29	2
+29	10
+34	4
+30	3
+22	10
+; 4 -> 2
+16	0
+53	10
+56	4
+31	0
+26	0
+31	0
+20	9
+33	16
+25	6
+31	7
+28	3
+25	1

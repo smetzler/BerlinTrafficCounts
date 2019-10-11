@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26096
+datum=25.3.1993
+kurzken=Q 2609.6-F
+bez=Kastanienallee westl. Friedrich-Engels-Straße    (Pankow )
+arm1=Süd,900,0100
+arm2=Nord,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+2 8 
+1 0 
+0 0 
+0 0 
+1 0 
+3 0 
+3 0 
+5 6 
+3 1 
+0 2 
+1 0 
+0 0 
+; 2 -> 1
+1 0 
+1 0 
+3 0 
+1 0 
+1 0 
+2 1 
+2 0 
+6 2 
+3 2 
+1 0 
+1 1 
+1 0 

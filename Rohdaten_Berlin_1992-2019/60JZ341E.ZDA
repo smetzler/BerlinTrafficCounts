@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25887
+datum=19.8.1992
+kurzken=Q 2588.7/92-F
+bez=Karl-Lade-Str östlich Franz-Jacob-Str.     ( Berlin 1156-Friedrichshain )
+arm1=Süd,1700,0100
+arm2=Nord,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+11 4 
+8 1 
+20 2 
+18 1 
+16 2 
+5 1 
+15 28 
+10 6 
+9 10 
+17 4 
+15 1 
+14 2 
+; 2 -> 1
+32 11 
+17 8 
+18 4 
+31 4 
+12 3 
+7 2 
+19 1 
+8 9 
+13 8 
+12 5 
+14 0 
+6 1 

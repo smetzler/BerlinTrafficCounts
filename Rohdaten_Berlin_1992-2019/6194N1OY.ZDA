@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58487
+datum=19.04.1985
+kurzken=Q 58487/85
+bez=Buelowstrasse  oestl. Zietenstrasse   ( Berlin 30 )
+Arm1=Sued  ( 2a ),900,0100
+Arm2=Nord  ( 2b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+13 4 21 5 19 2 20 1 22 8 13 6 17 3 
+29 4 20 3 16 14 14 5 9 2 
+; 2 -> 1
+20 18 16 4 17 3 20 4 16 4 13 6 21 5 
+25 7 24 14 22 6 26 2 18 5 

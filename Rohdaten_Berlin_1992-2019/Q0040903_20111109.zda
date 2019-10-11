@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 040903
+datum=09.11.2011
+kurzken=Q 040903/11
+bez=Frankfurter Allee (östl. Hubertusstraße) (Lichtenberg, 10317)
+arm1=Hubertusstraße,800,0100
+arm2=Siegfriedstraße ,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: stadteinwärts zw. Ruschestr. u. Möllendorffstr. von 3 auf 2 FS reduziert.\n
+data=
+; 1 -> 2
+1361	62	17	18	31
+1203	53	8	10	21
+1239	69	6	4	28
+1481	77	9	9	21
+1660	78	7	10	29
+1623	97	12	15	21
+2069	101	12	20	37
+2672	79	18	24	53
+3263	70	10	61	62
+3305	78	11	48	72
+3182	81	8	43	66
+2639	45	11	33	42
+; 2 -> 1
+3146	94	7	13	69
+3551	101	20	31	49
+3500	139	12	24	34
+2697	135	10	18	28
+2696	82	5	17	42
+2417	85	10	12	49
+2017	71	7	31	22
+1842	67	5	25	14
+1922	55	7	17	21
+1857	49	6	31	16
+1866	23	10	18	24
+1599	28	14	12	20

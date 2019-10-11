@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010606
+datum=25.11.1999
+kurzken=Q 010606/99
+bez=Sophie-Charlotten-Straße (nördl. Spandauer Da.) (Charlottenburg, 14059)
+arm1=Ernst-Bumm-Weg,50,0100
+arm2=Spandauer Damm,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+66	5	9	4
+170	4	22	5
+233	4	24	3
+230	15	18	2
+358	18	19	4
+307	24	31	4
+272	33	27	4
+316	16	17	3
+350	16	20	3
+404	14	12	3
+394	9	7	3
+285	7	5	3
+; 2 -> 1
+225	3	15	4
+306	1	19	4
+317	0	15	3
+277	6	15	3
+313	14	25	3
+287	18	26	3
+281	17	21	3
+299	18	24	3
+271	15	16	3
+294	12	18	3
+284	8	9	3
+190	6	6	3

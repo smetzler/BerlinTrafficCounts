@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913004
+datum=10.06.1998
+kurzken=Q 0913004/98
+bez=Rixdorfer Straße (nördl. Alt-Mariendorf)   (Mariendorf, 12109)
+arm1=Alt-Mariendorf,1550,0100
+arm2=Imbrosweg,3350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+820	72	7	33
+913	84	12	16
+588	88	3	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+659	53	6	16
+662	27	6	20
+560	13	5	11
+; 2 -> 1
+503	67	6	11
+541	70	6	6
+502	80	4	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+902	37	7	25
+1118	33	7	33
+974	47	7	28

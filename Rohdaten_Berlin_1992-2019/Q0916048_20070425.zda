@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916048
+datum=25.04.2007
+kurzken=Q 0916048/07
+bez=Fürstenwalder Allee (nördl. Püttbergeweg)   (Köpenick, 12589)
+arm1=Woltersdorfer Weg,600,0100
+arm2=Püttbergeweg,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+323	21	5	6	32
+344	16	2	4	13
+370	17	4	12	14
+424	30	4	6	36
+408	30	3	2	30
+401	21	2	5	33
+341	20	2	5	17
+445	13	3	12	28
+470	14	2	20	48
+531	12	1	14	25
+419	3	1	5	40
+409	4	1	6	42
+; 2 -> 1
+444	30	0	7	37
+394	18	1	8	28
+400	25	0	9	24
+340	18	0	10	18
+320	18	0	11	30
+331	24	0	5	49
+277	20	0	5	30
+381	14	4	8	31
+384	18	4	6	44
+447	8	3	12	38
+476	7	3	8	43
+420	3	2	8	37

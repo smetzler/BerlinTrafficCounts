@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 1171
+datum=13.07.1989
+kurzken=K 1171/89
+bez=Kaiser-Wilhelm-Platz ( Sued ) / Hauptstrasse    ( Berlin 62 )
+Arm1=,0,0000
+Arm2=Hauptstrasse,1500,0011
+Arm3=Kaiser-Wilhelm-Platz,2850,0000
+Arm4=Hauptstrasse,3300,0100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 3
+908 694 657 677 745 736 745 792 1063 1064 852 846 
+; 2 -> 4
+967 903 798 739 762 726 735 830 699 831 736 685 
+; 4 -> 2
+1414 1439 1338 1369 1595 1569 1636 1521 1841 1814 1651 1483 

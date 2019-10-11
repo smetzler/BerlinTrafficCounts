@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907093
+datum=20.09.2006
+kurzken=Q 0907093/06
+bez=Straße des 17. Juni (westl. Bachstraße)   (Charlottenburg, 10623)
+arm1=Salzufer,950,0100
+arm2=Bachstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1375	62	4	76	128
+1778	65	14	103	279
+1423	62	17	57	146
+1382	62	15	34	124
+1374	83	16	51	144
+1482	62	8	39	140
+1486	40	11	57	186
+1676	53	15	58	219
+1906	50	11	98	322
+1900	45	12	109	359
+1931	37	27	76	394
+2097	26	27	88	419
+; 2 -> 1
+1569	53	9	88	115
+1948	57	14	77	254
+1936	64	21	100	297
+1626	75	30	59	244
+1508	67	20	52	181
+1517	62	18	58	189
+1668	62	12	59	169
+1763	50	19	61	220
+1923	36	18	85	234
+1882	46	22	106	268
+2036	27	25	110	333
+1719	18	14	79	292

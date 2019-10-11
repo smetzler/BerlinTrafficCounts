@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920016
+datum=16.06.1998
+kurzken=Q 0920016/98
+bez=Roedernallee (südl. Am Nordgraben)   (Wittenau, 13437)
+arm1=Am Nordgraben,300,0100
+arm2=W.-Gericke-Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1361	67	7	48
+1206	66	4	24
+1005	68	5	23
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1010	32	4	33
+1005	42	3	33
+947	26	6	19
+; 2 -> 1
+718	68	10	28
+635	78	15	24
+708	68	6	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1218	43	4	42
+1321	42	4	40
+1143	42	4	42

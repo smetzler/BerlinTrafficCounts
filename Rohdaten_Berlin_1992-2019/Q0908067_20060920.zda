@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908067
+datum=20.09.2006
+kurzken=Q 0908067/06
+bez=Charlottenburger Chaussee (östl. Klärwerkstraße)   (Spandau, 13597)
+arm1=Klärwerkstraße,750,0100
+arm2=Stendelweg,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=21°C max T; 9 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1604	65	19	95	52
+1762	53	18	78	40
+1352	49	11	49	28
+942	74	10	22	24
+1088	55	12	46	23
+1411	42	16	41	36
+1132	41	16	54	22
+1298	35	12	54	20
+1298	42	12	76	52
+1273	24	13	60	56
+1234	17	13	45	35
+1183	5	14	37	48
+; 2 -> 1
+1070	55	12	34	11
+1122	44	15	28	5
+1120	69	9	17	6
+1074	30	8	12	2
+1330	84	13	32	10
+1446	64	13	28	16
+1357	45	13	50	33
+1495	46	13	76	38
+1540	32	16	106	56
+1877	35	14	97	49
+1779	26	15	81	45
+1495	25	15	77	28

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q6552031
+datum=18.06.2019
+kurzken=Q6552031/19
+bez=Frankfurter Allee / Ruschestraße - Schulze-Boysen-Straße (Lichtenberg, 10365)  über Arm1
+arm1=Frankfurter Allee (W),820,0000
+arm2=Schulze-Boysen-Straße,1700,0001
+arm3=Frankfurter Allee (O),2620,0000
+arm4=Ruschestraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+31	2
+25	0
+23	2
+24	0
+23	0
+20	1
+29	4
+25	4
+29	3
+30	4
+13	1
+5	2
+; 4 -> 2
+19	2
+39	10
+14	0
+24	2
+25	2
+9	0
+19	5
+30	2
+18	8
+14	4
+11	6
+10	5

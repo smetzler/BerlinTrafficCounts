@@ -1,0 +1,57 @@
+[ZA1001]
+knoten=K 27314
+datum=14.09.2017
+kurzken=K 27314/17
+bez=Pistoriusstraße / Gustav-Adolf-Straße (Hamburger Pl.)   (Weißensee, 13086)
+arm1=Pistoriusstraße (NW),500,0000
+arm2=,1200,0000
+arm3=Pistoriusstraße (SO),2300,1001
+arm4=Gustav-Adolf-Straße (NO),3000,1000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kreisverkehrsplatz! \nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 1				
+645	25	9	0	56
+386	33	6	7	31
+237	11	3	10	12
+292	9	5	2	18
+195	12	11	7	18
+202	18	5	9	25
+332	4	8	15	22
+450	5	3	7	36
+608	9	11	4	54
+521	11	10	20	53
+447	2	5	8	50
+335	1	7	14	63
+; 3 -> 4				
+184	3	11	7	73
+230	5	14	3	39
+152	2	6	9	43
+127	3	6	4	26
+151	2	6	2	28
+152	4	4	4	17
+135	8	5	3	16
+190	6	8	5	27
+195	3	4	6	18
+313	4	9	15	47
+214	1	7	8	24
+163	1	3	4	24
+; 4 -> 1				
+239	4	7	7	37
+243	3	7	3	44
+206	5	7	5	21
+292	8	7	4	13
+150	1	5	4	16
+148	3	6	2	10
+163	5	5	1	19
+195	5	5	3	16
+216	2	7	6	34
+239	0	7	9	32
+192	2	6	8	25
+158	1	3	3	35

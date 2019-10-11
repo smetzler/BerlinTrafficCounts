@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0911043
+datum=21.04.2005
+kurzken=Q 0911043/05
+bez=Bozener Straße (südl. Grunewaldstraße)   (Schöneberg, 10825)
+arm1=Grunewaldstraße,0,0100
+arm2=Bozener Straße,1750,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+5	0	0	0	2
+1	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+3	0	0	0	0
+4	0	0	0	0
+15	1	0	0	0
+34	0	0	0	0
+52	0	0	0	0
+42	0	0	0	10
+41	0	0	2	1
+52	0	0	0	5
+30	0	0	0	5
+52	0	0	0	2
+38	0	0	0	2
+33	0	0	0	4
+42	0	0	0	8
+28	0	0	0	4
+21	0	0	0	2
+7	0	0	0	0
+10	0	0	0	2
+10	0	0	0	3
+7	0	0	0	3

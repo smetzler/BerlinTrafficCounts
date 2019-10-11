@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41365
+datum=18.05.1994
+kurzken=Q 41365/94
+bez=Mariendorfer Weg / Nr. 41 (LSA-Anlage) (Neukölln)
+arm1=Süd,1300,1000
+arm2=Nord,2800,0100
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 1
+7 12
+20 2
+24 4
+31 0
+35 1
+32 3
+25 2
+20 8
+33 7
+31 3
+28 7
+10 8
+; 2 -> 2
+8 1
+26 0
+36 1
+26 0
+14 4
+12 2
+28 9
+22 0
+22 2
+17 6
+14 2
+8 2

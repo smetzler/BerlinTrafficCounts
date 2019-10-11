@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0075
+datum=08.05.2015
+kurzken=Q 0075/15
+bez=A114 - Zubr. Prenzlau (nördl. der Zu- Abf. Schönerlinder Str.)   (Pankow,13127)
+arm1=Landesgrenze,400,0100
+arm2=AS Schönerlinder Straße ,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführerstreik\, S-Bahnen betroffen
+data=
+; 1 -> 2
+1360	36	17	7	28
+1472	42	15	9	12
+1462	36	12	1	13
+; 2 -> 1
+2223	60	33	6	31
+2186	22	32	3	33
+2065	28	30	8	30

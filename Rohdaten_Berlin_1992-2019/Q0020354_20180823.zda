@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20354
+datum=23.08.2018
+kurzken=Q 20354/18
+bez=Treptower Str (nordöstl. Sonnenallee)   (Neukölln, 12059)
+arm1=Sonnenallee (NW),500,0010
+arm2=Treptower Straße (SW),1400,0000
+arm3=Sonnenallee (SO),2300,1000
+arm4=Treptower Straße (NO),3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+19	11
+44	5
+35	1
+28	26
+26	0
+22	7
+30	3
+35	13
+81	4
+58	10
+39	8
+60	10
+; 3 -> 1
+18	33
+35	5
+33	19
+30	6
+18	0
+23	6
+44	10
+53	11
+42	5
+52	10
+63	14
+71	17

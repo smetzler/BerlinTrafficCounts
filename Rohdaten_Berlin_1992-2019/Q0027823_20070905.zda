@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27823
+datum=05.09.2007
+kurzken=Q 27823/07
+bez=Friedrich-Engels-Straße (südöstl. Wilhelm-Wolff-Straße)  (Pankow, 13156)
+arm1=Friedrich-Engels-Straße (NW),450,0000
+arm2=Wilhelm-Wolff-Straße (W),1000,0001
+arm3=Friedrich-Engels-Straße (SO),2250,0000
+arm4=Wilhelm-Wolff-Straße (NO),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+18	1
+2	0
+4	0
+5	0
+5	1
+5	1
+5	6
+5	7
+14	7
+9	5
+7	1
+6	2
+; 4 -> 2
+36	23
+7	1
+8	0
+8	0
+9	1
+11	0
+6	0
+6	0
+16	4
+12	5
+3	1
+0	0

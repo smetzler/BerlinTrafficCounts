@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919007
+datum=17.06.1998
+kurzken=Q 0919007/98
+bez=Hermann-Hesse-Str. (östl. Pastor-Niemöller-Pl.)   (N'schönhausen, 13156)
+arm1=Pastor-Niemöller-Platz,1000,0100
+arm2=Güllweg,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+693	65	18	11
+700	65	10	11
+762	69	12	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1185	44	16	28
+1206	24	13	21
+1221	23	14	27
+; 2 -> 1
+1248	76	20	28
+1034	71	14	15
+903	72	12	21
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+874	49	18	15
+962	41	15	22
+891	24	14	13

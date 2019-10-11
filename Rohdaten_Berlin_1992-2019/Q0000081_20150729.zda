@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0081
+datum=29.07.2015
+kurzken=Q 0081/15
+bez=B109 - Schönerlinder Straße (nördl. Zu-Abf. A114)   (Pankow, 13127)
+arm1=AS Schönerlinder Str.,1500,0100
+arm2=Schönerlinder Chaussee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle Höhe A10\, für beide Richtungen nur ein Fahrstreifen abwechselnd frei
+data=
+; 1 -> 2
+247	20	21	1	12	7
+294	12	10	1	5	3
+287	7	11	1	8	5
+; 2 -> 1
+326	8	23	1	7	5
+279	10	6	1	9	9
+239	6	7	1	8	3

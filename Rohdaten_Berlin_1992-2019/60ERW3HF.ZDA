@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19148
+datum=04.12.1990
+kurzken=Q 19148/90
+bez=Bahnhofstrasse oestlich Steinstrasse     ( Berlin 49 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+5 1 9 0 30 2 44 1 40 6 33 7 35 6 
+33 5 33 16 32 5 54 2 12 1 
+; 2 -> 1
+11 5 9 0 32 5 34 2 48 6 42 2 48 3 
+46 5 35 2 27 7 46 3 21 4 

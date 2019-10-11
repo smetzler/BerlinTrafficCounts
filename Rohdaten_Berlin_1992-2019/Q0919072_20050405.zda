@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0919072
+datum=05.04.2005
+kurzken=Q 0919072/05
+bez=Kniprodestraße (südl. Erich-Weinert-Straße)   (Prenzlauer Berg, 10409)
+arm1=Storkower Straße,1500,0100
+arm2=Erich-Weinert-Straße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+637	19	11	8	31
+664	46	8	9	27
+726	29	9	9	26
+716	28	12	10	14
+681	28	9	12	22
+718	28	8	11	20
+; 2 -> 1
+799	17	11	13	51
+715	26	10	16	30
+627	32	10	10	30
+586	32	10	10	16
+552	15	11	10	16
+558	28	9	5	14

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2192
+datum=02.03.2015
+kurzken=Q 2192/15
+bez=Siegener Straße (südl. Falkenseer Chaussee)   (Spandau, 13583)
+arm1=Falkenseer Chaussee (W),730,0010
+arm2=Siegener Straße,1700,0000
+arm3=Falkenseer Chaussee (O),2530,1000
+arm4=Westerwaldstraße,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+58	2
+59	9
+68	5
+67	2
+64	24
+71	0
+80	10
+87	18
+112	15
+71	21
+87	10
+62	3
+; 3 -> 1
+39	49
+63	13
+65	9
+50	2
+56	1
+60	2
+49	4
+55	6
+86	10
+62	15
+67	6
+29	2

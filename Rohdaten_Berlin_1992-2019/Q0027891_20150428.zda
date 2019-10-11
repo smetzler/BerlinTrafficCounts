@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27891
+datum=28.04.2015
+kurzken=Q 27891/15
+bez=Berliner Straße (nördl. Granitzstraße)   (Pankow, 13189)
+arm1=Berliner Straße (N),150,0000
+arm2=((Westen)),1200,0001
+arm3=Berliner Straße (S),1850,0000
+arm4=Granitzstraße,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußgänger die nur bis zum Mittelstreifen (Tram) liefen wurden mitgezählt
+data=
+; 2 -> 4
+56	53
+51	23
+67	10
+56	6
+32	0
+49	21
+86	4
+84	8
+117	19
+135	11
+121	17
+134	10
+; 4 -> 2
+104	27
+105	13
+71	2
+63	3
+26	0
+40	2
+62	13
+77	21
+114	20
+87	7
+66	14
+65	9

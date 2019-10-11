@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42301
+datum=22.05.1997
+kurzken=Q 42301/97
+bez=BAB Stadtring (A100) (Höhe H.-Ganswindt-Br. - Nebenfahrb.) (Sch'bg, 10829)
+arm1=AK Schöneberg,500,0100
+arm2=Zufahrt Sachsendamm,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1041 46 2 26
+1029 47 3 3
+698 51 1 5
+747 64 2 6
+616 66 1 6
+728 57 2 6
+711 70 2 10
+751 60 2 9
+957 45 1 18
+908 54 0 25
+991 23 1 20
+977 31 4 30
+; 2 -> 1
+1049 57 4 13
+971 50 0 21
+894 60 2 7
+767 46 0 10
+769 49 2 7
+752 24 1 7
+809 33 1 5
+841 37 0 17
+1076 33 1 13
+1104 12 3 30
+1022 11 0 21
+1014 4 1 29

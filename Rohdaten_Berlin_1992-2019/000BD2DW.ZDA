@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 0409
+datum=21.06.1987
+kurzken=K 409/87
+bez=Elchdamm / Reiherallee    ( Berlin 27 )
+Arm1=Elchdamm,780,0011
+Arm2=,0,0000
+Arm3=Elchdamm,2580,1001
+Arm4=Reiherallee,3420,1010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung
+data=
+; 1 -> 3
+4 12 16 16 30 28 28 26 25 44 56 47 
+; 1 -> 4
+1 0 4 2 8 9 3 1 8 13 6 9 
+; 3 -> 1
+5 10 15 19 39 30 23 22 33 24 19 14 
+; 3 -> 4
+0 0 8 3 3 3 4 5 2 2 2 4 
+; 4 -> 1
+0 0 4 5 2 4 3 3 12 9 5 10 
+; 4 -> 3
+0 1 2 2 2 0 4 3 1 0 5 2 

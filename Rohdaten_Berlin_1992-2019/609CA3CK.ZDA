@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 12106
+datum=21.06.1990
+kurzken=Q 12106/90
+bez=Wildenbruchstrasse westl. Harzer Strasse    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+12 8 17 48 39 47 44 23 53 74 64 40 
+; 2 -> 1
+8 12 29 55 38 15 41 50 36 27 117 76 

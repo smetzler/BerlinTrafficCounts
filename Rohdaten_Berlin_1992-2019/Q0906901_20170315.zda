@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906901
+datum=15.03.2017
+kurzken=Q 0906901/17
+bez=Zossener Straße (nördl. Blücherstraße)   (Kreuzberg, 10961)
+arm1=Blücherstraße,1750,0100
+arm2=Gitschiner Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 13°C max T; 8 Std Sonne; 0\,0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+170
+450
+365
+154
+97
+83
+76
+51
+80
+130
+96
+119
+; 2 -> 1
+84
+145
+155
+106
+91
+64
+68
+81
+130
+210
+179
+268

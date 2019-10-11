@@ -1,0 +1,19 @@
+[ZA1001]
+knoten=Q 40119
+datum=25.10.1984
+kurzken=Q 40119/84
+bez=Richardstrasse  suedl. Ganghoferstrasse   ( Berlin 44 )
+Arm1=,900,0000
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 1
+0 14 5 4 0 0 27 1 1 0 1 60 1 6 0 
+0 57 2 1 0 1 56 9 0 0 2 65 7 4 0 
+0 43 6 3 0 0 50 6 0 0 2 68 2 2 0 
+4 98 7 0 0 2 101 2 2 0 1 51 1 0 0 

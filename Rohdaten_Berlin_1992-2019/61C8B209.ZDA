@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 62507
+datum=10.04.1986
+kurzken=Q 62507/86
+bez=Am Pfingstberg  suedl. Burgfrauenstrasse   ( Berlin 28 )
+Arm1=West  ( 3a ),900,0100
+Arm2=Ost  ( 3b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw.,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 0 0 0 1 1 2 0 1 0 1 0 0 0 
+2 0 2 0 1 0 2 0 0 0 
+; 2 -> 1
+0 0 0 0 0 1 2 0 1 0 1 0 0 2 
+0 0 1 0 1 0 0 0 1 0 

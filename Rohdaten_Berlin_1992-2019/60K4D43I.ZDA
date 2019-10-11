@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26077
+datum=31.10.1992
+kurzken=Q 2607.7/92-F
+bez=Fürstenwalder Allee südlich Püttbergeweg    ( Berlin 1165-Köpenick )
+arm1=Ost,800,0100
+arm2=Wesr,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+4 
+3 
+5 
+13 
+20 
+2 
+1 
+2 
+1 
+6 
+9 
+1 
+; 2 -> 1
+2 
+6 
+6 
+27 
+15 
+2 
+4 
+2 
+4 
+4 
+2 
+0 

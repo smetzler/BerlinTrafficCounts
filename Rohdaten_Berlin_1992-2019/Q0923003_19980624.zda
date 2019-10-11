@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0923003
+datum=24.06.1998
+kurzken=Q 0923003/98
+bez=Lindenstraße (westl. Chemnitzer Straße)   (Kaulsdorf, 12621)
+arm1=Tieflandstraße,850,0100
+arm2=Chemnitzer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+256	12	4	0
+225	28	3	0
+189	29	4	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+361	22	6	2
+423	14	7	3
+404	11	7	3
+; 2 -> 1
+201	16	6	1
+228	26	4	1
+180	13	3	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+179	16	5	1
+174	4	6	1
+205	8	6	5

@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 6168
+datum=24.05.1989
+kurzken=K 6168/89
+bez=Koelner Damm  / Hugo-Heimann-Strasse    ( Berlin 47 )
+Arm1=Koelner Damm,680,0010
+Arm2=,0,0000
+Arm3=Koelner Damm,2480,1010
+Arm4=Hugo-Heimann-Strasse,3380,1010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 3
+184 161 175 155 196 207 266 254 355 369 395 349 
+; 3 -> 1
+489 312 253 258 247 252 244 257 278 287 304 281 
+; 3 -> 3
+5 2 0 0 0 1 4 2 1 5 0 1 
+; 4 -> 1
+107 71 52 32 39 45 43 33 39 35 31 32 
+; 4 -> 3
+35 25 19 18 24 26 15 25 19 17 17 15 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 061503
+datum=06.05.2014
+kurzken=Q 061503/14
+bez=Rominter Allee (südl. Charlottenburger Chaussee)   (Ruhleben, 14052)
+arm1=Machandelweg,1600,0100
+arm2=Charlottenburger Chaussee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+58	4	0	0	8
+81	5	1	3	3
+92	4	0	1	5
+100	4	0	0	0
+81	6	0	3	3
+98	6	1	2	3
+126	6	1	5	6
+121	5	2	6	4
+146	4	2	7	4
+172	2	2	6	12
+124	2	1	4	5
+97	1	0	4	6
+; 2 -> 1
+106	6	15	1	3
+153	7	16	0	3
+101	4	11	3	1
+74	2	11	4	2
+78	6	11	1	4
+83	6	12	2	4
+99	8	14	5	3
+94	2	16	2	2
+113	1	14	8	6
+168	4	14	6	10
+126	1	16	3	2
+99	2	12	7	8

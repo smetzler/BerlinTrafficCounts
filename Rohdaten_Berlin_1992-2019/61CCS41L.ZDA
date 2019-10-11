@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 62668
+datum=26.8.1992
+kurzken=Q 6266.8/92-F
+bez=Aroser Allee nördlich Schillerring    ( Berlin 51 )
+arm1=Ost,840,0100
+arm2=West,2640,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+8 2 
+10 0 
+5 0 
+5 0 
+9 1 
+9 2 
+4 1 
+3 0 
+11 2 
+5 0 
+8 2 
+7 3 
+; 2 -> 1
+8 4 
+7 0 
+8 0 
+3 0 
+17 1 
+5 0 
+14 1 
+4 2 
+11 5 
+18 16 
+3 1 
+0 0 

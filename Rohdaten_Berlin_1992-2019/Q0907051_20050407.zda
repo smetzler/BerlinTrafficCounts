@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907051
+datum=07.04.2005
+kurzken=Q 0907051/05
+bez=Dovestraße (Dovebrücke)   (Charlottenburg, 10587)
+arm1=Einsteinufer,1600,0100
+arm2=Salzufer,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+491	13	17	15	31
+755	12	18	18	54
+793	16	10	9	48
+564	14	10	9	25
+539	22	8	8	50
+493	10	8	9	23
+; 2 -> 1
+392	17	13	7	46
+504	12	11	8	29
+593	16	11	5	27
+541	19	8	5	11
+524	23	10	8	18
+486	12	9	6	25

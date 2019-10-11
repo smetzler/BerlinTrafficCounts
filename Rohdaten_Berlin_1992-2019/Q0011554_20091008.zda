@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11554
+datum=08.10.2009
+kurzken=Q 11554/09
+bez=Badensche Straße (östl. Innsbrucker Straße)    (Schöneberg, 10825)
+arm1=Innsbrucker Straße (N),120,0010
+arm2=Badensche Straße (W),840,0000
+arm3=Innsbrucker Straße (S),1920,1000
+arm4=Badensche Straße (O),2640,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=1 Std; Niederschlag=28 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+8	1
+13	2
+18	0
+12	0
+10	22
+25	0
+20	0
+26	1
+38	13
+22	4
+24	2
+31	2
+; 3 -> 1
+17	4
+28	0
+15	0
+18	0
+10	2
+20	0
+26	1
+34	2
+31	5
+37	7
+42	6
+36	0

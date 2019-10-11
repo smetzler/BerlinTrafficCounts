@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6566012
+datum=23.05.2011
+kurzken=Q 6566012/11
+bez=Landsberger Allee (westl. Siegfriedstraße)   (Lichtenberg, 13055)
+arm1=Liebenwalder Straße,80,0010
+arm2=Landsberger Allee (W),980,0000
+arm3=Siegfriedstraße,1880,1000
+arm4=Landsberger Allee (O),2780,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=13 Std; Niederschlag=0 mm;
+data=
+; 1 -> 3
+8	0
+7	0
+3	1
+5	0
+4	0
+1	0
+5	1
+1	1
+4	0
+7	2
+3	1
+7	2
+; 3 -> 1
+3	0
+4	1
+8	1
+2	1
+8	1
+4	0
+6	0
+11	1
+8	2
+2	0
+9	0
+15	2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914104
+datum=11.11.2010
+kurzken=Q 0914104/10
+bez=Köllner Damm (südl. Johannisthaler Chaussee)   (Gropiusstadt, 12353)
+arm1=Johannisthaler Chaussee,500,0100
+arm2=Wildmeisterdamm,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+157	12	9	0	0
+151	8	6	0	2
+192	9	5	1	4
+222	11	6	2	2
+257	9	4	0	5
+227	6	4	1	1
+285	7	4	2	7
+296	7	5	7	12
+353	7	4	1	10
+336	5	3	6	12
+304	2	3	0	3
+203	0	3	2	3
+; 2 -> 1
+296	5	4	2	1
+236	12	5	2	6
+195	10	3	1	0
+220	3	1	1	3
+187	8	3	0	3
+252	10	3	4	5
+224	9	2	0	1
+197	3	7	0	1
+210	5	4	2	4
+202	6	4	3	4
+224	7	6	4	1
+229	1	4	4	2

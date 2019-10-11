@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27783
+datum=25.04.2007
+kurzken=Q 27783/07
+bez=Schivelbeiner Straße (östl. Schönfließer Straße)   (Prenzlauer Berg, 10439)
+arm1=Schivelbeiner Straße (W),850,0000
+arm2=Schönfließer Straße (S),1750,0001
+arm3=Schivelbeiner Straße (O),2650,0000
+arm4=Schönfließer Straße (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24 °C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+67	35
+64	7
+83	4
+38	1
+61	2
+62	12
+49	10
+51	3
+63	29
+63	16
+75	24
+126	9
+; 4 -> 2
+27	15
+25	5
+43	0
+45	0
+48	1
+30	0
+42	2
+70	3
+48	3
+64	7
+69	11
+89	6

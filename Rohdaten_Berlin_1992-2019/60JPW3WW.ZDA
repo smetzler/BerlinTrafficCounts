@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025556
+datum=17.3.1992
+kurzken=Q 2555.6/92-F
+bez=Friedrichsberger Straße südlich Friedenstraße    ( Berlin 1017-Frdh )
+arm1=Ost,1350,0100
+arm2=West,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter ; bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+39 21 
+21 25 
+48 4 
+35 15 
+26 8 
+21 39 
+23 39 
+28 67 
+29 52 
+42 61 
+29 18 
+10 3 
+; 2 -> 1
+29 196 
+24 14 
+49 66 
+47 15 
+33 6 
+26 3 
+28 5 
+37 13 
+36 24 
+27 22 
+18 9 
+8 2 

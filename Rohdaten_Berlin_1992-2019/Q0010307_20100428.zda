@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010307
+datum=28.04.2010
+kurzken=Q 010307/10
+bez=Stresemannstraße (südl. Potsdamer Platz)   (Mitte, 10557)
+arm1=Potsdamer Platz,0,0100
+arm2=Köthener Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle) in beiden Richtungen zwischen Niederkirchnerstr. und Linkstr.\, Fahrbahn auf einen Fahrstreifen verengt
+data=
+; 1 -> 2
+295	20	6	15	23
+394	13	6	8	39
+516	12	7	12	117
+464	24	28	16	70
+468	19	36	5	67
+327	17	41	11	51
+361	15	41	9	38
+378	9	37	9	61
+430	14	32	16	76
+462	9	31	15	134
+502	6	37	26	147
+495	6	26	29	216
+426	1	18	17	218
+; 2 -> 1
+196	10	5	8	24
+329	26	5	9	122
+515	12	9	22	274
+466	14	14	20	210
+449	17	17	9	112
+398	16	22	16	119
+363	15	13	8	64
+409	10	10	5	111
+472	8	10	16	78
+464	6	9	14	114
+590	1	14	20	110
+587	4	10	14	105
+514	5	9	15	158

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0915049
+datum=21.03.2011
+kurzken=Q 0915049/11
+bez=Georg-Knorr-Straße (Marzahner Brücken, Abf. Landsberger Allee)  (Marzahn, 12681)
+arm1=Georg-Knorr-Straße,1000,0000
+arm2=Landsberger Allee (Hochstr.),2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=SIEHE beigefügte SKIZZE! \nFahrzeuge die von der Landsberger Allee (Hochstr. Ri. West) über die Rampe der Georg-Knorr-Str. abfahren.\n
+data=
+; 2 -> 1
+94	5	0	2	1
+92	3	0	1	0
+50	9	0	1	0
+70	4	0	2	0
+40	10	0	2	0
+64	9	0	0	0
+67	12	0	3	1
+66	6	0	1	0
+78	6	0	2	0
+65	4	1	2	0
+55	1	0	3	0
+42	1	0	0	0

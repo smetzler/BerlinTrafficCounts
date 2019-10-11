@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920348
+datum=05.11.2018
+kurzken=Q 0920348/18
+bez=Heiligenseestraße (östl. An der Schneise)   (Heiligensee, 13503)
+arm1=An der Schneise,650,0100
+arm2=Konradshöher Straße,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+886	11	5	22	15
+866	6	5	8	14
+493	9	5	10	9
+298	12	4	2	6
+279	9	3	5	6
+283	2	6	8	4
+266	10	7	5	11
+258	1	5	2	4
+384	7	6	9	7
+412	4	6	6	6
+253	1	6	4	5
+219	1	7	2	3
+; 2 -> 1
+143	7	5	1	2
+161	5	4	1	4
+214	6	5	2	2
+324	8	4	6	1
+292	8	4	6	4
+268	9	5	2	6
+375	5	7	7	11
+385	8	5	5	14
+611	7	5	20	12
+640	18	4	10	12
+554	2	6	11	13
+478	0	4	5	12

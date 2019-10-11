@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 050605
+datum=31.08.1994
+kurzken=Q 050605/94
+bez=BAB Stadtring  (Tunnel westl. Rathenaupl.) (Wilmdorf, 10711) 
+arm1=AD Funkturm,300,0100
+arm2=Schwarzbacher Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   \nBaustelle: linke Spur gesperrt
+data=
+; 1 -> 2
+3538 347 329 5
+3481 266 322 2
+3139 335 410 7
+3048 307 414 7
+2873 308 447 8
+2795 287 422 7
+3133 384 395 6
+2944 343 298 8
+3079 297 280 5
+3682 283 198 10
+3815 271 152 4
+3696 205 104 2
+; 2 -> 1
+3549 348 227 9
+3366 296 312 15
+3061 311 351 4
+3062 334 349 7
+3031 324 371 3
+2987 245 381 1
+2892 312 417 9
+2974 338 329 11
+2876 322 326 0
+3349 276 304 3
+3226 262 148 1
+3442 215 118 2

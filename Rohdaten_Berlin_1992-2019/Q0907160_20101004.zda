@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907160
+datum=04.10.2010
+kurzken=Q 0907160/10
+bez=Olbersstraße (östl. Herschelstraße)   (Charlottenburg, 10589)
+arm1=Herschelstraße,800,0000
+arm2=Gallestteig,2600,0000
+arm3=((Norden)),3500,0001
+arm4=((Süden)),1700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Olbersstraße östl. Herschelstr (in Höhe der Mittelinsel auf ca. 50m) queren.\nWetter: max T=19°C; Sonne=7 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+26	1
+50	2
+35	5
+20	0
+29	1
+40	14
+32	2
+66	5
+52	8
+56	9
+49	3
+57	7
+; 4 -> 3
+83	19
+76	11
+77	7
+78	4
+44	4
+40	2
+34	19
+48	9
+52	20
+64	8
+51	7
+36	2

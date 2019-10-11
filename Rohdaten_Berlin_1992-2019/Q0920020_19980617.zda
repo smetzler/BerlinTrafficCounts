@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920020
+datum=17.06.1998
+kurzken=Q 0920020/98
+bez=Residenzstraße (nördl. Reginhardstraße)   (Reinickendorf, 13409)
+arm1=Ritterlandweg,450,0100
+arm2=Reginhardstraße,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+712	60	9	33
+732	56	12	20
+647	68	5	29
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+648	24	6	29
+634	9	6	21
+651	17	10	26
+; 2 -> 1
+650	55	7	19
+550	62	7	15
+535	74	7	10
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+873	34	6	40
+1019	34	6	41
+786	14	7	30

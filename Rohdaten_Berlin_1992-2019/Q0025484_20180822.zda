@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 25484
+datum=22.08.2018
+kurzken=Q 25484/18
+bez=Baumschulenstraße (nordöstl. Forsthausallee)    (Treptow, 12437)
+arm1=Forsthausallee,920,0010
+arm2=Baumschulenstraße,1530,0000
+arm3=Südost,2720,1000
+arm4=Baumschulenstraße,3230,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 3
+11	2
+8	0
+7	0
+4	2
+7	1
+3	0
+3	1
+3	0
+4	0
+2	2
+6	0
+2	0
+; 3 -> 1
+9	0
+3	0
+4	0
+6	0
+2	0
+1	0
+4	0
+4	0
+1	1
+2	0
+0	0
+1	2

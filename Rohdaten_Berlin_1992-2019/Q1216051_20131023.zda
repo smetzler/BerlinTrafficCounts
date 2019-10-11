@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1216051
+datum=23.10.2013
+kurzken=Q 1216051/13
+bez=A113 - Zubr. Schönefeld (südl. AS Stubenrauchstr., incl. Zu-Abf.)   (Treptow, 12
+arm1=AS Stubenrauchstraße,600,0100
+arm2=AS Adlershof,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Neuköllner Straße stadtauswärts zwischen Stubenrauchstraße und Bildhauerweg gesperrt\, dadurch erhöhtes Verkehraufkommen Strom 1>2\n
+data=
+; 1 -> 2
+2223	208	6	23
+2470	209	5	22
+2156	236	5	15
+1943	247	5	10
+2089	258	1	20
+2385	289	4	25
+2712	231	3	28
+3579	288	12	59
+4161	240	10	68
+4528	237	4	64
+3967	184	10	57
+3252	101	5	46
+; 2 -> 1
+3038	217	4	49
+2963	261	1	37
+2604	287	3	23
+2069	252	5	21
+1966	280	7	22
+1961	260	8	26
+2026	242	8	13
+1981	194	10	27
+2176	154	8	17
+2191	137	5	28
+2693	96	11	16
+2194	114	7	18

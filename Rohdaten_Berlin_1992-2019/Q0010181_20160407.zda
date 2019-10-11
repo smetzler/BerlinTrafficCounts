@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10181
+datum=07.04.2016
+kurzken=Q 10181/16
+bez=Maybachufer (westl. Hobrechtbrücke)   (Kreuzberg, 12047)
+arm1=Maybachufer,600,0000
+arm2=Friedelstraße,1750,0001
+arm3=Maybachufer,2400,0000
+arm4=Hobrechtstraße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die das Maybachufer westl. der Hobrechtbrücke (bis ca. 50m westl.) queren.
+data=
+; 2 -> 4
+29	11
+69	2
+63	1
+35	0
+33	0
+71	0
+87	11
+70	4
+77	4
+98	16
+134	11
+106	9
+; 4 -> 2
+45	28
+52	1
+37	12
+38	6
+70	2
+61	17
+69	7
+91	2
+72	6
+102	28
+121	10
+122	13

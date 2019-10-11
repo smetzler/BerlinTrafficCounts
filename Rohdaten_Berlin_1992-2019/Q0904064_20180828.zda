@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904064
+datum=28.08.2018
+kurzken=Q 0904064/18
+bez=Pappelallee (Höhe Nr. 5, südlich Gneiststraße)  (Prenzlauer Berg, 10435)
+arm1=Schönhauser Allee,1450,0100
+arm2=Gneiststraße,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+50	4	0	9	107
+53	5	0	1	99
+68	4	0	5	65
+40	4	0	6	30
+70	2	1	7	56
+76	4	1	8	61
+83	5	0	4	97
+106	7	0	11	137
+104	2	1	8	213
+80	6	0	8	240
+88	2	0	7	321
+71	2	0	4	344
+; 2 -> 1
+45	3	0	1	205
+38	6	0	11	352
+34	3	0	9	272
+26	2	0	6	94
+34	1	0	1	88
+38	3	0	4	104
+43	1	0	1	110
+42	3	0	3	120
+33	0	0	1	143
+42	2	0	4	122
+51	3	0	5	122
+39	2	0	5	98

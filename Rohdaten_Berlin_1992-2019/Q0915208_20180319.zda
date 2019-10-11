@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915208
+datum=19.03.2018
+kurzken=Q 0915208/18
+bez=Adlergestell (nordwestl. Neltestr.)   (Johannisthal, 12489)
+arm1=Michael-Brückner-Straße,450,0100
+arm2=Neltestraße,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1131	59	2	2	14
+1104	44	1	2	27
+995	74	6	2	10
+960	74	6	1	6
+930	93	1	4	8
+1003	71	1	8	10
+715	56	2	3	13
+1141	36	1	7	15
+1354	48	2	3	17
+1210	26	2	8	14
+1389	21	4	5	11
+1374	35	1	6	5
+; 2 -> 1
+920	60	1	2	16
+851	63	1	2	8
+828	70	3	0	6
+650	74	1	1	8
+694	49	6	7	6
+747	48	2	1	8
+764	44	1	1	15
+825	34	1	6	13
+1027	29	1	7	18
+1012	14	4	4	18
+1061	18	1	8	20
+835	13	1	2	11

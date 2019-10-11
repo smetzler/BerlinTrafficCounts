@@ -1,0 +1,66 @@
+[ZA1001]
+knoten=Q 0904012
+datum=11.09.2003
+kurzken=Q 0904012/03
+bez=Hufelandstraße (westl. Esmarchstraße)   (Prenzlauer Berg, 10405)
+arm1=Greifswalder Straße,600,0100
+arm2=Esmarchstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle mit zeitweise verengter Fahrbahn (kein Einfluß auf Verkehrsstärke).\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+19	0	0	0	3
+8	0	0	0	4
+6	0	0	1	2
+3	0	0	0	3
+3	0	0	0	0
+13	0	0	0	1
+45	3	0	0	4
+52	1	0	2	6
+55	0	0	0	11
+74	3	0	1	25
+60	1	0	3	26
+71	2	0	0	23
+90	1	0	1	17
+64	2	0	0	30
+85	0	0	2	37
+127	0	0	5	41
+151	2	0	7	76
+135	4	0	5	74
+92	0	0	7	66
+82	0	0	7	43
+52	0	0	1	32
+42	0	0	2	27
+29	0	0	3	19
+35	0	0	1	21
+; 2 -> 1
+24	0	0	1	13
+7	0	0	0	4
+5	0	0	0	2
+5	0	0	0	0
+14	0	0	0	1
+19	1	0	0	0
+43	1	0	1	5
+100	1	0	1	23
+128	2	0	4	41
+103	4	0	6	45
+71	4	0	0	30
+75	3	0	1	35
+92	4	0	1	28
+66	2	0	0	41
+102	0	0	3	38
+101	4	0	3	37
+100	1	0	5	60
+79	1	0	6	47
+82	0	0	3	40
+73	0	0	3	38
+52	0	0	2	31
+35	1	0	0	24
+26	0	0	0	14
+27	0	0	3	12

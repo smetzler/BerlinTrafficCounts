@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 13153
+datum=25.11.1987
+kurzken=Q 13153/87
+bez=Laubacher Strasse suedlich Wiesbadener Strasse     ( Berlin 33 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+315 332 293 267 218 302 331 311 353 385 360 369 
+; 2 -> 1
+219 214 226 218 260 271 288 374 541 587 523 364 

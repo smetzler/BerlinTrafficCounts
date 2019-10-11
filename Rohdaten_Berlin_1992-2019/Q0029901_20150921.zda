@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29901
+datum=21.09.2015
+kurzken=Q 29901/15
+bez=Am alten Gaswerk (nördl. Brunsbütteler Damm)   (Staaken, 13591)
+arm1=Am alten Gaswerk,100,0000
+arm2=Brunsbütteler Damm (W),1000,0001
+arm3=((Süden)),1900,0000
+arm4=Brunsbütteler Damm (O),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+1	0
+4	0
+2	0
+3	0
+0	0
+0	0
+2	0
+1	0
+5	2
+2	0
+2	0
+0	0
+; 4 -> 2
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+3	1
+0	0
+0	0
+0	0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25955
+datum=27.08.1992
+kurzken=Q 2595.5/92-F
+bez=Dietzgenstraße nördlich Platanenstraße    ( Berlin 1110-Pankow )
+arm1=Ost,1020,0100
+arm2=West,2820,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+2 3
+1 0
+3 1
+1 0
+5 2
+2 2
+4 11
+8 10
+16 3
+4 0
+13 9
+7 5
+; 2 -> 1
+1 1
+0 0
+1 0
+1 0
+1 0
+1 0
+5 0
+2 0
+3 5
+6 1
+1 2
+3 4

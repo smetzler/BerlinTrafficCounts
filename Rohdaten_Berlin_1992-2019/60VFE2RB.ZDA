@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40730
+datum=24.08.1988
+kurzken=Q 40730/88
+bez=Seegefelder Strasse in Hoehe Haus Nr.37 (Stadtbuecherei)    ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+168 155 177 202 263 257 227 236 446 396 382 335 
+; 2 -> 1
+573 377 313 309 351 289 315 300 286 359 382 319 

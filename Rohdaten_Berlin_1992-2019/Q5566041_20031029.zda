@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5566041
+datum=29.10.2003
+kurzken=Q 5566041/03
+bez=Fehrbelliner Straße (westl. Veteranenstraße)   (Prenzlauer Berg, 10119)
+arm1=Fehrbelliner Straße ,600,0000
+arm2=Veteranenstraße   ,1150,0001
+arm3=Fehrbelliner Straße ,2400,0000
+arm4=Veteranenstraße (Zionskirchpl.),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7\,5°C; Sonne=2\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+8	0
+15	3
+22	0
+13	1
+22	0
+33	0
+19	0
+42	1
+27	4
+47	11
+38	7
+53	0
+; 4 -> 2
+16	7
+20	7
+45	4
+31	11
+28	0
+17	2
+35	0
+15	2
+54	5
+33	3
+51	4
+57	4

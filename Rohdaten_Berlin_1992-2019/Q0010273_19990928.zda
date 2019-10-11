@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 10273
+datum=28.09.1999
+kurzken=Q 10273/99
+bez=Friedrichsruher Str. (südöstl. Paulsborner Str.)   (Wilmersdorf, 14199)
+arm1=Friedrichsruher Str. (NW),400,0000
+arm2=Paulsborner Str. (SW),1300,0001
+arm3=Friedrichsruher Str. (SO),2200,0000
+arm4=Paulsborner Str. (NO),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=3; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	8
+22	9
+12	0
+18	1
+17	0
+12	0
+11	6
+20	7
+16	5
+15	4
+18	2
+17	1
+; 4 -> 2
+8	4
+8	2
+13	0
+9	0
+12	0
+19	2
+18	8
+11	3
+24	4
+22	2
+11	0
+13	0

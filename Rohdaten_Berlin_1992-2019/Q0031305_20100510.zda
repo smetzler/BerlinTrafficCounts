@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 031305
+datum=10.05.2010
+kurzken=Q 031305/10
+bez=Buschkrugallee (Buschkrugbrücke)   (Neukölln, 12359)
+arm1=Sieversufer,250,0100
+arm2=Delfter Ufer,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle\, stadtauswärts zwischen Bürgerstr. und Jahnstr\, Fahrbahn von 2 auf 1 Fahrstreifen reduziert\,
+data=
+; 1 -> 2
+301	17	4	24	28
+610	25	8	22	53
+557	23	9	14	31
+606	30	6	22	30
+709	37	4	14	32
+740	19	3	22	29
+774	21	4	26	38
+751	21	5	25	37
+846	32	8	24	42
+955	14	5	41	47
+968	15	5	49	39
+878	12	7	32	37
+791	11	8	31	36
+; 2 -> 1
+802	24	5	60	35
+1388	34	6	45	42
+1328	35	9	41	41
+824	32	4	6	32
+732	25	3	16	30
+738	37	4	27	36
+716	29	2	24	22
+675	25	9	25	42
+714	27	8	26	41
+793	13	16	40	32
+788	13	8	29	35
+652	15	7	33	33
+545	8	6	28	22

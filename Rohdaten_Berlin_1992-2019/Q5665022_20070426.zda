@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5665022
+datum=26.04.2007
+kurzken=Q 5665022/07
+bez=Breite Straße (westl. Mühlenstraße)   (Pankow, 13187)
+arm1=Ein-/Ausfahrt Rathaus-Center,150,0010
+arm2=Breite Straße,1060,0000
+arm3=Mühlenstraße,2000,1000
+arm4=Breite Straße,2860,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24 °C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+1	0
+0	0
+1	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+; 3 -> 1
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

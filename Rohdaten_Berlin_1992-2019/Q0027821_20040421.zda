@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27821
+datum=21.04.2004
+kurzken=Q 27821/04
+bez=Friedrich-Engels-Straße (nordwestl. Wilhelm-Wolff-Straße)   (Pankow, 13156)
+arm1=Friedrich-Engels-Straße (NW),450,0000
+arm2=Wilhelm-Wolff-Straße (W),1000,0001
+arm3=Friedrich-Engels-Straße (SO),2250,0000
+arm4=Wilhelm-Wolff-Straße (NO),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=3\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	1
+2	0
+4	0
+1	0
+3	0
+0	0
+3	5
+1	0
+0	0
+5	3
+2	0
+1	0
+; 4 -> 2
+3	1
+1	0
+1	0
+1	0
+0	0
+3	0
+0	0
+4	0
+1	0
+0	0
+1	1
+1	0

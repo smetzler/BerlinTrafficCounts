@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 35831
+datum=28.03.2011
+kurzken=Q 35831/11
+bez=Müllerstraße (Westfahrbahnen, südl. Sellerstraße)     (Wedding, 13653)
+arm1=Müllerstraße (NW),450,0000
+arm2=Sellerstraße,1320,0001
+arm3=Müllerstraße (SO),2250,0000
+arm4=Schulzendorfer Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die westlichen Fahrbahnen der Müllerstr. queren (zw. Westseite Müllerstr. und Mittelstreifen).
+data=
+; 2 -> 4
+92	30
+162	19
+120	4
+55	0
+60	1
+100	0
+58	2
+87	5
+38	4
+83	6
+127	3
+53	3
+; 4 -> 2
+11	8
+19	3
+28	2
+32	0
+70	0
+139	0
+50	5
+78	3
+65	3
+46	5
+42	3
+35	3

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025607
+datum=18.3.1992
+kurzken=Q 2560.7/92-F
+bez=Neumannstraße südlich Thulestraße    ( Berlin 1100-Pkw )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+4 23 
+3 1 
+2 15 
+2 0 
+3 1 
+6 2 
+4 0 
+0 0 
+10 4 
+8 9 
+2 0 
+1 0 
+; 2 -> 1
+1 2 
+0 2 
+2 2 
+1 0 
+2 12 
+7 0 
+5 6 
+2 5 
+9 6 
+5 2 
+6 1 
+6 0 

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25017
+datum=14.3.1991
+kurzken=Q 2501.7/91-F
+bez=An der Wuhlheide oestlich Koepenicker Allee    ( Koepenick )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1 1 
+0 0 
+0 0 
+2 0 
+3 0 
+2 0 
+2 0 
+8 3 
+12 2 
+16 4 
+9 1 
+3 1 
+; 2 -> 1
+1 0 
+3 0 
+2 0 
+0 0 
+7 1 
+4 0 
+3 0 
+3 0 
+15 4 
+13 1 
+2 0 
+1 1 

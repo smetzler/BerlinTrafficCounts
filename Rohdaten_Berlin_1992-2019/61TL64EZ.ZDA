@@ -1,0 +1,32 @@
+[ZA1001]
+knoten=Q 85002
+datum=28.10.1993
+kurzken=Q 850.02/93
+bez=Rapsweg westl. Maisweg    ( Biesdorf )
+arm1=Maisweg,2700,0100
+arm2=Weizenweg,900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf
+zeit=0000,0700
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+0 7 0 0 1
+0 3 0 0 0
+0 3 0 0 0
+0 6 0 0 0
+0 3 0 0 0
+1 89 1 0 0
+0 186 1 0 2
+; 2 -> 1
+1 13 0 0 0
+0 4 0 0 0
+0 3 0 0 0
+0 2 0 0 0
+0 6 0 0 1
+1 41 2 0 8
+0 106 5 0 2

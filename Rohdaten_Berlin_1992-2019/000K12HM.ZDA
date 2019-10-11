@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 0721
+datum=27.10.1987
+kurzken=K 721/87
+bez=Luetzowplatz / Schillstrasse / Wichmannstrasse     ( Berlin 30 )
+Arm1=Wichmannstrasse,650,0000
+Arm2=Schillstrasse,1520,0011
+Arm3=Luetzowplatz,2450,0001
+Arm4=Luetzowplatz,3320,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 3
+12 35 39 48 19 41 33 42 39 56 54 101 
+; 2 -> 4
+2247 2045 1669 1572 1539 1499 1718 1632 1930 2071 1613 1519 
+; 3 -> 4
+500 401 390 403 379 390 426 452 589 609 431 394 
+; 4 -> 1
+112 134 105 101 97 99 78 80 62 82 72 66 
+; 4 -> 2
+1629 1555 1511 1496 1660 1720 1986 1857 2315 2524 2498 1867 

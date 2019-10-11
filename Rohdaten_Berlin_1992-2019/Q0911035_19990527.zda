@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911035
+datum=27.05.1999
+kurzken=Q 0911035/99
+bez=Knausstraße (südl. Beckerstraße)   (Schöneberg, 12161)
+arm1=Beckerstraße,50,0100
+arm2=Knausplatz,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+476	18	0	22
+599	25	1	19
+574	15	0	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1014	7	0	76
+1105	11	2	91
+987	7	1	77
+; 2 -> 1
+1116	21	0	79
+1303	29	1	64
+972	27	2	51
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+768	14	5	48
+815	7	5	58
+760	11	5	53

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42386
+datum=28.10.1997
+kurzken=Q 42386/97
+bez=Leipziger Straße (östl. Charlottenstraße)   (Mitte, 10117)
+arm1=Charlottenstraße,950,0000
+arm2=Markgrafenstraße,2750,0000
+arm3=Süden,1850,0001
+arm4=Norden,50,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8°C\, sonnig\, kein Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+20 4
+29 9
+46 1
+60 2
+68 3
+112 4
+82 20
+51 13
+149 12
+106 14
+53 1
+35 6
+; 4 -> 3
+82 11
+38 3
+47 0
+39 0
+29 0
+93 2
+76 6
+75 3
+59 4
+52 11
+46 3
+20 2

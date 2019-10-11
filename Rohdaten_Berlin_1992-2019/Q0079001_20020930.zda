@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 079001
+datum=30.09.2002
+kurzken=Q 079001/02
+bez=Hauptstraße (östl. Oranienburger Straße)   (Frohnau-Glienicke, 13465)
+arm1=Oranienburger Straße,900,0100
+arm2=Gartenstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Behinderungen infolge Baustelle am Knoten Oranienb. Ch. / Hauptstr.
+data=
+; 1 -> 2
+85	19	7	5	1
+141	24	17	5	10
+151	26	5	4	3
+164	23	20	2	11
+229	14	13	2	9
+207	19	11	2	9
+211	19	13	3	18
+214	24	17	4	18
+186	24	6	3	18
+215	19	8	5	24
+230	14	8	4	34
+203	26	3	3	31
+; 2 -> 1
+233	35	4	5	7
+303	27	15	5	28
+318	28	10	5	14
+331	30	12	1	16
+267	21	13	2	4
+237	27	12	2	9
+263	29	14	2	14
+257	25	11	5	15
+208	24	11	3	27
+253	22	7	4	15
+336	35	17	5	17
+287	27	4	5	30

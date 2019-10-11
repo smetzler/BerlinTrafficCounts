@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 089008
+datum=17.05.2004
+kurzken=Q 089008/04
+bez=Zepernicker Straße - Bucher Straße (Stadtgrenze)   (Buch, 13125)
+arm1=Buch,1200,0100
+arm2=Zepernick,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1368
+bemerk=Bucher Straße als Umleitungsstrecke ausgewiesen\, Grund nicht bekannt!
+data=
+; 1 -> 2
+113	11	12	1	5
+183	21	18	0	5
+186	29	13	1	5
+276	36	15	2	10
+315	34	21	0	5
+281	25	24	2	9
+318	20	27	6	7
+281	21	20	0	13
+396	28	19	1	20
+516	35	18	1	23
+350	34	16	2	10
+586	27	6	1	12
+; 2 -> 1
+557	88	13	1	13
+580	38	24	3	22
+415	36	23	1	6
+400	28	11	2	13
+349	23	18	0	4
+267	22	29	0	8
+314	22	18	4	14
+293	19	23	2	9
+316	12	19	0	11
+323	25	10	2	12
+535	54	19	2	13
+298	21	10	1	5

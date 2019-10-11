@@ -1,0 +1,55 @@
+[ZA1001]
+knoten=K 637803
+datum=10.06.1998
+kurzken=K 637803/98
+bez=Spreestraße / Schnellerstraße   (Niederschöneweide, 12439)
+arm1=,0,0000
+arm2=Spreestraße,1500,0011
+arm3=Schnellerstraße,2250,0001
+arm4=Spreestraße,3300,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 3
+8	0	0	1
+13	1	0	2
+9	0	0	1
+12	1	0	0
+6	1	0	0
+6	2	0	0
+6	1	0	0
+7	0	0	0
+4	1	0	2
+6	2	0	0
+7	2	0	0
+11	0	0	0
+; 2 -> 4
+599	96	4	16
+523	117	4	8
+464	119	3	5
+445	114	0	3
+424	111	2	7
+479	99	0	3
+539	94	3	5
+701	86	1	8
+816	70	0	11
+853	58	0	9
+859	37	3	14
+796	39	7	8
+; 3 -> 4
+136	17	1	2
+123	24	1	1
+136	18	0	0
+135	23	0	2
+144	23	0	3
+144	20	0	3
+127	20	0	0
+114	16	3	0
+176	12	0	2
+175	9	4	4
+192	6	0	5
+206	7	5	3

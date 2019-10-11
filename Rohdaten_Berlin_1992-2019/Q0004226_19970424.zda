@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 4226
+datum=24.04.1997
+kurzken=Q 4226/97
+bez=Abfahrt BAB Stadtring (A100), westl. Schöneberger Str. (Tempelhof, 12103)
+arm1=BAB,450,0100
+arm2=Schöneberger Straße,2250,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+766 48 4 14
+690 68 4 12
+536 85 1 6
+515 68 0 10
+556 66 0 5
+573 74 1 16
+629 53 1 10
+630 52 2 16
+837 46 0 23
+897 34 1 29
+759 19 1 16
+578 11 6 17

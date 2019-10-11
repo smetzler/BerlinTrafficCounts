@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025625
+datum=19.3.1992
+kurzken=Q 2562.5/92-F
+bez=Singerstraße westlich Lichtenberger Straße    ( Berlin 1017-Frdh )
+arm1=Süd,1450,0100
+arm2=Nord,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+3 0 
+6 0 
+6 0 
+10 0 
+6 0 
+7 0 
+9 0 
+7 1 
+6 0 
+7 0 
+4 0 
+1 0 
+; 2 -> 1
+6 0 
+1 0 
+2 0 
+5 0 
+1 0 
+8 1 
+2 0 
+6 0 
+3 0 
+5 0 
+2 0 
+4 0 

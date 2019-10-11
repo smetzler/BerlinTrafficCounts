@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0903044
+datum=14.06.2006
+kurzken=Q 0903044/06
+bez=Wolliner Straße (Höhe Vinetaplatz)   (Wedding, 13355)
+arm1=Demminer Straße,300,0100
+arm2=Bernauer Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+67	2	3	2	7
+92	8	6	0	27
+51	4	5	3	13
+78	2	8	2	12
+57	0	6	6	8
+48	3	6	2	12
+88	4	6	1	17
+78	5	6	4	16
+94	2	6	4	14
+76	3	6	2	17
+93	6	6	4	30
+66	1	5	2	25
+; 2 -> 1
+87	3	3	3	11
+120	4	6	5	50
+94	2	5	3	31
+94	6	8	8	30
+63	1	6	5	11
+72	3	6	0	19
+87	9	6	3	18
+94	2	6	3	20
+100	0	6	4	24
+117	5	6	6	21
+103	1	6	5	16
+76	0	5	3	21

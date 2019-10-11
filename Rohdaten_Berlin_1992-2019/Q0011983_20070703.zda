@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11983
+datum=03.07.2007
+kurzken=Q 11983/07
+bez=Karl-Marx-Straße (südl. Flughafenstraße - Fuldastraße),(Neukölln, 12043)
+arm1=Karl-Marx-Straße (N),530,0000
+arm2=Flughafenstraße,1100,0001
+arm3=Karl-Marx-Straße (S),2250,0000
+arm4=Fuldastraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=es werden nur Fußgänger gezählt!\nStadtatlas-2005: Seite 95\, Planquadrat Q41
+data=
+; 2 -> 4
+23	2
+62	2
+90	4
+141	1
+136	21
+136	1
+155	7
+155	25
+125	15
+170	11
+169	9
+151	20
+; 4 -> 2
+23	2
+72	8
+122	20
+126	1
+143	0
+148	2
+140	13
+130	20
+112	20
+193	38
+152	20
+125	15

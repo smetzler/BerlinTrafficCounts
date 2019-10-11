@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0916124
+datum=21.05.2012
+kurzken=Q 0916124/12
+bez=Wilhelminenhofstraße (südl. Rathenaustraße)   (Oberschöneweide, 12439)
+arm1=Rathenaustraße,400,0100
+arm2=Ostendstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw+Kr,Lkw,Bus,Radf,Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=auch Fußgänger (unterschieden nach "Erw" und "Jugend" gezählt!\nWetter: max T=29°C; Sonne=7 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+225	11	0	45	518	13
+217	11	1	26	364	6
+262	12	0	33	776	10
+197	13	0	11	285	3
+237	18	0	30	509	2
+261	16	0	28	261	4
+278	18	0	76	411	3
+408	14	0	35	108	0
+429	14	0	49	180	2
+478	9	0	58	94	7
+399	10	0	43	78	0
+318	6	0	31	28	1
+; 2 -> 1
+228	17	1	21	13	3
+229	15	0	10	21	1
+243	8	0	10	118	2
+187	9	0	9	92	0
+204	10	0	10	380	1
+207	11	0	26	276	0
+219	8	0	45	501	0
+212	11	0	35	239	0
+289	9	0	71	711	1
+249	7	0	53	411	0
+273	2	0	67	442	1
+199	4	0	57	241	3

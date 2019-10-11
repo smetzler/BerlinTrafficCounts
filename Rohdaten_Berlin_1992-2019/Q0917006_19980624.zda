@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917006
+datum=24.06.1998
+kurzken=Q 0917006/98
+bez=Rhinstraße (südl. Seddiner Straße)   (Lichtenberg, 10365)
+arm1=Seddiner Straße,50,0100
+arm2=Alt-Friedrichsfelde,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1447	135	21	19
+1203	133	22	4
+1124	147	17	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1505	80	19	12
+1318	37	18	9
+1246	53	23	18
+; 2 -> 1
+1746	129	16	15
+1561	136	16	8
+1310	150	11	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1687	108	12	15
+1985	72	15	22
+1567	64	16	21

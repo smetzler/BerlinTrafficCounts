@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916033
+datum=11.05.2006
+kurzken=Q 0916033/06
+bez=Aßmannstraße (westl. Scharnweberstraße)   (Friedrichshagen, 12687)
+arm1=Bölschestraße,850,0100
+arm2=Scharnweberstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+44	0	0	1	60
+43	1	0	0	38
+60	2	0	2	54
+60	2	0	2	34
+60	1	0	2	76
+75	4	0	2	60
+48	2	0	1	56
+68	2	0	3	59
+68	0	0	2	48
+79	2	0	3	98
+101	0	0	7	104
+86	0	0	7	85
+; 2 -> 1
+137	1	0	3	76
+96	0	0	1	74
+89	1	0	2	86
+70	2	0	0	76
+56	0	0	2	62
+61	0	0	1	43
+57	1	0	2	74
+56	1	0	2	52
+60	0	0	4	58
+75	1	0	0	66
+75	0	0	0	88
+69	0	0	6	62

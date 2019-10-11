@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42406
+datum=23.10.1997
+kurzken=Q 42406/97
+bez=Spandauer Damm (östl. Ahornallee)   (Westend, 14050)
+arm1=Ahornallee,800,0000
+arm2=Soorstraße,2600,0000
+arm3=Süden,1700,0001
+arm4=Norden,3500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, teils heiter\, kein Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+0 1
+0 0
+1 0
+0 0
+0 0
+2 0
+4 3
+5 2
+3 3
+1 0
+2 0
+0 0
+; 4 -> 3
+0 0
+0 0
+1 0
+0 0
+0 0
+3 0
+2 1
+4 0
+5 2
+2 0
+1 0
+1 0

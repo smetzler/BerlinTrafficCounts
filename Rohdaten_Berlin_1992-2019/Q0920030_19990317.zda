@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920030
+datum=17.03.1999
+kurzken=Q 0920030/99
+bez=Gorkistraße (westl. Am Steinbergpark)   (Tegel, 13437)
+arm1=Am Nordgraben,1100,0100
+arm2=Am Steinbergpark,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+198	2	12	3
+216	9	6	1
+185	8	3	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+284	6	8	3
+303	2	7	4
+252	3	6	4
+; 2 -> 1
+213	9	7	1
+214	8	3	2
+182	8	3	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+259	2	7	7
+268	4	7	4
+226	6	5	1

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27801
+datum=11.05.2004
+kurzken=Q 27801/04
+bez=Brachvogelstraße (nördl. Johanniterstraße)   (Kreuzberg, 10961)
+arm1=Brachvogelstraße (N),100,0000
+arm2=Johanniterstraße (W),850,0001
+arm3=Brachvogelstraße (S),1650,0000
+arm4=Johanniterstraße (O),2550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+7	1
+14	7
+7	2
+14	2
+8	1
+25	2
+20	24
+11	4
+13	6
+11	3
+7	1
+19	5
+; 4 -> 2
+6	1
+9	1
+14	1
+12	3
+10	19
+9	0
+14	1
+11	11
+7	3
+14	5
+5	2
+14	8

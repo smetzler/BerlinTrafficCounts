@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920041
+datum=20.05.1999
+kurzken=Q 0920041/99
+bez=Alt-Wittenau (östl. Hermsdorfer Straße)   (Wittenau, 13437)
+arm1=Hermsdorfer Straße,800,0100
+arm2=Eichborndamm,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+483	11	12	13
+455	11	8	6
+347	14	9	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+495	3	9	20
+490	4	9	17
+410	3	10	12
+; 2 -> 1
+283	18	10	7
+315	21	7	7
+319	11	9	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+492	6	11	17
+502	7	10	18
+432	8	9	15

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 091001
+datum=08.03.2012
+kurzken=Q 091001/12
+bez=Bitterfelder Straße (östl. Hohenschönhauser Straße)   (Marzahn, 12681)
+arm1=Hohenschönhauser Straße ,600,0100
+arm2=Klettwitzer Straße ,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+545	27	8	2	11
+459	49	7	3	6
+437	45	6	1	2
+402	48	8	2	2
+427	39	5	1	1
+438	52	7	1	2
+465	46	5	0	6
+593	40	10	4	5
+706	34	9	5	8
+808	20	12	4	8
+600	14	8	4	5
+550	5	6	4	9
+; 2 -> 1
+465	38	9	1	4
+428	30	6	3	1
+395	41	6	1	0
+418	46	8	6	2
+407	38	6	0	1
+388	45	7	1	6
+423	42	6	2	3
+552	37	7	7	11
+693	28	9	4	8
+668	14	10	6	6
+588	7	8	5	8
+480	7	7	3	4

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60167
+datum=05.05.1986
+kurzken=Q 60167/86
+bez=Richard-Tauber-Damm  suedl. Culemeyerstrasse    ( Berlin 48 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : heiter und trocken
+data=
+; 1 -> 2
+8 0 7 0 3 0 0 0 1 0 3 0 4 0 
+10 0 6 0 11 0 7 0 5 1 
+; 2 -> 1
+2 0 3 0 1 0 0 0 1 0 8 0 5 1 
+6 0 206 0 38 0 12 3 11 1 

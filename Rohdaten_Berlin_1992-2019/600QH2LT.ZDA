@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00953
+datum=18.02.1988
+kurzken=Q 953/88
+bez=Roedernallee suedl. Am Nordgraben    ( Berlin 26 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Riegel Reinickendorf
+data=
+; 1 -> 2
+1541 1125 1010 945 984 938 915 1012 1174 1065 1045 969 
+; 2 -> 1
+743 697 654 808 968 1082 1150 1066 1515 1672 1385 1290 

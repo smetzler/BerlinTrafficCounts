@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 31301
+datum=17.11.2014
+kurzken=Q 31301/14
+bez=Kiefheider Weg östl. Ruppiner Chaussee   (Heiligensee, 13503)
+arm1=Thurbrucher Steig,3150,0100
+arm2=Ruppiner Chaussee,1350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+165	1	0	3	12
+225	2	0	3	10
+138	1	0	0	11
+120	4	0	2	12
+121	3	0	1	9
+125	5	0	1	3
+127	0	0	3	9
+153	0	0	2	18
+159	2	0	4	6
+140	0	0	2	6
+111	0	0	2	1
+114	0	0	2	1
+; 2 -> 1
+84	2	0	1	2
+89	4	0	0	2
+93	1	0	0	5
+92	0	0	2	4
+117	5	0	1	8
+132	3	0	2	9
+130	1	0	1	6
+115	0	0	3	11
+185	0	1	1	16
+210	0	0	2	10
+152	0	0	3	13
+138	0	0	7	8

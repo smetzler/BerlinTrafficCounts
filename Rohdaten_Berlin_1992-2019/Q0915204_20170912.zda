@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915204
+datum=12.09.2017
+kurzken=Q 0915204/17
+bez=Hermann-Dorner-Allee (Höhe Karl-Ziegler-Straße)   (Johannisthal, 12487)
+arm1=Hermann-Dorner-Allee (SW),1350,0000
+arm2=Hermann-Dorner-Allee (NO),3150,0000
+arm3=(Nordwesten),450,0001
+arm4=Karl-Ziegler-Straße,2250,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fg in Höhe der Karl-Ziegler-Straße\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+2	0
+1	0
+1	0
+1	0
+0	0
+2	0
+2	0
+6	0
+0	0
+1	0
+2	1
+1	1
+; 4 -> 3
+0	0
+0	0
+0	0
+0	0
+1	0
+8	0
+4	0
+7	0
+4	0
+4	0
+6	0
+2	0

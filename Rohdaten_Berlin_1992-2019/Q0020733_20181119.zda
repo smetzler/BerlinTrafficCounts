@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20733
+datum=19.11.2018
+kurzken=Q 20733/18
+bez=Oranienstraße (östl. Oranienplatz (Ost))       (Kreuzberg, 10997)
+arm1=Oranienstraße (W),650,0000
+arm2=Oranienplatz (S),1600,0001
+arm3=Oranienstraße (O),2450,0000
+arm4=Oranienplatz (N),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+45	8
+60	7
+90	9
+108	7
+84	3
+107	1
+120	1
+149	4
+124	6
+84	4
+83	5
+113	3
+; 4 -> 2
+69	3
+53	8
+53	3
+72	1
+59	1
+87	1
+126	2
+79	4
+86	9
+83	4
+95	3
+116	2

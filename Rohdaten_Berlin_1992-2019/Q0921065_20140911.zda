@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921065
+datum=11.09.2014
+kurzken=Q 0921065/14
+bez=Zufahrt v. Wuhletalstr.zur Märkischen A.-Süd (westl. Märkische A.) (Marzahn, 12687)
+arm1=Märkische Allee (S),1500,0000
+arm2=Wuhletalstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+158	8	9	1	1
+155	9	10	2	0
+118	6	8	1	1
+126	8	8	6	0
+115	7	9	1	0
+84	7	8	3	0
+116	5	9	2	0
+137	3	8	1	0
+166	3	8	2	2
+171	4	8	4	0
+144	2	10	4	0
+96	1	7	2	0

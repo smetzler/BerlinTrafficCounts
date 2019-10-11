@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0020401
+datum=11.03.2019
+kurzken=Q 0020401/19
+bez=Hauptstraße (westl. Karlshorster Straße) (Friedrichshain, 10317) 
+arm1=Kynaststraße,800,0100
+arm2=Karlshorster Straße (Marktstr.),2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+543	21	12	3	24
+477	29	14	4	33
+448	32	12	2	19
+444	30	4	4	22
+439	26	5	5	18
+364	14	4	5	8
+656	31	12	6	18
+491	26	6	4	16
+562	9	7	1	22
+532	6	6	6	18
+510	4	11	2	23
+443	5	10	0	16
+; 2 -> 1
+862	23	9	7	38
+861	31	15	7	65
+698	39	11	5	30
+430	32	6	2	26
+553	36	6	6	10
+478	23	10	5	15
+443	27	8	8	18
+798	18	13	10	30
+1092	25	17	5	43
+1102	12	10	20	64
+1038	20	18	9	51
+786	8	10	5	72

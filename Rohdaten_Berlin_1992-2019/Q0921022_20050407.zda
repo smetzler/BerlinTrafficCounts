@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921022
+datum=07.04.2005
+kurzken=Q 0921022/05
+bez=Hönower Straße (nördl. Pestalozzistraße)   (Mahlsdorf, 12623)
+arm1=S-Bhf. Mahldorf,100,0100
+arm2=Pestalozzistraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+336	18	1	5	32
+285	18	0	3	8
+337	14	7	2	9
+356	30	10	6	12
+386	28	9	1	10
+334	26	9	5	12
+; 2 -> 1
+442	41	1	5	28
+416	20	0	2	22
+444	17	0	3	10
+470	28	0	4	18
+455	20	0	3	16
+403	32	0	2	18

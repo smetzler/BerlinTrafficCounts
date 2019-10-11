@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908014
+datum=03.11.1998
+kurzken=Q 0908014/98
+bez=Seegefelder Straße (westl. Altstädter Ring)   (Spandau, 13597)
+arm1=Altstädter Ring,800,0100
+arm2=Gallenstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+316	15	36	9
+363	20	23	6
+325	37	17	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+519	14	34	15
+531	11	36	13
+559	9	31	11
+; 2 -> 1
+512	16	30	10
+478	18	28	8
+459	25	25	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+494	16	38	11
+465	8	40	8
+484	9	32	3

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25898
+datum=22.4.1993
+kurzken=Q 2589.8/93-F
+bez=Robert-Uhrig-Straße nördl. Zachertstraße    (Lichtenberg )
+arm1=Ost,1700,0100
+arm2=West,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+9 7 
+7 1 
+22 56 
+25 31 
+11 2 
+13 14 
+29 4 
+23 9 
+26 14 
+28 5 
+56 21 
+40 9 
+; 2 -> 1
+44 13 
+21 3 
+16 7 
+45 2 
+17 3 
+8 3 
+20 2 
+21 9 
+24 22 
+70 10 
+27 6 
+20 7 

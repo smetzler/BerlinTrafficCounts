@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919113
+datum=11.09.2007
+kurzken=Q 0919113/07
+bez=Hermann-Hesse-Str. (südw. Pastor-Niemöller-Pl.)  (Niedersch'h., 13156)
+arm1=Tschaikowskistraße,1400,0100
+arm2=Pastor-Niemöller-Platz,3200,1000
+arm3=,500,0000
+arm4=,2300,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+151	23	6	9	22
+178	18	4	4	12
+171	17	3	3	15
+252	20	2	4	12
+221	30	3	3	13
+154	19	3	7	8
+237	27	3	8	16
+276	23	6	7	27
+280	22	4	8	26
+334	11	6	3	33
+374	17	6	14	22
+392	10	6	9	33
+; 2 -> 1
+701	35	8	21	43
+678	25	8	18	27
+396	28	3	7	19
+318	18	4	4	20
+283	17	3	9	17
+276	16	3	3	14
+242	32	3	6	17
+215	21	4	10	11
+256	8	6	8	24
+249	16	6	13	19
+261	9	6	5	17
+221	4	6	7	24

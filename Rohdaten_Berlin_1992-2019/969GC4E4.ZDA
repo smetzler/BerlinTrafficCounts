@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5331036
+datum=29.09.1993
+kurzken=Q 533103.6/93
+bez=Marienfelder Allee südl. Stegerwaldstraße    ( Marienfelde )
+arm1=West,1530,0100
+arm2=Ost,3320,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+60 43
+39 8
+46 3
+22 0
+31 5
+19 3
+19 5
+21 6
+46 9
+13 2
+15 2
+7 0
+; 2 -> 1
+6 3
+6 3
+13 0
+12 0
+15 8
+19 5
+23 19
+9 4
+10 9
+8 0
+11 1
+4 1

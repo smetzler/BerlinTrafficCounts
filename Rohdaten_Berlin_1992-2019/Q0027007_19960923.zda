@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27007
+datum=23.09.1996
+kurzken=Q 27007/96
+bez=Zingster Str.    (südl.  Ahrenshooper Str.),(Hohenschönhausen, 13051)
+arm1=,300,0000
+arm2=West,1200,0001
+arm3=,2100,0000
+arm4=Ahrenshooper Straße,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+12 22
+6 4
+1 29
+9 2
+5 2
+9 7
+26 45
+31 58
+27 35
+58 46
+35 41
+38 26
+; 4 -> 2
+10 12
+5 3
+5 2
+3 40
+15 26
+9 6
+11 9
+22 12
+32 32
+51 43
+25 21
+26 19

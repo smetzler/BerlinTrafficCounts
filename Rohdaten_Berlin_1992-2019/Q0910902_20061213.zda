@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910902
+datum=13.12.2006
+kurzken=Q 0910902/06
+bez=Schönower Straße (westl. Teltower Damm)   (Zehlendorf, 14167)
+arm1=Machnower Straße,1000,0100
+arm2=Teltower Damm,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=9°C max T; 0\,5 Std Sonne; 3 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+12
+21
+19
+10
+61
+18
+19
+13
+16
+20
+9
+9
+; 2 -> 1
+48
+42
+23
+8
+19
+9
+19
+21
+8
+16
+13
+7

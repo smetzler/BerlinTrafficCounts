@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 13561
+datum=27.04.2005
+kurzken=Q 13561/05
+bez=Tempelhofer Damm (nördl. Manfred-von-Richthofen-Str.) (Tempelhof, 12101)
+arm1=Tempelhofer Damm,0,0000
+arm2=M.-v.-Richthofen-Str,1220,0001
+arm3=Tempelhofer Damm,1800,0000
+arm4=((Osten)),2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=13°C; Sonne=1 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+2	0
+1	0
+0	0
+2	0
+0	0
+0	0
+0	0
+0	0
+1	0
+; 4 -> 2
+1	0
+3	0
+1	0
+1	0
+0	0
+3	0
+0	0
+1	0
+1	0
+1	0
+2	0
+2	0

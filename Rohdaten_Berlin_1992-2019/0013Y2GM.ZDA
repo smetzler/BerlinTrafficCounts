@@ -1,0 +1,32 @@
+[ZA1001]
+knoten=K 1438
+datum=23.09.1987
+kurzken=K 1438/87
+bez=Karl-Marx-Strasse / Silbersteinstrasse - Lahnstrasse      ( Berlin 44 )
+Arm1=Karl-Marx-Strasse,80,0110
+Arm2=Silbersteinstrasse,1000,1011
+Arm3=Karl-Marx-Strasse,1880,1001
+Arm4=Lahnstrasse,2800,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Zufahrt 3 : Rechts- und Linksabbiegen verboten ;\nZufahrten 1 + 4 : Linksabbiegen verboten !
+data=
+; 1 -> 2
+276 228 266 236 265 272 259 226 280 289 238 264 
+; 1 -> 3
+714 538 488 615 720 803 918 903 1102 999 1154 1104 
+; 2 -> 1
+212 206 224 215 244 213 222 235 303 322 280 268 
+; 2 -> 3
+39 54 68 44 97 71 56 39 60 42 61 55 
+; 2 -> 4
+452 355 282 292 300 302 371 347 410 407 325 285 
+; 3 -> 1
+1399 1122 782 831 824 861 754 816 944 1016 784 739 
+; 3 -> 4
+3 8 5 3 5 3 4 7 3 2 7 0 
+; 4 -> 1
+38 36 53 66 51 39 40 47 57 66 48 48 
+; 4 -> 2
+293 231 276 307 269 304 324 367 475 460 337 344 

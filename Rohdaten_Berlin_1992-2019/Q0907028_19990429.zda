@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0907028
+datum=29.04.1999
+kurzken=Q 0907028/99
+bez=AD Funkturm - von A115 AVUS nach Parkpl. Nordkurve  (Charl'b., 14055)
+arm1=A115 AVUS ,1400,0100
+arm2=Parkplatz Nordkurve,3000,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=A100-Zufahrt nördl. Am Westkreuz längerfristig gesperrt.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+346	26	3	3
+598	24	1	7
+91	11	0	0
+58	9	0	0
+48	6	0	0
+54	6	1	1
+55	10	0	1
+66	2	0	1
+76	4	2	4
+179	9	3	5
+170	14	1	5
+71	12	1	7

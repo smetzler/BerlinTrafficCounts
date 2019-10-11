@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919317
+datum=18.06.2018
+kurzken=Q 0919317/18
+bez=Schönhauser Straße (südöstl. Nesselweg)   (Rosenthal, 13158)
+arm1=Nesselweg,550,0100
+arm2=Kräuterweg,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+38	3	3	2	12
+31	5	3	0	14
+24	3	3	1	11
+46	1	3	1	18
+28	6	3	4	8
+30	2	3	1	8
+29	3	3	2	13
+26	2	3	5	21
+54	1	3	6	29
+36	4	3	7	34
+34	1	3	3	32
+32	0	3	3	15
+; 2 -> 1
+174	2	4	10	45
+171	11	3	8	35
+150	9	3	4	24
+140	2	2	2	14
+106	5	3	6	7
+107	8	3	6	21
+127	6	3	7	11
+142	4	3	3	5
+120	5	2	5	14
+138	3	4	4	9
+133	0	3	8	13
+124	0	3	6	10

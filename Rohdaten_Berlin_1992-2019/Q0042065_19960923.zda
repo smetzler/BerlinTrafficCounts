@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42065
+datum=23.09.1996
+kurzken=Q 42065/96
+bez=Bahnhofstraße  in Höhe S-Bhf. Karow,(Karow, 13125)
+arm1=,700,0000
+arm2=,2400,0000
+arm3=Süd,1550,0001
+arm4=Nord,3350,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+131 35
+110 11
+83 5
+61 9
+59 7
+44 2
+104 25
+89 20
+125 20
+165 26
+123 3
+63 5
+; 4 -> 3
+58 10
+69 11
+97 2
+73 10
+65 4
+38 5
+110 14
+118 57
+167 44
+218 25
+181 10
+90 16

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 82111
+datum=29.04.2010
+kurzken=Q 82111/10
+bez=Olafstraße (nördl. Hermsdorfer Damm)    (Hermsdorf, 13467)
+arm1=Olafstraße (N),120,0000
+arm2=Hermsdorfer Damm (W),1230,0001
+arm3=Olafstraße (S),1990,0000
+arm4=Hermsdorfer Damm (O),2990,0100
+art=Erw,Jugend
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=7 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+4	0
+2	0
+5	0
+3	0
+6	0
+4	1
+1	0
+5	0
+4	2
+8	2
+5	1
+; 4 -> 2
+0	0
+9	5
+6	1
+1	0
+5	2
+4	0
+5	0
+1	0
+3	0
+5	0
+3	1
+4	0

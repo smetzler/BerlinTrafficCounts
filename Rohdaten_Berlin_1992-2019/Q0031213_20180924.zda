@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031213
+datum=24.09.2018
+kurzken=Q 031213/18
+bez=Bouchestraße (nördl. Harzer Straße)   (Neukölln, 12435)
+arm1=Harzer Straße,1400,0100
+arm2=Heidelberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+22	2	0	1	23
+23	1	0	2	31
+26	4	0	1	29
+30	1	0	0	10
+32	2	0	1	15
+36	1	0	0	23
+32	1	0	0	11
+55	1	0	0	12
+69	1	0	1	15
+78	0	0	2	16
+66	0	0	0	14
+38	0	0	2	21
+; 2 -> 1
+16	2	0	0	12
+15	2	0	3	22
+14	3	0	0	13
+12	4	0	0	10
+12	1	0	2	16
+14	0	0	1	12
+11	0	0	0	19
+16	0	0	1	27
+19	0	0	0	44
+20	0	0	0	36
+28	0	0	4	49
+19	0	0	0	43

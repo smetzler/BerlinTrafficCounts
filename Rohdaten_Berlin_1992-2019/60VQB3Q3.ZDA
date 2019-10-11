@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41123
+datum=28.8.1991
+kurzken=Q 4112.3/91-F
+bez=Turmstrasse zw. Stromstrasse und Wilhelmshavener Strasse    ( Berlin 21 )
+arm1=Stromstraße,900,0100
+arm2=Wilhelmshavener Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+662 
+656 
+706 
+713 
+750 
+727 
+781 
+722 
+849 
+766 
+759 
+619 
+; 2 -> 1
+529 
+557 
+659 
+680 
+663 
+649 
+737 
+680 
+774 
+724 
+771 
+725 

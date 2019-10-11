@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5353
+datum=01.06.2015
+kurzken=Q 5353/15
+bez=Königin-Elisabeth-Straße (südl. Spandauer Damm)   (Westend, 14059)
+arm1=Fürstenbrunner Weg,50,0000
+arm2=Spandauer Damm (W),950,0001
+arm3=Königin-Elisabeth-Straße,1850,0000
+arm4=Spandauer Damm (O),2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=0 Std; Niederschlag=3 mm;
+data=
+; 2 -> 4
+56	19
+65	20
+54	4
+43	3
+70	3
+72	5
+81	7
+108	17
+176	13
+131	19
+110	3
+67	8
+; 4 -> 2
+83	20
+112	11
+59	9
+57	3
+68	7
+48	5
+65	7
+64	5
+67	10
+45	10
+80	3
+51	8

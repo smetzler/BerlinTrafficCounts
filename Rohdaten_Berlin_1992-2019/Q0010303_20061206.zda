@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010303
+datum=06.12.2006
+kurzken=Q 010303/06
+bez=Schöneberger Ufer (westl. Köthener Br.) (Kreuzb., 10785)
+arm1=Flottwellstraße,400,0100
+arm2=Köthener Brücke,2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+780	174	48	8	7
+1307	272	48	12	23
+1777	311	44	14	61
+1666	332	58	22	56
+1285	292	53	18	34
+1211	293	70	17	27
+1430	334	64	18	39
+1578	294	78	15	55
+1709	270	59	20	53
+2052	289	45	23	76
+2051	276	33	26	72
+2109	211	24	28	59

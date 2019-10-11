@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26416
+datum=06.03.1995
+kurzken=Q 26416/95
+bez=Schottstraße (südl. Roedeliusplatz-Nord) (Lichtenberg, 10365) 
+arm1=Rodeliusplatz,800,0010
+arm2=Roedeliusplatz,1700,0000
+arm3=Osten,2600,1000
+arm4=Schottstraße,3100,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; teils sonnig; 0\,4 mm Niederschlag. \n
+data=
+; 1 -> 3
+8 3
+9 2
+12 0
+23 1
+33 1
+19 1
+14 0
+18 0
+23 6
+10 1
+25 2
+10 1
+; 3 -> 1
+7 2
+10 1
+12 0
+20 0
+29 3
+18 3
+17 2
+27 3
+22 1
+16 3
+24 0
+19 1

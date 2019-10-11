@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912005
+datum=09.06.1998
+kurzken=Q 0912005/98
+bez=Königin-Luise-Straße (östl. Königin-Luise-Platz)    (Dahlem, 14195)
+arm1=Königin-Luise-Platz,1000,0100
+arm2=Harderslebener Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+365	8	15	1
+513	17	11	15
+425	12	7	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+558	5	12	38
+580	5	13	33
+543	5	12	37
+; 2 -> 1
+513	9	16	27
+732	17	14	36
+531	19	8	29
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+539	11	12	21
+560	1	12	38
+531	2	13	35

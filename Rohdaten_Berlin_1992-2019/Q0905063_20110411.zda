@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905063
+datum=11.04.2011
+kurzken=Q 0905063/11
+bez=Simon-Dach-Straße (südl. Boxhagener Straße)   (Friedrichshain, 10245)
+arm1=Grünberger Straße,1750,0100
+arm2=Boxhagener Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Simon-Dach-Straße Einbahnstraße Richting Nord\, Radfahrer frei.
+data=
+; 1 -> 2
+39	1	0	0	23
+37	2	0	1	22
+42	2	0	0	18
+52	2	0	2	26
+23	5	0	3	19
+81	2	1	1	27
+79	3	0	4	60
+59	3	0	3	46
+80	0	0	4	62
+82	2	0	6	74
+84	0	0	5	83
+63	1	0	9	74
+; 2 -> 1
+0	0	0	0	35
+0	0	0	0	57
+1	1	0	0	56
+0	0	0	0	44
+0	0	0	1	69
+0	0	0	0	48
+0	0	0	0	59
+0	0	0	1	61
+0	0	0	0	53
+0	0	0	2	74
+0	0	0	0	89
+0	0	0	0	88

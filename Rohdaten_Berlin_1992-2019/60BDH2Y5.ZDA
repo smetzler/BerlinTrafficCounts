@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 14741
+datum=14.3.1989
+kurzken=Q 1474.1/89-R
+bez=Thorwaldsenstrasse noerdlich Goettingeer Strasse    ( Berlin 41 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: wolkig bis bedeckt !
+data=
+; 1 -> 2
+11 
+3 
+12 
+6 
+0 
+1 
+6 
+11 
+5 
+12 
+10 
+4 
+; 2 -> 1
+15 
+13 
+2 
+3 
+6 
+3 
+16 
+8 
+16 
+17 
+21 
+14 

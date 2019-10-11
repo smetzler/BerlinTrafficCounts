@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00331
+datum=19.04.2015
+kurzken=Q 00331/15
+bez=A100 - Zu- u. Abfahrt Siemensdamm (Charlottenburg, 13627)
+arm1=Siemensdamm,900,0100
+arm2=BAB A100 (AS Spandauer Damm),1700,1000
+arm3=BAB A100 (AD Charlottenburg),3000,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 70\, Feld 8a
+data=
+; 1 -> 2
+363	4	0	1	11
+359	0	0	0	5
+344	6	0	0	7
+; 2 -> 1
+418	0	0	1	11
+433	0	1	0	18
+419	36	0	0	8

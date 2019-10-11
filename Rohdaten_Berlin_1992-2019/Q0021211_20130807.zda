@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 21211
+datum=07.08.2013
+kurzken=Q 21211/13
+bez=Osloer Straße (Nordseite, westl. Prinzenallee)   (Wedding, 13359)
+arm1=Osloer Straße (W),850,0000
+arm2=Prinzenallee (S),1550,0001
+arm3=Osloer Straße (O),2650,0000
+arm4=Prinzenallee (N),3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Nördl. Fahrbahn bis Mittelstreifen!\n
+data=
+; 2 -> 4
+64	22
+61	14
+91	5
+84	5
+112	17
+134	41
+175	15
+154	8
+158	13
+169	31
+193	21
+173	11
+; 4 -> 2
+126	28
+159	20
+163	31
+152	14
+160	48
+150	19
+172	13
+185	27
+147	20
+164	40
+173	22
+132	11

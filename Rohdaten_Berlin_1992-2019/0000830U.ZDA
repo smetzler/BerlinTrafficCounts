@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0008
+datum=15.06.1989
+kurzken=K 8/89
+bez=Zeltinger Platz / Burgfrauenstrasse    ( Berlin 28 )
+Arm1=Zeltinger Platz,350,0101
+Arm2=Burgfrauenstrasse,1200,0001
+Arm3=,0,0000
+Arm4=Zeltinger Platz,3000,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+615 459 419 403 391 352 329 304 391 412 438 326 
+; 1 -> 4
+116 176 228 273 258 290 227 217 320 397 391 357 
+; 2 -> 4
+233 312 350 369 397 401 413 316 451 568 582 470 

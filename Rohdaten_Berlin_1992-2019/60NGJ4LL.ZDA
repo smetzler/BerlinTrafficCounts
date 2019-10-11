@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 30403
+datum=10.05.1994
+kurzken=Q 30403/94
+bez=Gatower Straße / südl. Heerstraße (Spandau)
+arm1=Pfälzische Straße,1600,0100
+arm2=Heerstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+872,33,8,20,53
+747,36,12,10,29
+694,51,6,5,24
+636,46,6,3,21
+; 2 -> 1
+474,44,7,9,36
+493,64,11,14,21
+541,47,6,2,70
+489,40,6,9,17

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00953
+datum=20.05.1987
+kurzken=Q 953/87
+bez=Roedernallee  suedl. Am Nordgraben    ( Berlin 26 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung\nRiegel Reinickendorf
+data=
+; 1 -> 2
+1652 1344 1134 1160 1053 947 1113 1153 1283 1256 1193 1292 
+; 2 -> 1
+855 747 733 966 1010 1300 1347 1267 1676 1884 1731 1517 

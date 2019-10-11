@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q7535023
+datum=06.06.2019
+kurzken=Q7535023/19
+bez=Blumberger Damm / Cecilienstraße (Hellersdorf, 12683)  über Arm3
+arm1=Blumberger Damm (N),120,0000
+arm2=Cecilienstraße (W),850,0001
+arm3=Blumberger Damm (S),1780,0000
+arm4=Cecilienstraße (O),2740,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+16	4
+16	1
+16	1
+4	0
+3	22
+11	1
+12	0
+8	1
+14	2
+10	12
+9	3
+4	0
+; 4 -> 2
+30	39
+16	11
+16	2
+14	0
+7	1
+14	7
+18	6
+57	8
+32	11
+12	4
+6	4
+7	1

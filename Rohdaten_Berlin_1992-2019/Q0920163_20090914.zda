@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920163
+datum=14.09.2009
+kurzken=Q 0920163/09
+bez=Waidmannsluster Damm (östl. Hochjagdstraße)   (Waidmannslust, 13469)
+arm1=Hochjagdstraße,1100,0100
+arm2=Am Leitbruch,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+352	12	7	5	14
+369	8	8	5	6
+372	20	8	11	11
+420	10	7	6	10
+379	13	7	5	10
+354	15	7	6	17
+387	17	8	12	16
+359	14	8	10	26
+284	8	8	12	26
+436	7	7	22	36
+409	12	6	18	23
+388	7	6	19	27
+; 2 -> 1
+374	3	7	10	33
+424	11	8	8	13
+328	10	8	10	18
+414	8	8	6	12
+370	10	8	5	5
+374	21	8	8	10
+354	12	9	8	23
+386	13	7	10	23
+456	16	8	24	18
+419	6	7	19	26
+429	4	7	14	16
+397	2	6	18	19

@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902016
+datum=29.09.1999
+kurzken=Q 0902016/99
+bez=Lützowufer (Höhe Hiroshimasteg)   (Tiergarten, 10785)
+arm1=Klingelhöferstraße,1000,0100
+arm2=Genthiner Straße,2650,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+1429	67	13	53
+1668	52	18	45
+1591	67	21	45
+1396	74	22	42
+1227	63	19	45
+1270	50	14	31
+1159	34	19	40
+1374	43	15	51
+1618	42	20	56
+1422	26	19	41
+1471	32	23	33
+1466	19	17	56

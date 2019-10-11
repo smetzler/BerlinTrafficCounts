@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5682013
+datum=21.04.2005
+kurzken=Q 5682013/05
+bez=Wisbyer Straße (östl. Gudvanger Straße)   ( Pankow, 13189)
+arm1=Wisbyer Straße,790,0000
+arm2=Gudvanger Straße,1470,0001
+arm3=Wisbyer Straße,2390,0000
+arm4=Talstraße,3470,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=10°C; Sonne=13\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	0
+12	1
+17	0
+13	0
+8	2
+13	0
+11	1
+10	0
+18	0
+21	0
+21	1
+30	2
+; 4 -> 2
+6	2
+14	0
+17	0
+16	0
+22	1
+13	1
+22	0
+22	0
+22	0
+18	2
+26	0
+25	0

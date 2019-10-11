@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2045
+datum=19.9.1991
+kurzken=Q 2045/91
+bez=BAB A 100
+arm1=2: nach West,900,0100
+arm2=1: von West,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1: Ausfahrt nach Detmolder Str. (von West)\nRichtung 2: Einfahrt von Detmolder Str. (nach West)
+data=
+; 1 -> 2
+247 12 13 0 
+444 25 15 0 
+424 45 32 0 
+328 40 24 0 
+277 28 24 1 
+320 39 13 0 
+330 37 11 0 
+382 59 13 1 
+412 33 14 0 
+483 29 11 0 
+582 42 8 0 
+455 28 4 0 
+; 2 -> 1
+310 36 7 3 
+400 31 9 1 
+365 42 21 1 
+320 40 29 0 
+271 40 13 0 
+269 28 21 1 
+298 39 17 0 
+313 39 26 0 
+321 38 27 0 
+308 21 11 1 
+333 24 9 0 
+335 23 3 1 

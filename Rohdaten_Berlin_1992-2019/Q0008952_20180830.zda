@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 8952
+datum=30.08.2018
+kurzken=Q 8952/18
+bez=Oranienplatz (West) (südl. Oranienstraße)       (Kreuzberg, 10997)
+arm1=Oranienstraße (W),650,0010
+arm2=Oranienplatz (N),1600,0000
+arm3=Oranienstraße (O),2450,1000
+arm4=Oranienplatz (S),3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=3
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+5	0
+27	2
+50	4
+42	0
+55	0
+118	5
+95	9
+103	6
+79	3
+98	12
+142	8
+104	3
+; 3 -> 1
+13	0
+29	1
+43	2
+44	1
+39	2
+67	2
+98	0
+96	5
+106	12
+90	2
+98	6
+74	7

@@ -1,0 +1,58 @@
+[ZA1001]
+knoten=K 1511
+datum=10.08.2004
+kurzken=K 1511/04
+bez=Kladower Damm - Sakrower Landstrasse / Ritterfelddamm    ( Kladow, 14089 )
+arm1=Ritterfelddamm,460,0101
+arm2=Sakrower Landstrasse,1480,1001
+arm3=,0,0000
+arm4=Kladower Damm,3160,1100
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+71	6	11	3	2
+128	8	4	1	1
+131	14	3	1	2
+96	1	1	1	2
+171	2	7	4	4
+119	4	5	1	8
+; 1 -> 4
+167	4	3	5	4
+115	4	0	0	5
+77	5	1	1	4
+52	6	0	0	4
+51	5	0	0	4
+65	3	0	0	2
+; 2 -> 1
+69	5	5	2	15
+89	4	0	2	6
+98	6	1	2	5
+110	2	0	4	12
+90	6	0	2	8
+86	3	0	3	8
+; 2 -> 4
+268	7	11	9	43
+276	5	9	15	32
+230	14	9	5	24
+228	14	12	4	60
+234	9	8	6	29
+259	6	7	4	46
+; 4 -> 1
+65	3	0	3	10
+94	2	0	4	5
+112	6	0	3	6
+118	2	0	12	2
+115	2	0	3	3
+107	8	0	2	1
+; 4 -> 2
+105	9	6	2	11
+165	12	7	1	21
+194	18	6	2	12
+180	8	6	8	12
+302	11	9	11	36
+196	4	7	4	32

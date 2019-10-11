@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020804
+datum=13.11.2014
+kurzken=Q 020804/14
+bez=Berliner Straße (nördl. Wisbyer Straße)   (Prenzlauer Berg, 13189)
+arm1=Schonensche Straße,0,0100
+arm2=Wisbyer Straße,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Berliner Str. stadteinwärts zw. Maximilianstr. u. Mühlenstr. Fahrtrichtung gesperrt
+data=
+; 1 -> 2
+1049	35	0	15	301
+986	22	1	19	359
+810	25	1	18	300
+690	30	2	6	132
+596	38	0	11	136
+538	28	1	7	125
+575	21	1	11	151
+616	16	1	6	133
+701	9	0	9	172
+650	2	0	8	178
+722	4	1	8	191
+632	2	0	7	161
+; 2 -> 1
+470	30	0	5	165
+524	31	2	9	193
+528	33	1	7	185
+548	28	0	4	126
+550	33	1	10	104
+656	26	1	14	100
+718	20	0	7	147
+763	19	0	20	190
+761	13	2	36	185
+960	4	0	14	264
+960	7	0	18	312
+811	5	0	16	365

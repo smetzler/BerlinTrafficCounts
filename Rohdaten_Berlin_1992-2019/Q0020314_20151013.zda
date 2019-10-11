@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020314
+datum=13.10.2015
+kurzken=Q 020314/15
+bez=Alte Jakobstraße (nordöstl. Seydelstraße)   (Mitte, 10179)
+arm1=Seydelstraße,1400,0100
+arm2=Sebastianstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Ri. 1>2 verboten
+data=
+; 1 -> 2
+2	0	0	0	24
+3	0	0	0	66
+1	0	0	0	41
+0	0	0	0	18
+0	0	0	0	29
+3	0	0	2	33
+2	0	0	0	28
+1	0	0	2	46
+3	0	0	1	65
+2	0	0	0	48
+3	0	0	1	96
+4	0	0	0	120
+; 2 -> 1
+249	11	0	12	66
+528	7	1	8	171
+425	5	1	19	147
+136	8	0	4	34
+146	4	1	2	38
+136	2	3	3	33
+148	2	0	3	52
+148	5	0	6	56
+173	4	0	7	69
+234	10	0	6	106
+182	3	0	7	97
+185	1	0	6	122

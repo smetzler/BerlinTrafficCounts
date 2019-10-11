@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 58661
+datum=6.5.1991
+kurzken=Q 5866.1/91
+bez=Schwaebische Strasse noerdlich Barbarossaplatz    ( Berlin 30 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+15 
+29 
+25 
+25 
+22 
+32 
+19 
+18 
+24 
+30 
+21 
+22 
+; 2 -> 1
+24 
+25 
+19 
+18 
+20 
+28 
+24 
+25 
+23 
+20 
+18 
+19 

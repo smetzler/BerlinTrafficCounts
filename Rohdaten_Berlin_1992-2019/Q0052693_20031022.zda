@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 52693
+datum=22.10.2003
+kurzken=Q 52693/03
+bez=Guineastraße (südöstl. Transvaalstraße)   (Wedding, 13351)
+arm1=,0,0000
+arm2=Transvaalstraße,1350,0001
+arm3=Guineastraße,2250,0000
+arm4=Transvaalstraße,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=2 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	3
+4	0
+2	0
+2	0
+9	27
+0	4
+5	2
+11	0
+0	3
+6	6
+11	0
+0	4
+; 4 -> 2
+3	0
+3	0
+6	3
+7	26
+9	0
+2	2
+6	7
+7	0
+7	1
+7	1
+9	4
+10	3

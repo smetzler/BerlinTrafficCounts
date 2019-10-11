@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4244
+datum=27.11.1997
+kurzken=Q 4244/97
+bez=Karolinenstraße (südl. Heiligenseestraße)   (Tegel, 13507)
+arm1=Heiligenseestraße,400,0100
+arm2=Waidmannsluster Damm,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Taxi
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+1255 19 34 21 23
+1044 26 18 5 13
+792 31 18 9 11
+627 36 18 8 8
+547 23 17 9 17
+541 17 16 6 11
+506 22 15 7 8
+647 29 22 6 7
+745 23 23 7 10
+947 19 21 4 3
+917 14 23 5 3
+651 11 20 2 3
+; 2 -> 1
+281 32 27 1 8
+373 38 16 0 12
+408 35 15 2 8
+435 26 15 2 16
+510 34 17 2 11
+690 24 16 7 8
+659 43 23 9 10
+771 18 22 11 7
+797 25 18 9 4
+951 16 16 14 2
+980 10 17 4 1
+1021 5 19 8 6

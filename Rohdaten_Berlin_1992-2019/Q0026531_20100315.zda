@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 26531
+datum=15.03.2010
+kurzken=Q 26531/10
+bez=Kastanienallee (nördl. Hellersdorfer Straße)    (Hellersdorf, 12627)
+arm1=Kastanienallee (N),50,0000
+arm2=Hellersdorfer Straße (W),1200,0001
+arm3=Kastanienallee (S),1950,0000
+arm4=Hellersdorfer Straße (O),3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=2 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+33	9
+37	2
+70	4
+56	1
+44	0
+31	0
+33	5
+33	0
+30	3
+35	0
+45	4
+29	1
+; 4 -> 2
+3	0
+17	1
+24	3
+54	1
+43	3
+36	0
+31	4
+23	5
+40	0
+45	4
+41	0
+21	0

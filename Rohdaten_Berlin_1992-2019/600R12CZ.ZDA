@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00973
+datum=20.05.1987
+kurzken=Q 973/87
+bez=Oranienburger Strasse  suedl. Am Nordgraben    ( Berlin 26 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung\nRiegel Reinickendorf
+data=
+; 1 -> 2
+1080 728 611 620 653 642 678 651 873 846 717 712 
+; 2 -> 1
+617 526 520 699 852 873 818 772 870 1096 951 799 

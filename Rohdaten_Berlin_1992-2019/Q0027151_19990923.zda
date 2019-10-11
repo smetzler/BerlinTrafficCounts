@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27151
+datum=23.09.1999
+kurzken=Q 27151/99
+bez=Blankenfelder Chaussee (nördl. Rosenthaler Weg)  (Blankenfelde, 13159)
+arm1=Blankenfelder Chaussee,200,0000
+arm2=Westen,1100,0001
+arm3=Blankenfelder Straße,1850,0000
+arm4=Rosenthaler Weg,2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonnenstd.=5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

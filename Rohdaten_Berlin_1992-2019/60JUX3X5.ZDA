@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025737
+datum=26.3.1992
+kurzken=Q 2573.7/92-F
+bez=Louis-Lewin-Str. südlich Weißenfelser Str.    ( Berlin 1150-Helldf. )
+arm1=Ost,150,0100
+arm2=West,1950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+34 19 
+37 13 
+25 7 
+35 5 
+15 15 
+8 4 
+29 8 
+30 19 
+21 11 
+16 10 
+17 8 
+17 15 
+; 2 -> 1
+25 19 
+28 6 
+19 5 
+31 4 
+28 2 
+22 9 
+25 6 
+32 12 
+27 9 
+23 18 
+30 15 
+12 10 

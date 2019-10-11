@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 5804
+datum=04.05.1988
+kurzken=K 5804/88
+bez=Hauptstrasse / Fregestrasse   ( Berlin 41 )
+Arm1=,0,0000
+Arm2=Hauptstrasse,1390,0010
+Arm3=Fregestrasse,1820,0101
+Arm4=Hauptstrasse,3190,0010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenstroeme 24 und 42 nicht erfasst !
+data=
+; 2 -> 3
+8 11 16 16 16 18 17 6 12 10 14 12 
+; 3 -> 2
+5 7 3 4 5 2 5 6 3 8 4 5 
+; 3 -> 4
+32 78 43 35 39 52 34 38 35 42 46 41 
+; 4 -> 3
+7 18 21 19 24 21 22 25 33 24 34 43 

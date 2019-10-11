@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 09267
+datum=18.05.1987
+kurzken=Q 9267/87
+bez=Kurfuerstendamm   oestl. Schwarzbacher Str.    ( Berlin 31 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung
+data=
+; 1 -> 2
+14 11 22 23 22 28 35 33 17 26 35 21 
+; 2 -> 1
+14 19 28 21 14 19 16 26 16 17 21 17 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15784
+datum=04.06.2007
+kurzken=Q 15784/07
+bez=Am Waldfriedhof (nördl. Argentinische Allee)   (Zehlendorf, 14169)
+arm1=Argentinische Allee,800,0010
+arm2=Waltraudstraße,1700,0000
+arm3=Argentinische Allee,2600,1000
+arm4=Am Waldfriedhof,3500,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=0\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+2	3
+4	0
+5	0
+9	0
+2	0
+7	1
+3	0
+4	0
+5	2
+2	0
+1	0
+3	0
+; 3 -> 1
+3	1
+1	0
+1	0
+2	0
+4	0
+10	0
+9	0
+5	0
+7	0
+6	0
+6	1
+7	0

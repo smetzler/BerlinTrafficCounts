@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917017
+datum=21.09.1999
+kurzken=Q 0917017/99
+bez=Lückstraße (östl. Schlichtallee)   (Lichtenberg, 10317)
+arm1=Schlichtallee,800,0100
+arm2=Giselastraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+397	31	12	2
+408	25	16	2
+435	27	16	3
+409	48	19	6
+515	41	16	7
+438	61	16	15
+640	37	17	11
+841	45	20	9
+1068	37	20	23
+1225	37	20	24
+1097	27	20	29
+941	16	21	20
+; 2 -> 1
+985	49	18	16
+934	53	21	19
+689	50	12	10
+523	48	15	10
+530	45	17	6
+505	44	14	6
+539	36	18	9
+552	41	20	8
+605	35	19	13
+584	22	19	8
+563	10	21	9
+547	7	15	7

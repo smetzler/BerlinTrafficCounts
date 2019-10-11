@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16587
+datum=01.09.1987
+kurzken=Q 16587/87
+bez=Ringstrasse oestl. Kurfuerstenstrasse   ( Berlin 42 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter : klar und trocken
+data=
+; 1 -> 2
+1 0 2 1 2 0 5 1 6 0 3 0 5 3 
+3 4 0 0 6 2 10 0 15 0 
+; 2 -> 1
+7 4 4 3 3 0 3 0 6 0 1 0 6 28 
+3 4 1 1 1 0 5 0 3 0 

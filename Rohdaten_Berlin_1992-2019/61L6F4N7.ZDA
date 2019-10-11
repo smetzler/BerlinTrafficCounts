@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 74103
+datum=04.07.1994
+kurzken=Q 74103/94
+bez=Lichtenberger Straße (nördl. Holzmarktstraße) (Friedrichshain,10243) 
+arm1=Holzmarktstraße,1600,0100
+arm2=Singerstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+360 49 1 8 7
+349 37 3 7 11
+366 40 1 8 1
+388 31 3 3 6
+351 55 4 2 9
+374 47 2 3 5
+403 39 2 8 13
+464 28 1 7 11
+723 24 1 15 14
+834 26 2 14 25
+712 23 1 16 11
+647 20 0 13 12
+; 2 -> 1
+734 44 2 13 19
+696 44 0 9 15
+518 71 2 8 18
+514 59 2 6 12
+456 57 0 11 10
+428 63 2 15 15
+471 66 0 8 23
+460 55 0 14 16
+507 40 0 12 18
+547 39 0 15 22
+497 17 0 15 20
+417 8 0 10 12

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907132
+datum=18.05.2009
+kurzken=Q 0907132/09
+bez=Schloßstraße (südl. Spandauer Damm)   (Charlottenburg, 14059)
+arm1=Spandauer Damm,50,0100
+arm2=Stallstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+159	7	4	3	23
+174	8	4	3	37
+159	7	4	0	21
+161	7	9	2	16
+175	2	13	5	25
+144	2	11	3	41
+163	2	11	9	43
+159	1	9	12	35
+187	1	8	7	22
+204	1	12	5	48
+202	1	9	8	52
+205	0	4	11	58
+; 2 -> 1
+273	6	2	2	33
+357	7	4	7	56
+254	5	4	9	29
+235	5	3	5	19
+159	4	3	4	13
+168	5	3	12	61
+221	5	2	26	15
+168	6	5	6	31
+227	5	3	10	20
+228	1	5	7	33
+199	2	3	7	45
+175	1	5	16	35

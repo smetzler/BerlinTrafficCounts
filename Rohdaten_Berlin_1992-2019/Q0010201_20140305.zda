@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010201
+datum=05.03.2014
+kurzken=Q 010201/14
+bez=Invalidenstraße (Sandkrugbrücke)   (Tiergarten, 10557)
+arm1=Heidestraße,1200,0100
+arm2=Alexanderufer,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kreuzung Chausseestr. / Invalidenstr. gesperrt.\nInvalidenstr. Richtung Alt-Moabit zwischen Gartenstr. und Luisenstr. Fahrtrichtung gesperrt.				\n
+data=
+; 1 -> 2
+598	40	16	8	64
+746	21	17	11	119
+730	27	16	8	222
+697	38	16	13	58
+693	30	18	15	76
+755	40	19	7	67
+705	42	20	10	55
+806	46	14	16	70
+1024	37	18	18	68
+884	24	18	20	108
+991	14	16	10	120
+1012	16	18	20	114
+; 2 -> 1
+714	47	15	6	75
+748	59	15	9	142
+691	87	18	15	116
+588	72	16	8	78
+579	68	16	6	68
+611	54	15	12	58
+579	28	16	14	63
+640	27	15	5	58
+688	17	14	15	82
+692	6	16	20	72
+688	7	18	10	105
+695	8	16	16	143

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7314021
+datum=10.05.2007
+kurzken=Q 7314021/07
+bez=Adlergestell (nördl. Rudower Chaussee)     (Johannisthal, 12489)
+arm1=Adlergestell,450,0000
+arm2=Rudower Chaussee,1200,0001
+arm3=Adlergestell,2250,0000
+arm4=Dörpfeldstraße,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=0\,5 Std; Niederschlag=17 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+23	0
+21	3
+22	1
+42	3
+31	4
+52	3
+25	9
+45	5
+42	0
+81	4
+68	0
+47	0
+; 4 -> 2
+95	34
+69	11
+57	5
+51	8
+44	6
+51	5
+65	8
+51	4
+62	4
+65	6
+32	15
+30	1

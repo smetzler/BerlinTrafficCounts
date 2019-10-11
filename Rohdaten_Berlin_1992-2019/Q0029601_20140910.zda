@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29601
+datum=10.09.2014
+kurzken=Q 29601/14
+bez=Alter Segelfliegerdamm (westl. Segelfliegerdamm)   (Johannisthal, 12487)
+arm1=Alter Segelfliegerdamm,900,0000
+arm2=Segelfliegerdamm (S),1750,0001
+arm3=Walther-Huth-Straße,2650,0000
+arm4=Segelfliegerdamm (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+1	2
+5	0
+5	1
+5	0
+12	0
+6	0
+2	0
+1	1
+1	0
+2	0
+2	1
+0	0
+; 4 -> 2
+3	1
+4	0
+0	0
+8	0
+5	0
+2	0
+4	0
+1	0
+5	1
+4	0
+4	1
+1	0

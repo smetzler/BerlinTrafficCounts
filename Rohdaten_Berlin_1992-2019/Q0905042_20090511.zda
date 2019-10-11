@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905042
+datum=11.05.2009
+kurzken=Q 0905042/09
+bez=Friedenstraße (südöstl. Lichtenberger Straße)   (Friedrichshain, 10249)
+arm1=Lichtenberger Straße,450,0000
+arm2=Landsberger Allee,2250,0000
+arm3=((Südwesten)),1350,0001
+arm4=((Nordosten)),3150,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Friedenstr.südlöstl. der Lichtenberger Str. (bis ca. 100m südöstl.) queren.\nWetter: max T=14°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+12	0
+3	0
+4	0
+21	0
+10	0
+17	0
+6	0
+7	1
+14	0
+11	0
+6	1
+9	1
+; 4 -> 3
+3	0
+8	0
+5	0
+6	0
+10	0
+18	0
+14	1
+9	0
+13	0
+13	0
+12	7
+9	1

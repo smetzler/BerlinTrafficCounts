@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909110
+datum=09.11.2009
+kurzken=Q 0909110/09
+bez=Pfalzburger Straße (nördl. Düsseldorfer Straße)   (Wilmersdorf, 10719)
+arm1=Düsseldorfer Straße,1750,0100
+arm2=Pariser Straße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+28	1	0	0	12
+45	2	0	0	20
+48	2	0	0	24
+34	2	0	0	10
+37	1	0	1	23
+25	2	0	1	12
+26	2	0	0	13
+31	0	0	1	16
+48	1	0	0	12
+41	0	0	0	22
+29	1	0	0	17
+45	0	0	1	10
+; 2 -> 1
+36	1	1	0	13
+32	1	0	0	10
+35	2	0	0	12
+30	0	0	2	14
+42	3	0	1	14
+40	1	0	0	13
+32	1	1	0	9
+34	1	0	1	14
+58	3	0	1	16
+38	1	0	1	23
+27	0	0	1	20
+35	0	0	0	19

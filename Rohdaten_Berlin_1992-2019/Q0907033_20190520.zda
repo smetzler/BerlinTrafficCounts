@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907033
+datum=20.05.2019
+kurzken=Q 0907033/19
+bez=AD Funkturm - von A115 AVUS nach Messeda./Halenseestr. (Charlottenburg, 14055) 
+arm1=Messedamm / Halenseestr.,400,0000
+arm2=,0,0000
+arm3=A115 AVUS,1650,1000
+arm4=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 1
+687	48	9	10	0
+744	35	8	12	0
+641	46	8	8	0
+425	36	8	4	0
+395	22	10	2	0
+422	35	13	6	0
+509	34	6	4	0
+738	42	14	11	0
+775	26	6	11	0
+836	27	11	9	0
+694	19	11	9	0
+553	10	13	7	0

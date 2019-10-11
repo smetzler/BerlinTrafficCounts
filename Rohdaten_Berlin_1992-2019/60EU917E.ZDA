@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 19233
+datum=27.10.1983
+kurzken=Q 19233/83
+bez=SCHICHAUWEG  oestl. Motzener Strasse  ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Verkehrsuntersuchung Spandau  ***  Kontrollerhebung Lichtenrade
+data=
+; 1 -> 2
+16 706 37 25 8 9 389 17 23 4 5 293 21 33 4 
+1 232 28 33 3 6 213 22 30 4 8 274 26 26 3 
+4 283 11 28 4 3 264 13 31 10 10 330 17 19 6 
+14 317 10 9 7 9 315 13 7 10 6 237 8 2 8 
+; 2 -> 1
+1 164 20 30 7 1 160 24 28 4 4 155 10 22 4 
+0 179 17 25 4 5 178 17 30 3 8 259 13 36 4 
+5 295 15 22 6 5 277 9 22 6 24 536 19 9 9 
+19 727 15 14 9 14 557 12 6 6 9 408 6 12 4 

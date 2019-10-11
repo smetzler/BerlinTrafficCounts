@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q012501
+datum=01.04.2019
+kurzken=Q012501/19
+bez=Hauptstraße / Wexstraße - BAB-A100 Stadtring (Innsbrucker Pl.) (Schöneberg, 108  über Arm1
+arm1=Wexstraße,800,0000
+arm2=Hauptstraße (S),1450,0001
+arm3=Zu- und Abfahrt BAB,2280,0000
+arm4=Hauptstraße (N),3220,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+273	46
+303	17
+277	11
+218	4
+254	3
+269	22
+230	68
+267	86
+308	35
+326	32
+262	30
+271	13
+; 4 -> 2
+303	57
+434	24
+399	16
+258	27
+316	6
+279	22
+253	37
+220	50
+282	24
+321	48
+307	63
+278	14

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0093
+datum=10.05.2015
+kurzken=Q 0093/15
+bez=A113 - (südl. Johannishaler Chaussee)   (Treptow, 12487)
+arm1=AS Johannisthaler Chaussee,500,0100
+arm2=AS Stubenrauchstraße,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Spuraufteilung vor Ort festlegen! Standort: Ernst-Keller-Brücke.\nCity-Atlas Seite 119\, Feld 8c
+data=
+; 1 -> 2
+2286	7	1	7	22
+2329	4	0	18	21
+2132	5	2	7	29
+; 2 -> 1
+2622	6	0	13	34
+2956	9	1	21	37
+2923	15	0	15	27

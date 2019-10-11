@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919150
+datum=22.03.2010
+kurzken=Q 0919150/10
+bez=Kreuzstraße (südl. Wilhelm-Kuhr-Straße)   (Pankow, 13187)
+arm1=Wollankstraße,1700,0000
+arm2=Wilhelm-Kuhr-Straße,3500,0000
+arm3=((Westen)),800,0001
+arm4=((Osten)),2600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Kreuzstr. südl. der W.-Kuhr-Str. (bis xa. 50m südl.) queren. \nWetter: max T=13°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+30	13
+33	4
+19	4
+26	16
+19	4
+13	1
+29	5
+35	9
+50	2
+36	7
+60	40
+24	11
+; 4 -> 3
+28	0
+17	6
+11	3
+16	0
+23	2
+17	2
+25	6
+40	17
+46	16
+47	23
+28	8
+21	7

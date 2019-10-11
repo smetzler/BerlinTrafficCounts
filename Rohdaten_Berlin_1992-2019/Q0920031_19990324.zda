@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920031
+datum=24.03.1999
+kurzken=Q 0920031/99
+bez=Kapweg (östl. Kurt-Schumacher-Damm)   (Reinickendorf, 13405)
+arm1=Kurt-Schumacher-Damm,850,0100
+arm2=Scharnweberstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1389	63	16	11
+1355	60	22	12
+966	73	15	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1204	48	12	27
+1330	22	15	22
+1169	32	12	16
+; 2 -> 1
+767	37	9	10
+680	49	9	4
+633	65	7	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1012	34	7	12
+1098	27	9	18
+942	15	6	17

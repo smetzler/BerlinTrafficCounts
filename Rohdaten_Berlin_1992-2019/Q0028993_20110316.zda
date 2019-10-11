@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28993
+datum=16.03.2011
+kurzken=Q 28993/11
+bez=Müggelseedamm (östl. Scharnweberstraße)   (Friedrichshagen, 12587)
+arm1=Müggelseedamm (W),950,0000
+arm2=Scharnweberstraße (S),1850,0001
+arm3=Müggelseedamm (O),2750,0000
+arm4=Scharnweberstraße (N),3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=0 Std; Niederschlag=2 mm;
+data=
+; 2 -> 4
+9	1
+2	0
+2	0
+4	12
+1	0
+5	0
+1	0
+2	0
+0	0
+2	1
+1	0
+3	0
+; 4 -> 2
+5	0
+4	0
+0	0
+1	0
+0	0
+0	0
+2	1
+2	0
+3	0
+1	2
+3	3
+0	0

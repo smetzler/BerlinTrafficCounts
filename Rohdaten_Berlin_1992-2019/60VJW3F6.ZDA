@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40892
+datum=19.09.1990
+kurzken=Q 40892/90
+bez=Kurfuerstendamm zwischen Knesebeckstrasse und Bleibtreustrasse    ( Berlin 15 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=- nur Fahrspuren ohne Busspuren !
+data=
+; 1 -> 2
+1 375 41 16 2 4 436 62 31 4 3 459 51 38 7 
+8 502 43 46 4 10 462 55 29 2 14 498 31 18 2 
+10 496 35 24 5 10 513 39 27 7 15 502 36 15 5 
+17 555 24 15 7 25 583 11 7 11 17 599 7 6 4 
+; 2 -> 1
+7 406 48 27 2 2 495 52 24 10 8 546 45 27 16 
+5 532 52 26 8 8 575 54 23 8 10 590 37 39 10 
+10 574 45 27 17 9 592 33 17 9 14 572 24 11 14 
+11 548 25 17 5 17 631 11 7 14 22 592 18 7 7 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28363
+datum=15.05.2007
+kurzken=Q 28363/07
+bez=Kirschnerweg (südl. Johannisthaler Chaussee)   (Buckow, 12351)
+arm1=,0,0000
+arm2=Johannisthaler Chaussee,1300,0001
+arm3=Kirschnerweg,2300,0000
+arm4=Johannisthaler Chaussee,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=0\,5 Std; Niederschlag=8 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+34	14
+53	5
+82	12
+136	30
+113	10
+130	7
+93	12
+77	9
+74	8
+94	12
+100	10
+99	10
+; 4 -> 2
+12	0
+22	0
+25	0
+45	31
+85	1
+83	28
+61	7
+86	11
+45	5
+91	10
+96	11
+82	8

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 14166
+datum=30.11.1988
+kurzken=Q 14166/88
+bez=Beckerstrasse westl. Rubensstrasse    ( Berlin 41 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+17 25 49 45 41 37 65 23 52 53 40 31 
+; 2 -> 1
+34 37 66 56 68 73 83 65 61 67 65 42 

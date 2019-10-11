@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0076
+datum=09.10.2015
+kurzken=Q 0076/15
+bez=A114 - Zubr. Prenzlau (nördl. der Zufahrt Bucher Str.)   (Pankow, 13127)
+arm1=Schönerlinder Straße ,300,0100
+arm2=Bucher Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fahrzeuge NÖRDL. der Zufahrt zählen!  City-Atlas Seite 38\, Feld 4a
+data=
+; 1 -> 2
+1253	13	17	4	5
+1268	7	9	3	7
+1415	6	9	2	6
+; 2 -> 1
+1667	31	17	3	17
+1916	15	5	12	30
+1603	7	8	3	21

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41101
+datum=22.8.1991
+kurzken=Q 4110.1/91-F
+bez=Unter den Linden zw. Friedrichstrasse und Charlottenstrasse    ( Mitte )
+arm1=Charlottenstraße,900,0100
+arm2=Friedrichstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg Hotel Unter den Linden\, in Hoehe Bus Haltestelle !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+146 
+105 
+104 
+241 
+396 
+475 
+496 
+492 
+457 
+410 
+387 
+358 
+; 2 -> 1
+80 
+87 
+132 
+383 
+432 
+456 
+433 
+477 
+415 
+401 
+313 
+285 

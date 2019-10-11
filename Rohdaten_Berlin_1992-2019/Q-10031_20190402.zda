@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10031
+datum=02.04.2019
+kurzken=Q-10031/19
+bez=Wilhelmsmühlenweg (westl. Franzburger Straße) (Kaulsdorf, 12621)  über Arm1
+arm1=Wilhelmsmühlenweg (W),860,0000
+arm2=Franzburger Straße,1640,0010
+arm3=Wilhelmsmühlenweg (O),2660,0100
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 3
+4	0
+2	0
+1	0
+2	0
+4	0
+0	0
+1	0
+3	0
+2	0
+2	0
+2	1
+0	1
+; 3 -> 2
+3	0
+4	0
+2	0
+3	0
+2	0
+0	0
+3	0
+1	0
+0	0
+6	1
+1	1
+0	0

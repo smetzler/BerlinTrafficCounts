@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20394
+datum=11.06.2018
+kurzken=Q 20394/18
+bez=Usedomer Straße (östl. Hussitenstraße)   (Wedding, 13355)
+arm1=Hussitenstraße (N),280,0010
+arm2=Feldstraße,1450,0000
+arm3=Hussitenstraße (S),2290,1000
+arm4=Usedomer Straße,2960,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+5	0
+12	0
+22	0
+10	2
+10	0
+4	3
+4	0
+6	0
+5	0
+6	4
+1	0
+8	0
+; 3 -> 1
+4	0
+4	2
+17	3
+1	8
+24	1
+8	3
+8	0
+17	0
+5	1
+16	2
+19	1
+7	2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 4238
+datum=11.07.2017
+kurzken=Q 4238/17
+bez=Graunstraße (Höhe Lortzingstraße)   (Wedding, 13355)
+arm1=Gleimstraße,200,0000
+arm2=Demminer Str.,1800,0000
+arm3=Lortzingstraße,1100,0001
+arm4=(Osten / Mauerpark),2900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fg in Höhe Lortzingstraße\n17-121-F // City-Atlas Seite 73\, Feld 1d\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+17	11
+20	8
+21	8
+32	2
+27	2
+25	7
+26	15
+40	15
+40	17
+40	8
+49	16
+50	10
+; 4 -> 3
+13	4
+30	3
+26	0
+24	0
+12	1
+29	3
+30	6
+21	7
+33	28
+34	14
+39	3
+39	10

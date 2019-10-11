@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920222
+datum=09.05.2017
+kurzken=Q 0920222/17
+bez=Heinsestraße (Höhe S-Bhf-Eingang Hermsdorf)   (Hermsdorf, 13467)
+arm1=Schramberger Straße,300,0100
+arm2=Backnanger Straße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:\n  - Projektbüro Berlin
+data=
+; 1 -> 2
+278	3	0	1	73
+230	0	0	3	30
+170	0	0	1	24
+146	2	0	0	8
+184	1	0	1	13
+161	0	0	0	11
+179	1	0	0	14
+169	0	0	0	12
+192	0	0	4	26
+132	0	0	0	8
+143	0	0	2	27
+137	0	0	1	11
+; 2 -> 1
+104	1	0	3	12
+129	0	0	1	26
+123	2	0	0	26
+140	0	0	0	8
+216	2	0	1	20
+171	3	0	1	12
+196	0	0	0	32
+211	0	0	1	48
+254	0	0	4	37
+260	0	0	8	24
+289	1	0	3	25
+256	1	0	5	11

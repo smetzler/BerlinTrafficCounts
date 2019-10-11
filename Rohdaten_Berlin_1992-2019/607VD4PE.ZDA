@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010201
+datum=19.09.1994
+kurzken=Q 010201/94
+bez=Invalidenstraße (östl. Heidestraße) (Tiergarten, 10557) 
+arm1=Heidestraße,1200,0100
+arm2=Alexanderufer,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten: Sandkrugbrücke gesperrt\, Umleitung über Behelfsbrücke.\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+477,84,8,0,15
+534,107,11,0,27
+672,93,10,1,23
+617,135,12,0,23
+587,100,10,1,23
+632,59,17,0,19
+669,56,18,1,20
+657,52,9,1,25
+806,52,14,3,30
+902,71,11,2,42
+1163,61,14,0,43
+1006,44,8,1,36
+; 2 -> 1
+873,66,3,1,24
+947,60,14,1,33
+951,81,19,0,34
+828,89,11,1,31
+660,70,13,0,34
+861,67,13,0,14
+672,71,10,1,14
+643,58,5,1,26
+602,90,14,0,25
+747,70,6,0,16
+724,76,5,1,32
+794,43,7,0,29

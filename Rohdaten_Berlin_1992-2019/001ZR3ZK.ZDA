@@ -1,0 +1,80 @@
+[ZA1001]
+knoten=K0002583
+datum=17.6.1992
+kurzken=K 2583/92
+bez=Frankfurter Allee / Rosenfelder Straße    ( Berlin 1130-Lichtenberg )
+arm1=Frankfurter Allee,840,0110
+arm2=Rosenfelder Straße,1450,0000
+arm3=Frankfurter Allee,2640,1001
+arm4=Rosenfelder Straße,3250,1000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Bis ca. 12.00 Uhr Streik der BVG ( Ost )
+data=
+; 1 -> 2
+405 
+486 
+544 
+521 
+502 
+456 
+540 
+581 
+687 
+649 
+707 
+718 
+; 1 -> 3
+2055 
+2239 
+1735 
+1850 
+1859 
+1902 
+1946 
+2373 
+3074 
+2711 
+2751 
+2589 
+; 3 -> 1
+2218 
+2214 
+2046 
+1914 
+1917 
+1738 
+1890 
+1777 
+2014 
+2160 
+1690 
+1853 
+; 3 -> 4
+690 
+540 
+368 
+312 
+251 
+281 
+269 
+227 
+381 
+307 
+282 
+203 
+; 4 -> 1
+1049 
+733 
+559 
+543 
+430 
+391 
+412 
+394 
+553 
+409 
+602 
+456 

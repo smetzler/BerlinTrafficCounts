@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5581611
+datum=24.08.2010
+kurzken=Q 5581611/10
+bez=Stralauer Platz (westl. Straße der Pariser Kommune)   (Friedrichshain, 10243)
+arm1=Stralauer Platz,600,0000
+arm2=((Süden)),1500,0001
+arm3=Mühlenstraße,2300,0000
+arm4=Str. d. Pariser Kommune,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	0
+0	0
+8	0
+43	6
+76	30
+75	20
+91	19
+91	4
+123	5
+97	6
+112	4
+127	1
+; 4 -> 2
+0	0
+3	0
+20	0
+114	10
+109	12
+53	8
+83	2
+124	3
+79	1
+127	34
+117	4
+101	3

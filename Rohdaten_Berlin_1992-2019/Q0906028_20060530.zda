@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906028
+datum=30.05.2006
+kurzken=Q 0906028/06
+bez=Dresdener Straße (südl. Erkelenzdamm)   (Kreuzberg, 10999)
+arm1=Erkelenzdamm - Oranienplatz,200,0100
+arm2=Kottbusser Tor,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=14°C max T; 4 Std Sonne; 10 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+12
+32
+72
+28
+34
+38
+34
+47
+40
+48
+44
+43
+; 2 -> 1
+27
+28
+33
+34
+29
+31
+37
+23
+22
+28
+36
+21

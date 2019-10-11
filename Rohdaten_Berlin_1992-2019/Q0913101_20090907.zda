@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913101
+datum=07.09.2009
+kurzken=Q 0913101/09
+bez=Richard-Tauber-Damm (nördl. Culemeyerstraße)   (Marienfelde, 12277)
+arm1=Grimmingweg,0,0100
+arm2=Culemeyerstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+256	32	3	6	24
+276	22	4	7	22
+240	18	3	4	20
+292	22	4	0	12
+280	15	2	7	3
+299	17	5	9	12
+305	14	3	9	8
+331	11	3	17	20
+322	12	4	32	24
+426	9	3	15	20
+365	2	2	18	16
+351	5	4	15	23
+; 2 -> 1
+440	26	5	9	17
+371	10	3	10	15
+289	21	2	8	19
+288	16	4	6	20
+229	11	3	2	15
+266	12	3	6	13
+278	7	3	8	14
+324	18	3	11	19
+332	12	3	18	20
+362	7	3	14	31
+346	2	3	13	35
+271	4	3	11	18

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5682014
+datum=10.09.2018
+kurzken=Q 5682014/18
+bez=Talstraße (nördl. Wisbyer Straße)   ( Pankow, 13189)
+arm1=Wisbyer Straße (W),790,0010
+arm2=Gudvanger Straße,1470,0000
+arm3=Wisbyer Straße (O),2390,1000
+arm4=Talstraße,3470,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+32	2
+30	4
+33	1
+27	1
+18	0
+20	0
+25	3
+28	1
+26	10
+29	14
+35	8
+31	1
+; 3 -> 1
+21	7
+18	1
+14	0
+20	0
+17	0
+28	1
+45	4
+37	6
+28	8
+38	21
+42	10
+40	2

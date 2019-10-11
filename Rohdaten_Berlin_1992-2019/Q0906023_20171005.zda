@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 0906023
+datum=05.10.2017
+kurzken=Q 0906023/17
+bez=Katzbachstraße  (nördl. Monumentenstraße)   (Kreuzberg, 10965)
+arm1=Kreuzbergstraße (N),0,0100
+arm2=Monumentenstraße (S),1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=! Unwetter (Warnstufe 3) am  Abend (ab ca. 17 Uhr) !\n! Abbruch der VZ um 17.15 Uhr: Sperrung durch die Polizei wegen heruntergefallenen Ästen !\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+84	0	2	5	16
+50	0	0	1	14
+34	1	1	1	15
+36	0	0	0	4
+35	2	0	0	4
+131	7	3	2	7
+277	13	4	4	5
+438	18	5	6	21
+497	19	4	3	20
+456	28	4	2	8
+549	15	4	5	18
+473	25	5	3	15
+590	27	3	3	10
+640	32	4	6	14
+655	25	3	7	24
+752	16	4	6	30
+653	11	2	7	32
+356	8	0	1	4
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+; 2 -> 1
+67	0	2	0	7
+41	3	0	2	2
+19	1	0	0	2
+25	0	0	0	0
+40	3	0	0	4
+192	8	4	2	0
+622	9	4	12	12
+778	31	4	7	24
+815	30	3	10	31
+674	33	9	13	35
+663	30	3	8	9
+613	28	3	1	11
+644	21	3	3	14
+625	25	4	2	9
+738	15	3	5	37
+736	12	4	2	26
+694	11	2	10	27
+89	2	0	2	3
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1

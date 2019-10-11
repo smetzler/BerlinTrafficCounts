@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 020713
+datum=15.10.2015
+kurzken=Q 020713/15
+bez=Behmstraßenbrücke   (Prenzlauer Berg, 10437)
+arm1=Ellerbeker Straße,950,0100
+arm2=Norweger Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Umleitungsverkehr: Bösebrücke Ri. Ost gesperrt
+data=
+; 1 -> 2
+900	40	0	7	38
+823	33	0	8	26
+692	17	0	2	19
+750	46	0	6	24
+704	30	0	4	31
+734	59	0	6	31
+725	56	0	6	48
+1033	48	2	8	36
+1208	32	0	9	54
+1302	22	2	18	96
+1077	22	0	8	86
+887	11	1	9	71
+; 2 -> 1
+454	13	0	7	84
+474	9	0	11	111
+346	9	0	4	52
+262	8	0	0	32
+200	4	0	0	24
+276	4	0	5	31
+208	15	0	7	27
+218	11	0	2	17
+167	4	0	2	25
+182	12	0	6	90
+232	5	0	2	35
+159	1	0	3	25

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=K 2709
+datum=29.04.1999
+kurzken=K 2709/99
+bez=BAB Stadring (A100) / AS Messedamm/Kaiserdamm   (Charlottenb., 14057)
+arm1=AS Messedamm,800,0100
+arm2=A100 (Süd),1700,0000
+arm3=A100 (Nord),3400,1000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+794	28	2	21
+873	39	2	12
+753	43	1	14
+706	47	0	14
+748	52	0	11
+713	42	2	4
+761	40	2	11
+823	44	3	22
+1146	52	2	22
+1168	29	0	26
+1075	33	0	29
+991	16	0	23
+; 3 -> 1
+120	3	0	1
+96	2	1	0
+75	2	0	1
+77	3	0	1
+124	6	0	3
+107	9	0	0
+108	3	0	5
+65	2	0	0
+23	0	0	2
+30	0	0	0
+38	1	0	0
+62	2	2	1

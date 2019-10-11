@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 13816
+datum=05.10.1989
+kurzken=Q 13816/89
+bez=Puecklerstrasse westl. Clayallee    ( Berlin 33 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 0 4 0 1 1 0 0 1 0 22 0 5 0 
+4 0 5 0 4 0 1 0 2 0 
+; 2 -> 1
+1 0 2 0 2 0 11 0 13 0 6 5 7 0 
+5 0 8 0 2 0 2 0 2 0 

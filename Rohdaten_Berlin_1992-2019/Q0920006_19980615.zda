@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920006
+datum=15.06.1998
+kurzken=Q 0920006/98
+bez=Oranienburger Chaussee (südl. Schönfließer Straße)   (Frohnau, 13465)
+arm1=Schönfließer Straße,250,0100
+arm2=Weislingenstraße,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+474	27	4	11
+433	40	2	8
+375	27	0	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+410	24	2	6
+416	18	2	12
+405	14	1	12
+; 2 -> 1
+282	29	2	6
+328	42	1	6
+333	43	1	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+475	31	3	17
+541	24	1	15
+449	12	0	15

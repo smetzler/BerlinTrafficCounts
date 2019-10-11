@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025357
+datum=1.10.1991
+kurzken=Q 2535.7/91-F
+bez=Ostseestraße südlich Hosemannstraße    ( Berlin 1056 - Przlb.)
+arm1=Ost,1350,0100
+arm2=West,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Zählung erfolgte durch  -  Verkehr Berlin 
+data=
+; 1 -> 2
+32 
+5 
+12 
+2 
+12 
+15 
+2 
+5 
+3 
+19 
+5 
+8 
+; 2 -> 1
+12 
+2 
+10 
+3 
+4 
+17 
+9 
+6 
+13 
+20 
+11 
+6 

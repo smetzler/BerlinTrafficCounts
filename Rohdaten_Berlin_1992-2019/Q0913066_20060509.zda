@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913066
+datum=09.05.2006
+kurzken=Q 0913066/06
+bez=Str. 229 (östl. Plautusstraße)   (Mariendorf, 12109)
+arm1=Plautusstraße,850,0100
+arm2=Kabelpfuhlweg,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+43	2	0	2	18
+53	0	0	2	23
+54	0	0	1	19
+64	0	0	2	28
+65	0	0	2	19
+66	1	0	10	17
+50	0	0	6	33
+77	1	0	10	27
+96	2	0	4	24
+87	2	0	7	26
+78	0	0	7	25
+61	0	0	2	26
+; 2 -> 1
+122	0	1	8	28
+106	0	0	4	41
+61	2	0	3	18
+92	0	0	4	20
+64	2	0	3	18
+59	1	0	3	15
+60	1	1	7	13
+72	0	0	7	15
+64	4	0	6	12
+64	1	0	2	28
+65	1	0	3	12
+87	0	0	11	17

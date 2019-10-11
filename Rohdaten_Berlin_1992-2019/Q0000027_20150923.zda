@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0027
+datum=23.09.2015
+kurzken=Q 0027/15
+bez=B96a - Am Seegraben (nordöstl. Paradiesstraße)   (Altglienicke, 12526)
+arm1=Paradiesstr. (AD Zubr. Dresden),1400,0100
+arm2=Adlergestell,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Zählzeit: 7 - 9 und 15 - 18 Uhr.\nCity-Atlas Seite 155\, Feld 24-b
+data=
+; 1 -> 2
+880	31	46	2	4	0
+962	34	46	2	2	0
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+1171	12	28	0	22	0
+1373	10	10	3	19	0
+1250	9	9	3	20	0
+; 2 -> 1
+1171	30	50	3	10	0
+1003	37	45	4	5	0
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	-1
+1141	25	51	1	9	0
+1167	27	28	2	14	0
+1009	14	19	1	15	0

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0919292
+datum=28.06.2016
+kurzken=Q 0919292/16
+bez=Edelweißstraße (östl. Hauptstraße)   (Wilhelmsruh, 13158)
+arm1=Hauptstraße,800,0100
+arm2=Tollerstraße,2600,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Edelweißstr. ist Einbahnstr. in Richtung Osten.
+data=
+; 1 -> 2
+76	8	6	2	29
+81	6	6	0	14
+80	9	6	1	4
+98	2	6	0	10
+84	8	6	2	10
+86	13	5	1	12
+98	6	7	3	17
+176	4	6	9	27
+206	9	7	12	25
+242	6	8	8	30
+218	0	6	10	30
+129	0	7	5	25

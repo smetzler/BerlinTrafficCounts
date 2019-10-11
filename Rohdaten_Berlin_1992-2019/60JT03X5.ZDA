@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025668
+datum=26.3.1992
+kurzken=Q 2566.8/92-F
+bez=Louis-Lewin-Str. nördlich Adele-Sandrock-Str.    ( Berlin 1150-Helldf. )
+arm1=Ost,1600,0100
+arm2=West,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+2 21 
+1 16 
+17 19 
+12 0 
+13 1 
+12 0 
+3 2 
+10 4 
+24 3 
+33 4 
+23 6 
+19 7 
+; 2 -> 1
+6 16 
+1 3 
+26 0 
+28 0 
+12 0 
+9 3 
+11 8 
+24 16 
+18 5 
+15 3 
+47 6 
+23 8 

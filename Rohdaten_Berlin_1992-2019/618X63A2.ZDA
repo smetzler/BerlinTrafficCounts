@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 58218
+datum=27.03.1990
+kurzken=Q 58218/90
+bez=Kleiststrasse oestl. Eisenacher Strasse    ( Berlin 30 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+14 2 23 0 28 0 32 1 24 0 30 1 38 4 
+22 5 22 6 30 3 38 4 18 1 
+; 2 -> 1
+18 1 15 2 24 2 24 0 38 0 37 2 25 1 
+23 1 26 4 20 1 28 3 21 1 

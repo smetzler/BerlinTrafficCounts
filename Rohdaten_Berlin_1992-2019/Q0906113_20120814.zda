@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906113
+datum=14.08.2012
+kurzken=Q 0906113/12
+bez=Brachvogelstraße (Höhe Johanniterstraße)   (Kreuzberg, 10961)
+arm1=Blücherstraße,1700,0000
+arm2=Alexandrinenstraße,3500,0000
+arm3=((Westen)),800,0001
+arm4=((Osten)),2600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Brachvogelstr.. in Höhe der Johanniterstr.(ca. 50m südl. bis 50m nördl.) queren.\nWetter: max T=23°C; Sonne=11\,5 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+20	3
+35	0
+31	5
+36	4
+28	4
+21	2
+49	1
+45	5
+48	14
+28	6
+44	5
+31	1
+; 4 -> 3
+23	4
+29	2
+25	0
+32	0
+23	7
+16	0
+30	0
+22	1
+23	0
+36	6
+20	1
+23	7

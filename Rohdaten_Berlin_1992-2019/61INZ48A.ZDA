@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 70847
+datum=11.3.1993
+kurzken=Q 7084.7/93-F
+bez=Charlottenstraße südl. Kochstraße     (Krzbg.)
+arm1=Ost,450,0100
+arm2=West,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+23 8 
+37 4 
+69 3 
+62 0 
+41 1 
+63 2 
+83 4 
+147 7 
+149 6 
+103 6 
+79 5 
+56 4 
+; 2 -> 1
+203 4 
+106 0 
+126 2 
+130 3 
+95 3 
+133 4 
+110 3 
+129 4 
+108 5 
+111 12 
+78 1 
+36 6 

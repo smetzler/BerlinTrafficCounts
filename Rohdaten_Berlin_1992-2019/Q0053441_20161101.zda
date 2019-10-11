@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 53441
+datum=01.11.2016
+kurzken=Q 53441/16
+bez=Wiener Straße (westl. Lausitzer Straße)   (Kreuzberg, 10999)
+arm1=Wiener Straße (W),600,0000
+arm2=Lausitzer Straße (S),1500,0001
+arm3=Wiener Straße (O),2400,0000
+arm4=Lausitzer Straße (N),3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=0 Std; Niederschlag=2 mm;
+data=
+; 2 -> 4
+22	11
+44	3
+30	0
+36	0
+26	0
+38	0
+31	0
+35	0
+29	1
+39	0
+29	3
+49	1
+; 4 -> 2
+13	0
+12	1
+21	0
+25	0
+27	0
+31	0
+42	3
+27	2
+34	5
+17	4
+26	1
+31	0

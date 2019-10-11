@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12271
+datum=08.11.2010
+kurzken=Q 12271/10
+bez=Rudolstädter Straße (westl. Mecklenburgische Straße)   (Wilmersdorf, 10713)
+arm1=Rudolstädter Straße,400,0000
+arm2=Mecklenburgische Straße (S),1300,0001
+arm3=Detmolder Straße,2200,0000
+arm4=Mecklenburgische Staße (N),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=0 Std; Niederschlag=3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+35	27
+40	5
+37	2
+28	0
+33	2
+26	5
+22	2
+29	4
+44	12
+46	12
+45	2
+36	6
+; 4 -> 2
+37	22
+53	8
+45	9
+50	1
+42	2
+51	1
+62	2
+58	3
+61	8
+50	8
+51	6
+55	3

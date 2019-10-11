@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26298
+datum=19.05.1994
+kurzken=Q 26298/94
+bez=Köpenicker Straße / nördl. Heesestraße (Biesdorf-Süd)
+arm1=Gleiwitzer Straße,900,0010
+arm2=Köpenicker Straße,1700,0000
+arm3=Heesestraße,2600,1000
+arm4=Köpenicker Straße,3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     \nWetter:  bedeckt\, Dauerregen
+data=
+; 1 -> 3
+7 8
+13 2
+9 3
+6 2
+8 5
+10 3
+3 0
+4 0
+5 1
+4 2
+3 0
+4 0
+; 3 -> 1
+5 4
+14 1
+7 3
+5 2
+11 3
+13 4
+2 1
+1 0
+6 2
+1 0
+3 0
+1 0

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27824
+datum=21.04.2004
+kurzken=Q 27824/04
+bez=Wilhelm-Wolff-Straße (nordöstl. Friedrich-Engels-Straße)   (Pankow, 13156)
+arm1=Friedrich-Engels-Straße (NW),450,0010
+arm2=Wilhelm-Wolff-Straße (W),1000,0000
+arm3=Friedrich-Engels-Straße (SO),2250,1000
+arm4=Wilhelm-Wolff-Straße (NO),3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=3\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+7	2
+2	1
+11	2
+4	0
+6	0
+9	0
+6	0
+11	2
+12	4
+12	1
+12	4
+5	0
+; 3 -> 1
+3	0
+7	0
+6	0
+9	0
+11	1
+20	0
+17	3
+9	5
+16	3
+21	3
+21	6
+7	0

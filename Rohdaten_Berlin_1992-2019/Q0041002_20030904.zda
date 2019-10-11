@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 041002
+datum=04.09.2003
+kurzken=Q 041002/03
+bez=Rhinstraße (nördl. Seddiner Straße) (Lichtenberg, 12681)
+arm1=Seddiner Straße ,1800,0100
+arm2=S-Bhf. Friedrichsfelde-Ost,0,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Rhinstr. zw. Allee der Kosmonauten u. S-Bahn Fahrbahn auf einen Fahrstreifen verengt !
+data=
+; 1 -> 2
+801	133	57	1	5
+1075	134	51	3	7
+866	110	93	4	6
+783	96	77	2	8
+813	105	102	1	6
+751	109	100	2	9
+800	93	89	1	6
+865	88	89	1	8
+946	73	72	0	10
+1149	102	69	3	13
+1091	107	73	0	14
+1016	106	36	0	12
+; 2 -> 1
+721	209	76	0	6
+803	164	66	3	9
+808	143	57	4	15
+741	83	85	2	4
+791	112	83	2	3
+797	79	59	6	8
+822	94	66	4	21
+797	83	93	5	9
+813	56	47	2	25
+1095	64	62	2	35
+1029	78	39	6	23
+901	47	28	1	21

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q010711
+datum=08.04.2019
+kurzken=Q010711/19
+bez=Potsdamer Straße - Hauptstr. / Grunewaldstr. - Langenscheidstr. (Schöneberg, 10827)  über Arm1
+arm1=Grunewaldstraße,980,0000
+arm2=Hauptstraße,1530,0001
+arm3=Langenscheidtstraße,2250,0000
+arm4=Potsdamer Straße,3430,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+29	13
+35	0
+44	6
+34	6
+59	1
+160	3
+128	5
+68	1
+66	11
+102	2
+53	8
+83	6
+; 4 -> 2
+14	7
+49	14
+46	6
+38	2
+104	8
+117	4
+123	7
+92	11
+110	9
+114	16
+144	15
+121	16

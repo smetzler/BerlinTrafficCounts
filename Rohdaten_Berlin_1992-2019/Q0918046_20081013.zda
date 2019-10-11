@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918046
+datum=13.10.2008
+kurzken=Q 0918046/08
+bez=Roelckestraße (Höhe Nr. 60)   (Weißensee, 13086)
+arm1=Amalienstraße,1500,0000
+arm2=Große Seestraße,3300,0000
+arm3=((Nordwesten)),600,0001
+arm4=((Südosten)),2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Roelckestraße in Höhe Nr. 60 (ca. 50m südwestl. bis 50m nordöstl.) queren.\nWetter: max T=20°C; Sonne=5\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+6	5
+4	3
+3	1
+0	0
+0	0
+2	0
+1	5
+5	1
+4	4
+7	3
+2	1
+3	1
+; 4 -> 3
+11	0
+4	0
+6	3
+4	0
+3	0
+6	0
+4	0
+8	2
+7	2
+21	9
+3	0
+8	0

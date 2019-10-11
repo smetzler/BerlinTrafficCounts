@@ -1,0 +1,120 @@
+[ZA1001]
+knoten=K 2523
+datum=18.09.1991
+kurzken=K 2523/91
+bez=Leninallee / Friedenstrasse      ( 1017 - Friedrichshain )
+arm1=Friedenstrasse,350,0100
+arm2=Leninallee,930,0011
+arm3=Friedenstrasse,2150,1101
+arm4=Leninallee,2730,1100
+art=Kfz
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Abfahrt 1: Sackgasse ; Zufahrt 1:  Geradeausfahren und Linksabbiegen untersagt !\nZufahrten 2 und 4 : Linksabbiegen untersagt !
+data=
+; 1 -> 2
+23
+13
+23
+21
+23
+19
+21
+28
+23
+29
+39
+21
+; 2 -> 3
+211
+174
+208
+185
+226
+192
+225
+232
+273
+254
+201
+215
+; 2 -> 4
+810
+798
+941
+956
+948
+960
+1134
+1219
+1269
+1136
+1486
+1366
+; 3 -> 1
+9
+4
+10
+12
+5
+11
+9
+13
+12
+9
+8
+15
+; 3 -> 2
+213
+185
+202
+221
+188
+146
+195
+222
+275
+271
+234
+189
+; 3 -> 4
+164
+109
+139
+150
+154
+101
+150
+161
+244
+232
+224
+146
+; 4 -> 1
+8
+6
+14
+7
+10
+17
+14
+11
+12
+16
+16
+12
+; 4 -> 2
+1022
+780
+1266
+913
+1195
+1089
+1130
+1094
+1338
+1170
+1010
+1004

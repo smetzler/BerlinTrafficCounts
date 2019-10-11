@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6554013
+datum=15.03.2011
+kurzken=Q 6554013/04
+bez=Ruschestraße (südl. Bornitzstraße)  (Lichtenberg, 10367)
+arm1=Ruschestraße (N),30,0000
+arm2=Bornitzstraße (W),880,0001
+arm3=Ruschestraße (S),1650,0000
+arm4=Bornitzstraße (O),2680,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=0 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+3	0
+1	0
+1	0
+5	0
+4	0
+0	3
+9	0
+1	2
+5	1
+4	1
+6	0
+7	1
+; 4 -> 2
+3	0
+1	0
+1	0
+6	0
+6	2
+0	0
+2	0
+0	0
+4	0
+1	0
+5	0
+1	0

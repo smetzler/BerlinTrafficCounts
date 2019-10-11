@@ -1,0 +1,66 @@
+[ZA1001]
+knoten=Q 7568
+datum=13.07.1999
+kurzken=Q 7568/99
+bez=Kochstraße (östl. Friedrichstraße)   (Kreuzberg, 10969)
+arm1=Friedrichstraße (N),70,0010
+arm2=Kochstraße (W),950,0000
+arm3=Friedrichstraße (S),1870,1000
+arm4=Kochstraße (O),2750,0000
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 76\, PlanquadratN18
+data=
+; 1 -> 3
+15	1
+7	0
+6	0
+5	0
+11	0
+46	0
+32	21
+87	145
+154	102
+183	55
+165	84
+263	110
+298	15
+263	10
+261	7
+308	9
+288	15
+242	14
+253	46
+63	13
+77	57
+61	19
+18	2
+4	0
+; 3 -> 1
+8	0
+22	0
+5	0
+1	0
+10	0
+22	0
+42	8
+114	15
+212	22
+185	39
+155	145
+206	28
+198	18
+207	2
+180	6
+177	1
+148	8
+129	3
+158	23
+52	55
+63	10
+12	1
+5	0
+0	0

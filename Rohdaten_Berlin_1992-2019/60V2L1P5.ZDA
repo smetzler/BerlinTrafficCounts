@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40269
+datum=26.04.1985
+kurzken=Q 40269/85
+bez=Oberlandstrasse zwischen BAB Berlin SO und Schaffhausener Strasse  ( Berlin 42 )
+Arm1=BAB Berlin SO,900,0100
+Arm2=Schaffhausener Str.,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+14 657 90 94 10 14 558 102 92 7 9 557 81 99 11 
+10 538 82 93 5 5 579 80 96 6 13 606 69 96 6 
+10 821 62 83 7 4 778 64 59 5 20 791 48 47 7 
+23 875 50 32 11 15 825 37 15 9 16 679 21 19 4 
+; 2 -> 1
+10 713 60 76 9 14 724 43 97 7 6 560 53 80 6 
+2 596 65 97 5 6 661 84 105 6 9 595 71 93 6 
+17 713 56 68 3 12 783 54 47 9 28 960 33 43 9 
+20 772 36 25 7 23 724 34 16 6 18 665 22 17 5 

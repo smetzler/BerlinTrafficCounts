@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0918007
+datum=10.11.1998
+kurzken=Q 0918007/98
+bez=Roelckestraße (südl. Langhansstraße)   (Weißensee, 13086)
+arm1=Streustraße,1450,0100
+arm2=Langhansstraße,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+464	39	3	3
+402	43	4	1
+466	52	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+801	36	3	9
+895	24	3	7
+789	21	3	10
+; 2 -> 1
+745	46	5	6
+586	51	3	4
+463	37	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+420	23	3	3
+548	18	3	7
+449	6	3	6

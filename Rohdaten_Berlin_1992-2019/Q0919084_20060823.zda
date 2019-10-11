@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0919084
+datum=23.08.2006
+kurzken=Q 0919084/06
+bez=Alt-Blankenburg (östl. Krugstege)   (Blankenburg, 13129)
+arm1=Krugstege,950,0100
+arm2=Jungbornstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+335	20	10	7	40
+351	23	8	4	20
+379	26	8	8	19
+456	30	6	8	20
+439	22	6	6	11
+489	22	7	6	22
+461	20	7	10	45
+506	14	9	8	43
+538	28	10	14	54
+617	15	9	13	49
+648	9	8	13	57
+630	4	9	11	51
+; 2 -> 1
+612	14	13	14	95
+458	18	9	9	40
+378	16	5	9	20
+530	20	10	6	14
+368	19	5	4	3
+378	21	7	9	24
+431	27	6	11	29
+401	17	9	13	35
+374	18	10	4	32
+553	8	9	13	48
+460	7	8	8	36
+426	2	11	6	33

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0041204
+datum=07.03.2019
+kurzken=Q 0041204/19
+bez=Edisonstraße (Treskowbrücke) (Köpenick, 12459) 
+arm1=Wilhelminenhofstraße,3400,0100
+arm2=Schnellerstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+; 2 -> 1
+410	17	0	5	15
+355	21	0	3	9
+286	14	0	1	12
+220	26	0	6	4
+252	24	0	6	12
+287	16	0	6	14
+305	22	0	5	12
+347	27	0	7	15
+789	31	0	7	21
+726	24	0	6	12
+351	10	0	5	14
+279	6	0	4	7

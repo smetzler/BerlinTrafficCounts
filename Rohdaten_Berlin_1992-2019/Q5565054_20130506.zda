@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5565054
+datum=06.05.2013
+kurzken=Q 5565054/13
+bez=Schönhauser Allee-Nebenspur (nördl. Torstraße)   (Mitte, 10119)
+arm1=Torstraße (W),720,0010
+arm2=Rosa-Luxemburg-Straße,2000,0000
+arm3=Torstraße (O),2520,1000
+arm4=Schönhauser Allee (Nebenspur),0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 1 -> 3
+50	6
+76	3
+109	3
+87	4
+87	2
+120	3
+80	10
+72	4
+101	5
+87	12
+125	21
+132	20
+; 3 -> 1
+35	7
+54	7
+59	0
+62	1
+82	0
+145	1
+92	5
+85	9
+93	4
+12	20
+122	25
+111	12

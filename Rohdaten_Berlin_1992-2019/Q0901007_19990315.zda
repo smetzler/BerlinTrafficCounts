@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901007
+datum=15.03.1999
+kurzken=Q 0901007/99
+bez=Heinrich-Heine-Straße (südl. Annenstraße)   (Mitte, 10179)
+arm1=Dresdener Straße,1600,0100
+arm2=Annenstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+716	40	6	9
+786	64	5	9
+686	54	6	16
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+802	49	6	10
+877	24	8	13
+795	12	6	14
+; 2 -> 1
+1011	48	0	14
+947	73	1	5
+764	52	0	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+917	50	2	19
+889	43	1	18
+777	17	0	20

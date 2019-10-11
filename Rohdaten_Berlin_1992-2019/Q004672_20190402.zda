@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q004672
+datum=02.04.2019
+kurzken=Q004672/17
+bez=Stromstraße / Turmstraße (Tiergarten, 10551)  über Arm2
+arm1=Stromstraße (N),0,0010
+arm2=Turmstraße (W),900,0000
+arm3=Stromstraße (S),1700,1000
+arm4=Turmstraße (O),2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+42	30
+59	16
+58	1
+108	18
+100	1
+91	3
+61	4
+43	3
+54	2
+92	8
+80	5
+73	2
+; 3 -> 1
+33	6
+73	4
+87	3
+90	16
+129	8
+151	6
+73	3
+89	4
+78	3
+90	18
+143	11
+74	7

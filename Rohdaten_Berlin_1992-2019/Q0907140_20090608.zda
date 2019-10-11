@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907140
+datum=08.06.2009
+kurzken=Q 0907140/09
+bez=Sophie-Charlotten-Straße (nördl. Philippistraße)   (Charlottenburg, 14059)
+arm1=Horstweg,100,0100
+arm2=Philippistraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+242	11	0	8	18
+503	18	2	7	23
+475	16	2	9	9
+550	14	2	2	18
+528	10	1	5	14
+516	21	5	11	13
+451	15	2	10	20
+464	11	2	15	22
+426	14	2	10	36
+509	12	2	13	39
+559	10	1	18	43
+485	1	2	15	32
+; 2 -> 1
+315	6	0	2	11
+264	10	1	7	17
+175	8	1	5	16
+156	8	0	0	18
+217	8	0	3	20
+210	9	0	6	9
+226	8	0	10	27
+256	6	1	10	25
+334	16	2	16	10
+288	6	0	6	24
+287	4	0	13	43
+223	5	0	7	33

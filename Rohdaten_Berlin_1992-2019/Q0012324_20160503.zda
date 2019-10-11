@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 12324
+datum=03.05.2016
+kurzken=Q 12324/16
+bez=Varziner Straße (östl. Bundesallee)   (Schöneberg, 12161)
+arm1=Bundesallee (N),0,0010
+arm2=Südwestkorso,1200,0000
+arm3=Bundesallee (S),1800,1000
+arm4=Varziner Straße,2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+16	3
+39	2
+51	2
+30	3
+28	5
+35	1
+52	0
+64	5
+71	6
+63	10
+69	11
+86	6
+; 3 -> 1
+45	9
+52	2
+44	5
+26	1
+34	2
+37	0
+59	0
+69	1
+57	9
+50	16
+71	13
+52	5

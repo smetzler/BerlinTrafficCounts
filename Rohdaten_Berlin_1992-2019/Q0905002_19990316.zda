@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0905002
+datum=16.03.1999
+kurzken=Q 0905002/99
+bez=Lichtenberger Straße (nördl. Singerstraße)   (Friedrichshain, 10243)
+arm1=Singerstraße,1600,0100
+arm2=Strausberger Platz,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+657	47	0	3
+643	51	1	6
+631	54	0	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1119	43	1	9
+1201	27	1	11
+997	21	0	8
+; 2 -> 1
+971	57	2	8
+838	53	2	5
+686	47	0	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+709	31	0	5
+742	27	0	10
+648	13	0	8

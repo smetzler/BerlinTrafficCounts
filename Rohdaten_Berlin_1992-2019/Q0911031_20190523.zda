@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911031
+datum=23.05.2019
+kurzken=Q 0911031/19
+bez=von Wexstraße-West (Prinzregentenstr.) nach Innsbrucker Platz (Friedenau, 10825) 
+arm1=Wexstraße (Prinzregentenstr.),800,0001
+arm2=,0,0000
+arm3=,0,0000
+arm4=Innsbrucker Platz (Hauptstr.),2700,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 4
+467	16	6	18	0
+688	15	2	17	0
+479	11	6	25	0
+472	16	4	12	0
+442	13	3	17	0
+452	12	4	15	5
+464	15	4	18	8
+481	18	5	17	6
+518	19	4	21	11
+566	20	4	16	12
+631	12	6	19	14
+567	12	5	16	12

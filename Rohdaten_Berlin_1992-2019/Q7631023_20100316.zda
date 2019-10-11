@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 7631023
+datum=16.03.2010
+kurzken=Q 7631023/10
+bez=Raoul-Wallenberg-Straße (östl. Jan-Petersen-Straße)   (Marzahn, 12679)
+arm1=Raoul-Wallenberg-Straße,740,0000
+arm2=Zufahrt Wohngebiet,1500,0001
+arm3=Raoul-Wallenberg-Straße,2350,0000
+arm4=Jan-Petersen-Straße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=1 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	2
+13	0
+11	0
+9	0
+9	0
+11	0
+4	0
+6	4
+3	0
+7	1
+8	0
+5	0
+; 4 -> 2
+12	0
+13	0
+6	0
+7	0
+14	0
+5	0
+6	0
+12	0
+16	4
+9	3
+8	0
+5	1

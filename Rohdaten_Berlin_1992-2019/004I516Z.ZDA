@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=K 5837
+datum=12.10.1983
+kurzken=K 5837/83
+bez=Bundesallee / Sieglindestrasse   ( Berlin 41 )
+Arm1=Bundesallee,0,0000
+Arm2=,0,0000
+Arm3=Bundesallee,1800,1001
+Arm4=Sieglindestrasse,3150,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 3 -> 1
+18 348 32 8 4 6 293 21 14 6 8 232 19 13 5 
+2 236 24 11 6 8 234 27 15 5 10 248 24 22 5 
+8 236 27 16 6 8 254 25 15 5 16 305 22 8 6 
+24 362 16 5 5 15 328 12 0 5 17 279 7 1 7 
+; 3 -> 4
+0 5 0 1 0 0 4 1 0 0 0 7 0 2 0 
+0 5 0 0 0 0 4 0 1 0 0 10 0 0 0 
+1 9 2 1 0 0 6 1 0 0 0 8 1 0 0 
+0 9 0 0 0 0 17 1 0 0 0 4 0 0 0 

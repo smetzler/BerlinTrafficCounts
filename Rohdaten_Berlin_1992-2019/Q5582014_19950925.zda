@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5582014
+datum=25.09.1995
+kurzken=Q 5582014/95
+bez=Andreasstraße (nördl. Holzmarktstraße)   (Friedrichshain, 10243) 
+arm1=Holzmarktstraße,1700,0100
+arm2=Am Hauptbahnhof,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebung:\n - büro für   ;\nWegen Bauarbeiten nur eine Spur je Fahrtrichtung!
+data=
+; 1 -> 2
+309 21 12 5 18
+290 31 10 4 18
+215 37 2 0 11
+215 30 5 4 15
+294 35 6 7 14
+257 34 3 4 12
+372 36 9 3 17
+381 29 15 5 22
+521 23 11 2 18
+643 25 15 16 37
+533 17 17 9 47
+418 11 19 5 23
+; 2 -> 1
+566 41 14 7 22
+427 32 9 4 19
+293 39 6 2 20
+256 30 5 1 13
+247 29 10 2 20
+279 48 7 2 16
+278 35 13 1 26
+304 29 15 8 21
+431 25 14 7 14
+493 37 16 7 27
+404 22 15 5 26
+344 13 17 8 21

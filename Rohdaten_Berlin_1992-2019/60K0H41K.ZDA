@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25937
+datum=25.8.1992
+kurzken=Q 2593.7/92-F
+bez=Bitterfelder Straße östlich Wolfener Straße    ( Berlin 1140-Marzahn )
+arm1=Süd,1700,0100
+arm2=Nord,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+6 
+4 
+0 
+1 
+1 
+1 
+6 
+0 
+4 
+7 
+3 
+0 
+; 2 -> 1
+7 
+5 
+0 
+4 
+4 
+2 
+6 
+3 
+4 
+6 
+2 
+3 

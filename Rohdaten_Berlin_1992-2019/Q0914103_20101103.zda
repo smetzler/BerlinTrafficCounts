@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914103
+datum=03.11.2010
+kurzken=Q 0914103/10
+bez=Kanalstraße (südöstl. Stubenrauchstraße)   (Rudow, 12357)
+arm1=Stubenrauchstraße,450,0100
+arm2=Mistelweg,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+491	98	9	15	3
+419	51	4	9	8
+318	36	2	9	13
+262	32	4	4	8
+302	59	3	6	5
+271	35	3	3	3
+280	34	3	3	9
+398	40	7	10	15
+398	32	6	8	10
+343	22	3	2	10
+344	12	7	4	5
+250	7	5	3	1
+; 2 -> 1
+220	45	5	3	3
+219	38	6	0	2
+224	40	3	3	1
+272	56	2	2	6
+281	39	4	5	9
+261	42	3	3	8
+372	41	5	5	16
+380	39	5	5	7
+408	24	6	4	20
+433	20	6	7	8
+399	17	6	6	5
+361	13	4	5	0

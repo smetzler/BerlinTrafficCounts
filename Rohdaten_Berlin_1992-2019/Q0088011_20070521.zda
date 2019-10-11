@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 88011
+datum=21.05.2007
+kurzken=Q 88011/07
+bez=Gitschiner Straße (NORDSEITE, westl. Prinzenstraße)   (Kreuzberg, 10969)
+arm1=Gitschiner Straße,920,0000
+arm2=Prinzenstraße,1540,0001
+arm3=Gitschiner Straße,2720,0000
+arm4=Prinzenstraße,3340,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Gitschiner Str. zwischen der NÖRDL. STRAßENSEITE und der MITTELINSEL (U-Bahn) queren!\nWetter: max T=30°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+111	24
+152	10
+147	9
+138	9
+140	26
+142	23
+157	54
+172	84
+186	70
+143	66
+149	32
+138	51
+; 4 -> 2
+108	71
+136	17
+120	17
+140	3
+115	59
+106	15
+168	29
+176	42
+195	43
+201	60
+218	32
+242	109

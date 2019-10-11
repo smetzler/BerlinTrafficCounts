@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4141
+datum=18.05.1994
+kurzken=Q 4141/94
+bez=Michelangelostr. / Bushaltestelle (ca. 500 m östl. Greifsw. Str.) (Przl. B.)
+arm1=Greifswalder Straße,550,0100
+arm2=Kniprodestraße,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+658 63 15 5 19
+623 52 5 2 10
+556 62 4 3 14
+432 80 4 4 4
+464 48 3 5 6
+479 66 3 5 6
+498 65 5 3 7
+475 45 9 2 10
+512 50 12 10 12
+627 26 7 11 19
+551 19 6 10 21
+569 13 5 8 18
+; 2 -> 1
+672 59 3 3 15
+643 51 4 3 14
+599 61 4 5 9
+538 76 6 6 10
+572 52 4 6 8
+534 44 4 6 5
+601 71 4 8 7
+626 56 6 12 9
+806 38 4 20 8
+1004 34 6 12 23
+1009 30 10 18 9
+838 27 11 12 10

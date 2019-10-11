@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010307
+datum=05.03.2014
+kurzken=Q 010307/14
+bez=Stresemannstraße (südl. Potsdamer Platz)   (Mitte, 10557)
+arm1=Potsdamer Platz,0,0100
+arm2=Köthener Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Stresemannstr. vor Potsdamer Str. jeweils ein Fahrstreifen in der Zufahrt zur Kreuzung gesperrt \n
+data=
+; 1 -> 2
+499	16	7	3	74
+638	22	13	7	179
+637	21	16	9	120
+310	24	24	10	88
+529	14	23	2	112
+401	12	20	3	67
+367	10	20	10	94
+405	5	15	7	92
+444	5	18	11	100
+462	4	17	8	158
+480	5	12	7	197
+539	1	11	9	204
+; 2 -> 1
+355	16	6	3	117
+504	20	10	9	270
+476	14	11	8	257
+380	20	14	10	130
+362	11	8	2	126
+286	15	7	4	123
+312	14	8	7	105
+364	9	7	9	103
+415	8	8	6	115
+388	3	8	7	131
+442	2	7	10	149
+472	0	7	7	133

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 12602
+datum=22.10.2002
+kurzken=Q 12602/02
+bez=Boelckestraße  (südl. Loewenhardtdamm)   (Tempelhof, 12101)
+arm1=West,450,0010
+arm2=Boelckestraße (S),1750,0000
+arm3=Ost,2400,1000
+arm4=Boelckestraße (N),3450,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 13°C; Sonne: 0 Std; Niederschlag: 3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	0
+6	0
+4	1
+1	0
+3	0
+0	0
+8	9
+9	7
+0	0
+4	0
+1	0
+0	0
+; 3 -> 1
+1	17
+3	2
+1	3
+1	0
+3	22
+3	0
+4	2
+4	3
+3	0
+2	0
+1	1
+1	0

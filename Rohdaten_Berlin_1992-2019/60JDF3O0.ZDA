@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25107
+datum=17.6.1991
+kurzken=Q 2510.7/91-F
+bez=Karower Strasse suedlich Alt-Buch    ( Pankow )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+34 
+11 
+29 
+7 
+11 
+16 
+11 
+12 
+28 
+12 
+16 
+8 
+; 2 -> 1
+14 
+16 
+8 
+20 
+23 
+10 
+35 
+18 
+34 
+3 
+12 
+13 

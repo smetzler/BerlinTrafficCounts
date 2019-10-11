@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 121604
+datum=26.09.1994
+kurzken=Q 121604/94
+bez=Adlergestell (Stelling-Janitzky-Brücke, Teltowkanal) (Treptow, 12489) 
+arm1=Glienicker Weg,300,0100
+arm2=Am Seegraben,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Bauarbeiten Grünauer Str. - Adlergestell zwischen Fennstr. und Rudower Ch.\nDurchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+1142,134,64,0,0
+963,101,102,4,0
+1125,142,145,3,1
+1209,124,152,5,0
+1108,122,169,4,0
+970,118,200,1,0
+982,105,204,2,0
+980,102,175,2,2
+1002,113,166,3,14
+1140,145,140,3,15
+1257,149,122,0,7
+1110,135,100,5,10
+; 2 -> 1
+1585,176,121,3,13
+1181,112,176,2,33
+998,121,169,4,8
+1045,96,156,2,11
+1089,118,154,3,9
+1107,104,167,6,5
+1143,132,209,2,7
+1205,109,179,2,8
+1249,117,153,3,15
+1548,116,140,10,15
+1960,159,136,5,19
+1753,97,98,2,11

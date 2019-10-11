@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917047
+datum=24.08.2006
+kurzken=Q 0917047/06
+bez=Alt-Friedrichsfelde (östl. Uhrig-Straße)   (Friedrichsfelde, 10315)
+arm1=Robert-Uhrig-Straße,850,0100
+arm2=Am Tierpark,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1580	88	5	41	26
+1416	85	0	24	41
+1573	81	2	28	22
+1691	94	1	18	15
+1721	83	0	37	31
+1803	101	2	39	32
+2052	81	6	56	40
+2590	69	4	69	33
+3155	49	7	94	64
+3304	62	5	106	42
+2984	48	1	110	55
+2878	31	1	80	41
+; 2 -> 1
+3332	101	4	71	44
+2683	128	10	55	30
+2384	84	5	60	37
+1866	100	1	29	13
+1848	95	0	47	24
+1785	75	2	48	26
+1779	77	2	52	25
+1789	73	2	50	41
+1954	45	1	47	31
+1963	36	6	61	30
+1916	32	2	72	32
+1857	20	10	57	31

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0911071
+datum=04.03.2009
+kurzken=Q 0911071/09
+bez=Monumentenstraße (östl. Hohenfriedbergstraße)   (Schöneberg, 10323)
+arm1=Hohenfriedbergstraße,900,0100
+arm2=Hochkirchstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+160	2	0	11	83
+292	9	1	6	137
+218	6	2	5	93
+178	10	0	12	62
+189	3	0	11	49
+181	5	1	8	63
+198	9	0	5	68
+195	5	0	2	69
+238	4	0	2	70
+282	1	0	12	95
+227	0	0	4	95
+196	0	0	3	110
+; 2 -> 1
+178	6	1	8	65
+243	8	0	4	107
+211	6	0	3	110
+188	12	0	4	58
+191	10	0	6	62
+188	2	0	8	64
+198	4	0	3	54
+209	3	0	10	75
+268	8	0	10	92
+251	3	0	6	93
+240	0	0	15	122
+213	0	0	6	98

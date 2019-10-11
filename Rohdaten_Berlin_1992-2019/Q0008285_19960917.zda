@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8285
+datum=17.09.1996
+kurzken=Q 8285/96
+bez=Lietzenburger Straße   (westl. Bleibtreustraße)     (Charl'burg, 10707)
+arm1=,950,0000
+arm2=Sächsische Straße,1720,0001
+arm3=,2750,0000
+arm4=Bleibtreustraße,3520,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C\, bedeckt\, kein Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+10 0
+16 0
+9 0
+4 0
+13 0
+11 0
+13 0
+13 1
+15 1
+27 2
+25 0
+27 3
+; 4 -> 2
+13 2
+16 0
+58 1
+9 0
+17 0
+12 0
+28 1
+15 2
+15 0
+27 2
+39 0
+35 4

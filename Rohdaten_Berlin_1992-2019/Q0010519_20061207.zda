@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010519
+datum=07.12.2006
+kurzken=Q 010519/06
+bez=Bundesplatz-Tunnel (nördl. Mainzer Straße) (Schöneberg, 10715)
+arm1=Hildegardstraße,50,0100
+arm2=Ortrudstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: im Tunnel nur 1 Spur je Richtung !\nnur Fahrzeuge im Tunnel zählen!
+data=
+; 1 -> 2
+126	15	3	2
+296	21	6	2
+407	22	11	2
+453	29	10	0
+439	32	8	1
+480	59	8	0
+524	53	5	0
+552	52	10	0
+560	62	6	0
+800	64	8	0
+890	48	2	0
+917	27	1	1
+; 2 -> 1
+324	37	12	2
+847	71	14	0
+1164	79	20	2
+923	61	18	1
+720	46	11	0
+457	35	6	2
+452	32	9	0
+413	33	6	0
+464	40	12	0
+564	26	11	0
+586	21	4	0
+578	12	5	0

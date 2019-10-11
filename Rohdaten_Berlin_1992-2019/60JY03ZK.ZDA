@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025848
+datum=17.6.1992
+kurzken=Q 2584.8/92-F
+bez=Brixener Straße nördlich Maximilianstraße    ( Berlin 1100-Pankow )
+arm1=Ost,880,0100
+arm2=West,2680,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+16 17 
+13 12 
+19 3 
+9 1 
+8 1 
+10 2 
+14 7 
+13 9 
+11 4 
+14 2 
+17 7 
+23 5 
+; 2 -> 1
+18 9 
+13 4 
+17 1 
+21 3 
+4 1 
+3 5 
+18 11 
+6 5 
+6 1 
+9 4 
+13 5 
+9 4 

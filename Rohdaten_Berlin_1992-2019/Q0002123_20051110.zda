@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 2123
+datum=10.11.2005
+kurzken=Q 2123/05
+bez=Osloer Straße (östl. Prinzenallee)   (Wedding, 13359)
+arm1=Osloer Straße (W),850,0000
+arm2=Prinzenallee (S),1550,0001
+arm3=Osloer Straße (O),2650,0000
+arm4=Prinzenallee (N),3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=12°C; Sonne=2 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+29	23
+36	5
+48	5
+46	0
+65	3
+71	12
+49	35
+51	18
+76	18
+91	25
+130	13
+103	18
+; 4 -> 2
+21	27
+27	32
+51	8
+84	96
+77	6
+105	13
+102	25
+114	33
+94	24
+127	16
+56	9
+52	4

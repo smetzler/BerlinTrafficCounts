@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031208
+datum=29.08.2007
+kurzken=Q 031208/07
+bez=Elsenstraße (nördl. Heidelberger Straße) (Neukölln, 12435)
+arm1=Heidelberger Straße ,1400,0100
+arm2=Karl-Kunger-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Treptower Straße gesperrt!
+data=
+; 1 -> 2
+107	12	4	0	16
+195	27	6	1	24
+271	25	7	0	30
+204	18	8	0	18
+107	14	4	0	12
+119	18	4	0	20
+118	12	3	0	19
+143	11	8	0	20
+141	27	2	0	29
+218	16	2	0	32
+278	32	2	0	45
+281	30	3	0	43
+; 2 -> 1
+96	18	5	0	17
+117	23	9	0	14
+139	18	5	1	13
+94	14	2	0	10
+92	15	3	0	22
+111	17	4	0	15
+124	5	8	0	22
+115	14	2	0	25
+126	16	3	0	18
+130	12	4	0	36
+141	10	3	0	38
+135	8	1	0	45

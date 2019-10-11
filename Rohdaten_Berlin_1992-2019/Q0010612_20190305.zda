@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0010612
+datum=05.03.2019
+kurzken=Q 0010612/19
+bez=Röntgenstraße (Röntgenbrücke) (Charlottenburg, 10587) 
+arm1=Iburger Ufer,1700,0100
+arm2=Am Spreebord,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+119	4	0	2	40
+117	2	0	3	53
+116	1	0	3	40
+78	6	0	2	20
+82	2	0	1	14
+73	2	0	2	18
+63	0	0	0	11
+94	0	0	2	19
+117	1	0	2	33
+106	2	0	0	34
+89	0	0	2	51
+72	0	0	1	39
+; 2 -> 1
+118	3	0	3	27
+119	2	0	1	45
+86	0	0	1	28
+94	2	0	0	18
+118	5	0	1	16
+94	1	0	1	16
+77	0	0	0	18
+86	2	0	1	15
+113	0	0	3	26
+98	0	0	2	38
+91	0	0	4	29
+78	1	0	1	31

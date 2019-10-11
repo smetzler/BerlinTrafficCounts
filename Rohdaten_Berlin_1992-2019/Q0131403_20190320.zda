@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0131403
+datum=20.03.2019
+kurzken=Q 0131403/19
+bez=Töpchiner Weg (südl.Grenzweg) (Neukölln, 12305) 
+arm1=Grenzweg,3400,0100
+arm2=Rathenower Straße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+322	2	8	4	14
+271	7	6	0	8
+232	7	2	3	7
+188	6	3	3	10
+218	3	4	0	10
+196	3	4	3	10
+200	6	6	2	16
+255	4	5	5	14
+269	2	6	4	10
+264	5	7	5	11
+219	2	6	5	5
+230	1	6	1	5
+; 2 -> 1
+220	6	7	1	18
+188	5	5	3	12
+186	7	2	6	6
+163	5	3	1	12
+163	3	3	4	7
+197	5	5	3	9
+213	3	6	5	6
+282	5	6	5	12
+335	1	6	2	13
+319	0	6	2	17
+278	1	7	8	8
+232	0	5	1	4

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910076
+datum=18.09.2006
+kurzken=Q 0910076/06
+bez=Saargemünder Straße (westl. Bitscher Straße)   (Dahlem, 14195)
+arm1=Clayallee,850,0100
+arm2=Bitscher Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=27°C max T; 9 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+304	3	7	15	53
+382	6	8	8	59
+275	6	7	11	41
+226	8	8	6	40
+183	6	7	3	31
+189	5	8	5	31
+204	2	5	7	34
+211	2	6	5	39
+264	4	8	12	46
+282	1	6	5	46
+244	0	6	8	47
+225	0	7	5	41
+; 2 -> 1
+164	2	6	7	38
+180	4	6	3	26
+142	3	6	4	16
+146	10	8	8	34
+164	5	7	10	27
+165	1	7	5	29
+206	2	6	4	46
+183	0	6	8	62
+234	2	6	0	50
+268	1	6	12	45
+223	0	7	10	66
+228	0	7	11	48

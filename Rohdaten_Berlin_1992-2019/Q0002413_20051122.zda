@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 2413
+datum=22.11.2005
+kurzken=Q 2413/05
+bez=Müllerstraße (südl. Seestraße)   (Wedding, 13347)
+arm1=Müllerstraße (N),450,0000
+arm2=Seestraße (W),1300,0001
+arm3=Müllerstraße (S),2250,0000
+arm4=Seestraße (O),3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=ab 18:05 Strom 2>4 STARK ERHÖHTES Fußgängeraufkommen wegen U-Bahn-Ausfall!\nWetter: max T=4°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+161	61
+158	67
+301	31
+362	13
+378	48
+393	31
+240	155
+390	96
+423	53
+414	73
+300	43
+1502	67
+; 4 -> 2
+181	51
+391	47
+358	45
+240	66
+619	63
+497	88
+265	120
+360	170
+520	120
+551	136
+425	59
+560	30

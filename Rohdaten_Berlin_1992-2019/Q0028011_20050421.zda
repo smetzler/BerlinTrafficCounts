@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 28011
+datum=21.04.2005
+kurzken=Q 28011/05
+bez=Seestraße (westl. Hultschiner Damm)    (Mahlsdorf, 12623)
+arm1=Seestraße,550,0000
+arm2=Hultschiner Damm,1700,0001
+arm3=Kastanienallee,2550,0000
+arm4=Hultschiner Damm,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=10°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	0
+4	1
+4	0
+9	0
+10	0
+5	5
+10	1
+14	17
+32	7
+33	6
+24	2
+10	4
+; 4 -> 2
+0	0
+4	0
+5	0
+6	0
+3	0
+2	0
+6	1
+8	1
+11	0
+8	2
+19	2
+4	0

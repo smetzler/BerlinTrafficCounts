@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 12613
+datum=22.10.2002
+kurzken=Q 12613/02
+bez=Boelckestraße (südl. Werner-Voß-Damm)   (Tempelhof, 12101)
+arm1=Boelckestraße (N),50,0000
+arm2=West,1300,0001
+arm3=Boelckestraße (S),1900,0000
+arm4=Ost,3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 13°C; Sonne: 0 Std; Niederschlag: 3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	0
+3	0
+7	0
+16	0
+4	0
+3	0
+0	2
+0	0
+0	0
+0	0
+0	0
+3	0
+; 4 -> 2
+2	6
+7	1
+12	1
+11	0
+8	0
+4	0
+2	0
+2	0
+1	0
+2	1
+1	1
+3	0

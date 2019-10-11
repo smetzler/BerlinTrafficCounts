@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 80023
+datum=15.10.2001
+kurzken=Q 80023/01
+bez=Gimpelsteig (östl. Machnower Straße)   (Zehlendorf, 14165)
+arm1=Bismarckstraße,200,0000
+arm2=Süd,1600,0001
+arm3=Gimpelsteig,2700,0000
+arm4=Nord,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 21\,5°C; Sonne: 1\,5 Std; Niederschlag: 0 mm;\n - büro für   
+data=
+; 2 -> 4
+2 0
+1 0
+7 0
+9 0
+5 0
+10 1
+2 1
+12 1
+12 6
+5 3
+2 2
+1 1
+; 4 -> 2
+3 0
+1 0
+3 0
+3 0
+7 0
+2 0
+3 1
+1 5
+3 0
+1 1
+1 0
+1 1

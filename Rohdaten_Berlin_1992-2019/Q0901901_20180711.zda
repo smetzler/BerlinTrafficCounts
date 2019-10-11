@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901901
+datum=11.07.2018
+kurzken=Q 0901901/18
+bez=Karl-Liebknecht-Straße (westl. Spandauer Straße)   (Mitte, 10178)
+arm1=Am Lustgarten,1300,0100
+arm2=Spandauer Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 25°C max T; 6 Std Sonne; 35 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); \n1 Niederschlagtag(e) Vorwoche (>2 mm).\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+51
+111
+110
+112
+102
+122
+143
+174
+323
+298
+472
+507
+; 2 -> 1
+305
+668
+560
+227
+183
+139
+208
+180
+179
+200
+189
+198

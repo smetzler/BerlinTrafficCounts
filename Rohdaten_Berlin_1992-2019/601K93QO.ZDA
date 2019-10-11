@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2025
+datum=17.9.1991
+kurzken=Q 2025/91
+bez=BAB A 100
+arm1=2 : nach A 100,900,0100
+arm2=1 : von A 100,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1 = Ausfahrt v.A 100 nach Messedamm/Halenseestr.\nRichtung 2 = Einfahrt v. Messedamm/Halenseestr. nach A 100
+data=
+; 1 -> 2
+106 9 6 0 
+113 17 11 1 
+95 14 29 1 
+81 23 26 0 
+100 16 19 1 
+91 16 25 1 
+117 18 26 2 
+118 8 26 2 
+142 23 17 3 
+97 7 15 0 
+137 14 13 0 
+126 11 7 0 
+; 2 -> 1
+47 4 6 0 
+158 13 10 0 
+186 22 14 1 
+92 14 22 0 
+76 11 16 0 
+69 14 13 1 
+72 15 16 2 
+79 17 10 1 
+88 5 11 1 
+132 7 11 0 
+197 19 6 0 
+60 3 7 1 

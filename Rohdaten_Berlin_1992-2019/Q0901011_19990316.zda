@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901011
+datum=16.03.1999
+kurzken=Q 0901011/99
+bez=Stralauer Straße (östl. Klosterstraße)   (Mitte, 10178)
+arm1=Klosterstraße,850,0100
+arm2=Waisenstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+543	58	2	3
+555	71	0	5
+583	75	3	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1136	57	3	23
+1308	52	3	21
+1108	41	2	10
+; 2 -> 1
+1038	65	1	14
+946	76	1	12
+844	63	1	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+641	42	0	9
+669	39	2	10
+618	25	2	2

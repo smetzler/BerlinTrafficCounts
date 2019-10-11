@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2033
+datum=19.9.1991
+kurzken=Q 2033/91
+bez=BAB A 100
+arm1=2 : nach A 100,900,0100
+arm2=1 : von A 100,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1 = Ausfahrt von A 100 nach Rathenauplatz\nRichtung 2 = Einfahrt nach A 100 von Rathenauplatz
+data=
+; 1 -> 2
+589 45 42 3 
+661 56 63 1 
+718 59 55 3 
+613 41 59 2 
+623 85 48 2 
+713 57 50 5 
+555 46 45 2 
+621 35 28 5 
+737 43 45 4 
+721 40 36 3 
+691 21 22 7 
+581 16 10 2 
+; 2 -> 1
+493 27 26 3 
+704 62 38 9 
+740 48 76 10 
+659 66 62 5 
+596 83 54 3 
+595 82 64 4 
+671 72 66 4 
+716 68 46 2 
+740 59 53 5 
+854 73 45 5 
+808 32 37 1 
+686 36 21 4 

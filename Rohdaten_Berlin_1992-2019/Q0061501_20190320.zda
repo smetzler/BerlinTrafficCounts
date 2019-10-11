@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0061501
+datum=20.03.2019
+kurzken=Q 0061501/19
+bez=Havelchaussee (nördl. Angerburger Allee) (Spandau, 13597) 
+arm1=Teltower Straße,100,0100
+arm2=Angerburger Allee,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+224	1	0	4	5
+213	5	0	2	6
+160	2	0	2	6
+124	2	2	6	4
+124	6	0	1	5
+166	2	0	2	3
+169	6	2	7	8
+226	2	0	8	10
+315	3	0	9	14
+352	2	0	20	8
+278	5	0	7	2
+136	1	0	6	0
+; 2 -> 1
+485	5	0	3	2
+443	5	0	3	8
+208	5	0	3	3
+136	4	0	0	4
+151	7	0	3	10
+171	4	0	7	11
+229	4	0	8	6
+269	6	1	11	11
+358	10	1	14	13
+338	2	0	4	12
+260	0	0	7	7
+148	0	1	2	0

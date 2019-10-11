@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906059
+datum=27.05.2008
+kurzken=Q 0906059/08
+bez=Friesenstraße (südl. Fidicinstraße)   (Kreuzberg, 10965)
+arm1=Fidicinstraße,50,0100
+arm2=Schwiebusser Straße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1305,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+185	6	3	6	19
+144	4	3	8	22
+195	3	4	6	11
+192	4	6	8	10
+145	9	4	6	13
+222	6	3	11	12
+225	2	3	16	20
+301	2	3	15	8
+316	6	4	16	30
+327	3	3	17	32
+269	2	5	11	26
+256	4	3	8	33
+; 2 -> 1
+295	3	3	15	14
+361	3	4	16	18
+320	6	5	11	23
+274	4	4	12	10
+264	7	5	14	10
+266	2	3	8	11
+252	4	3	8	10
+286	0	3	19	16
+324	6	2	10	28
+317	0	4	9	31
+278	0	3	8	22
+255	0	3	15	23

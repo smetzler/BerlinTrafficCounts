@@ -1,0 +1,59 @@
+[ZA1001]
+knoten=K 1176
+datum=07.09.2004
+kurzken=K 1176/04
+bez=Kolonnenstraße / Naumannstraße     (Schöneberg, 10829)
+arm1=Naumannstraße,0,0100
+arm2=Kolonnenstraße,550,0011
+arm3=Naumannstraße,1800,0001
+arm4=Kolonnenstraße,2700,0110
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   \n-Baustelle in der Naumannstraße-
+data=
+; 1 -> 2
+49	2	0	0	2
+46	1	0	4	3
+44	0	0	8	1
+42	0	0	2	0
+40	1	0	4	3
+47	0	0	1	2
+; 2 -> 3
+37	1	0	1	8
+26	0	0	3	4
+38	1	0	1	3
+35	2	0	3	7
+25	4	0	2	2
+29	2	0	2	10
+; 2 -> 4
+391	8	7	18	52
+439	10	8	21	91
+488	9	6	23	71
+520	5	7	42	76
+458	3	6	49	104
+425	4	6	28	110
+; 3 -> 4
+277	8	0	14	7
+275	10	0	13	15
+335	9	0	16	9
+342	8	0	16	13
+313	9	0	15	19
+348	2	0	17	32
+; 4 -> 2
+489	13	6	26	93
+525	10	8	32	92
+535	13	6	40	99
+547	6	7	35	96
+523	8	6	42	117
+482	7	6	30	84
+; 4 -> 3
+304	14	0	10	11
+357	10	1	17	13
+406	8	0	31	15
+390	7	0	14	17
+334	5	0	16	11
+292	2	0	18	12

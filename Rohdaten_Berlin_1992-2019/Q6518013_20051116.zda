@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6518013
+datum=16.11.2005
+kurzken=Q 6518013/05
+bez=Storkower Straße (östl. Greifswalder Straße)   (Prenzlauer Berg, 10407)
+arm1=Grellstraße,600,0000
+arm2=Greifswalder Straße,1450,0001
+arm3=Storkower Straße,2350,0000
+arm4=Greifswalder Straße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=5\,5°C; Sonne=0 Std; Niederschlag=6 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+240	125
+161	7
+162	7
+220	4
+241	28
+193	4
+219	54
+207	74
+305	31
+296	22
+181	18
+191	9
+; 4 -> 2
+181	14
+203	49
+201	28
+230	39
+210	34
+246	33
+264	23
+303	45
+422	27
+416	21
+393	38
+375	12

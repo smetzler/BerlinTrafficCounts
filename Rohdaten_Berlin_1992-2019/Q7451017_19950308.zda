@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7451017
+datum=08.03.1995
+kurzken=Q 7451017/95
+bez=Mittelheide (östl. Mahlsdorfer Straße) (Köpenick, 12555) 
+arm1=Gehsener Straße,550,0000
+arm2=Mahlsdorfer Straße,1520,0001
+arm3=Mittelheide,2620,0000
+arm4=Mahlsdorfer Straße,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; meist sonnig; kein Niederschlag. \n
+data=
+; 2 -> 4
+8 0
+10 0
+10 0
+8 0
+20 5
+19 3
+30 8
+38 11
+41 6
+42 4
+29 6
+21 0
+; 4 -> 2
+8 13
+2 0
+7 0
+6 0
+3 2
+12 3
+13 10
+19 3
+15 5
+19 1
+16 3
+4 3

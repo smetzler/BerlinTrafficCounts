@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 55202
+datum=04.11.1999
+kurzken=Q 55202/99
+bez=Burscheider Weg (westl. Haselhorster Damm)   (Spandau, 13599)
+arm1=Haselhorster Damm (N),250,0010
+arm2=Burscheider Weg (W),1100,0000
+arm3=Haselhorster Damm (S),2000,1000
+arm4=Burscheider Weg (O),2900,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonnenstd.=9; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+28	3
+80	1
+167	14
+106	4
+173	9
+153	15
+56	14
+48	4
+78	24
+73	2
+89	5
+34	1
+; 3 -> 1
+22	15
+62	11
+152	4
+115	14
+173	6
+122	7
+100	6
+77	11
+121	10
+94	3
+110	8
+81	2

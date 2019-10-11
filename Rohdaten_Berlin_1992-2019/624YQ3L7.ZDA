@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 99746
+datum=12.03.1991
+kurzken=Q 99746/91
+bez=Eisenbahnstrasse suedlich Koepenicker Strasse    ( Berlin 36 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Schuel,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+8 27 0 4 4 3 3 2 1 6 0 1 4 0 20 
+4 0 0 7 0 0 9 1 10 11 2 10 17 2 1 
+23 11 3 8 1 1 
+; 2 -> 1
+9 0 0 8 3 3 6 0 1 4 2 1 3 2 8 
+15 6 0 9 11 1 7 0 5 5 8 5 17 6 1 
+12 2 4 13 0 1 

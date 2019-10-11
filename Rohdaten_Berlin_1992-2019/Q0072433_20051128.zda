@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 72433
+datum=28.11.2005
+kurzken=Q 72433/05
+bez=Thorwaldsenstraße (südl. Canovastraße)   (Steglitz, 12157)
+arm1=Thorwaldsenstraße,450,0000
+arm2=Altmarkstraße,1350,0001
+arm3=Thorwaldsenstraße,2200,0000
+arm4=Canovastraße,2820,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=2°C; Sonne=0\,5 Std; Niederschlag (Schneeschauer)=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	2
+18	2
+17	0
+17	3
+28	0
+16	0
+24	0
+26	3
+29	1
+41	8
+27	3
+14	4
+; 4 -> 2
+18	6
+31	4
+25	0
+16	0
+27	0
+20	1
+8	1
+18	7
+17	4
+18	3
+17	3
+13	0

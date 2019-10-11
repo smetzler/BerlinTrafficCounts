@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025578
+datum=17.3.1992
+kurzken=Q 2557.8/92-F
+bez=Straßmannstr. östlich Richard-Sorge-Str.    ( Berlin 1034-Frdh )
+arm1=Süd,220,0100
+arm2=Nord,2020,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+13 9 
+15 0 
+56 0 
+29 0 
+10 0 
+14 3 
+32 4 
+19 7 
+25 11 
+64 15 
+42 5 
+32 6 
+; 2 -> 1
+11 5 
+10 0 
+19 0 
+18 0 
+16 3 
+11 0 
+20 6 
+8 3 
+20 11 
+34 6 
+20 5 
+16 5 

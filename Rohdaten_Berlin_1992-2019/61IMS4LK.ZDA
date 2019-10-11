@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 70804
+datum=09.05.1994
+kurzken=Q 70804/94
+bez=An der Wuhlheide / östl. Köpenicker Allee (Köpenick)
+arm1=Köpenicker Straße,850,0100
+arm2=Lindenstraße,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+528,57,1,4,28
+505,66,0,10,13
+565,54,0,1,26
+506,44,1,4,18
+; 2 -> 1
+982,47,1,3,37
+794,61,2,5,67
+732,45,0,9,17
+640,56,0,5,11

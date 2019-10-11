@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27471
+datum=27.10.2003
+kurzken=Q 27471/03
+bez=Nisblestraße  (westl. Schönhauser Straße)   (Buchholz, 13127)
+arm1=Nisblestraße ,800,0000
+arm2=Schönhauser Straße,1650,0001
+arm3=Rosenthaler Straße,2200,0000
+arm4=Schönhauser Straße,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Kfz wurden bereits am 9.9.2003 gezählt!\nWetter: max T=6°C; Sonne=9\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	8
+3	0
+2	0
+2	0
+2	0
+1	0
+2	0
+6	1
+6	0
+1	0
+2	0
+1	1
+; 4 -> 2
+0	0
+1	0
+3	0
+1	0
+2	0
+2	0
+7	4
+3	3
+6	2
+3	2
+2	0
+1	0

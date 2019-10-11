@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 40810
+datum=04.12.1989
+kurzken=Q 40810/89
+bez=Grenzuebergang Sonnenallee    ( Berlin 44 )
+Arm1=Nach Berlin (W),900,0100
+Arm2=Von Berlin (W),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,Fussg,,,,,
+zeit=0000,0700
+intv=60
+bemerk=
+data=
+; 1 -> 2
+25 9 10 6 2 0 2 1 1 0 4 4 15 107 
+; 2 -> 1
+16 37 4 17 5 13 2 3 3 4 4 9 6 9 

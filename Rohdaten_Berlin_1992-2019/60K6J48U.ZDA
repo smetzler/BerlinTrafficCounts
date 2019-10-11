@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26155
+datum=31.3.1993
+kurzken=Q 2615.5/93-F
+bez=Riesaer Straße westl. Leisniger Straße    (Hellersdorf )
+arm1=Süd,450,0100
+arm2=Nord,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+5 4 
+13 1 
+18 23 
+15 5 
+17 10 
+13 33 
+7 8 
+7 5 
+14 7 
+18 11 
+8 4 
+7 1 
+; 2 -> 1
+6 21 
+1 13 
+11 7 
+9 27 
+12 18 
+4 8 
+5 10 
+2 10 
+8 14 
+10 9 
+14 12 
+19 9 

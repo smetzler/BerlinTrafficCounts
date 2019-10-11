@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914051
+datum=22.08.2006
+kurzken=Q 0914051/06
+bez=Johannisthaler Chaussee (nordöstl. Rudower Straße)   (Britz, 12351)
+arm1=Rudower Straße,1450,0100
+arm2=Birkhuhnweg,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 7 Std Sonne; 5 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+609	18	4	25	29
+519	16	3	17	28
+437	30	3	11	28
+456	24	3	14	50
+426	18	3	9	31
+478	24	3	12	40
+548	38	4	14	43
+656	16	3	24	42
+630	28	3	34	40
+717	18	3	29	49
+702	14	3	15	42
+638	6	3	20	39
+; 2 -> 1
+506	11	4	23	61
+474	22	4	13	26
+440	32	3	17	32
+428	26	2	2	26
+436	23	4	12	33
+456	32	4	6	25
+546	25	3	26	42
+560	28	5	21	31
+672	24	4	20	24
+822	10	2	22	32
+861	7	4	20	41
+697	4	3	16	19

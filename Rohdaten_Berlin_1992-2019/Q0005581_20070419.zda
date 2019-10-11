@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5581
+datum=19.04.2007
+kurzken=Q 5581/07
+bez=Altonaer Straße (nördl. Lessingstraße)   (Tiergarten, 10555)
+arm1=Altonaer Straße,300,0000
+arm2=Bachstraße,1250,0001
+arm3=Altonaer Straße,2100,0000
+arm4=Lessingstraße,3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18 °C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+18	24
+48	4
+34	2
+20	0
+23	2
+21	1
+19	1
+7	1
+17	2
+24	5
+22	3
+8	4
+; 4 -> 2
+6	1
+13	3
+11	3
+28	1
+23	27
+16	7
+16	7
+26	9
+25	16
+38	13
+34	11
+27	4

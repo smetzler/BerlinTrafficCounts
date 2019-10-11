@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0081
+datum=25.09.2015
+kurzken=Q 0081/15
+bez=B109 - Schönerlinder Straße (nördl. Zu-Abf. A114)   (Pankow, 13127)
+arm1=AS Schönerlinder Str.,1500,0100
+arm2=Schönerlinder Chaussee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 37\, Feld 3a-c
+data=
+; 1 -> 2
+532	10	6	3	21	8
+476	13	4	2	23	7
+405	8	2	1	18	5
+; 2 -> 1
+272	16	5	1	8	5
+269	8	4	1	8	7
+268	7	2	2	14	8

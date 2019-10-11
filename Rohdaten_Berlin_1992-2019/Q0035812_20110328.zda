@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 35812
+datum=28.03.2011
+kurzken=Q 35812/11
+bez=Müllerstraße (Ostfahrbahnen, nördl. Schulzendorfer Straße)     (Wedding, 13653)
+arm1=Müllerstraße (NW),450,0000
+arm2=Sellerstraße,1320,0001
+arm3=Müllerstraße (SO),2250,0000
+arm4=Schulzendorfer Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die östlichen Fahrbahnen der Müllerstr. queren (zw. Ostseite Müllerstr. und Mittelstreifen).
+data=
+; 2 -> 4
+6	0
+10	3
+18	0
+25	0
+34	1
+50	0
+36	0
+27	1
+26	3
+12	0
+20	1
+9	0
+; 4 -> 2
+22	0
+23	0
+34	1
+34	1
+19	0
+36	3
+34	0
+20	0
+14	1
+9	0
+20	0
+1	0

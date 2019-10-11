@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41112
+datum=27.8.1991
+kurzken=Q 4111.2/91-F
+bez=Karl-Liebknecht-Strasse zw. Spandauer Strasse und S-Bahn Bruecken Alex  (Mitte)
+arm1=S-Bahn Brücken ,900,0100
+arm2=Spandauer Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe "Haus d. Ungar.Kultur" !\nWetter : klar und trocken !
+data=
+; 1 -> 2
+120 
+88 
+169 
+287 
+245 
+375 
+433 
+454 
+369 
+385 
+395 
+401 
+; 2 -> 1
+65 
+116 
+175 
+276 
+484 
+488 
+512 
+576 
+635 
+641 
+606 
+252 

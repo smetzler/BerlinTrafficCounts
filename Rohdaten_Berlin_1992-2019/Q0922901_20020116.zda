@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0922901
+datum=16.01.2002
+kurzken=Q 0922901/02
+bez=Pablo-Picasso-Str. (südl. Falkenberger Ch.)   (H'schönhausen, 13059)
+arm1=Falkenberger Chaussee,100,0100
+arm2=Randowstraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=0°C max T; 6 Std Sonne; 0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 1 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+22
+17
+13
+16
+14
+11
+6
+6
+8
+12
+11
+5
+; 2 -> 1
+29
+21
+15
+21
+12
+13
+9
+7
+16
+16
+11
+15

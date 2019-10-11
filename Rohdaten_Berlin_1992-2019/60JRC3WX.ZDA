@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025608
+datum=18.3.1992
+kurzken=Q 2560.8/92-F
+bez=Thulestraße östlich Neumannstraße    ( Berlin 1100-Pkw )
+arm1=Süd,100,0100
+arm2=Nord,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+13 10 
+4 1 
+8 4 
+6 1 
+7 0 
+6 1 
+9 3 
+16 7 
+14 4 
+18 6 
+7 2 
+18 4 
+; 2 -> 1
+6 4 
+3 1 
+8 2 
+4 13 
+2 3 
+7 4 
+17 7 
+21 11 
+22 21 
+10 4 
+12 3 
+6 2 

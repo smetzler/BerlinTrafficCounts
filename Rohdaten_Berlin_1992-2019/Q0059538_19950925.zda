@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 59538
+datum=25.09.1995
+kurzken=Q 59538/95
+bez=Goerzallee (zw. Altdorfer Str. u. Kornmesserstr.)    (Lichterfelde, 12207)
+arm1=Altdorfer Straße ,1500,0000
+arm2=Kornmesserstraße,3300,0000
+arm3=Westen,600,0001
+arm4=Osten,2400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 20°\, sonnig\, kein Niederschlag. 
+data=
+; 3 -> 4
+5 1
+2 0
+3 0
+3 1
+2 0
+2 0
+5 1
+1 0
+3 0
+2 0
+0 1
+4 0
+; 4 -> 3
+6 2
+2 1
+2 0
+4 1
+2 1
+1 0
+2 2
+0 0
+0 0
+1 1
+1 1
+2 0

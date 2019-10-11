@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914903
+datum=13.02.2013
+kurzken=Q 0914903/13
+bez=Karl-Marx-Straße (nördl. Saalestraße)   (Neukölln, 12055)
+arm1=Braunschweiger Straße,50,0100
+arm2=Saalestraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: 1°C max T; 1\,5 Std Sonne; 0 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 0 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+15
+15
+11
+18
+17
+16
+33
+18
+21
+36
+29
+20
+; 2 -> 1
+14
+6
+19
+14
+14
+18
+14
+21
+24
+24
+36
+14

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 07612
+datum=14.3.1991
+kurzken=Q 761.2/91
+bez=Prinzenstrasse suedlich Sebastianstrasse    ( Berlin 61 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+591 
+619 
+772 
+856 
+966 
+951 
+968 
+889 
+1024 
+967 
+1117 
+1012 
+; 2 -> 1
+966 
+944 
+851 
+840 
+1067 
+958 
+886 
+913 
+887 
+891 
+825 
+685 

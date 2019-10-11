@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41875
+datum=07.05.1996
+kurzken=Q 41875/96
+bez=Teltower Damm  (Fußgänger-LSA südl. J.-F.-Kennedy-Schule)   (Z'df., 14167)
+arm1=Nord,300,0000
+arm2=Süd,2000,0000
+arm3=West,1200,0001
+arm4=Ost,3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=11°C\, bedeckt\, 0\,9mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+29 227
+19 80
+1 12
+13 5
+4 8
+7 26
+13 25
+10 17
+9 5
+6 1
+3 8
+4 0
+; 4 -> 3
+12 1
+8 4
+3 1
+5 2
+1 10
+7 10
+21 17
+13 19
+20 6
+5 4
+1 0
+2 0

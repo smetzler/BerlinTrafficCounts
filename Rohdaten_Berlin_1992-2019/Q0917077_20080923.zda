@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917077
+datum=23.09.2008
+kurzken=Q 0917077/08
+bez=Wartenberger Weg (Höhe Zum Hechtgraben)   (Malchow, 13051)
+arm1=Dorfstraße,900,0000
+arm2=Zum Hechtgraben,2700,0000
+arm3=((Norden)),0,0001
+arm4=((Süden)),1800,0010
+art=Erw,Jugend,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.+Radf\, die den Wartenberger Weg in Höhe Zum Hechtgraben (ca. 50m westl. bis 50m östl.) queren.\nWetter: max T=13°C; Sonne=0 Std; Niederschlag=10 mm;\nDurchführung der Erhebungen:  - büro für   u
+data=
+; 3 -> 4
+0	0	1
+0	0	0
+0	0	3
+2	0	3
+2	0	0
+4	0	2
+2	0	0
+0	0	1
+2	0	0
+2	0	5
+3	0	1
+0	0	0
+; 4 -> 3
+0	0	4
+0	0	1
+0	0	0
+0	0	0
+0	0	0
+1	0	1
+6	0	3
+0	0	1
+4	2	2
+3	0	4
+2	0	1
+1	0	4

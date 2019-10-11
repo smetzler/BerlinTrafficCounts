@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 00591
+datum=23.04.2015
+kurzken=Q 00591/15
+bez=A111 - Zu- Abfahrt K.-Schum.-Da. (südl. Heckerdamm) (Ch'burg, 13627)
+arm1=BAB (AD Charlottenburg),1500,0100
+arm2=Heckerdamm,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Lokführer-Streik: S-Bahnen betroffen
+data=
+; 1 -> 2
+75	1	2	0	2
+102	2	1	0	2
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+143	15	0	0	0
+258	3	0	0	9
+227	4	2	3	8
+; 2 -> 1
+835	22	2	2	21
+772	37	8	1	14
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1
+566	16	14	2	10
+602	18	9	6	12
+146	5	3	0	10

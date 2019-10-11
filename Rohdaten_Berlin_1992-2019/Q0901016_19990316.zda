@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0901016
+datum=16.03.1999
+kurzken=Q 0901016/99
+bez=Torstraße (östl. Rosenthaler Platz)   (Mitte, 10119)
+arm1=Rosenthaler Platz,950,0100
+arm2=Gormannstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+871	101	8	10
+904	105	9	7
+961	93	9	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1520	60	7	23
+1483	44	6	23
+1478	39	7	13
+; 2 -> 1
+1157	76	10	18
+1032	72	9	15
+1048	79	10	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+972	57	9	15
+1031	28	8	17
+1053	34	10	20

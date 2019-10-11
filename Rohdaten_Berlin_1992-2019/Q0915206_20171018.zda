@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915206
+datum=18.10.2017
+kurzken=Q 0915206/17
+bez=Südostallee (Höhe Im Brombeerwinkel)   (Johannisthal, 12487)
+arm1=Friedrich-List-Straße ,550,0000
+arm2=Im Brombeerwinkel (S),1350,0001
+arm3=Sterndamm,2350,0000
+arm4=(Norden),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk= querende Fg i. H. der MI i. H. im Brombeerwinkel\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+30	5
+21	0
+14	9
+8	4
+8	2
+14	1
+16	3
+31	6
+20	14
+30	20
+16	7
+17	5
+; 4 -> 2
+17	3
+22	10
+9	2
+10	16
+6	2
+15	0
+17	2
+21	2
+34	2
+10	2
+27	5
+8	0

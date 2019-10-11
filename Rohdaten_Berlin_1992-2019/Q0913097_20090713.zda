@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0913097
+datum=13.07.2009
+kurzken=Q 0913097/09
+bez=Prinzessinnenstraße (östl. Wünsdorfer Str.-Hilbertstr.)   (Lichtenrade, 12307)
+arm1=Wünsdorfer Str.-Hilbertstr.,900,0100
+arm2=S-Bhf. Lichtenrade,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+164	4	7	2	79
+178	3	6	7	47
+170	5	7	5	50
+196	4	5	4	42
+187	1	6	4	38
+170	3	6	6	33
+178	1	6	4	47
+173	2	9	5	40
+188	4	10	12	54
+245	0	8	8	72
+213	0	8	6	73
+184	1	8	9	37
+; 2 -> 1
+151	9	14	5	17
+208	5	12	5	35
+220	6	11	9	40
+224	8	14	8	56
+241	3	9	4	36
+217	4	9	7	46
+232	3	9	8	77
+192	1	12	4	46
+236	2	12	4	64
+234	1	13	8	47
+242	1	13	13	60
+267	1	11	9	62

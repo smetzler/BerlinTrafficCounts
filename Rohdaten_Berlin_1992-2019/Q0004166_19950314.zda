@@ -1,0 +1,66 @@
+[ZA1001]
+knoten=Q 4166
+datum=14.03.1995
+kurzken=Q 4166/95
+bez=Michaelbrücke, (Mitte, 10179)
+arm1=Köpenicker Straße ,1600,0100
+arm2=Holzmarktstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für Verkehrserhebungen;\nMichaelbrücke zw. 0:00 u. 13:15 Uhr gesperrt;\nOberbaumbrücke zw. 9:00 u. 17:15 Uhr nur 1 Spur in Richtung Süd !
+data=
+; 1 -> 2
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+47 3 1 1 0
+143 9 0 1 4
+259 8 0 1 8
+303 6 1 0 12
+233 9 0 1 3
+162 10 0 1 5
+61 7 0 0 4
+29 5 0 0 1
+17 3 0 1 2
+16 0 0 0 0
+9 0 0 0 2
+; 2 -> 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+13 3 0 1 6
+61 5 1 0 5
+73 4 0 0 4
+129 4 0 0 3
+82 3 0 2 2
+86 1 0 2 5
+51 2 0 2 2
+27 2 0 0 3
+23 1 0 0 0
+16 0 0 0 2
+11 0 0 0 0

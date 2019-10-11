@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5565034
+datum=06.05.2013
+kurzken=Q 5565034/13
+bez=Schönhauser Allee (nördl. Torstraße)   (Mitte, 10119)
+arm1=Torstraße (W),720,0010
+arm2=Alte Schönhauser Straße,1500,0000
+arm3=Torstraße (O),2520,1000
+arm4=Schönhauser Allee,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Analog Fußgänger-Verkehrsstärken Q 556 505 4 
+data=
+; 1 -> 3
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+; 3 -> 1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1
+-1	-1

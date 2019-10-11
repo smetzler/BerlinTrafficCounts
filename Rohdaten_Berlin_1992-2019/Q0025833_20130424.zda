@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 25833
+datum=24.04.2013
+kurzken=Q 25833/13
+bez=Frankfurter Allee (östl. Rosenfelder Straße)   (Lichtenberg, 10315)
+arm1=Frankfurter Allee,840,0000
+arm2=Rosenfelder Straße (S),1450,0001
+arm3=Alt-Friedrichsfelde,2640,0000
+arm4=Rosenfelder Straße (N),3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+56	2
+56	4
+51	0
+52	2
+65	1
+61	2
+45	4
+62	5
+78	8
+84	12
+74	8
+76	9
+; 4 -> 2
+28	4
+34	2
+62	1
+49	0
+40	0
+50	1
+63	4
+68	7
+82	9
+70	16
+77	15
+61	6

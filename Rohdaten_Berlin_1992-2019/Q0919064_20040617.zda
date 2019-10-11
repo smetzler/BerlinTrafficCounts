@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0919064
+datum=17.06.2004
+kurzken=Q 0919064/04
+bez=AD Pankow - Strom 13   (Schönerlinde, 16352)
+arm1=Norden,200,0100
+arm2=AD Pankow,2000,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 34\, Planquadrat X20
+data=
+; 1 -> 2
+911	260	5	2
+640	197	6	6
+740	195	2	2
+772	190	2	2
+634	172	4	2
+632	205	4	2
+759	248	3	3
+1015	286	3	1
+1184	230	0	6
+1333	222	7	7
+1094	190	1	14
+954	154	2	6

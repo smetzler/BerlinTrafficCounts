@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10054
+datum=04.04.2019
+kurzken=Q-10054/-2000
+bez=Südwestkorso - Laubenheimer Straße (Wilmersdorf, 14197)  über Arm4
+arm1=Laubenheimer Straße (NW),300,0010
+arm2=Südwestkorso  (SW),1200,0000
+arm3=Laubenheimer Straße (SO),2100,1000
+arm4=Südwestkorso  (NO),3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+12	4
+44	3
+12	0
+8	0
+10	1
+12	1
+13	18
+7	14
+9	3
+8	10
+11	8
+12	2
+; 3 -> 1
+94	59
+16	4
+6	1
+4	0
+8	2
+10	3
+7	4
+6	3
+7	3
+10	8
+8	5
+18	4

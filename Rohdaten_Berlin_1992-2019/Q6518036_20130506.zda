@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6518036
+datum=06.05.2013
+kurzken=Q 6518035/13
+bez=Greifswalder Straße - Westfahrbahn (nördl. Ostseestraße)   (Prenzlauer Berg, 10409)
+arm1=Ostseestraße,600,0010
+arm2=Greifswalder Straße (S),1500,0000
+arm3=Michelangelostraße,2400,1000
+arm4=Greifswalder Straße (N),3100,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. zwischen dem westl. Gehweg der Greifswalder Str. und dem Mittelstreifen.\nWetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 1 -> 3
+46	16
+93	5
+77	5
+111	0
+94	4
+121	3
+11	3
+126	7
+99	10
+69	10
+114	16
+83	5
+; 3 -> 1
+63	26
+69	6
+88	5
+115	2
+98	4
+55	0
+57	5
+87	17
+82	12
+63	11
+64	10
+44	4

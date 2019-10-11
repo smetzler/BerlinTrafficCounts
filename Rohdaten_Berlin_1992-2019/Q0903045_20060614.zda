@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0903045
+datum=14.06.2006
+kurzken=Q 0903045/06
+bez=Wolliner Straße (Höhe Vinetaplatz)   (Wedding, 13355)
+arm1=Demminer Straße,300,0000
+arm2=Bernauer Straße,2100,0000
+arm3=Vinetaplatz,1200,0001
+arm4=((Osten)),3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die im Bereich des Vinetaplatzes die Wolliner Str. überqueren!\nWetter: max T=32°C; Sonne=15 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+3	0
+3	1
+1	0
+4	0
+0	0
+0	0
+7	0
+6	2
+3	0
+0	2
+3	1
+2	9
+; 4 -> 3
+6	1
+4	2
+1	0
+0	0
+0	0
+2	0
+5	0
+7	1
+4	3
+2	1
+3	0
+0	5

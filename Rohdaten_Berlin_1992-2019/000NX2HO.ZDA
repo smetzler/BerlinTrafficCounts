@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=K 0861
+datum=29.10.1987
+kurzken=K 861/87
+bez=Hallesches Ufer / Schoeneberger Bruecke - Schoeneberger Str.     ( Berlin 61 )
+Arm1=Hallesches Ufer,410,0000
+Arm2=Schoeneberg.Bruecke,1350,1001
+Arm3=Hallesches Ufer,2040,1101
+Arm4=Schoeneberger Str.,3150,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenarm 2 : Linksabbiegen verboten !
+data=
+; 2 -> 1
+1 1 0 1 5 0 1 0 3 0 1 1 
+; 2 -> 4
+501 409 404 416 426 403 363 414 509 560 439 279 
+; 3 -> 1
+2529 2110 1770 1588 1790 1730 2016 1839 2589 2743 1859 1533 
+; 3 -> 2
+72 91 82 97 94 91 100 106 77 69 51 43 
+; 3 -> 4
+75 76 51 57 54 54 48 50 38 55 32 27 
+; 4 -> 1
+258 265 233 249 324 326 302 284 447 353 328 223 
+; 4 -> 2
+43 38 73 61 97 90 111 117 136 81 48 44 

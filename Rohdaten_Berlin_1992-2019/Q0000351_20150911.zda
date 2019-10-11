@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00351
+datum=11.09.2015
+kurzken=Q 00351/15
+bez=A100 - AS Kaiserdamm (Zu- u. Abf. nördl. Knobelsdorffstr.)   (Charlottenburg, 14
+arm1=Spandauer Damm,100,0100
+arm2=Knobelsdorffstraße,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Knobelsdorffbrücke
+data=
+; 1 -> 2
+503	7	0	9	6
+424	4	0	2	1
+370	1	0	4	5
+; 2 -> 1
+611	5	2	3	10
+540	5	0	5	8
+508	6	2	3	4

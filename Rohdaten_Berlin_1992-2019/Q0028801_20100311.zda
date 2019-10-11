@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28801
+datum=11.03.2010
+kurzken=Q 28801/10
+bez=Chausseestraße (nördl. Boyenstraße)   (Mitte, 10115)
+arm1=Chausseestraße (N),450,0000
+arm2=Boyenstraße,1250,0001
+arm3=Chausseestraße (S),2250,0000
+arm4=((Osten)),3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=3°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+3	0
+3	0
+6	0
+10	0
+20	0
+8	0
+15	0
+14	2
+8	1
+14	0
+8	0
+; 4 -> 2
+12	0
+14	0
+7	0
+6	0
+8	0
+22	0
+31	0
+7	0
+7	0
+7	0
+5	1
+5	0

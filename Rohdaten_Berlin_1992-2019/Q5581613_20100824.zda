@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5581613
+datum=24.08.2010
+kurzken=Q 5581613/10
+bez=Mühlenstraße (östl. Straße der Pariser Kommune)   (Friedrichshain, 10243)
+arm1=Stralauer Platz,600,0000
+arm2=((Süden)),1500,0001
+arm3=Mühlenstraße,2300,0000
+arm4=Str. d. Pariser Kommune,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+5	0
+13	2
+38	4
+75	32
+71	2
+42	3
+63	15
+59	0
+64	5
+96	5
+78	3
+; 4 -> 2
+0	0
+0	0
+12	21
+41	18
+38	16
+27	2
+23	4
+11	2
+20	1
+26	0
+56	4
+26	1

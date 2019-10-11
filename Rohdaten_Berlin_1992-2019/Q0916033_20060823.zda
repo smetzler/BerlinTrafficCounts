@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916033
+datum=23.08.2006
+kurzken=Q 0916033/06
+bez=Friedrichshagener Staße (östl. Bahnhofstraße)   (Köpenick, 12555)
+arm1=Bahnhofstraße,700,0100
+arm2=Puchanstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+331	21	6	6	53
+334	23	4	7	13
+407	21	4	9	24
+422	30	6	4	26
+479	25	5	5	22
+439	24	6	4	25
+473	20	2	9	38
+604	23	6	14	53
+672	18	8	10	62
+803	12	6	21	54
+757	5	6	19	44
+640	4	6	13	40
+; 2 -> 1
+654	18	7	15	49
+581	18	5	7	35
+440	20	3	8	30
+480	28	2	6	32
+414	20	6	5	24
+434	15	2	4	22
+428	27	3	5	19
+396	18	5	8	25
+430	12	4	14	34
+460	8	5	13	22
+402	0	5	8	31
+396	5	5	6	21

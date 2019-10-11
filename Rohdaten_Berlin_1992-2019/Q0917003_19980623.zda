@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917003
+datum=23.06.1998
+kurzken=Q 0917003/98
+bez=Alfred-Kowalke-Straße (westl. Am Tierpark)   (Friedrichsfelde, 10315)
+arm1=Kurze Straße,900,0100
+arm2=Am Tierpark,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+406	20	17	6
+350	23	16	8
+359	30	13	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+407	14	11	9
+450	14	13	5
+460	7	14	10
+; 2 -> 1
+524	27	13	10
+408	25	17	5
+370	17	12	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+443	15	12	13
+455	7	20	6
+439	13	13	9

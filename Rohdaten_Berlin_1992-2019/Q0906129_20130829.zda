@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906129
+datum=29.08.2013
+kurzken=Q 0906129/13
+bez=Leuschnerdamm (Nord-Gehweg der Waldemarstraße)   (Kreuzberg, 10997)
+arm1=Legiendamm,700,0100
+arm2=Adalberstraße,2500,1000
+arm3=,850,0000
+arm4=,2650,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Leuschnerdamm auf dem Nord-Geweg der Waldemarstraße überqueren.\nWetter: max T=24°C; Sonne=11 Std; Niederschlag=0 mm;
+data=
+; 1 -> 2
+2	0
+9	3
+10	0
+6	0
+6	1
+2	0
+12	0
+9	1
+13	0
+8	0
+14	1
+18	2
+; 2 -> 1
+5	1
+8	3
+14	2
+16	0
+11	1
+16	0
+21	0
+10	0
+23	2
+16	0
+24	1
+28	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907155
+datum=23.03.2010
+kurzken=Q 0907155/10
+bez=Sömmeringstraße (südl. Nordhauser Straße)   (Charlottenburg, 10589)
+arm1=Nordhauser Straße,0,0000
+arm2=Quedlingburger Straße,1800,0000
+arm3=((Westen)),900,0001
+arm4=((Osten)),2700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Sömmeringstraße südl. der Nordhauser Str. (bis ca. 50 m südl.) queren:\nWetter: max T=14°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+39	70
+28	1
+26	2
+48	0
+37	1
+19	0
+33	2
+49	4
+70	4
+42	11
+40	12
+32	4
+; 4 -> 3
+13	10
+37	18
+25	7
+54	2
+25	3
+21	10
+16	4
+37	11
+60	32
+31	24
+34	7
+23	12

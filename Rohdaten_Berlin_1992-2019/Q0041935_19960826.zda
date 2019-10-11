@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41935
+datum=26.08.1996
+kurzken=Q 41935/96
+bez=Brandenburgische Str.  (Höhe Münstersche Str. - Fußg.-LSA)    (W'df., 10707)
+arm1=Wittelsbacherstraße,200,0000
+arm2=Münstersche Straße,2100,0000
+arm3=Westen,1100,0001
+arm4=Osten,2900,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: Max T=24°C\, wolkig\, kein Niederschlag;\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+3 0
+13 1
+6 0
+6 3
+17 12
+7 49
+10 33
+5 11
+16 2
+5 23
+5 1
+8 0
+; 4 -> 3
+14 45
+17 49
+4 0
+5 3
+9 0
+15 2
+9 0
+7 6
+5 0
+17 2
+8 7
+10 0

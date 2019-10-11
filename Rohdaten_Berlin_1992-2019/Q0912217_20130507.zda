@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912217
+datum=07.05.2013
+kurzken=Q 0912217/13
+bez=Schützenstraße (Höhe Mittelstraße)   (Steglitz, 12163)
+arm1=Leydenallee,1600,0000
+arm2=Albrechtstraße,3400,0000
+arm3=((Westen-Mittelstr.)),700,0001
+arm4=((Osten)),2500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Schützenstr. in Höhe der Mittelstr. (bis ca. 50m südl. bis 50m nördl.) queren.\nWetter: max T=22°C; Sonne=3 Std; Niederschlag=6 mm;
+data=
+; 3 -> 4
+41	2
+72	21
+57	23
+70	6
+37	2
+38	19
+48	8
+52	0
+50	13
+74	12
+59	6
+75	5
+; 4 -> 3
+51	4
+83	24
+81	11
+66	8
+64	17
+91	4
+36	0
+42	7
+66	26
+64	12
+32	7
+22	7

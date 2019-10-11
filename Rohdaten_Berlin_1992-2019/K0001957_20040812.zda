@@ -1,0 +1,59 @@
+[ZA1001]
+knoten=K 1957
+datum=12.08.2004
+kurzken=K 1957/04
+bez=Hildburghauser Straße / Mariannenstraße   (Lichterfelde,12209)
+arm1=Mariannenstraße,120,0101
+arm2=Hildburghauser Str.,700,1001
+arm3=,0,0000
+arm4=Hildburghauser Str.,2550,1100
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+19	0	0	0	1
+16	0	0	1	0
+21	0	0	1	1
+25	0	0	3	4
+35	0	0	1	0
+22	0	0	1	0
+; 1 -> 4
+238	8	20	10	6
+243	7	15	7	5
+310	3	15	14	7
+330	2	12	14	5
+272	6	11	10	9
+301	1	15	10	8
+; 2 -> 1
+18	0	0	1	1
+22	1	0	0	1
+13	0	0	0	0
+20	0	0	0	0
+22	1	0	2	0
+20	0	0	0	0
+; 2 -> 4
+334	24	2	17	8
+406	18	0	19	13
+395	14	1	27	14
+466	12	0	20	13
+412	8	0	12	14
+409	5	0	16	14
+; 4 -> 1
+167	4	13	5	9
+194	6	13	3	7
+217	6	12	7	2
+203	2	10	11	2
+221	2	14	13	3
+177	1	12	5	2
+; 4 -> 2
+317	14	1	9	14
+321	9	0	10	5
+288	6	0	14	5
+445	14	0	18	10
+435	4	0	22	7
+367	5	0	18	9

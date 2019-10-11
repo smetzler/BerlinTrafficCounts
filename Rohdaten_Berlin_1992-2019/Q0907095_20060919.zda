@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907095
+datum=19.09.2006
+kurzken=Q 0907095/06
+bez=Heerstraße (östl. Am Rupenhorn)   (Charlottenburg, 14055)
+arm1=Am Rupenhorn,700,0100
+arm2=Scholzplatz,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+2592	64	26	71	46
+2399	82	26	53	34
+1643	84	20	28	11
+1184	64	18	42	24
+1117	67	15	17	10
+1122	68	19	15	14
+1136	67	18	23	10
+1265	60	19	31	19
+1360	58	22	32	18
+1410	27	21	35	15
+1331	34	22	34	17
+1284	18	15	33	23
+; 2 -> 1
+1054	66	21	27	13
+1153	73	17	25	13
+1158	100	20	20	8
+1076	104	14	12	8
+1102	84	16	19	9
+1158	58	17	20	21
+1184	98	20	37	24
+1433	87	19	41	26
+1762	78	20	58	32
+1746	77	21	51	28
+1836	47	22	56	40
+1753	43	24	51	25

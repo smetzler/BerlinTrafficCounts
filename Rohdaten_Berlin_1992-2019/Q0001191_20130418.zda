@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 1191
+datum=18.04.2013
+kurzken=Q 1191/13
+bez=Niederneuendorfer Allee (nördl. Aalemannufer)   (Hakenfelde, 13587)
+arm1=Niederneuendorfer Allee (N),140,0000
+arm2=((Westen)),890,0001
+arm3=Niederneuendorfer Allee (S),1940,0000
+arm4=Aalemannufer,2690,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Niederneuendorfer A. nördl. Aalemannufer (bis ca. 50m nördl.) queren.\nWetter: max T=26°C; Sonne=8 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+1	0
+1	0
+1	2
+4	0
+0	0
+1	0
+0	0
+0	0
+3	0
+0	2
+0	1
+2	1
+; 4 -> 2
+10	1
+4	0
+1	1
+7	0
+0	0
+0	0
+2	0
+1	0
+0	0
+1	0
+0	1
+4	0

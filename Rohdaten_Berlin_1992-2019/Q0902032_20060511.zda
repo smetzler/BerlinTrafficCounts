@@ -1,0 +1,43 @@
+[ZA1001]
+knoten=Q 0902032
+datum=11.05.2006
+kurzken=Q 0902032/06
+bez=Großer Weg imTiergarten (Höhe Neuer See)   (Tiergarten, 10787)
+arm1=(Westen),750,0100
+arm2=Lichtensteinallee,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1345
+bemerk=24°C max T; 14 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+30
+54
+30
+31
+27
+32
+27
+40
+58
+58
+61
+74
+; 2 -> 1
+35
+59
+42
+48
+35
+29
+70
+57
+48
+75
+79
+55

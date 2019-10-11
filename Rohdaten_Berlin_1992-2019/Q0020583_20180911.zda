@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20583
+datum=11.09.2018
+kurzken=Q 20583/18
+bez=Cecilienstraße (östl. Oberfeldstraße)   (Biesdorf-Nord, 12683)
+arm1=Cecilienstraße (W),830,0000
+arm2=Oberfeldstraße (S),1630,0001
+arm3=Cecilienstraße (O),2730,0000
+arm4=Oberfeldstraße (N),3480,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+4	5
+3	3
+2	0
+6	0
+2	0
+3	2
+5	6
+7	6
+6	6
+6	6
+4	0
+12	1
+; 4 -> 2
+4	2
+4	1
+4	2
+10	4
+8	0
+6	1
+8	3
+9	11
+6	4
+8	4
+3	1
+4	1

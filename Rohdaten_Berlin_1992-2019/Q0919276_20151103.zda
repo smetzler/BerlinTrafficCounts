@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919276
+datum=03.11.2015
+kurzken=Q 0919276/15
+bez=Marienstraße (östl. Schönhauser Straße)   (Fr.-Buchholz, 13127)
+arm1=Schönhauser Straße,600,0000
+arm2=Pasewalker Straße,2400,0000
+arm3=((Norden)),3300,0001
+arm4=((Süden)),1500,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Marienstraße östl. der Schönhauser Str. queren (bis ca. 50m östl.)
+data=
+; 3 -> 4
+7	0
+4	1
+4	1
+4	0
+3	0
+1	0
+3	0
+0	0
+0	0
+2	2
+4	2
+8	0
+; 4 -> 3
+2	0
+1	0
+1	0
+0	0
+0	0
+5	1
+2	0
+6	3
+2	3
+4	2
+6	2
+4	0

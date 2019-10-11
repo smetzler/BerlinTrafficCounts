@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 04567
+datum=02.10.1986
+kurzken=Q 4567/86
+bez=Huttenstrasse  oestl. Wiebestrasse    ( Berlin 21 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wettter: ueberwiegend bedeckt, trocken
+data=
+; 1 -> 2
+6 2 3 1 1 0 2 0 6 0 3 0 2 1 
+9 0 6 0 1 0 0 0 3 0 
+; 2 -> 1
+28 23 7 6 7 0 1 0 13 0 9 2 27 1 
+6 2 11 0 16 2 13 2 9 0 

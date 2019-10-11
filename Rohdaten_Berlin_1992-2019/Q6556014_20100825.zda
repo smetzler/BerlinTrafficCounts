@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6556014
+datum=25.08.2010
+kurzken=Q 6556014/10
+bez=Landsberger Allee (östl. Vulkanstraße)   (Lichtenberg, 13055)
+arm1=((Norden)),40,0010
+arm2=Landsberger Allee,960,0000
+arm3=Vulkanstraße,1840,1000
+arm4=Landsberger Allee,2760,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+14	10
+12	7
+10	0
+21	2
+15	0
+16	2
+25	4
+17	20
+29	16
+43	12
+30	7
+48	3
+; 3 -> 1
+33	5
+10	14
+9	4
+17	6
+25	1
+17	6
+18	19
+16	7
+17	20
+21	9
+25	14
+24	18

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 9114
+datum=03.05.2006
+kurzken=Q 9114/06
+bez=Manteuffelstraße (südl. Skalitzer Straße)   (Kreuzberg, 10999)
+arm1=,0,0000
+arm2=Skalitzer Str. (West) ,950,0001
+arm3=Manteuffelstraße (Süd),1600,0000
+arm4=Skalitzer Straße,2750,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+37	57
+43	11
+53	3
+52	4
+78	15
+71	2
+81	6
+115	4
+136	8
+135	18
+105	28
+101	14
+; 4 -> 2
+29	8
+47	5
+68	5
+79	14
+82	7
+96	8
+80	10
+118	23
+112	32
+119	55
+121	9
+81	1

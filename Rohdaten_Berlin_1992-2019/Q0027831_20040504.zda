@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27831
+datum=04.05.2004
+kurzken=Q 27831/04
+bez=Fehrbelliner Straße (westl. Templiner Straße)   (Prenzlauer Berg, 10119)
+arm1=Fehrbelliner Straße,600,0000
+arm2=((Süden)),1500,0001
+arm3=Fehrbelliner Straße,2400,0000
+arm4=Templiner Straße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+6	13
+11	2
+10	0
+9	6
+6	0
+7	23
+12	0
+9	5
+9	4
+27	3
+11	4
+10	3
+; 4 -> 2
+5	3
+13	1
+10	23
+21	0
+7	0
+4	0
+9	3
+12	2
+10	1
+23	4
+20	4
+16	8

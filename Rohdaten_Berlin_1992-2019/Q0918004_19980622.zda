@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0918004
+datum=22.06.1998
+kurzken=Q 0918004/98
+bez=Malchower Straße (südl. Hohenschönhauser Weg)   (Weißensee, 13088)
+arm1=Piesporter Straße,1350,0100
+arm2=Hohenschönhauser Weg,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+462	55	12	5
+531	76	9	4
+573	81	14	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+874	85	8	9
+885	52	8	12
+854	40	8	13
+; 2 -> 1
+858	53	9	9
+843	83	13	19
+772	84	11	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+651	64	7	13
+689	49	8	13
+664	34	8	14

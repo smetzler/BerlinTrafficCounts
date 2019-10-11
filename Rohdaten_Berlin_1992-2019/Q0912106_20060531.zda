@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0912106
+datum=31.05.2006
+kurzken=Q 0912106/06
+bez=Promenade (Westseite Teltowkanal) (südl. Königsb. Str.)   (Lichterf.,12207)
+arm1=(Süden),1600,0100
+arm2=Königsberger Straße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=16°C max T; 2\,5 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 5 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+37
+16
+17
+8
+4
+12
+8
+10
+12
+16
+25
+27
+; 2 -> 1
+10
+14
+18
+12
+4
+9
+9
+15
+16
+17
+27
+28

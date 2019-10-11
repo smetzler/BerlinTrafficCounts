@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25876
+datum=25.8.1992
+kurzken=Q 2587.6/92-F
+bez=Kastanienallee westlich Stendaler Str.    ( Berlin 1150-Hellersdorf )
+arm1=Süd,50,0100
+arm2=Nord,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+8 12 
+5 1 
+10 0 
+26 0 
+24 4 
+21 1 
+10 3 
+22 10 
+54 9 
+84 16 
+53 12 
+37 6 
+; 2 -> 1
+36 15 
+35 6 
+20 4 
+32 5 
+29 3 
+14 1 
+6 5 
+24 11 
+41 24 
+35 13 
+22 8 
+13 0 

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919011
+datum=18.06.1998
+kurzken=Q 0919011/98
+bez=Schönerlinder Straße (östl. Zu-Abfahrt BAB A114)   (Buchholz, 13127)
+arm1=BAB A114,1500,0100
+arm2=Schönerlinder Chaussee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+304	71	7	6
+309	102	5	7
+302	70	5	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+537	92	3	10
+455	44	4	15
+585	31	4	9
+; 2 -> 1
+531	61	4	8
+385	104	4	5
+322	97	4	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+403	68	5	4
+691	49	3	23
+412	35	6	6

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 16854
+datum=26.04.2004
+kurzken=Q 16854/04
+bez=Curtiusstraße (östl. Baseler Straße)   (Lichterfelde, 12205)
+arm1=Baseler Straße (N),300,0010
+arm2=Curtiusstraße (W),1200,0000
+arm3=Baseler Straße (S),1800,1000
+arm4=Curtiusstraße (O),3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+10	1
+31	0
+32	0
+39	0
+53	4
+43	0
+75	7
+63	3
+97	7
+90	8
+73	13
+43	1
+; 3 -> 1
+27	5
+38	1
+55	0
+42	4
+45	1
+33	0
+36	3
+61	7
+57	3
+55	6
+53	15
+34	1

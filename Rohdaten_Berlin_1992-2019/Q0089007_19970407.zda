@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 089007
+datum=07.04.1997
+kurzken=Q 089007/97
+bez=Schönerlinder Straße (B109) (Stadtgrenze) (Pankow, 13159)
+arm1=Schönerlinde,3500,0100
+arm2=Schönerlinder Chaussee,1700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Bauarbeiten: Schönerlinder Str. zwischen Lindenhof und Schönerlinde (Prenzl. Ch.) gesperrt;\nUmleitung westl. Lindenhof;!Zählstelle ist in Höhe Lindenhof!
+data=
+; 1 -> 2
+395	50	55	6	1
+412	69	63	3	2
+263	68	64	2	0
+246	64	58	3	0
+169	57	50	2	1
+165	55	44	1	0
+189	41	34	2	3
+205	25	29	2	5
+226	22	21	1	1
+312	22	11	3	2
+398	19	12	1	5
+274	11	14	2	2
+; 2 -> 1
+205	20	35	6	1
+203	41	49	3	1
+164	51	66	2	0
+194	51	48	1	0
+180	48	44	2	2
+137	59	50	2	0
+177	32	36	1	2
+178	49	31	2	3
+204	34	28	3	0
+345	19	29	1	4
+398	11	17	2	5
+284	26	11	2	2

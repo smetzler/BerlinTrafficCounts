@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010302
+datum=30.11.1999
+kurzken=Q 010302/99
+bez=Reichpietschufer (westl. Köthener Br.) (Kreuzb., 10785)
+arm1=Linkstraße,400,0000
+arm2=Köthener Brücke,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+1355	320	73	12
+1743	398	89	14
+1752	340	81	15
+2089	376	90	12
+1751	325	98	13
+1688	262	73	16
+2045	220	101	16
+2021	203	72	14
+2078	190	94	18
+2235	172	57	18
+2340	177	38	21
+2245	121	23	16

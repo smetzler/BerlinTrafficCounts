@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908063
+datum=19.09.2006
+kurzken=Q 0908063/06
+bez=Weinmeisterhornweg (westl. Kattfußstraße)   (Weinmeisterhöhe, 13593)
+arm1=Wilhelmstraße,700,0100
+arm2=Kattfußstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+193	1	0	2	13
+193	5	0	3	14
+52	0	0	1	4
+34	0	0	2	8
+50	0	0	0	5
+45	1	0	0	5
+51	0	0	2	6
+48	1	0	0	6
+70	2	0	2	6
+55	1	0	1	8
+57	1	0	4	8
+41	0	0	0	12
+; 2 -> 1
+53	3	0	0	4
+49	2	0	1	4
+42	1	0	2	9
+48	0	0	2	4
+44	1	0	0	6
+43	0	0	1	6
+45	0	0	2	13
+57	0	0	2	12
+52	0	0	0	4
+79	2	0	0	8
+41	0	0	1	10
+52	0	0	1	11

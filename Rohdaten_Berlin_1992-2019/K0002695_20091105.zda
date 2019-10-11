@@ -1,0 +1,57 @@
+[ZA1001]
+knoten=K 2695
+datum=05.11.2009
+kurzken=K 2695/09
+bez=Strausberger Platz / Karl-Marx-Allee (Ost)     (Friedrichshain, 10243)
+arm1=Strausberger Platz (N),300,0000
+arm2=,0,0000
+arm3=Strausberger Platz (S),1350,1001
+arm4=Karl-Marx-Allee (Ost),2600,1000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Karl-Marx-Str. östl. Straußberger Platz nur 2 statt 3 Spuren je Richtung.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 1
+345	23	0	4	2
+417	26	0	2	10
+486	20	2	9	23
+464	33	4	1	3
+440	30	2	1	3
+446	31	1	2	13
+460	24	1	4	21
+622	26	2	15	14
+772	17	0	4	22
+891	23	0	10	29
+824	11	1	7	31
+775	7	1	7	36
+; 3 -> 4
+667	49	2	8	30
+757	42	2	8	32
+790	52	8	14	30
+898	50	9	10	33
+919	59	6	6	54
+988	69	9	7	62
+1251	42	4	10	74
+1738	39	2	6	95
+2352	25	3	24	144
+2224	55	4	29	184
+2294	32	3	17	196
+2194	20	8	26	301
+; 4 -> 1
+2048	55	2	20	138
+2070	40	5	25	273
+1569	39	5	33	261
+1128	42	5	14	149
+1052	40	3	7	118
+1096	37	2	7	88
+1028	29	0	10	75
+1054	31	3	13	82
+1197	25	0	10	79
+1275	33	2	14	81
+1493	11	1	10	84
+1266	4	2	16	87

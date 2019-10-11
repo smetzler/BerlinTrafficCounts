@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 051402
+datum=19.05.2014
+kurzken=Q 051402/14
+bez=Bäkestraße (Teltowkanal-Brücke)   (Steglitz,12207)
+arm1=Hindenburgdamm,500,0100
+arm2=Ostpreußendamm,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Königsberger Str. Baustelle: Ri. Osten von 2 auf 1 Fahrstreifen reduziert.\n
+data=
+; 1 -> 2
+143	0	0	2	47
+189	0	0	2	37
+198	0	0	2	10
+196	0	0	6	28
+181	1	0	2	20
+178	0	0	6	22
+214	0	0	9	46
+195	0	0	3	72
+289	0	0	6	38
+238	0	0	14	56
+250	0	0	7	48
+208	0	0	8	55
+; 2 -> 1
+485	1	0	5	103
+503	1	0	17	46
+364	0	0	10	35
+206	0	0	4	26
+229	0	0	4	21
+200	0	0	2	17
+190	0	0	5	35
+217	0	0	4	29
+238	0	0	8	21
+300	0	0	8	26
+242	0	0	14	30
+207	0	0	5	24

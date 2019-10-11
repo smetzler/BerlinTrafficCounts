@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908125
+datum=16.04.2018
+kurzken=Q 0908125/18
+bez=Falkenseer Damm (südl. Askanierring; Höhe Nr. 23)   (Spandau, 13585)
+arm1=Askanierring,300,0100
+arm2=Flankenschanze,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=VZ auf Höhe der Hausnummer 23!\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1499	33	16	32	72
+1155	61	11	11	36
+978	56	10	9	23
+818	38	11	7	8
+768	56	10	5	30
+775	53	11	5	23
+823	54	17	17	23
+724	27	15	19	37
+777	25	19	9	28
+840	8	15	11	29
+763	15	14	12	21
+661	5	12	7	16
+; 2 -> 1
+782	53	20	14	19
+657	49	18	3	9
+822	81	9	4	11
+774	69	9	9	9
+1029	80	9	8	14
+845	74	11	7	10
+997	70	14	14	35
+1325	35	16	44	37
+1434	53	14	41	42
+1472	52	14	43	41
+1602	37	13	43	35
+1376	21	13	27	31

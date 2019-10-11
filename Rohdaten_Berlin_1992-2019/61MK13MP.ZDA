@@ -1,0 +1,16 @@
+[ZA1001]
+knoten=Q 75889
+datum=02.05.1991
+kurzken=Q 75889/91
+bez=Neuendorfer Strasse - Kirchhofstrasse - Muellerstrasse    ( Berlin 20 )
+Arm1=aus Nord,900,0100
+Arm2=aus Sued,2700,0000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Erfasst wurden nur Kraftfahrzeuge, die von der Neudendorfer Strasse\nals Rechtsabbieeger in die Kirchhofstrasse\nund weiter in die Muellerstrasse fahren !
+data=
+; 1 -> 2
+8 5 7 10 5 3 5 10 22 19 7 8 

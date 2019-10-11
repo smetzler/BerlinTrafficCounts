@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920162
+datum=15.11.2018
+kurzken=Q 0920162/18
+bez=Heiligenseestr. (öst. An der Schneise) (Reinickendorf)
+arm1=Heiligenseestr. (westl.),750,0100
+arm2=Heiligenseestr. (östl.),2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+880	2	5	11	14
+774	11	6	7	13
+420	7	4	3	2
+322	10	4	2	6
+282	8	3	0	5
+291	6	3	1	5
+277	5	5	5	3
+295	6	5	3	1
+326	10	6	7	4
+270	6	6	4	4
+231	2	6	3	1
+195	2	6	3	3
+; 2 -> 1
+134	5	4	1	2
+163	6	4	0	5
+192	10	4	0	1
+222	2	4	0	0
+259	10	4	5	1
+256	8	3	3	3
+307	4	5	5	4
+354	9	5	5	3
+456	9	6	17	8
+396	4	6	4	4
+507	5	6	11	2
+521	3	6	10	2

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0904025
+datum=30.05.2006
+kurzken=Q 0904025/06
+bez=Greifenhagener Straße (Höhe S-Bahn-Brücke)   (Prenzlauer Berg, 10437)
+arm1=Gethsemanestraße,1600,0100
+arm2=Wichertstraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=14°C max T; 4 Std Sonne; 10 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+28
+26
+30
+31
+23
+27
+24
+20
+74
+51
+47
+51
+; 2 -> 1
+50
+81
+89
+44
+32
+34
+37
+21
+62
+48
+42
+46

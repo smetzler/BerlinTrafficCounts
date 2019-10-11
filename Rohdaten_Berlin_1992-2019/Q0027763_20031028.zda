@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27763
+datum=28.10.2003
+kurzken=Q 27763/03
+bez=Bänschstraße-Südfahrbahn (östl. Proskauer Straße)   (Friedrichshain, 10227)
+arm1=Bänschstraße (W),800,0000
+arm2=Proskauer Straße(S),1700,0001
+arm3=Bänschstraße-Südfahrbahn (O),2600,0000
+arm4=Proskauer Str.-Grünstreifen,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8\,5°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+27	4
+29	0
+30	0
+21	2
+28	1
+17	3
+22	6
+47	4
+50	7
+39	2
+39	1
+23	4
+; 4 -> 2
+30	26
+30	1
+9	3
+33	2
+23	0
+15	3
+16	1
+32	1
+29	5
+32	4
+27	1
+22	4

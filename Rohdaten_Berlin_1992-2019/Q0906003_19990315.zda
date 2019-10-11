@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0906003
+datum=15.03.1999
+kurzken=Q 0906003/99
+bez=Schöneberger Straße (westl. Askanischer Platz)   (Kreuzberg, 10963)
+arm1=F.-Hensel-W.,1300,0100
+arm2=Askanischer Platz,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+348	16	9	4
+414	14	9	6
+404	18	7	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+441	8	11	5
+475	8	11	1
+377	7	11	1
+; 2 -> 1
+376	20	12	7
+421	24	10	4
+396	24	6	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+524	13	10	6
+410	9	9	8
+399	6	13	4

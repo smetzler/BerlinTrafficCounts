@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109022
+datum=24.10.2013
+kurzken=Q 109022/13
+bez=Böhlener Straße (westl. Mahlsdorfer Straße)   (Hellersdorf, 12627)
+arm1=Eilenburger Straße,850,0100
+arm2=Mahlsdorfer Straße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+121	2	0	0	3
+97	1	0	2	6
+105	1	0	0	7
+120	0	0	2	2
+137	1	0	0	8
+129	1	0	3	6
+171	0	0	1	7
+183	1	0	2	9
+237	2	0	4	15
+308	4	0	4	14
+245	1	0	1	15
+264	0	0	1	5
+; 2 -> 1
+251	1	0	3	11
+171	5	1	1	4
+148	3	0	1	7
+126	2	0	0	8
+147	3	0	0	4
+131	0	0	1	5
+142	0	0	2	11
+138	1	0	0	4
+172	3	0	5	13
+192	0	0	8	6
+166	1	0	7	8
+174	1	0	2	10

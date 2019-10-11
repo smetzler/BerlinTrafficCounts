@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5582013
+datum=14.05.2007
+kurzken=Q 5582013/07
+bez=Stralauer Platz (östl. Andreasstraße)   (Friedrichshain, 10243)
+arm1=Holzmarktstraße,500,0000
+arm2=An der Schillingbrücke,1400,0001
+arm3=Stralauer Platz,2300,0000
+arm4=Andreasstraße,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=8 Std; Niederschlag=15 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+45	3
+52	0
+83	0
+127	0
+154	2
+66	25
+71	4
+86	2
+123	1
+146	0
+130	0
+84	0
+; 4 -> 2
+150	3
+247	0
+125	0
+77	0
+40	0
+53	1
+52	23
+73	27
+87	1
+63	0
+53	1
+70	1

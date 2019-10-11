@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41635
+datum=07.03.1995
+kurzken=Q 41635/95
+bez=Friedrichstraße Nr. 13-15 (Galilei-Schule) (Kreuzberg, 10969) 
+arm1=Westen,50,0100
+arm2=Osten,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =7°; teils sonnig; kein Niederschlag. \n
+data=
+; 1 -> 2
+11 2
+7 2
+8 0
+5 1
+12 2
+12 3
+10 5
+7 0
+4 3
+1 1
+6 6
+5 4
+; 2 -> 1
+11 4
+9 4
+7 2
+4 0
+12 15
+18 5
+6 3
+5 2
+5 5
+3 0
+2 2
+3 0

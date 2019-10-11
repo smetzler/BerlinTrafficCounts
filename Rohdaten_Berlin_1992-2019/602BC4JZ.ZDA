@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3000
+datum=16.03.1994
+kurzken=Q 3000/94
+bez=Kottmeierstraße östlich Firlstraße (Oberschöneweide)
+arm1=Firlstraße,700,0100
+arm2=Rathenaustraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Krad,Pkw+Lfw,Lkw,Bus,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+0 30 0 0 21
+0 35 2 0 7
+0 37 1 0 5
+0 52 3 0 10
+0 54 0 0 9
+0 52 2 0 12
+0 33 0 0 4
+1 44 1 0 8
+0 45 0 0 8
+1 48 0 0 4
+0 63 1 0 2
+0 47 0 0 3
+; 2 -> 1
+0 69 3 0 4
+0 90 5 0 12
+0 88 3 0 12
+0 101 1 0 9
+0 72 0 0 6
+1 63 2 0 12
+0 60 2 0 24
+2 88 1 0 14
+0 106 1 0 11
+0 109 1 1 10
+0 78 0 0 12
+0 56 1 0 4

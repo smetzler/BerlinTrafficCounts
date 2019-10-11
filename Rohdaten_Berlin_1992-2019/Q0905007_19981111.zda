@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0905007
+datum=11.11.1998
+kurzken=Q 0905007/98
+bez=Str. der Pariser Komm. (nördl. E.-Steinfurth-Str.)   (Friedrichshain, 10243)
+arm1=E.-Steinfurth-Straße,1450,0100
+arm2=Lange Straße,3250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+332	44	16	2
+309	39	14	3
+334	44	16	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+612	27	18	8
+698	25	16	12
+715	27	17	3
+; 2 -> 1
+637	34	15	9
+610	29	17	3
+464	38	17	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+434	15	15	5
+452	19	15	5
+440	13	17	2

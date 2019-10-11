@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60267
+datum=28.03.1990
+kurzken=Q 60267/90
+bez=Boelckestrasse suedl. Badener Ring    ( Berlin 42 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+6 3 5 7 8 1 9 0 13 3 7 10 1 1 
+17 2 11 1 7 2 10 2 10 2 
+; 2 -> 1
+8 1 12 8 20 2 8 0 10 1 4 0 26 6 
+9 2 14 5 2 0 7 1 1 0 

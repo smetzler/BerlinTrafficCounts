@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920011
+datum=15.06.1998
+kurzken=Q 0920011/98
+bez=Kurt-Schumacher -Da. (südl. K.-Schumacher-Pl.)   (Reinickendorf, 13405)
+arm1=Kapweg,1600,0100
+arm2=Kurt-Schumacher-Platz,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+639	57	41	15
+636	57	37	9
+615	65	25	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+943	44	40	37
+931	29	40	50
+856	19	38	40
+; 2 -> 1
+875	56	32	48
+698	85	37	21
+616	72	24	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+658	52	28	24
+658	27	30	23
+594	24	27	21

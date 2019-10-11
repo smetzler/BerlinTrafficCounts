@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 12601
+datum=22.10.2002
+kurzken=Q 12601/02
+bez=Loewenhardtdamm (westl. Boelckestraße)   (Tempelhof, 12101)
+arm1=Loewenhardtdamm (W),450,0000
+arm2=Süd,1750,0001
+arm3=Loewenhardtdamm (O),2400,0000
+arm4=Nord,3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 13°C; Sonne: 0 Std; Niederschlag: 3 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	0
+9	1
+9	25
+10	0
+7	0
+12	29
+10	25
+12	22
+12	4
+4	1
+9	2
+6	3
+; 4 -> 2
+10	104
+7	7
+18	5
+8	0
+10	0
+15	4
+8	4
+21	2
+8	1
+10	0
+7	0
+8	0

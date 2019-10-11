@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40089
+datum=15.09.1984
+kurzken=Q 40089/84
+bez=Buckower Damm  noerdl. Steintraegerweg  (Berlin 47)
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0900,2100
+intv=60
+bemerk=Zaehlquerschnitt in Hoehe Mittelstreifendurchfahrt;\nKfz,  die die Durchfahrt benutzen sind nicht erfasst!
+data=
+; 1 -> 2
+12 482 22 12 16 14 564 25 10 16 15 739 16 8 16 
+19 715 13 8 15 18 830 29 11 19 17 797 22 7 11 
+7 628 15 4 11 11 485 8 4 8 18 451 9 4 8 
+13 523 9 3 12 11 461 3 2 5 14 355 2 2 6 
+; 2 -> 1
+15 722 28 9 14 14 771 31 2 16 12 785 13 8 19 
+20 567 18 9 20 13 549 18 3 20 20 473 17 3 16 
+13 539 13 7 10 6 431 11 4 8 30 390 10 1 8 
+17 434 9 2 7 17 507 7 1 9 12 297 6 0 6 

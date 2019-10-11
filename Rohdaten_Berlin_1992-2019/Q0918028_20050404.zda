@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0918028
+datum=04.04.2005
+kurzken=Q 0918028/05
+bez=Roelckestraße (südl. Darßer Straße)  (Weißensee, 13088)
+arm1=Nüßlerstraße,1400,0100
+arm2=Darßer Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+573	40	8	14	33
+678	52	6	17	43
+844	37	5	23	35
+832	26	6	22	37
+779	29	7	15	29
+742	12	6	29	27
+; 2 -> 1
+553	48	5	11	11
+575	26	4	3	15
+543	21	7	9	35
+598	17	6	16	22
+569	17	6	19	38
+552	12	5	16	29

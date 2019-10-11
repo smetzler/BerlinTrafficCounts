@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 119642
+datum=06.05.2013
+kurzken=Q 119642/13
+bez=Hermannplatz - Ostfahrbahn (nördl. Karl-Marx-Straße)   (Neukölln, 10967)
+arm1=(Hermannplatz Mittelinsel),720,0010
+arm2=Hermannstraße,1800,0000
+arm3=(Hermannplatz-Gehweg-Ost),2330,1000
+arm4=Hermannplatz,3330,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg. zwischen dem östl. Geweg des Hermannplatzes und der Mittelinsel.\nWetter: max T=23°C; Sonne=8\,5 Std; Niederschlag=3 mm;
+data=
+; 1 -> 3
+85	18
+145	17
+282	21
+299	19
+341	35
+406	24
+415	51
+372	75
+448	33
+406	59
+399	28
+363	31
+; 3 -> 1
+83	13
+155	28
+284	26
+357	21
+411	32
+448	29
+429	36
+435	54
+474	39
+435	55
+394	36
+385	51

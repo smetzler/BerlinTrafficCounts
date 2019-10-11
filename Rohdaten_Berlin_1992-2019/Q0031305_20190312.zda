@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0031305
+datum=12.03.2019
+kurzken=Q 0031305/19
+bez=Buschkrugallee (Buschkrugbrücke) (Neukölln, 12359) 
+arm1=Sieversufer,250,0100
+arm2=Delfter Ufer,2050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+581	23	6	8	58
+485	37	6	3	37
+552	34	6	4	26
+489	21	5	5	14
+532	22	2	4	14
+562	20	4	8	21
+593	18	4	5	32
+672	12	6	12	29
+709	17	7	9	38
+692	18	6	8	38
+624	8	8	7	29
+584	4	4	6	33
+; 2 -> 1
+1041	27	7	15	51
+903	31	7	5	42
+888	26	4	2	20
+573	33	3	2	12
+538	26	3	7	16
+497	20	5	9	21
+501	21	6	10	24
+462	19	5	12	19
+514	8	7	9	27
+476	6	6	14	42
+403	7	7	4	27
+329	5	4	9	19

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26196
+datum=26.4.1993
+kurzken=Q 2619.6/93-F
+bez=Chemnitzer Straße südl. Heerstraße    (Hellersdorf )
+arm1=Ost,550,0100
+arm2=West,1750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+1 1 
+1 0 
+1 0 
+1 0 
+1 1 
+2 0 
+0 1 
+1 0 
+2 1 
+1 1 
+2 0 
+4 0 
+; 2 -> 1
+7 2 
+4 0 
+1 0 
+1 0 
+5 2 
+1 0 
+0 1 
+8 1 
+2 0 
+3 0 
+1 0 
+1 0 

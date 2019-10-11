@@ -1,0 +1,34 @@
+[ZA1001]
+knoten=K 1426
+datum=04.08.2015
+kurzken=K 1426/15
+bez=A100 - Stadtring - Zu- und Abfahrt Tempelhofer Damm   (Tempelhof, 12099)
+arm1=Tempelhofer Damm,0,0100
+arm2=Zu- und Abfahrt BAB,860,0010
+arm3=Tempelhofer Damm,1800,0001
+arm4=Zu- und Abfahrt BAB,2660,1000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=nur die Zu- u. Abfahrten zählen\nCity-Atlas Seite 117\, Feld 1a
+data=
+; 1 -> 2
+667	8	7	1	19
+677	10	8	1	11
+719	4	2	2	16
+; 2 -> 3
+788	21	3	0	20
+789	13	7	2	25
+1021	8	9	1	26
+; 3 -> 4
+599	10	5	3	17
+550	3	2	1	11
+492	4	2	2	20
+; 4 -> 1
+463	21	3	0	12
+471	5	2	2	5
+477	8	1	2	7

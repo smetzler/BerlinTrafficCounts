@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6443015
+datum=10.10.1994
+kurzken=Q 6443015/94
+bez=Kiefholzstraße (westl. Eichbuschallee) (Baumschulenweg, 12437)
+arm1=Kiefholzstraße,390,0000
+arm2=Westen,1300,0001
+arm3=Kiefholzstraße,2200,0000
+arm4=Eichbuschallee,3050,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 10°\, sonnig\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+9,2
+3,0
+10,0
+5,0
+1,0
+3,6
+19,10
+4,5
+6,21
+10,13
+9,5
+3,0
+; 4 -> 2
+20,38
+11,3
+5,0
+2,0
+1,0
+3,0
+2,1
+4,5
+2,2
+8,7
+5,6
+2,0

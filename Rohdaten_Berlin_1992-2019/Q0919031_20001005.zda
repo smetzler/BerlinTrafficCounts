@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0919031
+datum=05.10.2000
+kurzken=Q 0919031/00
+bez=Kreuzstraße (nördl. Wollankstraße)   (Pankow, 13187)
+arm1=Wollankstraße,1700,0000
+arm2=Wilhelm-Kuhr-Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+21	0	0	0	3
+11	0	0	1	0
+11	0	0	0	1
+18	0	0	0	0
+21	2	1	0	2
+113	4	0	9	5
+301	10	0	13	15
+356	11	0	4	51
+369	12	1	9	19
+336	10	0	4	11
+243	11	0	5	13
+174	16	0	2	15
+251	14	0	3	18
+292	8	0	7	7
+125	4	0	8	16
+401	13	0	6	31
+423	4	0	10	29
+366	5	0	9	18
+324	1	0	4	16
+241	3	0	9	11
+132	2	0	2	11
+55	1	0	2	20
+76	0	0	3	8
+45	0	0	1	2

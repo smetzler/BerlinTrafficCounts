@@ -1,0 +1,24 @@
+[ZA1001]
+Knoten=K0002508
+Datum=03.09.1991
+KurzKen=K 2508/91
+Bez=Greifswalder Straße / Heinrich-Roller-Straße    ( Berlin 1055 )
+Arm1=Heinrich-Roller-Str.,570,0100
+Arm2=Greifswalder Straße,1450,0001
+Arm3=,0,0000
+Arm4=Greifswalder Straße,3250,1100
+Art=Kfz,,,,,,
+Zeit=0700,1900
+Intv=60
+Data=
+
+
+
+; 1 -> 2
+  102   81   64   90   85   81   90   71   90   91   81   82
+; 2 -> 4
+  867  735  885  960 1077 1091 1128 1185 1416 1401 1292 1031
+; 4 -> 1
+   15   15   22   33   34   31   25   21   21   25   40   31
+; 4 -> 2
+ 2008 1828 1499 1305 1181 1031 1107 1219 1177 1080 1040 1096

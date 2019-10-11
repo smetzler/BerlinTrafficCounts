@@ -1,0 +1,132 @@
+[ZA1001]
+knoten=K 2505
+datum=27.5.1991
+kurzken=K 2505/91
+bez=Bornholmer Strasse / Malmoeer Strasse - Bjoernsonstrasse    ( Prenzl.Berg )
+arm1=Bjoernsonstrasse,0,0111
+arm2=Bornholmer Strasse,830,0011
+arm3=Malmoeer Strasse,1900,0101
+arm4=Bornholmer Strasse,2630,0110
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Knotenarm 3 ; Linksabbiegen verboten !\nKnotenarm 1 ; fuer Kfz verboten ; Strassenbahn frei !
+data=
+; 1 -> 2
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+; 1 -> 3
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+; 1 -> 4
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+; 2 -> 3
+98 
+96 
+136 
+141 
+180 
+203 
+213 
+231 
+295 
+382 
+397 
+365 
+; 2 -> 4
+384 
+408 
+580 
+624 
+629 
+612 
+844 
+795 
+712 
+802 
+959 
+958 
+; 3 -> 2
+4 
+5 
+3 
+3 
+2 
+14 
+1 
+0 
+1 
+0 
+3 
+1 
+; 3 -> 4
+51 
+46 
+56 
+49 
+59 
+52 
+52 
+65 
+34 
+48 
+70 
+44 
+; 4 -> 2
+1174 
+1132 
+1116 
+1076 
+1006 
+998 
+913 
+985 
+1011 
+1206 
+940 
+759 
+; 4 -> 3
+23 
+31 
+22 
+20 
+43 
+38 
+40 
+46 
+45 
+41 
+38 
+51 

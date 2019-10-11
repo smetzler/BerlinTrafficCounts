@@ -1,0 +1,58 @@
+[ZA1001]
+knoten=K 566502
+datum=16.08.2004
+kurzken=K 566502/04
+bez=Mühlenstraße / Breite Straße   (Pankow, 13187)
+arm1=,0,0000
+arm2=Breite Straße,1060,0011
+arm3=Mühlenstraße,2000,0101
+arm4=Breite Straße,2860,0110
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 13-19 Uhr!\nGleisbauarbeiten: Mühlenstr. Ri. Nord 1 Spur gesperrt\, Breite Str. (Arm 4) 2 Spuren gesperrt.\nSchienenersatzverkehr in der Breite Str.
+data=
+; 2 -> 3
+111	4	2	4	12
+138	6	1	1	19
+143	1	0	8	15
+121	2	3	12	28
+112	4	3	10	21
+122	4	3	12	27
+; 2 -> 4
+356	31	19	15	44
+501	24	12	14	91
+487	27	18	22	66
+555	17	20	30	88
+553	15	21	15	44
+467	8	16	18	65
+; 3 -> 2
+209	9	0	10	19
+161	5	0	6	15
+201	5	0	9	19
+220	6	0	9	13
+244	6	0	9	29
+185	1	0	12	17
+; 3 -> 4
+83	5	0	5	7
+73	0	0	4	4
+61	1	0	2	8
+68	1	0	5	11
+59	1	0	6	8
+76	0	0	6	3
+; 4 -> 2
+222	19	23	7	44
+156	17	20	9	32
+183	12	26	7	59
+151	13	27	3	55
+283	10	25	11	99
+151	11	23	7	83
+; 4 -> 3
+75	4	0	2	0
+68	1	0	5	0
+73	1	0	3	0
+95	2	0	4	4
+100	7	0	5	12
+93	2	0	6	7

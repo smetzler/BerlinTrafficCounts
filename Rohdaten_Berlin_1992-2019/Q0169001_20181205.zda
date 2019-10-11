@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 169001
+datum=05.12.2018
+kurzken=Q 1690011/18
+bez=A113 (Höhe Stubenrauchstr.(ohne Zu- Abf.))   (Treptow, 12487)
+arm1=AS Johannisthaler Chaussee,550,0100
+arm2=AS Adlershof,2350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+3023	246	16	6
+2656	241	14	8
+2281	256	15	1
+2108	316	8	4
+2112	276	7	1
+2278	285	11	3
+2196	289	14	6
+3220	274	12	8
+3442	269	14	6
+3228	282	14	2
+3238	256	5	1
+2791	232	3	1
+; 2 -> 1
+3105	281	6	7
+2810	220	6	4
+2307	220	7	3
+2270	240	12	1
+2133	218	7	2
+2116	195	6	3
+2159	226	9	5
+2134	204	12	7
+2247	131	9	5
+2332	70	8	4
+2704	90	12	9
+2187	81	11	3

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03445
+datum=22.02.1989
+kurzken=Q 3445/89
+bez=Friedrich-Krause-Ufer suedlich Torfstrassen-Bruecke    ( Berlin 65 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+134 64 78 43 31 32 44 28 20 19 9 17 
+; 2 -> 1
+8 26 90 83 83 79 46 29 65 57 39 56 

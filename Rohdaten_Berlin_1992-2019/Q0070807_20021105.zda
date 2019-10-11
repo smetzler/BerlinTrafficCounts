@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 070807
+datum=05.11.2002
+kurzken=Q 070807/02
+bez=Quickborner Straße (nördl. Uhlandstraße)   (Märkisches Viertel, 13439)
+arm1=Zerpenschleuser Ring,400,0100
+arm2=Uhlandstraße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+86	12	13	6	3
+97	8	4	6	6
+95	17	10	6	0
+66	12	10	6	4
+78	15	8	6	4
+66	15	2	5	4
+93	11	13	6	9
+85	14	12	5	23
+120	12	2	6	18
+120	22	5	4	8
+88	19	4	5	17
+89	15	7	5	10
+; 2 -> 1
+96	18	2	5	2
+157	31	4	6	15
+118	30	9	6	12
+98	18	10	6	8
+77	23	9	6	0
+76	19	11	6	5
+126	16	7	7	8
+122	16	8	5	10
+144	12	12	5	15
+169	15	11	6	8
+159	16	2	5	7
+144	15	8	5	9

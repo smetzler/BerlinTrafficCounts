@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923097
+datum=19.05.2015
+kurzken=Q 0923097/15
+bez=Rahnsdorfer Straße (westl. Pilgramer Straße)   (Mahlsdorf, 12623)
+arm1=Wolfsberger Straße,600,0100
+arm2=Pilgramer Straße,2400,1000
+arm3=,3300,0000
+arm4=,1500,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+195	9	3	0	2
+157	10	3	1	7
+162	7	3	1	3
+176	14	3	0	8
+142	4	4	1	0
+145	4	3	0	2
+174	4	3	1	2
+164	5	2	3	3
+177	1	2	3	3
+337	0	2	6	12
+274	1	3	5	7
+169	0	2	7	6
+; 2 -> 1
+102	7	4	0	6
+89	8	3	1	7
+90	4	3	2	4
+88	6	4	2	2
+76	8	3	4	4
+98	3	4	2	1
+86	3	3	1	4
+90	6	3	2	2
+109	6	3	2	2
+96	3	4	4	2
+106	1	3	3	4
+91	0	3	1	5

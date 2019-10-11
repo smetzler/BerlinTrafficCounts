@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 25563
+datum=18.06.2007
+kurzken=Q 25563/07
+bez=Grünberger Straße (östl. Simon-Dach-Straße)   (Friedrichshain, 10245)
+arm1=Grünberger Straße (W),800,0000
+arm2=Simon-Dach-Straße (S),1700,0001
+arm3=Grünberger Straße (O),2600,0000
+arm4=Simon-Dach-Straße (N),3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=2 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+3	0
+16	0
+16	2
+30	0
+22	0
+36	0
+39	0
+43	1
+52	4
+40	3
+58	3
+51	0
+; 4 -> 2
+10	4
+11	0
+16	0
+30	6
+30	0
+36	0
+51	4
+40	4
+60	4
+61	2
+45	4
+63	2

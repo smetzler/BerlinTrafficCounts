@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907182
+datum=20.05.2019
+kurzken=Q 0907182/19
+bez=A115 (AVUS) - Zufahrt AS-Messedamm (Süd) (Charlottenburg, 10711) 
+arm1=Messedamm (Jaffestr.),1500,0100
+arm2=A115-AVUS (AS Hüttenweg),2500,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+230	16	1	6	0
+198	9	0	2	0
+165	21	0	2	0
+138	8	0	0	0
+133	23	0	1	0
+128	10	1	0	0
+203	13	2	2	0
+202	22	0	3	0
+313	13	1	5	0
+319	6	3	2	0
+171	3	0	5	0
+171	8	0	2	0

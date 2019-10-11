@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0917082
+datum=13.10.2008
+kurzken=Q 0917082/08
+bez=Große-Leege-Straße (nordöstl. Schöneicher Straße)   (Lichtenberg, 13055)
+arm1=Schöneicher Straße,1400,0100
+arm2=Bahnhofstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+107	6	3	2	16
+127	4	3	6	21
+138	3	3	2	25
+174	8	3	2	16
+149	8	3	2	20
+138	4	3	5	31
+158	7	3	6	34
+142	4	3	3	24
+188	2	3	1	18
+261	2	4	10	46
+216	3	3	4	33
+176	1	3	3	16
+; 2 -> 1
+173	5	7	3	56
+132	8	4	3	24
+156	4	3	4	29
+148	8	4	0	20
+144	4	3	9	18
+149	6	3	5	17
+174	10	4	6	41
+205	7	4	6	32
+202	4	2	6	84
+259	4	3	4	48
+216	4	3	8	26
+165	1	3	5	16

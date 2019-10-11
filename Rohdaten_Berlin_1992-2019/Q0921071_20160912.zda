@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0921071
+datum=12.09.2016
+kurzken=Q 0921071/16
+bez=von Landsberger A. (West) nach  Märkische Allee (Ri. Nord)  (Marzahn, 12681)
+arm1=Landsberger Allee (West),1000,0100
+arm2=Märkische Allee,2300,0000
+arm3=Landsberger Allee,2800,0000
+arm4=,3450,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fahrzeuge die von Hochstr. der Landsberger Allee (von Westen) zur Märkische Allee (Ri. Nord)
+data=
+; 1 -> 2
+166	10	0	2	2
+207	15	0	4	1
+252	20	0	2	2
+255	16	2	5	1
+314	25	0	9	3
+319	19	0	3	1
+380	15	2	8	1
+407	16	0	11	0
+508	6	1	17	3
+497	6	1	17	2
+501	4	0	18	4
+445	7	0	17	5

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0259
+datum=26.05.1987
+kurzken=K 259/87
+bez=Falkenseer Platz  (Nord) / Falkenseer Damm     ( Berlin 20 )
+Arm1=Falkenseer Damm,550,0100
+Arm2=Falkenseer Platz,1650,0000
+Arm3=Falkenseer Platz,3050,1100
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung ;\nZaehlwerte mit denen der benachbarten Knotenpunkte abgeglichen ;\nsiehe auch  K 260/87 , K 310/87 und K 313/87
+data=
+; 1 -> 2
+975 605 520 485 475 430 585 530 585 590 490 520 
+; 3 -> 1
+670 410 485 455 485 530 555 650 1005 1100 980 865 
+; 3 -> 2
+2290 1920 1640 1705 1810 1830 1805 1945 2485 2425 1990 1765 

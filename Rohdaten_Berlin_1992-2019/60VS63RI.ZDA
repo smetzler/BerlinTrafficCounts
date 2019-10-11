@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41190
+datum=15.10.1991
+kurzken=Q 4119.0/91
+bez=Huettenweg in Hoehe US-Sport Center    ( Berlin 33 )
+arm1=Marshallstraße,900,0100
+arm2=Am Waldfriedhof,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+367 
+298 
+256 
+305 
+364 
+333 
+384 
+411 
+530 
+615 
+459 
+332 
+; 2 -> 1
+406 
+422 
+362 
+334 
+350 
+349 
+330 
+312 
+490 
+529 
+449 
+240 

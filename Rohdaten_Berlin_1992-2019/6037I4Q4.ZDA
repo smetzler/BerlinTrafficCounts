@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4158
+datum=13.10.1994
+kurzken=Q 4158/94.1
+bez=Lichtenrader Damm (südl. Marienfelder Straße)     (Lichtenrade, 12305)
+arm1=Marienfelder Straße (Nord),0,0100
+arm2=Löptener Straße (Süd),2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+832 137 12 10 113
+924 134 9 9 32
+961 143 10 8 29
+966 156 8 9 25
+995 116 9 10 38
+843 132 8 3 21
+892 115 12 9 41
+963 135 20 20 24
+1260 120 11 17 49
+1307 92 11 16 25
+1243 69 12 14 27
+1038 57 11 7 17
+; 2 -> 1
+1109 122 10 5 37
+942 145 9 4 12
+815 139 5 6 14
+801 131 6 5 20
+848 118 7 8 20
+769 113 7 11 13
+903 128 11 11 15
+905 119 10 10 32
+1011 80 11 17 30
+1077 77 11 19 30
+1163 47 9 13 18
+1089 54 11 17 20

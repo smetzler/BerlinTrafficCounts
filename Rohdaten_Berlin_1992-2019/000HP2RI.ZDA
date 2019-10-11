@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 0637
+datum=31.08.1988
+kurzken=K 637/88
+bez=Ernst-Reuter-Platz / Bismarckstrasse   ( Berlin 10 )
+Arm1=Bismarckstrasse,970,0100
+Arm2=Ernst-Reuter-Platz,2500,0000
+Arm3=,0,0000
+Arm4=Ernst-Reuter-Platz,3400,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1888 1848 1367 1337 1235 1227 1271 1171 1414 1512 1231 1157 
+; 4 -> 1
+963 968 1029 1105 1160 1294 1313 1238 1657 1710 1444 1269 
+; 4 -> 2
+1601 1595 1282 1416 1407 1468 1462 1474 1714 1742 1466 1297 

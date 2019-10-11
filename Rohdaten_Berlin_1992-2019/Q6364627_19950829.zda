@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6364627
+datum=29.08.1995
+kurzken=Q 6364627/95
+bez=Akeleiweg (südl. Stubenrauchstraße)   (Johannisthal, 12487)
+arm1=Sterndamm,350,0000
+arm2=Stubenrauchstraße,1200,0001
+arm3=Akeleiweg,2100,0000
+arm4=Stubenrauchstraße,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 16°\, bedeckt\, 0 mm  Niederschlag/Tag. 
+data=
+; 2 -> 4
+6 11
+14 1
+6 0
+2 0
+7 0
+11 0
+2 2
+11 11
+6 8
+7 2
+2 2
+2 2
+; 4 -> 2
+13 9
+11 3
+5 0
+6 1
+6 2
+6 0
+8 3
+15 8
+11 0
+8 3
+6 6
+4 2

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 42235
+datum=02.06.1997
+kurzken=Q 42235/97.2-F
+bez=Bouchéstraße (Höhe Bouché-Grundschule)   (Treptow, 12435)
+arm1=Kiefholzstraße,1400,0000
+arm2=Am Treptower Park,3200,0000
+arm3=Nordwest,500,0001
+arm4=Südost,2300,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 4
+11 4
+4 1
+9 0
+11 1
+8 45
+5 1
+10 22
+31 9
+13 5
+18 4
+6 0
+10 0
+; 4 -> 3
+54 64
+19 38
+10 0
+10 0
+7 1
+6 18
+6 7
+3 9
+16 10
+3 6
+4 3
+6 2

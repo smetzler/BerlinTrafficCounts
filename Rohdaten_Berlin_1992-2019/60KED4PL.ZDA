@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26437
+datum=26.09.1994
+kurzken=Q 26437/94
+bez=Neue Grottkauer Straße  (östl. Hellersdorfer Str.) (Kaulsdorf,12619)
+arm1=Feldberger Ring,850,0000
+arm2=Süden,1700,0001
+arm3=Neue-Grottkauer- Straße,2650,0000
+arm4=Norden,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 18°\, bewölkt\, kein Niederschlag. \nDurchführung der Erhebungen: \n - büro für   
+data=
+; 2 -> 4
+2,1
+2,3
+2,0
+6,0
+6,1
+1,1
+6,4
+3,4
+10,12
+1,14
+0,0
+2,7
+; 4 -> 2
+0,0
+0,0
+2,2
+0,0
+3,21
+1,1
+1,2
+2,5
+4,2
+2,4
+2,2
+7,8

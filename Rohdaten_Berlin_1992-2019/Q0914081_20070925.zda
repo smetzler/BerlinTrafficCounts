@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914081
+datum=25.09.2007
+kurzken=Q 0914081/07
+bez=Reuterstraße (nördl. Sasarsteig)   (Neukölln, 12053)
+arm1=Karl-Marx-Straße,50,0100
+arm2=Sasarsteig,1850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+109	4	0	1	6
+184	8	0	5	14
+130	3	0	1	8
+128	8	0	2	6
+130	2	0	2	9
+140	1	1	1	7
+160	0	0	4	7
+166	5	0	1	18
+192	0	0	2	10
+203	3	0	3	17
+197	4	0	6	22
+189	2	0	4	14
+; 2 -> 1
+79	1	0	7	12
+106	1	0	3	17
+113	3	0	4	17
+74	4	0	2	14
+95	3	0	4	14
+101	6	0	4	11
+109	3	0	1	11
+160	1	0	3	10
+162	2	0	4	16
+155	3	0	3	20
+189	3	0	4	21
+162	0	0	1	18

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915181
+datum=07.09.2015
+kurzken=Q 0915181/15
+bez=Porzer Straße (Höhe Fußg.-Brücke, nördl. Coloniaallee)   (Altglienicke, 12524)
+arm1=Coloniaallee,1300,0000
+arm2=Müngersdorfer Straße,3100,0000
+arm3=((Süden)),2200,0001
+arm4=((Norden)),400,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Porzer Str. im Bereich der Fußgänger-Brücke  (ca. 50m südl. bis 50m nördl.) queren.\n
+data=
+; 3 -> 4
+19	63
+6	9
+2	0
+6	0
+8	7
+7	0
+11	2
+13	12
+31	8
+26	14
+16	11
+27	1
+; 4 -> 3
+4	28
+12	4
+11	1
+8	7
+11	3
+8	4
+13	38
+15	47
+25	31
+23	27
+13	8
+14	5

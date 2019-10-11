@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16426
+datum=24.04.1986
+kurzken=Q 16426/86
+bez=Dalandweg  westl. Birkbuschstrasse    ( Berlin 41 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : ueberwiegend heiter und trocken
+data=
+; 1 -> 2
+9 1 5 0 4 0 7 1 11 0 11 2 15 2 
+12 2 14 4 11 1 7 0 2 0 
+; 2 -> 1
+4 1 7 0 5 0 5 0 16 4 5 0 8 4 
+6 0 10 1 8 0 4 2 3 0 

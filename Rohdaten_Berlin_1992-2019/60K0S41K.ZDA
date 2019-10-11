@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25948
+datum=25.8.1992
+kurzken=Q 2594.8/92-F
+bez=Gehrenseestr. östlich Wollenberger Str.    ( Berlin 1092-Hohenschönh. )
+arm1=Süd,30,0100
+arm2=Nord,1830,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1 0 
+3 0 
+6 0 
+4 1 
+1 0 
+1 0 
+0 0 
+2 1 
+0 0 
+6 0 
+3 1 
+0 0 
+; 2 -> 1
+1 4 
+3 0 
+4 0 
+4 0 
+0 0 
+2 0 
+4 5 
+1 0 
+0 0 
+5 0 
+3 0 
+6 1 

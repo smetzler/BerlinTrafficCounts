@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920100
+datum=19.06.2006
+kurzken=Q 0920100/06
+bez=Ruppiner Chaussee (Höhe Zugang S-Bhf. Heiligensee) (Heiligensee, 13503)
+arm1=Hennigsdorfer Straße,300,0100
+arm2=Stolpmünder Weg,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+419	8	7	11	58
+389	12	7	12	54
+338	10	3	9	37
+286	14	2	18	28
+266	8	2	8	31
+251	12	3	14	28
+289	17	4	10	25
+263	9	6	13	24
+320	12	6	20	38
+331	13	6	16	33
+407	5	6	20	42
+297	4	6	5	23
+; 2 -> 1
+224	11	8	3	14
+347	8	5	9	17
+243	15	4	7	14
+188	8	4	6	22
+236	14	3	4	39
+191	8	3	5	18
+252	18	5	13	19
+243	13	5	19	13
+194	8	8	16	14
+309	11	5	12	15
+265	7	7	14	22
+261	5	4	13	10

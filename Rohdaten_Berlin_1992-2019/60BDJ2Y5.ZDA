@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 14743
+datum=14.03.1989
+kurzken=Q 14743/89
+bez=Thorwaldsenstrasse oestlich Goettinger Strasse    ( Berlin 41 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Radf,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: wolkig bis bedeckt !
+data=
+; 1 -> 2
+5 5 2 1 2 5 10 10 15 9 23 14 
+; 2 -> 1
+11 7 13 6 3 5 9 12 19 22 19 6 

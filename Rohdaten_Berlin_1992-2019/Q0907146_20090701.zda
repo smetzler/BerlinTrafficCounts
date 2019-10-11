@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907146
+datum=01.07.2009
+kurzken=Q 0907146/09
+bez=A100 Stadtring - Zuf. Messedamm-Kaiserdamm (Süd)   (Grunewald, 10711)
+arm1=Messedamm - Kaiserdamm,350,0100
+arm2=A100 Stadtring,2000,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1129	69	1	26
+1302	49	1	25
+968	45	0	16
+824	66	2	18
+858	57	1	11
+861	60	6	12
+1027	69	3	23
+1284	41	0	23
+1374	48	2	34
+1556	38	5	32
+1363	22	2	39
+1243	16	2	23

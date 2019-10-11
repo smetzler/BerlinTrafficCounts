@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909024
+datum=21.05.2019
+kurzken=Q 0909024/19
+bez=Halenseestr. - Zu-, Abfahrt BAB-Stadtring-A100 (südl. Trabener Steg) (Grunewald, 10711) 
+arm1=BAB A100 (AD Funkturm,300,0100
+arm2=Halenseestr. (Rathenauplatz),2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+475	21	0	5	0
+434	20	0	6	0
+489	26	2	12	0
+346	22	0	4	0
+431	29	0	2	0
+618	34	5	12	0
+950	42	5	15	0
+1263	39	9	32	0
+1305	48	5	22	0
+1254	14	4	20	0
+1354	12	7	22	0
+1441	15	8	20	0
+; 2 -> 1
+767	39	1	12	0
+801	30	3	7	0
+611	41	7	7	0
+492	30	0	6	0
+455	41	1	9	0
+659	26	1	18	0
+1170	49	8	20	0
+1506	40	18	22	0
+2064	18	7	30	0
+1744	8	10	38	0
+1623	14	4	27	0
+1420	15	5	16	0

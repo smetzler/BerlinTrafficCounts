@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0904016
+datum=04.05.2004
+kurzken=Q 0904016/04
+bez=Sredzkistraße (westl. Knaackstraße)   (Prenzlauer Berg, 10415))
+arm1=Schönhauser Allee,1000,0100
+arm2=Knaackstraße,2800,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+225	3	0	6	105
+165	0	0	3	57
+78	0	0	3	24
+66	0	0	3	18
+72	0	0	3	3
+90	0	0	3	6
+225	3	0	6	30
+396	24	0	6	105
+456	30	0	6	198
+537	27	3	12	201
+543	21	3	6	135
+651	24	0	15	168
+657	42	3	18	210
+744	27	0	15	291
+723	21	3	36	330
+912	18	0	60	384
+1017	12	0	48	438
+828	21	3	48	453
+831	6	0	51	471
+888	9	0	30	480
+687	0	0	18	387
+354	0	0	27	216
+393	0	0	27	273
+324	3	0	15	175

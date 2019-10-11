@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923043
+datum=05.03.2009
+kurzken=Q 0923043/09
+bez=Wodanstraße (westl. Hönower Straße)   Mahlsdorf, 12623)
+arm1=Hörselbergstraße,950,0000
+arm2=Hönower Straße,2750,0000
+arm3=((Norden)),50,0001
+arm4=((Süden)),1850,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Wodanstr. westl. der Hönower Str. (bis ca. 100m westl.) queren.\nWetter: max T=14°C; Sonne=1 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+99	20
+64	3
+58	1
+30	3
+45	1
+41	0
+47	0
+55	1
+57	2
+49	3
+58	1
+43	5
+; 4 -> 3
+23	0
+17	2
+9	0
+22	0
+40	0
+36	0
+61	8
+58	20
+132	10
+135	6
+144	7
+71	2

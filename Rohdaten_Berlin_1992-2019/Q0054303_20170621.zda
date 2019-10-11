@@ -1,0 +1,68 @@
+[ZA1001]
+knoten=Q 54303
+datum=21.06.2017
+kurzken=Q 54303/17
+bez=Reichsstraße (südl. Länderallee - Eschenallee)   (Westend, 14052)
+arm1=Reichsstraße (N),400,0000
+arm2=Länderallee,1300,0001
+arm3=Reichsstraße (S),2200,0000
+arm4=Eschenallee,3300,0100
+art=Erw,Jugend
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+4	0
+1	0
+1	0
+0	0
+0	0
+0	0
+4	3
+8	1
+2	12
+16	1
+13	1
+13	0
+27	3
+27	36
+10	0
+21	4
+14	4
+11	0
+14	1
+26	3
+16	0
+25	0
+1	0
+3	0
+; 4 -> 2
+1	0
+1	0
+1	0
+1	0
+0	0
+3	0
+5	4
+15	2
+6	0
+8	0
+3	0
+3	0
+17	22
+18	7
+19	2
+11	3
+10	1
+10	1
+16	2
+7	1
+9	0
+13	0
+3	0
+2	0

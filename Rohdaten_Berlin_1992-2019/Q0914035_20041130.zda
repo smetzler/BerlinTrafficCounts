@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914035
+datum=30.11.2004
+kurzken=Q 0914035/04
+bez=Mariendorfer Weg (Höhe Nr. 70, westl. Hermannstr.)   (Neukölln, 12051)
+arm1=Eschersheimer Straße,950,0100
+arm2=Hermannstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+445	28	3	5	8
+407	37	3	7	7
+368	43	4	2	5
+268	32	6	4	6
+352	36	4	3	8
+321	33	4	3	7
+353	20	3	4	9
+484	27	3	3	9
+446	16	3	18	18
+469	13	3	10	17
+441	14	3	8	10
+338	11	3	3	5
+; 2 -> 1
+355	33	3	6	9
+327	21	4	3	7
+307	37	3	4	7
+294	26	4	6	4
+284	35	3	1	6
+263	33	4	3	5
+306	19	2	2	7
+250	26	3	4	3
+367	22	2	14	10
+294	14	2	7	7
+344	10	2	3	3
+342	8	2	2	4

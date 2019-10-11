@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913021
+datum=20.05.1999
+kurzken=Q 0913021/99
+bez=Tempelhofer Damm (südl. Albrechtstraße)   (Tempelhof, 12099)
+arm1=Kaiserin-Augusta-Straße,1700,0100
+arm2=Albrechtstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1750	74	2	72
+1512	107	1	43
+1330	114	2	56
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1374	60	0	50
+1358	44	0	65
+1390	30	3	58
+; 2 -> 1
+1033	95	3	35
+1225	96	0	43
+1184	86	3	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1264	41	0	46
+1533	42	2	65
+1622	35	0	87

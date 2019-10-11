@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 02408
+datum=09.04.1986
+kurzken=Q 2408/86
+bez=Seestrasse  westl. Genter Strasse   ( Berlin 65 )
+Arm1=Nord  ( 4a ),900,0100
+Arm2=Sued  ( 4b ),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw>65,Erw<65,Kinder,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+2 18 2 3 9 5 2 19 1 9 24 1 15 20 1 
+5 30 7 3 22 10 6 32 16 3 36 6 2 39 1 
+2 30 7 3 33 5 
+; 2 -> 1
+15 38 8 13 40 2 12 34 1 11 46 2 15 26 2 
+8 40 6 7 34 13 6 32 12 2 50 8 11 34 5 
+8 39 10 2 23 3 

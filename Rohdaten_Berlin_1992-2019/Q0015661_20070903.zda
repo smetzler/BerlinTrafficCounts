@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15661
+datum=03.09.2007
+kurzken=Q 15661/07
+bez=Ordensmeisterstraße (westl. Komturstraße)   (Tempelhof, 12099)
+arm1=Ordensmeisterstraße,1050,0000
+arm2=Komturstraße,1750,0001
+arm3=Teilestraße,2850,0000
+arm4=Komturstraße,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=3 Std; Niederschlag=20 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	1
+0	0
+1	0
+3	0
+5	0
+6	0
+5	0
+8	0
+13	0
+20	0
+35	0
+20	0
+; 4 -> 2
+33	0
+52	0
+34	0
+11	0
+17	0
+16	0
+11	0
+7	0
+8	0
+4	0
+8	0
+4	0

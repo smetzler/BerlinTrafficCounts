@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0910028
+datum=20.03.2014
+kurzken=Q 0910028/14
+bez=AK Zehlendorf - von Potsdamer Chaussee (West) nach A115 (Süd)   (Zehlendorf, 14129)
+arm1=A115-AVUS (AS Spanische Allee),50,0000
+arm2=Potsdamer Chaussee (W),950,0010
+arm3=A115 (AS Kleinmachnow),1850,0000
+arm4=Potsdamer Chaussee (O),2900,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 3
+88	7	4	0
+90	6	6	1
+55	11	5	0
+76	7	3	1
+59	3	3	3
+79	2	3	3
+96	5	3	3
+146	7	3	4
+191	5	3	3
+202	4	3	1
+173	1	4	5
+180	2	5	4

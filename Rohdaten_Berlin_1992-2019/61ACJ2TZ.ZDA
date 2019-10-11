@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 60067
+datum=24.11.1988
+kurzken=Q 60067/88
+bez=Motzener Strasse suedl. Nunsdorfer Ring (Sued)    ( Berlin 48 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend bedeckt; zeitweisee Regen !
+data=
+; 1 -> 2
+5 3 12 4 2 4 6 15 9 2 8 1 
+; 2 -> 1
+18 21 5 0 3 3 3 3 9 12 5 1 

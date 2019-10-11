@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917009
+datum=18.03.1999
+kurzken=Q 0917009/99
+bez=Landsberger Allee (östl. Judith-Auer-Straße)  (Lichtenberg, 12681)
+arm1=Judith-Auer-Straße,1050,0100
+arm2=Marquardtstraße,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1338	86	1	11
+1282	95	5	6
+1453	111	4	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1814	52	5	23
+1934	38	0	22
+1933	40	3	25
+; 2 -> 1
+2003	139	3	11
+1759	117	1	7
+1564	129	0	7
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1680	48	2	20
+1683	26	1	21
+1501	27	0	19

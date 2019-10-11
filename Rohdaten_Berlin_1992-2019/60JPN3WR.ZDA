@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025547
+datum=12.3.1992
+kurzken=Q 2554.7/92-F
+bez=Friedenstraße südlich Am Friedrichshain    ( Berlin 1055 Friedrh. )
+arm1=Ost,900,0100
+arm2=West,2850,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+29 6 
+11 0 
+25 2 
+18 2 
+19 2 
+27 0 
+18 0 
+25 7 
+36 7 
+64 6 
+30 10 
+36 5 
+; 2 -> 1
+27 1 
+13 1 
+12 13 
+10 0 
+8 1 
+19 0 
+18 3 
+29 2 
+26 9 
+31 4 
+19 6 
+14 2 

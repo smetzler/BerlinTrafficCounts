@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0904028
+datum=12.06.2006
+kurzken=Q 0904028/06
+bez=Knaackstraße (Höhe Nr. 67, Schule am Kollwitzplatz)   (Prenzl. Berg, 10435)
+arm1=Sredzkistraße,200,0100
+arm2=Wörther Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+62	3	0	2	49
+90	0	0	1	54
+80	3	4	6	83
+40	0	2	6	36
+45	3	2	1	28
+34	0	0	0	32
+60	0	0	0	36
+58	1	0	2	32
+44	2	0	2	48
+55	0	0	2	93
+53	0	0	5	56
+54	0	0	2	54
+; 2 -> 1
+33	1	0	0	61
+17	1	0	0	62
+41	1	1	1	77
+18	0	0	2	24
+23	6	0	0	41
+21	3	0	0	36
+23	0	0	1	49
+25	0	0	0	55
+14	0	0	0	76
+36	0	0	0	89
+26	0	0	1	73
+28	0	0	1	64

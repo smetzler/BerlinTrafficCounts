@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904901
+datum=10.04.2019
+kurzken=Q 0904901/18
+bez=Kastanienallee (nördl. Schwedter Straße) (Prenzlauer Berg, 10435) 
+arm1=Schwedter Straße,1400,0100
+arm2=Oderberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+29
+86
+72
+64
+64
+61
+79
+87
+115
+84
+86
+173
+; 2 -> 1
+136
+340
+244
+122
+101
+79
+77
+56
+75
+70
+45
+84

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 70697
+datum=27.8.1992
+kurzken=Q 7069.7/92-F
+bez=Friesenstraße südlich Willibald-Alexis-Straße    ( Berlin 61 )
+arm1=Ost,810,0100
+arm2=West,2720,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+2 0 
+6 1 
+11 1 
+7 0 
+15 6 
+19 2 
+12 4 
+14 9 
+14 1 
+16 4 
+18 1 
+13 7 
+; 2 -> 1
+2 6 
+10 3 
+7 0 
+7 0 
+7 2 
+7 3 
+9 0 
+13 1 
+9 5 
+11 2 
+10 5 
+16 6 

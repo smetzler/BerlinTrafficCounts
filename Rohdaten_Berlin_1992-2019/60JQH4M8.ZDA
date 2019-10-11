@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 25577
+datum=01.06.1994
+kurzken=Q 25577/94
+bez=Richard-Sorge-Straße (südl. Auerstraße) (Friedrichshain,10249) 
+arm1=Richard-Sorge-Straße,220,0000
+arm2=Auerstraße,1350,0001
+arm3=Richard-Sorge-Straße,2020,0000
+arm4=Straßmannstraße,2880,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für    \nWetter: max T = 25°\, vorm. sonnig\, nachm. bewölkt\, kein Niederschlag  
+data=
+; 2 -> 4
+62,50
+28,7
+30,9
+33,0
+21,1
+24,3
+21,3
+24,4
+40,28
+45,12
+52,4
+33,3
+; 4 -> 2
+33,9
+25,2
+13,2
+23,0
+28,0
+25,2
+39,71
+19,22
+30,22
+33,17
+26,6
+23,6

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q7311035
+datum=21.4.1993
+kurzken=Q 731103.5/93-F
+bez=Rudower Straße westl. Köpenicker Straße    (Köpenick )
+arm1=Süd,1600,0100
+arm2=Nord,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+0 7 
+2 0 
+1 0 
+1 0 
+0 3 
+2 3 
+1 1 
+2 1 
+1 2 
+7 2 
+2 1 
+0 1 
+; 2 -> 1
+1 0 
+1 0 
+1 0 
+0 0 
+0 2 
+0 0 
+1 0 
+0 0 
+1 0 
+6 1 
+3 2 
+1 0 

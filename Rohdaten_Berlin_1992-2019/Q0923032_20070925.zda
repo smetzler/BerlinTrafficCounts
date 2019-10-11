@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923032
+datum=25.09.2007
+kurzken=Q 0923032/07
+bez=Heesestraße-Heerstraße (westl. Lenbachstraße)  (Kaulsdorf, 12683)
+arm1=Dramburger Straße,800,0100
+arm2=Lenbachstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung; der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+117	3	6	2	8
+100	2	6	5	13
+106	3	6	3	12
+134	4	6	4	4
+148	2	9	1	5
+120	4	6	3	8
+179	2	6	0	10
+189	4	7	3	27
+268	0	8	8	14
+306	4	5	1	7
+298	2	7	6	26
+234	2	6	4	12
+; 2 -> 1
+418	6	5	8	56
+324	6	6	5	9
+241	7	7	3	13
+196	8	6	0	12
+153	8	6	1	2
+151	6	6	2	2
+159	2	6	2	4
+115	2	5	4	22
+164	4	8	0	22
+147	1	6	3	19
+173	2	7	1	22
+153	0	5	3	16

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918052
+datum=27.09.2010
+kurzken=Q 0918052/10
+bez=Pistoriusstraße (westl. Jacobsohnstraße)   (Weißensee, 13086)
+arm1=Am Steinberg,700,0100
+arm2=Jacobsebstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+457	12	5	5	20
+455	23	6	4	9
+405	11	7	1	8
+270	10	8	0	8
+277	8	5	0	9
+260	12	4	5	13
+313	15	6	1	11
+367	9	7	6	16
+364	8	5	4	12
+452	7	7	10	10
+405	10	5	4	13
+308	4	7	4	17
+; 2 -> 1
+398	25	6	6	8
+386	11	5	3	15
+376	21	7	1	9
+350	24	6	2	2
+349	21	6	3	6
+335	17	8	4	11
+327	19	7	3	12
+411	12	6	4	15
+510	18	8	8	22
+532	10	7	5	12
+465	5	5	5	18
+320	7	6	1	14

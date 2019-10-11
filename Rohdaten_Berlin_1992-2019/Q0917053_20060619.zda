@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917053
+datum=19.06.2006
+kurzken=Q 0917053/06
+bez=Buchberger Straße (Weg zum S-Bhf. Nöldnerplatz)   (Lichtenberg, 10365)
+arm1=Coppistraße (West),800,0100
+arm2=Coppistraße (Nordost),2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+171	9	3	5	5
+226	9	0	5	4
+223	8	0	10	5
+214	8	0	6	4
+248	13	0	3	9
+221	12	0	11	10
+308	9	0	7	21
+359	15	0	16	30
+440	6	0	24	48
+452	10	2	25	41
+412	8	0	14	30
+372	7	0	19	34
+; 2 -> 1
+367	13	1	12	15
+313	11	1	8	10
+282	4	0	8	4
+248	12	0	4	4
+232	7	1	4	7
+179	11	1	5	14
+222	16	0	6	14
+209	17	0	10	10
+258	10	1	10	26
+238	5	1	7	27
+209	4	0	13	22
+189	2	0	11	24

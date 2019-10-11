@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26226
+datum=18.10.1993
+kurzken=Q 2622.6/93-F
+bez=Rudower Straße südl. Schnellerstraße    ( Treptow )
+arm1=West,650,0100
+arm2=Ost,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+1 0
+4 0
+9 0
+12 1
+16 0
+18 0
+23 5
+11 5
+14 10
+7 2
+19 0
+20 3
+; 2 -> 1
+10 12
+7 2
+6 0
+13 0
+10 0
+10 1
+6 2
+6 5
+6 4
+10 3
+22 6
+13 2

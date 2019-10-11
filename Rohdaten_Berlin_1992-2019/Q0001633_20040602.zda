@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 1633
+datum=02.06.2004
+kurzken=Q 1633/04
+bez=Papierstraße (östl. Provinzstraße)   (Reinickendorf, 13409)
+arm1=Pankower Allee,950,0000
+arm2=Provinzstraße,1700,0001
+arm3=Papierstraße,2600,0000
+arm4=Provinzstraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17\,5°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+12	6
+16	0
+14	0
+13	0
+16	0
+20	0
+31	6
+21	2
+19	1
+16	5
+18	9
+17	3
+; 4 -> 2
+4	0
+13	0
+12	0
+13	1
+15	0
+20	0
+21	2
+23	4
+22	3
+17	3
+21	1
+11	4

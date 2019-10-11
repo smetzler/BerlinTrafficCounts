@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915070
+datum=04.03.2009
+kurzken=Q 0915070/09
+bez=Segelfliegerdamm (nördl. Walter-Huth-Straße)   (Johannisthal, 12487)
+arm1=Walter-Huth-Straße,1750,0100
+arm2=Gorissenstraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+250	10	0	1	8
+191	12	1	2	5
+196	13	0	3	4
+125	16	0	0	8
+146	10	0	0	3
+176	23	0	0	5
+253	18	1	2	11
+311	12	0	1	13
+356	16	0	4	13
+421	8	1	9	14
+299	7	0	5	6
+251	2	0	4	11
+; 2 -> 1
+124	10	0	0	4
+97	9	0	3	5
+121	6	0	1	4
+115	15	0	0	6
+99	11	0	1	9
+132	5	0	0	10
+136	7	0	2	3
+178	1	0	1	22
+191	1	0	3	13
+219	5	0	4	17
+175	2	0	5	11
+131	2	0	3	21

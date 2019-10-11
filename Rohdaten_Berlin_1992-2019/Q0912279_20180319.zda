@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912279
+datum=19.03.2018
+kurzken=Q 0912279/18
+bez=Grunewaldstraße (westl. Münchener Str.; Höhe Nr. 44)   (Schöneberg, 10779)
+arm1=Bayerischer Platz,950,0100
+arm2=Münchener Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+498	10	0	1	18
+821	6	0	7	27
+703	15	0	8	33
+470	18	2	2	8
+653	19	0	6	16
+612	14	1	4	14
+667	9	0	2	22
+655	9	0	11	25
+694	7	1	9	31
+634	2	0	10	30
+587	0	0	12	41
+552	2	1	11	30
+; 2 -> 1
+567	10	1	2	17
+677	10	0	2	41
+642	15	0	7	34
+572	8	0	4	30
+564	13	0	3	27
+525	13	0	3	26
+557	3	0	2	16
+681	10	1	8	18
+663	1	0	10	25
+626	4	0	4	36
+648	2	0	9	38
+550	3	0	3	24

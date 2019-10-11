@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 0346
+datum=21.05.1987
+kurzken=K 346/87
+bez=Waidmannsluster Damm / Hermsdorfer Damm ( AS BAB B-HH )    ( Berlin 27 )
+Arm1=Hermsdorfer Damm,210,0101
+Arm2=Waidmannsluster Damm,1150,1001
+Arm3=,0,0000
+Arm4=Waidmannsluster Damm,2840,1100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung\nRiegel Reinickendorf
+data=
+; 1 -> 2
+566 570 467 301 276 262 309 301 346 288 313 310 
+; 1 -> 4
+43 35 31 32 27 41 36 25 38 24 34 48 
+; 2 -> 1
+193 202 177 222 250 277 314 327 433 454 593 541 
+; 2 -> 4
+529 398 358 351 407 412 395 453 594 628 610 507 
+; 4 -> 1
+26 23 31 31 37 48 55 43 86 74 124 103 
+; 4 -> 2
+576 396 387 411 379 428 421 405 578 537 540 551 

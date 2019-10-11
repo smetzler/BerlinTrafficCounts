@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 78902
+datum=30.09.2015
+kurzken=Q 78902/15
+bez=Südwestkorso (südwestl. Laubenheimer Straße)   (Friedenau, 14197)
+arm1=Laubenheimer Straße (NW),370,0010
+arm2=Südwestkorso (SW),1180,0000
+arm3=Laubenheimer Straße SO),2050,1000
+arm4=Südwestkorso (NO),3040,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+5	0
+5	1
+4	0
+0	0
+0	2
+3	3
+2	0
+3	0
+2	0
+0	0
+6	0
+2	2
+; 3 -> 1
+1	1
+5	0
+2	0
+1	0
+1	1
+10	0
+2	0
+0	0
+3	1
+2	2
+2	0
+0	0

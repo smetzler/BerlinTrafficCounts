@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 3582
+datum=28.03.2011
+kurzken=Q 3582/11
+bez=Sellerstraße (westl. Müllerstraße)     (Wedding, 13653)
+arm1=Müllerstraße (NW),450,0010
+arm2=Sellerstraße,1320,0000
+arm3=Müllerstraße (SO),2250,1000
+arm4=Schulzendorfer Straße,2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+67	1
+141	1
+95	1
+43	1
+35	3
+69	0
+79	5
+67	3
+89	1
+90	0
+126	3
+58	0
+; 3 -> 1
+7	0
+33	0
+45	0
+43	2
+38	0
+95	4
+89	4
+36	2
+46	0
+48	1
+44	0
+32	0

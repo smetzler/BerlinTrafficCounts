@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906053
+datum=28.02.2008
+kurzken=Q 0906053/08
+bez=Möckernstraße (südl. Hallesche Staße)   (Kreuzberg, 10963)
+arm1=Hallesches Ufer,1700,0100
+arm2=Hallesche Straße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+153	3	0	7	31
+211	9	1	4	70
+195	5	1	4	46
+162	4	1	2	26
+143	4	0	1	23
+132	7	0	2	16
+166	1	1	10	14
+172	4	3	1	17
+145	4	0	6	19
+134	0	0	3	23
+131	0	0	7	11
+178	0	1	4	21
+; 2 -> 1
+83	2	0	3	5
+110	5	0	1	12
+83	4	0	2	13
+96	5	0	0	7
+77	2	0	1	13
+96	7	0	3	14
+159	8	0	2	15
+105	3	0	3	11
+133	3	0	3	8
+128	2	0	4	23
+186	1	2	8	25
+202	2	0	4	20

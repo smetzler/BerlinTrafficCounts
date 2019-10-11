@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 00452
+datum=09.10.2015
+kurzken=Q 00452/15
+bez=A100 - Stadtring (Abfahrt zur Alboinstr., östl. Reichartstraße)   (Tempelhof, 10
+arm1=AK Schöneberg,500,0100
+arm2=Alboinstraße,2400,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Nur die Abfahrt  zählen!\nStandort: Brücke Reichartstr.
+data=
+; 1 -> 2
+543	5	2	1	3
+665	12	1	0	4
+705	5	2	1	4

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0912086
+datum=18.04.2005
+kurzken=Q 0912086/05
+bez=Belßstraße (östl. Friedrichrodaer Straße)   (Marienfelde, 12277)
+arm1=Friedrichrodaer Straße,600,0100
+arm2=Estersstraße,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+219	5	3	7	17
+221	11	3	8	31
+276	6	4	16	18
+265	4	6	12	27
+262	2	6	11	23
+248	1	3	5	21
+; 2 -> 1
+116	3	3	6	16
+181	5	4	8	29
+218	4	4	8	11
+175	3	6	10	19
+287	1	6	12	18
+219	0	2	6	32

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 88148
+datum=13.11.1995
+kurzken=Q 88148/95
+bez=Britzer Damm (nördl. Koppelweg),(Neukölln, 12347)
+arm1=Westen,2700,0100
+arm2=Koppelweg,900,1000
+arm3=Britzer Damm,1890,0000
+arm4=Britzer Damm,3380,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: Max T=3°C\, bedeckt\, kein Niederschlag
+data=
+; 1 -> 2
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+1 0
+0 0
+0 0
+; 2 -> 1
+2 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+0 0

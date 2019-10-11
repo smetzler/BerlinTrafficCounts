@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11254
+datum=26.06.2017
+kurzken=Q 11254/17
+bez=Alt-Gatow (nördl. Groß-Glienicker Weg)   (Gatow, 14089)
+arm1=Groß-Glienicker Weg,1150,0010
+arm2=Kladower Damm,1600,0000
+arm3=Alt-Gatow (O),2950,1000
+arm4=Alt-Gatow (N),3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 3
+2	0
+1	0
+0	0
+0	0
+2	1
+0	0
+4	0
+3	0
+4	0
+6	0
+3	0
+2	0
+; 3 -> 1
+1	2
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	2
+2	4
+2	3
+2	1

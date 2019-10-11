@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 14434
+datum=06.08.2013
+kurzken=Q 14434/13
+bez=Lahnstraße (östl. Niemetzstraße)    (Neukölln, 12055)
+arm1=Niemetzstraße,300,0010
+arm2=Lahnstraße (W),1000,0000
+arm3=Gewerbestraße,1850,1000
+arm4=Lahnstraße (O),2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Lahnstr. östl. der Niemetzstr. queren (incl. Fußg.die ins Gewebegebiet gehen)\n
+data=
+; 1 -> 3
+22	2
+30	8
+18	0
+4	0
+14	3
+4	0
+6	0
+1	0
+2	0
+4	0
+0	0
+1	0
+; 3 -> 1
+4	0
+7	0
+4	1
+5	0
+2	0
+5	0
+4	0
+3	0
+30	2
+18	1
+9	0
+7	0

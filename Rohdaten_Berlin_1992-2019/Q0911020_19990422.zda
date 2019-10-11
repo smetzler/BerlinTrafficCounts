@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0911020
+datum=22.04.1999
+kurzken=Q 0911020/99
+bez=AK Schöneberg - von A100-Ost nach A103-Süd (Schöneberg, 10829)
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=A103-Saarstraße,1200,0000
+arm3=A100-Sachsendamm (Ost),2500,0100
+arm4=A103-Sachsendamm (Nord),3200,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 2
+1582	91	0	34
+1415	70	4	31
+1004	58	2	27
+824	60	1	23
+782	57	0	16
+806	55	2	17
+935	54	4	25
+946	59	0	32
+1268	44	1	49
+1704	60	4	37
+1272	21	3	34
+1145	20	0	36

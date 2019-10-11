@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 88018
+datum=18.09.1990
+kurzken=Q 88018/90
+bez=Biebricher Strasse oestlich Hermannstrasse    ( Berlin 44 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und ueberwiegend trocken !
+data=
+; 1 -> 2
+21 15 10 12 13 8 8 6 73 11 76 8 36 15 
+48 24 97 18 115 21 68 31 47 28 
+; 2 -> 1
+15 9 25 7 16 5 13 4 48 2 47 1 18 5 
+29 16 77 10 73 24 51 16 32 18 

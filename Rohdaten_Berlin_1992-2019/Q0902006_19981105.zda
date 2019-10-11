@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0902006
+datum=05.11.1998
+kurzken=Q 0902006/98
+bez=Levetzowstraße (östl. Gotzkowskystraße)   (Tiergarten, 10555)
+arm1=Gotzkowskystraße,700,0100
+arm2=Wikingerufer,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+560	28	7	15
+668	42	6	8
+580	39	6	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+708	19	4	13
+703	15	4	20
+715	6	5	18
+; 2 -> 1
+742	25	5	22
+808	30	8	17
+701	38	6	13
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+773	25	5	21
+725	15	6	15
+703	16	9	10

@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912004
+datum=09.06.1998
+kurzken=Q 0912004/98
+bez=Wismarer Straße (östl. Goerzallee)   (Lichterfelde, 12207)
+arm1=Goerzallee,450,0100
+arm2=Ortlerweg,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+449	53	21	10
+484	50	20	11
+434	42	17	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+853	45	23	32
+921	38	19	43
+772	17	22	26
+; 2 -> 1
+958	64	25	27
+874	77	25	18
+585	66	18	15
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+534	39	21	25
+547	28	22	20
+475	12	21	26

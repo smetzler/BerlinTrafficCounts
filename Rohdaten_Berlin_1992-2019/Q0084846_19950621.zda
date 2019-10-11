@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 84846
+datum=21.06.1995
+kurzken=Q 84846/95
+bez=Humboldtstraße (westl. Klamannstraße),(Reinickendorf, 13403) 
+arm1=Waldowstraße,1100,0100
+arm2=Klamannstraße,2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+273 4 7 4 25
+232 3 3 9 12
+275 6 3 6 22
+304 13 3 11 16
+254 8 6 5 18
+280 8 3 0 7
+313 11 3 5 17
+406 10 4 7 21
+484 2 3 25 29
+505 5 3 13 38
+390 6 4 11 24
+328 7 3 12 25
+; 2 -> 1
+299 0 4 2 12
+248 7 5 4 14
+242 12 3 4 23
+247 5 3 6 20
+270 3 4 3 10
+258 5 3 2 8
+268 4 2 5 19
+310 9 4 0 49
+336 3 3 2 14
+331 0 3 16 25
+279 1 4 4 19
+195 1 4 5 7

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 0904015
+datum=04.05.2004
+kurzken=Q 0904015/04
+bez=Knaackstraße (nördl. Sredzkistraße)   (Prenzlauer Berg, 10415))
+arm1=Danziger Straße,100,0000
+arm2=Sredzkistraße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n  - büro für   
+data=
+; 2 -> 1
+165	0	0	0	18
+135	0	0	0	21
+45	0	0	0	3
+42	0	0	0	6
+33	0	0	0	0
+51	3	0	0	0
+138	3	0	3	6
+267	18	0	0	3
+297	12	0	9	36
+291	21	0	3	21
+333	24	0	6	18
+411	18	0	0	21
+441	30	0	6	72
+525	15	0	6	63
+492	12	3	12	63
+600	42	0	24	99
+678	15	0	15	105
+582	18	0	21	141
+582	0	0	12	111
+579	3	0	18	114
+489	3	0	6	63
+243	0	0	15	48
+261	0	0	12	69
+204	0	0	3	39

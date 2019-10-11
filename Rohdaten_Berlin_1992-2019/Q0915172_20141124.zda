@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915172
+datum=24.11.2014
+kurzken=Q 0915172/14
+bez=Königsheideweg (westl. Johannisthaler Chaussee)   (Johannisthal, 12487)
+arm1=Späthsfelder Weg,700,0000
+arm2=Johannisthaler Chaussee,2450,0000
+arm3=((Norden)),3400,0001
+arm4=((Süden)),1600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die den Königsheideweg westl. der Johannsthaler Ch. (bis ca. 50m westl.) queren\nWetter: max T=10°C; Sonne=1 Std; Niederschlag=3 mm;
+data=
+; 3 -> 4
+3	0
+2	2
+3	0
+1	1
+1	0
+0	1
+2	2
+3	1
+3	0
+4	2
+6	0
+2	0
+; 4 -> 3
+5	0
+1	0
+2	0
+3	1
+3	0
+4	0
+2	0
+1	0
+2	0
+1	0
+2	0
+4	0

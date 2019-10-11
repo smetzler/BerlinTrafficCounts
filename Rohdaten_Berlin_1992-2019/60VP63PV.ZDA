@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41082
+datum=20.8.1991
+kurzken=Q 4108.2/91-F
+bez=Berliner Strasse zw. Gorkistrasse und Grussdorfstrasse    ( Berlin 27 )
+arm1=Grussdorfstraße,900,0100
+arm2=Gorkistraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg gegenueber Reichelt !
+data=
+; 1 -> 2
+33 
+74 
+210 
+491 
+601 
+512 
+428 
+410 
+454 
+572 
+491 
+229 
+; 2 -> 1
+45 
+83 
+294 
+526 
+483 
+362 
+376 
+461 
+356 
+213 
+369 
+116 

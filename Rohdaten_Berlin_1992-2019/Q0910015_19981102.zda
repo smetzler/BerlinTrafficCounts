@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910015
+datum=02.11.1998
+kurzken=Q 0910015/98
+bez=Sundgauer Straße (nördl. Mühlenstraße)   (Zehlendorf, 14167)
+arm1=Hampsteadstraße,300,0100
+arm2=Mühlenstraße,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+371	11	10	4
+383	15	4	6
+315	17	3	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+513	14	3	9
+562	11	3	9
+548	13	4	4
+; 2 -> 1
+511	17	5	4
+470	13	11	6
+331	17	5	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+419	12	3	7
+453	9	5	4
+369	3	6	2

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9943
+datum=27.04.2015
+kurzken=Q 9943/15
+bez=Gitschiner Straße (östl. Zossener Straße)   (Kreuzberg., 10969)
+arm1=Waterloo-Ufer,1040,0000
+arm2=Zossener Straße,1750,0001
+arm3=Gitschiner Straße,2840,0000
+arm4=Zossener Brücke,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+22	2
+37	6
+24	3
+31	4
+37	20
+39	3
+15	7
+33	6
+29	4
+27	2
+37	1
+29	2
+; 4 -> 2
+14	5
+7	1
+12	1
+15	16
+27	8
+23	1
+29	3
+27	1
+26	3
+31	4
+13	3
+15	0

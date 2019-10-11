@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907151
+datum=03.07.2017
+kurzken=Q 0907151/17
+bez=Max-Dohrn-Str. (Höhe Nr. 10 / Institut für Risikobewertung)   (Charlottenburg, 10589)
+arm1=Tegeler Weg,1000,0100
+arm2=Lise-Meitner-Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+302	14	23	8	16
+358	17	24	13	19
+248	19	24	8	9
+200	20	22	4	6
+136	14	21	7	4
+148	17	23	6	7
+159	8	22	7	4
+174	15	23	4	4
+204	17	21	5	8
+204	14	26	14	20
+168	11	17	1	12
+114	6	14	2	14
+; 2 -> 1
+150	16	6	2	4
+254	16	8	12	22
+196	18	7	6	13
+194	24	8	4	4
+215	18	6	10	5
+251	44	7	7	7
+281	16	6	12	7
+493	18	6	19	12
+521	25	7	27	21
+604	16	6	22	34
+474	12	6	28	23
+318	8	6	21	24

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 10149
+datum=17.05.1995
+kurzken=Q 10149/95
+bez=Dieffenbachstraße (Grünstreifen Grimmstraße)   (Kreuzberg, 10967) 
+arm1=Dieffenbachstraße (Urban-Kr.),700,0000
+arm2=Grimmstraße,1550,0001
+arm3=Dieffenbachstraße,2500,0000
+arm4=Grimmstraße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 16°C; bewölkt; 3 mm Niederschlag.\nDurchführung der Erhebungen: \n - büro für   und  
+data=
+; 2 -> 4
+3 7
+3 3
+4 2
+4 1
+4 1
+6 0
+4 0
+3 3
+3 0
+8 2
+7 1
+15 4
+; 4 -> 2
+9 4
+8 0
+7 0
+5 0
+6 0
+7 0
+2 0
+7 7
+3 0
+18 9
+9 0
+8 2

@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 06263
+datum=05.06.1984
+kurzken=Q 6263/84
+bez=Sesenheimer Strasse    suedl. Bismarckstrasse    (Berlin 12)
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=City 84
+data=
+; 1 -> 2
+0 13 1 4 0 0 16 0 3 0 0 16 0 2 0 
+0 24 3 0 0 0 17 5 3 1 0 23 3 0 0 
+0 17 3 1 0 0 23 1 1 0 1 39 3 2 0 
+1 44 4 2 0 2 39 1 0 0 0 26 2 1 0 
+; 2 -> 1
+0 4 3 2 0 1 15 1 1 0 1 23 4 4 0 
+1 28 3 1 0 0 14 3 1 0 0 23 2 0 0 
+0 33 0 1 0 0 35 3 0 0 2 43 5 0 0 
+1 56 1 0 0 1 53 0 0 0 3 20 0 0 0 

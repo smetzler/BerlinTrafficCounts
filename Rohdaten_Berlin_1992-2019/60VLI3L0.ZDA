@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 40950
+datum=5.3.1991
+kurzken=Q 4095.0/91
+bez=Ahrensfelder Chaussee in Hoehe Radieschenweg    ( Berlin-Marzahn )
+arm1=Ost,900,0100
+arm2=West,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+254 
+291 
+272 
+206 
+280 
+205 
+264 
+247 
+370 
+414 
+379 
+318 
+; 2 -> 1
+187 
+211 
+222 
+264 
+266 
+250 
+275 
+280 
+415 
+450 
+402 
+359 

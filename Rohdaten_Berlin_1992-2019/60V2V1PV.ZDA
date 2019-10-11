@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 40279
+datum=20.05.1985
+kurzken=Q 40279/85
+bez=Oranienburger Strasse zwischen Schlitzer Str. und Goeschenplatz    ( Berlin 26 )
+Arm1=Nord (Schlitzer S.),900,0100
+Arm2=Sued (Goeschenplatz),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=Kfz- und Fussgaengerzaehlung in Hoehe S-Bf. Wittenau ( Nordbahn ) ;\n( siehe auch  Q 4027.0/85 )
+data=
+; 1 -> 2
+23 474 59 78 5 18 506 55 68 1 11 525 62 63 8 
+8 649 58 75 3 16 726 61 79 0 28 736 69 59 4 
+26 744 58 84 4 35 744 47 63 6 49 1092 47 40 0 
+62 1303 53 23 2 51 1256 33 19 6 31 1032 27 15 5 
+; 2 -> 1
+41 1420 46 49 2 23 1007 54 72 3 21 761 47 69 5 
+9 662 55 70 2 22 576 54 82 3 16 499 43 59 2 
+12 587 55 73 2 29 579 53 55 4 42 772 47 43 0 
+39 740 35 30 1 48 696 33 17 4 39 653 29 16 2 

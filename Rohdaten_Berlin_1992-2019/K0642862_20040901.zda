@@ -1,0 +1,51 @@
+[ZA1001]
+knoten=K 642862
+datum=01.09.2004
+kurzken=K 642862/04
+bez=Stralauer Allee / Bossestraße   (Friedrichshain, 10245)
+arm1=Stralauer Allee,620,0010
+arm2=,0,0000
+arm3=Stralauer Allee,2420,1001
+arm4=Bossestraße,3420,1010
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+884	66	13	14	10
+934	65	5	15	23
+876	70	3	10	18
+814	74	0	20	26
+887	63	1	23	32
+929	64	3	20	19
+; 3 -> 1
+1004	75	2	35	44
+1208	95	4	28	48
+998	63	13	19	34
+952	61	4	26	35
+955	64	4	18	23
+968	50	1	19	25
+; 3 -> 4
+9	0	0	0	7
+6	0	0	0	2
+12	0	0	0	2
+13	0	0	2	4
+7	1	0	1	3
+10	1	0	0	6
+; 4 -> 1
+22	0	0	0	2
+24	2	0	1	6
+17	1	0	2	8
+19	0	0	3	5
+11	1	0	4	4
+15	1	0	1	4
+; 4 -> 3
+152	5	0	1	10
+102	4	0	4	11
+61	3	0	4	9
+51	3	0	3	7
+39	1	0	2	3
+33	1	0	1	3

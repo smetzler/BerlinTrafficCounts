@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0917016
+datum=21.09.1999
+kurzken=Q 0917016/99
+bez=Stadthausstraße (südl. Türrschmidtstraße)   (Lichtenberg, 10317)
+arm1=Türrschmidtstraße,200,0100
+arm2=Nöldnerstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+159	5	2	1
+184	4	4	1
+197	6	3	2
+184	12	3	3
+183	9	4	4
+186	9	3	4
+231	5	5	4
+336	10	8	5
+456	9	5	7
+571	7	6	8
+452	3	6	10
+329	0	5	4
+; 2 -> 1
+424	7	0	5
+407	10	0	4
+240	5	0	1
+149	4	0	1
+98	5	0	3
+113	3	0	2
+162	5	1	6
+145	2	0	1
+157	12	0	3
+146	0	0	2
+201	2	0	4
+250	7	0	1

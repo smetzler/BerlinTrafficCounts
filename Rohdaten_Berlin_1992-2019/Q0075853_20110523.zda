@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 75853
+datum=23.05.2011
+kurzken=Q 75853/11
+bez=Neuendorfer Straße (südl. Neue Bergstraße)   (Spandau, 13585)
+arm1=Neuendorfer Straße (N),170,0000
+arm2=Neue Bergstraße,1000,0001
+arm3=Neuendorfer Straße (S),1880,0000
+arm4=((Osten)),2800,0100
+art=Erw,Jugend
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=ACHTUNG: Zählzeitraum 06-19 Uhr\nWetter: max T=22°C; Sonne=13 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+3	1
+4	0
+8	0
+11	0
+12	0
+14	0
+7	1
+17	3
+19	4
+20	2
+7	0
+17	1
+7	1
+; 4 -> 2
+61	1
+83	27
+81	4
+62	2
+41	2
+50	1
+25	2
+71	1
+46	8
+30	8
+30	3
+33	2
+24	6

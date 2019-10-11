@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 76072
+datum=23.09.1999
+kurzken=Q 76072/99
+bez=Gatower Straße (südl. Am Ortsrand)   (Gatow, 14089)
+arm1=Westen,900,0010
+arm2=Gatower Straße,1800,0000
+arm3=Am Ortsrand,2800,1000
+arm4=Gatower Straße,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=25°C; Sonnenstd.=5; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	1
+2	0
+1	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+1	2
+0	0
+0	1
+; 3 -> 1
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0

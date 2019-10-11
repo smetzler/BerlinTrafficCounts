@@ -1,0 +1,24 @@
+[ZA1001]
+Knoten=K0001166
+Datum=21.11.1991
+KurzKen=K 1166/91
+Bez=Martin-Luther-Straße / Dominicusstraße    ( Berlin 62 )
+Arm1=Dominicusstraße,450,0010
+Arm2=Martin-Luther-Straße,1350,1010
+Arm3=Dominicusstraße,2250,1000
+Arm4=,0,0000
+Art=Kfz,,,,,,
+Zeit=0700,1900
+Intv=60
+Data=
+
+
+
+; 1 -> 3
+  760  751  749  709  841  929 1047  914 1240 1255 1281 1018
+; 2 -> 1
+  848  786  624  534  530  577  566  558  677  667  622  529
+; 2 -> 3
+   18   16   31   11    9   11   16   16   10   16   13   13
+; 3 -> 1
+ 1454 1404 1070 1007  937  958  862  894 1105 1160 1037  915

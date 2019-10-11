@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908065
+datum=19.09.2006
+kurzken=Q 0908065/06
+bez=Weg, parallel östl. Potsamer Ch. (südl. M.-Kolbe-Straße)   (Gatow, 13593)
+arm1=Str. 269,1400,0100
+arm2=M.-Kolbe-Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+7
+8
+8
+12
+6
+5
+4
+7
+8
+6
+19
+12
+; 2 -> 1
+9
+5
+14
+5
+4
+2
+3
+3
+6
+7
+15
+14

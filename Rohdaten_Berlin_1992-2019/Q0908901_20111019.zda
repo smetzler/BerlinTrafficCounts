@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908901
+datum=19.10.2011
+kurzken=Q 0908901/11
+bez=Neuendorfer Straße (nördl. Schönwalder Straße)   (Spandau, 13585)
+arm1=Schönwalder Straße,1700,0100
+arm2=Wröhmännerstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=13°C max T; 6 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 1 Niederschlagtag(e) Vorwoche (>2 mm)
+data=
+; 1 -> 2
+6
+8
+11
+28
+19
+20
+37
+36
+24
+26
+24
+21
+; 2 -> 1
+25
+16
+10
+30
+45
+33
+41
+38
+36
+34
+23
+28

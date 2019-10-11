@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 010302
+datum=25.05.2016
+kurzken=Q 010302/16
+bez=Reichpietschufer (westl. Köthener Brücke)   (Kreuzberg, 10785)
+arm1=Linkstraße,400,0000
+arm2=Köthener Brücke,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Hallesches Ufer vor Kreuzung Wilhelmstr. Ri. Westen\, Fahrbahn von 3 auf 2 Fahrstreifen reduziert
+data=
+; 2 -> 1
+1484	55	13	74	86
+1542	65	19	56	195
+1605	69	18	53	181
+1304	69	23	19	63
+1262	60	20	37	58
+1445	78	16	28	57
+1717	76	28	37	60
+1858	57	24	46	50
+1640	46	21	49	42
+1440	21	25	57	77
+1596	8	34	39	80
+1220	7	23	28	84

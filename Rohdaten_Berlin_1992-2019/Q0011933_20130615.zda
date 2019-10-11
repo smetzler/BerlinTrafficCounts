@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 11933
+datum=15.06.2013
+kurzken=Q 11933/13
+bez=Columbiadamm (östl. Golßener Straße)   (Kreuzberg, 10965)
+arm1=Columbiadamm (W),850,0000
+arm2=((Süden)),1500,0001
+arm3=Columbiadamm (O),2550,0000
+arm4=Golßener Straße,3300,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=24°C; Sonne=8 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+1	0
+3	0
+8	0
+11	0
+8	0
+18	0
+23	3
+30	3
+77	10
+78	17
+34	18
+20	1
+; 4 -> 2
+4	0
+6	0
+15	0
+23	1
+20	1
+17	1
+18	2
+16	4
+38	9
+26	4
+63	9
+43	12

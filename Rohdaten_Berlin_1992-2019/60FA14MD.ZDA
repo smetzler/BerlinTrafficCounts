@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 19801
+datum=06.06.1994
+kurzken=Q 19801/94
+bez=Strom Friedenfelser Str. - Marienfelder Allee (Süd) (Marienfelde, 12279)
+arm1=Hildburghauser Straße,800,0000
+arm2=Marienfelder Allee (Süd),1500,0001
+arm3=,2500,0000
+arm4=Friedenfelser Straße,3300,0100
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für  
+data=
+; 2 -> 4
+271 68 2 8
+225 61 0 5
+219 64 0 7
+252 47 1 4
+194 69 1 5
+188 48 0 6
+192 32 0 3
+181 37 1 2
+210 23 0 2
+235 33 1 4
+215 6 1 5
+195 14 1 8
+; 4 -> 2
+221 28 0 4
+168 49 1 1
+167 43 0 2
+179 48 1 3
+148 47 0 1
+159 33 1 2
+196 43 0 4
+220 43 0 7
+305 23 0 6
+309 23 0 10
+257 24 0 3
+192 7 0 4

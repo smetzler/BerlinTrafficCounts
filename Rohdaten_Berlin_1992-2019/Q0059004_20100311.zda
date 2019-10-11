@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 059004
+datum=11.03.2010
+kurzken=Q 059004/10
+bez=Neue Kreisstraße (Höhe Landesgrenze)  (Zehlendorf, 14109)
+arm1=R.-Breitscheid-Straße,1000,0100
+arm2=Stubenrauchstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+65	2	0	0	1
+129	1	1	0	5
+130	1	0	0	9
+110	1	0	0	2
+61	3	0	0	0
+80	2	0	0	2
+67	3	0	1	6
+101	2	0	0	3
+97	4	0	0	2
+105	0	0	0	3
+85	3	0	2	3
+105	0	0	1	0
+72	0	0	1	1
+; 2 -> 1
+21	1	0	0	0
+78	2	0	2	2
+107	1	0	2	2
+83	1	0	0	1
+86	3	1	0	3
+75	2	0	1	2
+63	2	0	0	3
+87	2	0	0	2
+86	4	0	0	5
+109	2	1	1	6
+115	3	1	1	13
+97	0	0	1	2
+83	0	0	0	1

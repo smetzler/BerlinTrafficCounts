@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0018
+datum=20.09.2015
+kurzken=Q 0018/15
+bez=B5 - Heerstraße (östl. Württembergallee)   (Charlottenburg, 14052)
+arm1=Württembergallee,1000,0100
+arm2=Bayernallee,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad,Radf
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=!OHNE NEBENFAHRBAHN!\, jedoch Radfahrer auf Nebenfahrbahn zählen! \nSpuraufteilung und Radfahrer-Zählung vor Ort festlegen! City-Atlas Seite 83\, Feld 9b
+data=
+; 1 -> 2
+789	1	0	12	9	40
+836	1	0	14	12	41
+788	0	0	13	5	23
+; 2 -> 1
+1227	1	1	22	15	42
+1317	0	0	10	20	43
+1283	1	0	14	14	52

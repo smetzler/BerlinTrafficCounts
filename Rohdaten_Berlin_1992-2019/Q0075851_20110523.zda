@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 75851
+datum=23.05.2011
+kurzken=Q 75851/11
+bez=Neuendorfer Straße (nördl. Neue Bergstraße)   (Spandau, 13585)
+arm1=Neuendorfer Straße (N),170,0000
+arm2=Neue Bergstraße,1000,0001
+arm3=Neuendorfer Straße (S),1880,0000
+arm4=((Osten)),2800,0100
+art=Erw,Jugend
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+0	0
+0	0
+2	0
+2	0
+4	0
+2	0
+1	0
+3	0
+4	0
+6	0
+1	0
+4	0
+5	0
+; 4 -> 2
+2	0
+4	2
+7	0
+6	0
+6	0
+12	0
+3	0
+6	0
+3	0
+0	0
+5	0
+6	0
+2	0

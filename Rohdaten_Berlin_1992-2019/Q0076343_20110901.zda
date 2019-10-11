@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 76343
+datum=01.09.2011
+kurzken=Q 76343/11
+bez=Ritterfelddamm (südl. Seekorso)   (Kladow, 14089)
+arm1=Ritterfelddamm (N),370,0000
+arm2=Seekorso (W),1150,0001
+arm3=Ritterfelddamm (S),2150,0000
+arm4=Seekorso (O),2950,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=3 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+5	11
+3	1
+2	1
+6	0
+3	1
+5	0
+2	0
+1	0
+5	2
+2	0
+0	0
+7	1
+; 4 -> 2
+3	1
+1	0
+1	0
+4	0
+3	1
+1	0
+1	0
+1	0
+0	0
+0	0
+1	0
+2	1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 109036
+datum=28.10.2013
+kurzken=Q 109036/13
+bez=Stendaler Straße (südl. Landsberger Chaussee)   (Hellersdorf, 12629)
+arm1=Zossener Straße,1850,0100
+arm2=Landsberger Chaussee,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+291	17	3	0	5
+343	6	3	0	5
+381	11	3	2	7
+410	14	3	0	2
+404	4	3	1	11
+488	4	4	5	2
+407	8	3	1	6
+371	8	7	3	6
+438	0	4	9	9
+564	2	8	4	12
+455	2	6	8	4
+308	0	4	3	2
+; 2 -> 1
+313	8	3	1	6
+295	5	3	1	5
+392	14	3	1	10
+462	12	3	0	0
+465	10	3	3	3
+432	11	3	2	5
+428	13	7	3	4
+463	17	5	4	6
+504	6	4	3	5
+838	16	4	4	12
+689	6	4	9	14
+476	5	3	4	8

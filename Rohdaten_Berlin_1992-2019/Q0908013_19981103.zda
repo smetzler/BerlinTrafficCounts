@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908013
+datum=03.11.1998
+kurzken=Q 0908013/98
+bez=Streitstraße (südl. Rauchstraße)   (Spandau, 13587)
+arm1=Chamissonstraße,1750,0100
+arm2=Rauchstraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+387	20	13	2
+384	38	20	1
+361	37	15	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+567	25	18	11
+637	17	18	17
+609	11	14	9
+; 2 -> 1
+761	40	16	18
+667	48	15	8
+605	55	15	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+827	30	19	12
+848	27	19	19
+822	17	16	8

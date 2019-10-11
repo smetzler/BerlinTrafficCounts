@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 14016
+datum=17.10.1984
+kurzken=Q 14016/84
+bez=Archivstrasse  westl. Podbielskiallee  (Berlin 33)
+Arm1=Sued (2a),900,0100
+Arm2=Nord (2b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+38 3 40 0 55 2 92 5 87 4 77 26 134 5 
+107 8 131 23 118 11 93 5 49 2 
+; 2 -> 1
+129 31 136 7 135 4 112 1 61 1 70 18 119 0 
+79 1 54 0 58 1 58 5 39 20 

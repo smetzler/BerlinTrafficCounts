@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0911073
+datum=11.05.2009
+kurzken=Q 0911073/09
+bez=Passauer Straße (Höhe Nr. 5-7)   (Schöneberg, 10789)
+arm1=Augsburger Straße,1650,0100
+arm2=Tauentzienstraße,3450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+20	4	0	0	5
+138	3	1	5	6
+125	4	1	10	20
+116	2	0	4	4
+146	4	0	3	8
+135	2	0	2	5
+166	5	2	1	6
+143	0	1	4	8
+122	0	0	2	10
+168	0	0	0	10
+165	0	0	2	5
+151	1	0	0	10
+; 2 -> 1
+11	0	0	0	0
+14	2	0	0	0
+37	0	0	0	0
+50	0	0	2	6
+101	2	0	1	4
+161	1	0	3	13
+219	3	0	0	7
+224	1	0	5	11
+214	0	0	8	14
+200	0	0	7	5
+198	0	0	6	8
+210	3	0	7	15

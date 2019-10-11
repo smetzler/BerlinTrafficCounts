@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910077
+datum=18.09.2006
+kurzken=Q 0910077/06
+bez=Argentinische Allee (östl. Siebenendenweg)   (Zehlendorf, 14169)
+arm1=Siebenendenweg,1300,0100
+arm2=Onkel-Tom-Straße,3050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=27°C max T; 9 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+930	11	6	28	115
+1314	18	7	28	48
+835	19	9	25	49
+486	18	4	8	32
+272	13	4	12	30
+613	8	4	19	51
+620	10	3	15	50
+624	10	3	25	41
+834	8	3	20	58
+779	10	3	38	69
+680	6	4	22	52
+681	2	3	16	71
+; 2 -> 1
+504	62	4	6	12
+640	26	5	8	14
+593	12	3	14	23
+710	6	2	3	10
+560	14	4	3	11
+705	17	5	7	24
+723	10	3	23	64
+775	4	3	31	141
+810	2	3	32	100
+845	9	4	37	108
+922	2	3	37	68
+868	1	5	21	50

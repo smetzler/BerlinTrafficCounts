@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010510
+datum=10.05.2010
+kurzken=Q 010510/10
+bez=Naumannstraße (Höhe  S-Bahnbrücke)   (Schöneberg, 10829)
+arm1=Torgauer Straße,0,0100
+arm2=Tempelhofer Weg,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Naumannstr. Ri. Süden verengte Fahrbahn im Bereich des S-Bhf.
+data=
+; 1 -> 2
+20	0	0	0	26
+19	3	0	1	35
+10	0	0	0	49
+16	0	0	0	30
+12	0	0	1	23
+10	0	0	0	18
+10	0	0	0	14
+7	0	0	0	17
+13	0	0	0	30
+9	3	0	3	31
+15	0	0	0	26
+20	1	0	1	46
+13	0	0	1	24
+; 2 -> 1
+228	10	18	9	10
+467	14	23	11	26
+580	10	28	13	31
+360	10	16	4	22
+325	13	16	8	21
+298	14	19	4	8
+302	18	18	10	21
+294	25	20	10	19
+380	20	21	6	18
+456	19	22	11	29
+474	14	22	12	36
+396	4	25	11	38
+379	1	21	7	21

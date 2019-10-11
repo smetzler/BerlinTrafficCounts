@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27741
+datum=28.10.2003
+kurzken=Q 27741/03
+bez=Oberseestraße (nordwestl. Degnerstraße)   (Hohenschönhausen, 13053)
+arm1=Oberseestraße (NW),400,0000
+arm2=Degnerstraße (SW),1600,0001
+arm3=Oberseestraße (SO),2300,0000
+arm4=Degnerstraße (NO),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=8\,5°C; Sonne=9 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+2	1
+1	0
+5	0
+4	1
+4	0
+5	0
+5	0
+15	2
+19	0
+21	4
+14	3
+10	3
+; 4 -> 2
+15	6
+7	1
+4	2
+4	0
+3	0
+7	0
+9	0
+27	5
+19	2
+11	2
+10	1
+4	0

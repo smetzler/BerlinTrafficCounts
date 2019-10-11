@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 16643
+datum=10.05.2010
+kurzken=Q 16643/10
+bez=Buckower Damm (südl. Mohriner Allee)   (Britz, 12347)
+arm1=Britzer Damm,100,0000
+arm2=Mohriner Allee,1200,0001
+arm3=Buckower Damm,1900,0000
+arm4=Alt-Britz,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+9	33
+15	3
+13	3
+22	0
+16	0
+28	26
+17	1
+19	1
+13	2
+29	8
+24	4
+28	5
+; 4 -> 2
+8	4
+8	1
+8	1
+10	0
+13	0
+19	1
+10	7
+9	4
+8	4
+18	9
+12	4
+4	2

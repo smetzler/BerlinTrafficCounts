@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915110
+datum=01.09.2011
+kurzken=Q 0915110/11
+bez=Wegedornstraße (Eisenbahn-Brücke, westl. Bohnsdorfer Weg)   (Altglienicke, 12524)
+arm1=Wegedornstr. (Markomannenstr.),600,0100
+arm2=Bohnsdorfer Weg (Rosestr.),2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+27	0	0	1	30
+35	0	0	1	10
+24	0	0	1	8
+34	0	0	2	12
+20	0	0	1	5
+26	0	0	0	11
+36	0	0	1	13
+45	0	0	1	16
+37	0	0	2	12
+59	0	0	1	10
+64	0	0	2	27
+51	0	0	1	22
+; 2 -> 1
+68	0	0	3	29
+50	0	0	0	16
+41	0	0	0	7
+36	0	0	2	12
+29	0	0	2	7
+27	0	0	1	6
+25	0	0	0	14
+31	0	0	0	21
+42	0	0	1	12
+39	0	0	2	24
+37	0	0	3	15
+41	0	0	2	13

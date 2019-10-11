@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906168
+datum=04.09.2018
+kurzken=Q 0906168/18
+bez=Reichenberger Straße (Höhe Lausitzer Straße)   (Kreuzberg, 10999)
+arm1=Manteuffelstraße,650,0100
+arm2=Ohlauer Straße,2450,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+49	3	0	1	28
+86	3	0	3	55
+88	1	0	8	34
+108	6	0	4	30
+88	1	0	0	33
+89	5	0	5	31
+118	0	0	6	45
+125	2	0	8	49
+160	0	0	2	77
+172	2	0	10	68
+121	0	0	10	87
+148	2	0	12	119
+; 2 -> 1
+145	5	0	9	82
+246	6	0	13	96
+304	2	0	9	98
+226	12	0	2	48
+188	6	0	3	46
+262	1	0	10	59
+212	9	0	6	41
+249	8	1	7	45
+281	16	0	15	55
+196	8	0	12	54
+214	5	0	10	44
+208	9	0	16	86

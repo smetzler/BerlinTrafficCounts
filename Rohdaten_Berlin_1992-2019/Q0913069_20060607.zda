@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913069
+datum=07.06.2006
+kurzken=Q 0913069/06
+bez=Hirzer Weg (Parkweg, nördl. Titlisweg)   (Mariendorf, 12107)
+arm1=Untertürkheimer Straße,100,0100
+arm2=Titlisweg,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 9 Std Sonne; 0 mm Niederschl.; 4 Sonnentag(e) Vorwoche (>3 Std); 2 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+13
+11
+11
+12
+5
+7
+12
+18
+8
+13
+17
+19
+; 2 -> 1
+27
+16
+8
+20
+7
+10
+11
+13
+4
+15
+7
+13

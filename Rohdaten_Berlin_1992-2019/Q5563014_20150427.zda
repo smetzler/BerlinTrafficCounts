@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5563014
+datum=27.04.2015
+kurzken=Q 5563014/15
+bez=Gertraudenstraße (nordöstl. Breite Straße - Fischerinsel)   (Mitte, 10178)
+arm1=Breite Straße,430,0010
+arm2=Gertraudenstraße,1400,0000
+arm3=Fischerinsel,2230,1000
+arm4=Mühlendamm,3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 3
+15	0
+24	4
+17	0
+20	0
+56	0
+80	5
+71	3
+61	8
+83	9
+106	3
+113	4
+102	3
+; 3 -> 1
+78	1
+158	0
+87	5
+125	36
+93	4
+111	7
+92	4
+55	1
+80	2
+72	2
+73	2
+69	5

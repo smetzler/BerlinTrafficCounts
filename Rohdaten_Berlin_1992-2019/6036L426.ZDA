@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4125
+datum=15.09.1992
+kurzken=Q 4125/92
+bez=Grunerstraße; Seitenfahrbahnen neben Tunnel    ( Berlin 1080 - Mitte )
+arm1=Littenstraße,1350,0100
+arm2=Alexanderplatz,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+542
+747
+772
+774
+878
+776
+880
+911
+1066
+1221
+1245
+1008
+; 2 -> 1
+1216
+1001
+895
+810
+886
+802
+763
+756
+764
+642
+671
+748

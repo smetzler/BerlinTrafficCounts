@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41122
+datum=28.8.1991
+kurzken=Q 4112.2/91-F
+bez=Turmstrasse zw. Stromstrasse und Wilhelmshavener Strasse    ( Berlin 21 )
+arm1=Stromstraße,900,0100
+arm2=Wilhelmshavener Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fussg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Fussweg in Hoehe Parkanlage !\nWetter : bedeckt und trocken !
+data=
+; 1 -> 2
+223 
+172 
+173 
+164 
+234 
+240 
+229 
+315 
+299 
+308 
+255 
+186 
+; 2 -> 1
+292 
+204 
+191 
+161 
+210 
+214 
+228 
+229 
+353 
+271 
+314 
+194 

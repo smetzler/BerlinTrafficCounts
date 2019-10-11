@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26181
+datum=11.09.2003
+kurzken=Q 26181/03
+bez=Pasteurstraße (westl. Bötzowstraße)    (Prenzlauer Berg , 10407)
+arm1=Pasteurstraße,500,0000
+arm2=Bötzowstraße,1400,0001
+arm3=Pasteurstraße,2300,0000
+arm4=Bötzowstraße,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=1 Std; Niederschlag=11 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+20	10
+24	3
+38	0
+29	1
+37	15
+25	1
+20	5
+29	28
+11	29
+19	2
+43	9
+56	8
+; 4 -> 2
+20	40
+17	3
+32	54
+30	2
+25	1
+20	3
+29	7
+27	13
+32	8
+31	8
+52	10
+38	10

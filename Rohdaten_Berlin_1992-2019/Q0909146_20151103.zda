@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909146
+datum=03.11.2015
+kurzken=Q 0909146/15
+bez=Seesener Straße (Höhe Cicerostraße)   (Wilmersdorf, 10709)
+arm1=Nestorstraße,400,0000
+arm2=Hohenzollerndamm,2200,0000
+arm3=((Westen)),1300,0001
+arm4=((Osten)),3100,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Seesener Str. in Höhe der Cicerostr. queren (auf ca. 50m beidseitig)
+data=
+; 3 -> 4
+92	10
+119	4
+61	0
+34	0
+29	0
+22	0
+29	1
+31	0
+23	0
+34	2
+24	0
+11	0
+; 4 -> 3
+23	1
+16	0
+17	0
+8	0
+16	0
+6	0
+53	0
+40	1
+66	2
+68	0
+60	2
+43	0

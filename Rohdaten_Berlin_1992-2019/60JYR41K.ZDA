@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 25875
+datum=25.8.1992
+kurzken=Q 2587.5/92-F
+bez=Stendaler Str. nördlich Quedlinburger Str.    ( Berlin 1150-Hellersdorf )
+arm1=Ost,950,0100
+arm2=West,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+76 44 
+91 8 
+61 8 
+91 12 
+65 14 
+61 11 
+53 56 
+94 51 
+92 59 
+88 45 
+92 23 
+58 15 
+; 2 -> 1
+62 81 
+49 41 
+68 11 
+75 14 
+54 13 
+57 12 
+33 12 
+50 34 
+67 46 
+94 67 
+77 42 
+40 11 

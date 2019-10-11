@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 12536
+datum=27.03.1990
+kurzken=Q 12536/90
+bez=Fritz-Reuter-Strasse suedl. Dominicusstrasse    ( Berlin 62 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+21 5 49 11 27 11 31 20 50 5 37 13 49 13 
+28 13 59 8 67 15 25 19 11 2 
+; 2 -> 1
+10 3 25 6 23 9 58 18 95 19 55 23 79 23 
+48 16 71 22 81 17 84 18 46 12 

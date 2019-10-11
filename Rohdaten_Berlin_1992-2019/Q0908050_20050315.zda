@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908050
+datum=15.03.2005
+kurzken=Q 0908050/05
+bez=Kladower Damm (südl. Groß-Glienicker-Weg)   (Gatow, 14089)
+arm1=Hellebergeweg,1500,0100
+arm2=Groß-Glienicker-Weg,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+535	10	15	4	1
+485	14	10	2	0
+463	16	10	3	8
+357	14	11	4	0
+380	18	12	2	6
+368	11	10	4	7
+; 2 -> 1
+371	23	11	2	4
+331	20	12	2	4
+284	16	10	0	1
+336	22	10	5	4
+361	13	10	5	4
+338	13	9	0	5

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916039
+datum=12.06.2006
+kurzken=Q 0916039/06
+bez=Dahlwitzer Landstraße (nördl. Schöneicher Straße)   (Köpenick, 12587)
+arm1=Schöneicher Straße,1750,0100
+arm2=Hinter dem Kurpark,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+298	19	0	4	8
+286	22	0	3	14
+265	25	0	2	10
+258	28	0	4	44
+237	21	0	8	12
+221	20	0	4	23
+217	23	0	9	32
+281	14	2	11	34
+264	12	0	10	38
+284	21	2	13	33
+248	7	0	12	35
+228	4	0	11	33
+; 2 -> 1
+249	16	0	9	48
+266	22	0	4	28
+257	25	1	6	17
+250	30	0	8	30
+225	20	1	3	25
+227	14	0	4	24
+193	15	2	7	23
+220	9	1	5	44
+340	14	0	16	22
+266	11	0	10	28
+253	3	0	13	35
+294	5	0	11	26

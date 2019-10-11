@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025906
+datum=23.6.1992
+kurzken=Q 2590.6/92-F
+bez=Andreasstraße südlich Lange Straße    ( Berlin 1017-Friedrichshain )
+arm1=Ost,800,0100
+arm2=West,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+35 5 
+28 4 
+25 1 
+22 2 
+21 4 
+34 2 
+44 2 
+28 9 
+46 6 
+51 9 
+38 4 
+32 16 
+; 2 -> 1
+30 10 
+41 2 
+25 2 
+16 2 
+28 1 
+36 1 
+31 3 
+36 2 
+110 8 
+77 20 
+37 12 
+12 6 

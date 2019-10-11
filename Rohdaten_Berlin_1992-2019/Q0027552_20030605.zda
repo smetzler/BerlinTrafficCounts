@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27552
+datum=05.06.2003
+kurzken=Q 27552/03
+bez=Janusz-Korczak-Straße (westl. Lyonel-Feininger-Str.)   (Hellersdorf, 12629)
+arm1=Lyonel-Feininger-Straße (N),30,0010
+arm2=Janusz-Korczak-Straße (W),950,0000
+arm3=Lyonel-Feininger-Straße (S),1830,1000
+arm4=Janusz-Korczak-Straße (O),2750,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=32°C; Sonne=11 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+74	27
+51	11
+43	6
+26	2
+27	9
+28	8
+23	5
+35	13
+31	12
+29	3
+14	1
+35	15
+; 3 -> 1
+13	7
+23	3
+18	1
+15	3
+41	10
+24	19
+22	7
+28	5
+48	15
+57	7
+40	3
+40	7

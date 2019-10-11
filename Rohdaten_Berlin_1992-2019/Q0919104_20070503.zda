@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919104
+datum=03.05.2007
+kurzken=Q 0919104/07
+bez=Neumannstraße (nördl. Greta-Garbo-Straße)   (Pankow, 13189)
+arm1=Arnold-Zweig-Straße,100,0100
+arm2=Greta-garbo-Straße,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+676	19	8	18	47
+519	10	6	9	41
+362	11	5	6	24
+358	12	4	14	18
+271	9	4	4	16
+207	8	5	3	34
+236	4	3	12	29
+279	9	5	9	33
+256	8	6	4	30
+337	0	7	14	47
+329	4	5	10	36
+243	1	5	8	37
+; 2 -> 1
+181	4	7	3	29
+184	6	4	0	38
+265	6	3	5	26
+246	2	2	12	24
+252	5	4	4	26
+270	4	3	5	24
+279	6	4	7	35
+309	2	5	10	35
+398	6	6	12	44
+519	1	6	25	52
+453	0	4	9	51
+344	3	3	11	36

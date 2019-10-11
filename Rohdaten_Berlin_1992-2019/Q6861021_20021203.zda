@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6861021
+datum=03.12.2002
+kurzken=Q 6861021/02
+bez=Pölnitzweg (nördl. Alt-Buch)   (Buch, 13125)
+arm1=Pölnitzweg,420,0000
+arm2=West,1210,0001
+arm3=,0,0000
+arm4=Ost,2860,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 5°C; Sonne: 0 Std; Niederschlag:0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+4	3
+5	2
+6	1
+1	1
+7	2
+5	0
+6	2
+2	4
+3	1
+0	0
+2	0
+2	0
+; 4 -> 2
+18	2
+6	3
+7	2
+8	2
+3	1
+6	1
+3	0
+8	1
+2	0
+6	0
+0	0
+1	0

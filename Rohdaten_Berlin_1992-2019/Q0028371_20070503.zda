@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28371
+datum=03.05.2007
+kurzken=Q 28371/07
+bez=Badstraße (nördl. Böttgerstraße - Behmstraße)   (Wedding, 13357)
+arm1=Badstraße,400,0000
+arm2=Böttgerstraße,1250,0001
+arm3=Badstraße,2150,0000
+arm4=Behmstraße,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+23	0
+57	33
+108	7
+93	4
+99	5
+130	24
+136	5
+141	5
+143	29
+175	25
+162	27
+189	138
+; 4 -> 2
+40	2
+68	3
+82	17
+113	3
+95	1
+113	1
+107	5
+129	22
+111	10
+124	19
+154	29
+165	13

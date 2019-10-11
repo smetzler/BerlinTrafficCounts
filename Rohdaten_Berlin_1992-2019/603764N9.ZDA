@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4146
+datum=06.07.1994
+kurzken=Q 4146/94
+bez=Harzer Straße (Nr. 74 (Hans-Fallada-Schule)) (Neukölln, 12059)
+arm1=Brockenstraße,450,0100
+arm2=Treptower Straße ,2250,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  
+data=
+; 1 -> 2
+91 5 9 4 11
+93 14 7 4 8
+80 14 5 3 22
+100 12 4 6 2
+115 18 4 6 19
+74 12 4 2 11
+86 15 2 5 12
+87 12 4 5 9
+122 12 4 6 10
+153 6 4 5 13
+101 2 5 4 8
+79 1 5 5 14
+; 2 -> 1
+153 17 8 4 3
+148 13 5 4 19
+106 22 4 2 9
+126 2 6 4 12
+98 9 3 2 5
+82 11 4 2 10
+78 10 4 5 16
+79 11 5 6 9
+114 10 6 8 20
+86 8 6 5 11
+83 4 7 4 15
+87 6 6 6 21

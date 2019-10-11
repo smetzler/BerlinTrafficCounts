@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20511
+datum=20.08.2018
+kurzken=Q 20511/18
+bez=Ahlbecker Straße (westl. Prenzlauer Allee)  (Prenzlauer Berg, 10405)
+arm1=Ahlbeckerstraße,570,0000
+arm2=Prenzlauer Allee (S),1670,0001
+arm3=,0,0000
+arm4=Prenzlauer Allee (N),3470,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 2 -> 4
+172	16
+312	21
+249	14
+260	18
+208	10
+272	20
+169	26
+243	10
+281	20
+304	16
+264	31
+278	13
+; 4 -> 2
+210	16
+262	5
+275	39
+274	6
+255	3
+308	44
+292	22
+273	14
+352	42
+324	34
+304	9
+440	16

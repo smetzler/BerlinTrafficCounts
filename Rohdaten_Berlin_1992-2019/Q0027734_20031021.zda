@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27734
+datum=21.10.2003
+kurzken=Q 27734/03
+bez=Schulze-Boysen-Straße (nördl. John-Sieg-Straße)   (Lichtenberg, 10365)
+arm1=John-Sieg-Straße,700,0010
+arm2=Schulze-Boysen-Straße,1600,0000
+arm3=((Osten)),2500,1000
+arm4=Schulze-Boysen-Straße,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=7°C; Sonne=0 Std; Niederschlag=5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	5
+7	3
+6	2
+2	0
+22	92
+5	5
+3	12
+3	25
+3	23
+3	4
+3	2
+1	1
+; 3 -> 1
+21	32
+10	9
+5	2
+3	0
+4	0
+3	107
+3	2
+2	3
+3	0
+2	1
+2	3
+1	2

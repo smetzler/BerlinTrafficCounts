@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 010205
+datum=05.09.2006
+kurzken=Q 010205/06
+bez=Behrenstraße (östl. Ebertstraße)       (Mitte, 10557)
+arm1=Ebertstraße,900,0100
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Behrenstraße: Richtung Osten vor Wilhelmstraße auf 1 Spur verengt\, Richtung Westen von 6-16 Uhr nur einspurig!
+data=
+; 1 -> 2
+445	16	24	0	6
+754	22	27	0	11
+938	12	47	4	22
+911	14	29	11	21
+873	16	30	19	8
+804	32	37	12	10
+777	51	28	10	23
+779	51	27	14	26
+804	37	24	11	32
+800	38	22	12	18
+894	46	10	11	32
+894	42	9	10	58
+; 2 -> 1
+389	30	28	1	5
+493	33	24	0	17
+512	33	31	8	30
+530	21	35	12	26
+415	33	28	21	15
+362	21	31	23	19
+422	29	33	24	21
+439	29	16	18	25
+484	22	12	18	21
+508	22	16	16	29
+551	18	8	14	57
+586	17	13	18	49

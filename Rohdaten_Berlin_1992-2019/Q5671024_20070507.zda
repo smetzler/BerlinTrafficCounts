@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5671024
+datum=07.05.2007
+kurzken=Q 5671024/07
+bez=Schönhauser Allee (nördl. Schivelbeiner Straße)   (Prenzlauer Berg, 10439)
+arm1=Schivelbeiner Straße,830,0010
+arm2=Schönhauser Allee,1720,0000
+arm3=Wichertstraße,2520,1000
+arm4=Schönhauser Allee,3520,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=0 Std; Niederschlag=26 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+18	5
+53	1
+97	1
+110	0
+102	0
+73	1
+81	0
+104	0
+99	4
+119	2
+103	0
+77	1
+; 3 -> 1
+20	2
+53	6
+84	1
+96	3
+101	2
+91	2
+88	4
+88	4
+99	3
+138	0
+108	1
+78	3

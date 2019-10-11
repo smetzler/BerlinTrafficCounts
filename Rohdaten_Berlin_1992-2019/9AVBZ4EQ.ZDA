@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5546015
+datum=19.10.1993
+kurzken=Q 554601.5/93-F
+bez=Gartenstraße nördl. Bernauer Straße    ( Wedding )
+arm1=West,1400,0100
+arm2=Ost,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : klar und trocken
+data=
+; 1 -> 2
+13 4
+7 3
+6 0
+8 1
+7 0
+6 1
+10 0
+8 4
+24 10
+13 0
+12 0
+6 2
+; 2 -> 1
+12 14
+9 2
+15 4
+4 2
+21 1
+14 0
+11 5
+12 2
+33 6
+8 3
+17 2
+7 0

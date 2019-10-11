@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025748
+datum=26.3.1992
+kurzken=Q 2574.8/92-F
+bez=Mark-Twain-Straße nördlich Risaer Straße    ( Berlin 1150 Hellersdorf )
+arm1=Ost,1550,0100
+arm2=West,3350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+25 14 
+45 18 
+69 63 
+67 14 
+51 16 
+58 15 
+55 14 
+37 19 
+56 42 
+87 41 
+89 34 
+54 21 
+; 2 -> 1
+5 19 
+24 6 
+53 13 
+42 32 
+53 15 
+36 11 
+39 7 
+35 19 
+50 13 
+98 35 
+72 29 
+61 23 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159005
+datum=18.09.2018
+kurzken=Q 159005/18
+bez=Falkenseer Chaussee - Spandauer Straße (Stadtgrenze)  (Spandau, 13589)
+arm1=Pestalozzistraße,700,0100
+arm2=Freudstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+921	13	2	41	70
+833	34	4	23	51
+689	45	4	11	36
+588	26	2	30	24
+592	27	2	16	30
+530	10	1	14	22
+506	17	1	18	35
+474	26	3	23	30
+453	12	3	15	36
+462	6	2	22	48
+609	9	3	19	38
+489	7	3	32	41
+; 2 -> 1
+321	29	4	7	15
+335	27	2	9	20
+395	38	3	10	13
+398	30	2	12	10
+497	29	2	9	23
+482	24	2	16	29
+584	27	1	22	30
+780	31	3	23	30
+680	27	2	44	38
+750	14	2	28	60
+762	11	3	37	87
+782	7	2	25	38

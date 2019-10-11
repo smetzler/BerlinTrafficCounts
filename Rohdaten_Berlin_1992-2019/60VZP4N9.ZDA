@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41461
+datum=06.07.1994
+kurzken=Q 41461/94
+bez=Harzer Straße (Nr. 74 (Hans-Fallada-Schule)) (Neukölln, 12059)
+arm1=Ost,450,1000
+arm2=West,2250,0100
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für  \nWetter: Max T.=25°\, sonnig\, kein Niederschlag
+data=
+; 1 -> 1
+11 13
+22 5
+15 3
+14 8
+29 62
+22 19
+9 7
+8 6
+8 10
+7 4
+6 3
+5 2
+; 2 -> 2
+15 51
+10 23
+3 2
+12 4
+11 7
+10 6
+12 8
+9 7
+12 8
+10 6
+6 4
+9 4

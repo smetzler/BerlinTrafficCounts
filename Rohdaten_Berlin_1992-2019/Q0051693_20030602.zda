@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 51693
+datum=02.06.2003
+kurzken=Q 51693/03
+bez=Helgoländer Ufer (östl. Kirchstraße)   (Tiergarten, 10557)
+arm1=,0,0000
+arm2=Kirchstraße,1600,0001
+arm3=Helgoländer Ufer,2200,0000
+arm4=Kirchstraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=30°C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+60	1
+73	2
+33	0
+39	0
+53	1
+62	15
+30	0
+21	6
+26	3
+28	0
+45	3
+36	1
+; 4 -> 2
+33	3
+23	0
+47	1
+60	19
+62	0
+47	0
+35	1
+33	1
+49	1
+41	3
+35	0
+35	2

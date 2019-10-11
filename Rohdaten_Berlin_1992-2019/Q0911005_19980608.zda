@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911005
+datum=08.06.1998
+kurzken=Q 0911005/98
+bez=Rheinstraße (südl. Saarstraße)   (Friedenau, 12161)
+arm1=Rönnebergstraße,1500,0100
+arm2=Saarstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+489	23	18	31
+503	22	16	36
+477	26	18	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+571	17	24	38
+638	11	25	47
+562	10	23	36
+; 2 -> 1
+461	29	17	23
+498	32	18	24
+562	27	17	22
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+556	16	23	33
+596	11	24	47
+585	6	24	56

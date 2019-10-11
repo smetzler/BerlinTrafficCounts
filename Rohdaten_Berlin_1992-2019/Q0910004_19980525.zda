@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0910004
+datum=25.05.1998
+kurzken=Q 0910004/98
+bez=Hüttenweg (westl. Onkel-Tom-Straße)   (Zehlendorf, 14193)
+arm1=BAB A115 (AVUS),800,0100
+arm2=Onkel-Tom-Straße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+870	42	0	14
+941	47	1	10
+513	31	1	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+758	15	0	16
+774	11	0	12
+683	9	0	13
+; 2 -> 1
+507	13	1	12
+459	24	0	9
+386	19	0	6
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+699	15	2	25
+611	10	1	10
+445	10	0	9

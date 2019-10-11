@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0904901
+datum=18.01.2012
+kurzken=Q 0904901/12
+bez=Kastanienallee (nördl. Schwedter Straße)   (Prenzlauer Berg, 10435)
+arm1=Schwedter Straße,1400,0100
+arm2=Oderberger Straße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Kastanienallee zwischen Oderberger Str. und Schönhauser Allee vollständig gesperrt!\n5°C max T; 6 Std Sonne; 5 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std); 2 Niederschlagtag(e) Vorwoche (>2 mm).
+data=
+; 1 -> 2
+16
+29
+42
+38
+45
+30
+41
+38
+49
+74
+33
+39
+; 2 -> 1
+62
+119
+147
+36
+61
+31
+33
+37
+75
+108
+62
+47

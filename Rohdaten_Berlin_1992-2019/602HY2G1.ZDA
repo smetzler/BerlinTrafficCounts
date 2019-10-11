@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03238
+datum=02.09.1987
+kurzken=Q 3238/87
+bez=Breite Strasse noerdl. Mauerstrasse   ( Berlin 20 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter : klar und trocken
+data=
+; 1 -> 2
+8 22 20 11 26 27 19 5 15 34 48 44 
+; 2 -> 1
+0 4 21 24 16 17 24 30 11 9 28 41 

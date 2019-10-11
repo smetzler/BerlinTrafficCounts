@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 8491
+datum=06.10.2014
+kurzken=Q 8491/14
+bez=Kleiststraße (westl.  Martin-Luther-Straße - An der Urania)   (Schöneberg, 10787)
+arm1=Kleiststraße (W),700,0000
+arm2=Martin-Luther-Straße,1600,0001
+arm3=Kleiststraße (O),2500,0000
+arm4=An der Urania,3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+7	0
+4	0
+7	0
+26	0
+36	3
+23	0
+46	2
+58	2
+31	0
+50	0
+53	3
+56	2
+; 4 -> 2
+8	2
+6	0
+8	0
+24	0
+17	0
+30	0
+49	2
+83	0
+47	0
+75	3
+49	3
+76	5

@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=K 6029
+datum=18.06.1986
+kurzken=K 6029/86
+bez=Friedenstrasse / Fritz-Werner-Strasse      ( Berlin 42 )
+Arm1=,0,0000
+Arm2=Friedenstrasse,1050,0011
+Arm3=Fritz-Werner-Strasse,1700,0001
+Arm4=Friedenstrasse,2850,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Keine Fahrzeugartenunterscheidung !
+data=
+; 2 -> 3
+20 30 26 27 49 25 38 37 90 103 60 63 
+; 2 -> 4
+921 722 790 805 860 813 941 1093 1307 1344 1213 1060 
+; 3 -> 4
+190 142 102 33 38 34 43 124 225 123 57 40 

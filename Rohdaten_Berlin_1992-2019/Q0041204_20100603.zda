@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 041204
+datum=03.06.2010
+kurzken=Q 041204/10
+bez=Edisonstraße (Treskowbrücke)   (Köpenick, 12459)
+arm1=Wilhelminenhofstraße,3400,0100
+arm2=Schnellerstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Einbahnstraße! Falschfahrer auch zählen!
+data=
+; 1 -> 2
+36	0	0	1	38
+22	0	0	0	46
+7	0	0	1	50
+6	0	0	2	50
+2	0	0	1	47
+7	0	0	0	21
+8	1	0	2	34
+4	0	0	0	32
+10	1	1	0	50
+14	0	0	2	46
+3	0	0	2	51
+2	0	0	1	32
+3	0	1	1	28
+; 2 -> 1
+567	26	2	17	8
+506	45	0	20	16
+449	30	4	18	22
+432	42	4	6	34
+385	36	2	5	31
+379	37	1	12	35
+454	27	2	12	25
+487	34	4	12	36
+586	20	2	16	48
+713	22	1	31	62
+751	17	7	38	54
+728	19	2	27	66
+672	17	4	35	51

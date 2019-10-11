@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912001
+datum=27.05.1998
+kurzken=Q 0912001/98
+bez=Königsberger Straße (östl. Hindenburgdamm)   (Lichterfelde, 12207)
+arm1=Hindenburgdamm,400,0100
+arm2=Giesendorfer Straße,2200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+954	55	22	34
+938	73	19	14
+950	58	12	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1541	60	14	62
+1625	56	16	77
+1483	24	16	72
+; 2 -> 1
+1669	85	21	62
+1524	54	27	35
+1227	71	13	32
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1234	51	22	40
+1136	32	20	47
+1144	26	19	38

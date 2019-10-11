@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 41043
+datum=10.8.1993
+kurzken=Q 4104.3/93
+bez=Tauentzienstr. zw. Breitscheidplatz u. Nürnberger Str.   (Charlottenburg)
+arm1=Nürnberger Straße,850,0100
+arm2=Breitscheidplatz,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=IV-Verkehr ohne Busspur !
+data=
+; 1 -> 2
+525 
+575 
+618 
+653 
+704 
+763 
+744 
+652 
+667 
+655 
+632 
+708 
+; 2 -> 1
+378 
+433 
+499 
+530 
+662 
+631 
+589 
+625 
+612 
+624 
+633 
+664 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0906902
+datum=13.03.2019
+kurzken=Q 0906902/18
+bez=Blücherstraße (östl. Zossener Straße) (Kreuzberg, 10961) 
+arm1=Zossener Straße,800,0100
+arm2=Brachvogelstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=3 Std Sonne; 2 mm Niederschl.; 2 Sonnentag(e) Vorwoche (>3 Std);   5 Niederschlagtag(e) Vorwoche (>2 mm).  Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+40
+80
+123
+70
+52
+65
+83
+108
+168
+230
+294
+303
+; 2 -> 1
+214
+577
+543
+184
+118
+109
+102
+94
+104
+104
+118
+109

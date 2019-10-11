@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0911023
+datum=27.05.2019
+kurzken=Q 0911023/19
+bez=AK Schöneberg - Nebenfahrbahn A103-Nord (südl. Zuf. Sachsend.) (Schöneberg, 1082 
+arm1=A100-Innsbrucker Platz,300,0000
+arm2=A103-Saarstraße,1200,0000
+arm3=A100-Sachsendamm (Ost),2500,0000
+arm4=A103-Sachsendamm (Nord),3200,0100
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 4 -> 2
+383	8	0	4	0
+393	9	0	9	0
+374	7	0	6	0
+326	15	0	3	0
+409	15	0	9	0
+445	8	3	6	0
+488	14	0	8	0
+541	8	0	14	0
+713	11	0	20	0
+705	6	0	22	0
+675	8	0	14	0
+650	3	0	18	0

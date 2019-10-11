@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0909004
+datum=01.07.1998
+kurzken=Q 0909004/98
+bez=Berliner Staße (östl. Uhlandstraße)   (Wilmerdorf, 10717)
+arm1=Uhlandstraße,900,0100
+arm2=Nassauische Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+712	28	7	19
+947	36	8	15
+801	29	6	24
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1134	24	6	51
+1150	11	6	53
+998	14	7	36
+; 2 -> 1
+896	29	12	24
+1056	35	9	28
+1023	37	11	19
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1195	17	12	44
+1351	21	12	54
+1140	23	12	40

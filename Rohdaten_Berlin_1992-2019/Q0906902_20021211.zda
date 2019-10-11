@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906902
+datum=11.12.2002
+kurzken=Q 0906902/02
+bez=Blücherstraße (östl. Zossener Straße )   (Kreuzberg, 10961)
+arm1=Zossener Straße,800,0100
+arm2=Brachvogelstraße,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=-3°C max T; 6\,5 Std Sonne; 0 mm Niederschl.; 3 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+11
+15
+15
+22
+13
+18
+17
+28
+40
+39
+45
+47
+; 2 -> 1
+46
+61
+58
+44
+36
+53
+44
+25
+64
+29
+31
+39

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 82888
+datum=28.08.1995
+kurzken=Q 82888/95
+bez=Zabel-Krüger-Damm (östl. Schluchseestraße) (Waidmannsl., 13469)
+arm1=Schonacher Straße,280,0010
+arm2=Zabel-Krüger-Damm,1150,0000
+arm3=Schluchseestraße,2030,1000
+arm4=Zabel-Krüger-Damm,2970,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T = 16°\, bedeckt\, 1 mm  Niederschlag/Tag. 
+data=
+; 1 -> 3
+4 3
+6 1
+16 0
+14 1
+14 2
+10 0
+4 0
+5 1
+1 1
+0 0
+4 0
+3 0
+; 3 -> 1
+1 0
+1 2
+4 0
+4 0
+2 0
+4 1
+8 10
+11 4
+4 1
+10 4
+11 1
+6 3

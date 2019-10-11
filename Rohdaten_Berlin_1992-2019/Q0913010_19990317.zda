@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0913010
+datum=17.03.1999
+kurzken=Q 0913010/99
+bez=Germaniastraße (westl. Ringbahnstraße)   (Tempelhof, 12099)
+arm1=Werbergstraße,850,0100
+arm2=Ringbahnstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+245	31	14	5
+282	26	12	4
+318	34	13	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+442	25	16	10
+446	14	15	10
+327	9	13	10
+; 2 -> 1
+329	32	15	11
+330	34	14	7
+276	17	13	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+321	12	15	9
+363	5	16	10
+315	4	14	8

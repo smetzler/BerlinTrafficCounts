@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00581
+datum=22.07.2015
+kurzken=Q 00581/15
+bez=A111 - Zubr. HH (Höhe Heckerdamm, ohne Zu-Abf.) (R'dorf, 13627)
+arm1=Heckerdamm,1600,0100
+arm2=AS Flughafen Tegel,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Heckerdamm\, nur Fahrzeuge unter Brücke Heckerdamm zählen. \nSPURAUFTEILUNG vor Ort festlegen! City-Atlas Seite 70\, Feld 5d
+data=
+; 1 -> 2
+2790	57	70	8	87
+2612	42	36	7	94
+2393	37	55	6	74
+; 2 -> 1
+1512	25	39	3	49
+1592	14	42	6	54
+1570	18	35	5	46

@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 03047
+datum=29.03.1990
+kurzken=Q 3047/90
+bez=Miraustrasse suedl. Gorkistrasse    ( Berlin 27 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und trocken !
+data=
+; 1 -> 2
+2 0 2 6 10 4 4 7 4 7 3 7 
+; 2 -> 1
+0 2 0 3 2 5 4 10 4 7 5 5 

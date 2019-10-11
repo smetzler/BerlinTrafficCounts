@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0921006
+datum=22.03.1999
+kurzken=Q 0921006/99
+bez=Mehrower Allee (westl. Schleusinger Straße)   (Marzahn, 12687)
+arm1=Liebensteiner Straße,700,0100
+arm2=Schleusinger Straße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+377	14	20	3
+367	16	18	4
+348	14	16	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+596	16	16	5
+690	14	16	4
+742	17	16	3
+; 2 -> 1
+567	22	21	4
+448	28	16	7
+457	34	13	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+438	10	12	2
+454	5	13	3
+469	4	14	3

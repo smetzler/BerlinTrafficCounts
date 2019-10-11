@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0908103
+datum=01.09.2009
+kurzken=Q 0908103/09
+bez=Johann-Landefeldt-Straße  (westl. L.-Dürr-Straße)   (Gatow, 14089)
+arm1=E.-Rumpler-Straße,1000,0000
+arm2=L.-Dürr-Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 1
+58	1	0	1	4
+27	4	0	1	2
+30	4	0	2	2
+42	2	0	3	10
+32	0	0	1	5
+47	4	0	2	7
+51	0	0	2	11
+70	1	0	4	15
+61	1	0	7	7
+54	1	0	6	7
+65	0	0	10	4
+60	0	0	13	9

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29051
+datum=26.05.2011
+kurzken=Q 29051/11
+bez=S-Bhf. Ahrensfelde (nordwestl. Märkische Allee)   (Marzahn, 12689)
+arm1=S.-Bhf. Ahrensfelde,700,0000
+arm2=Märkische Allee (S),1600,0001
+arm3=Havemannstraße,2500,0000
+arm4=Märkische Allee (N),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=20°C; Sonne=12 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+6	1
+1	0
+4	0
+2	0
+1	0
+8	0
+14	1
+9	0
+21	2
+12	0
+8	1
+7	2
+; 4 -> 2
+18	1
+12	0
+5	0
+8	1
+12	0
+16	0
+6	0
+7	3
+7	1
+14	4
+5	1
+8	2

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 091005
+datum=17.11.1999
+kurzken=Q 091005/99
+bez=Märkische Allee (südl. Ahrensfelder Chaussee) (Marzahn, 12689)
+arm1=Ahrensfelder Chaussee,3400,0100
+arm2=S-Bhf. Ahrensfelde,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+500	50	34	11
+424	48	47	8
+481	57	56	8
+416	62	62	6
+450	44	64	3
+461	52	55	5
+423	37	80	4
+412	49	68	6
+468	44	54	8
+534	49	51	6
+740	41	40	7
+761	52	41	8
+; 2 -> 1
+506	46	37	5
+396	28	34	8
+399	58	45	7
+408	20	54	2
+428	30	59	3
+398	27	68	3
+440	39	58	6
+384	45	62	7
+340	36	46	8
+403	44	46	6
+435	42	22	5
+436	30	24	7

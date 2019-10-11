@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 18471
+datum=07.09.2005
+kurzken=Q 18471/05
+bez=Buckower Damm (nördl. Johannisthaler Chaussee)   (Buckow, 12349)
+arm1=Buckower Damm,280,0000
+arm2=Alt-Buckow,1200,0001
+arm3=Buckower Damm,2080,0000
+arm4=Johannisthaler Ch.,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=27\,5°C; Sonne=12 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+31	11
+51	11
+89	13
+113	1
+101	2
+109	11
+103	31
+97	30
+95	12
+75	8
+101	19
+86	26
+; 4 -> 2
+43	18
+47	8
+84	3
+57	0
+67	11
+84	3
+57	10
+38	8
+52	11
+57	11
+50	6
+39	13

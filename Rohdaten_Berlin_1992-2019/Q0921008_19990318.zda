@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0921008
+datum=18.03.1999
+kurzken=Q 0921008/99
+bez=Allee der Kosmonauten (westl. Marzahner Chaussee)   (Marzahn, 12681)
+arm1=Beilsteiner Straße,900,0100
+arm2=Marzahner Chaussee,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+290	24	1	2
+283	22	0	1
+331	26	1	0
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1219	14	1	9
+1206	12	1	7
+933	7	0	6
+; 2 -> 1
+1351	34	7	12
+873	37	4	1
+638	20	3	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+618	30	3	7
+486	13	5	5
+514	6	4	3

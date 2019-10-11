@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 5275
+datum=14.09.1988
+kurzken=K 5275/88
+bez=Plantagenstrasse / Pasewalker Strasse    ( Berlin 65 )
+Arm1=,0,0000
+Arm2=Plantagenstrasse,900,0011
+Arm3=Pasewalker Strasse,1800,0000
+Arm4=Plantagenstrasse,2700,0110
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 2 -> 3
+14 43 44 57 41 39 26 33 36 43 75 31 
+; 2 -> 4
+61 70 95 94 82 69 85 105 106 107 127 107 
+; 4 -> 2
+45 36 48 47 44 32 46 42 54 74 52 36 
+; 4 -> 3
+27 63 65 71 54 52 45 37 60 67 74 32 

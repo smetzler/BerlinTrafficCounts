@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907106
+datum=08.05.2007
+kurzken=Q 0907106/07
+bez=Ludwigkirchstraße (Höhe Pfalzburger Straße)   (Wilmersdorf, 10719)
+arm1=Ludwigkirchplatz,800,0000
+arm2=Uhlandstraße,2600,0000
+arm3=((Norden)),3500,0001
+arm4=((Süden)),1700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Ludwigkirchstr. in Höhe Pfalzburger Str. (50m west. bis 50m östl.) queren!\nWetter: max T=15°C; Sonne=4 Std; Niederschlag=8 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+30	25
+30	10
+26	1
+52	12
+53	1
+69	9
+49	2
+58	4
+56	6
+61	11
+55	20
+52	44
+; 4 -> 3
+30	1
+42	3
+64	7
+52	0
+60	21
+85	6
+50	10
+56	13
+56	10
+74	44
+70	10
+48	7

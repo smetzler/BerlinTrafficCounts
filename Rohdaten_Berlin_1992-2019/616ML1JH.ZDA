@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 55245
+datum=14.11.1984
+kurzken=Q 55245/84
+bez=Maulbeerallee  westl. Seeburger Weg   ( Berlin 20 )
+Arm1=Sued  (1a),900,0100
+Arm2=Nord  (1b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kinder,Erw<65,Erw>65,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+12 13 1 10 17 0 6 20 3 5 14 3 19 21 1 
+20 27 1 32 29 3 13 27 2 23 34 0 11 23 0 
+12 42 0 2 10 0 
+; 2 -> 1
+41 26 0 36 31 0 20 18 2 14 28 5 5 20 1 
+9 24 2 24 34 2 9 25 3 21 28 1 12 20 0 
+6 30 0 0 9 0 

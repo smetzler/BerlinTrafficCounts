@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0905004
+datum=17.03.1999
+kurzken=Q 0905004/99
+bez=Bossestraße (südl. Persiusstraße)   (Friedrichshain, 10245)
+arm1=Corinthstraße,1600,0100
+arm2=Persiusstraße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+68	3	0	0
+33	2	0	0
+40	2	0	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+96	1	0	2
+263	8	0	2
+271	3	0	5
+; 2 -> 1
+451	13	0	5
+343	10	0	3
+114	15	0	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+140	8	0	3
+119	3	0	1
+123	1	0	2

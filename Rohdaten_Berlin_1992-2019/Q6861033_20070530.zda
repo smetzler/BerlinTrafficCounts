@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6861033
+datum=30.05.2007
+kurzken=Q 6861033/07
+bez=Am Stener Berg (östl. Schwanebecker Chaussee)   (Buch, 13125)
+arm1=Alt-Buch,950,0000
+arm2=Schwanebecker Ch.,2200,0001
+arm3=Am Stener Berg,2750,0000
+arm4=Zepernicker Straße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=18°C; Sonne=6 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+0	0
+1	1
+1	0
+3	0
+1	0
+0	0
+1	0
+6	0
+2	0
+5	0
+0	0
+1	0
+; 4 -> 2
+4	0
+2	0
+1	0
+1	0
+3	0
+0	0
+0	0
+4	0
+1	0
+1	0
+9	0
+2	0

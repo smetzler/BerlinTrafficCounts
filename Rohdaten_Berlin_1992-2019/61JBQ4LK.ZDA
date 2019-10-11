@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 71702
+datum=09.05.1994
+kurzken=Q 71702/94
+bez=Am Seegraben / östl. Grünbergallee (Bohnsdorf)
+arm1=Grünbergallee,1100,0100
+arm2=A 113 (Abzweig Dresden),2900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1100
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 1 -> 2
+605,113,4,5,27
+619,117,12,7,7
+740,112,3,6,13
+714,110,3,5,8
+; 2 -> 1
+823,107,9,8,28
+737,124,7,7,19
+793,113,5,7,12
+732,117,4,9,16

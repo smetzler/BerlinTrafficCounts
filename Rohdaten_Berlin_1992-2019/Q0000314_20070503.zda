@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 314
+datum=03.05.2007
+kurzken=Q 314/07
+bez=Zuf. AS-Schulzendorfer Str. (östl. Ruppiner Chaussee)   (Heiligensee, 13503)
+arm1=Ruppiner Chaussee,430,0010
+arm2=Schulzendorfer Straße,1020,0000
+arm3=Ruppiner Chaussee,2230,1000
+arm4=AS Schulzendorfer Str.,3020,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=20 °C; Sonne=14 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+0	0
+0	0
+0	1
+1	0
+2	0
+3	0
+2	2
+4	0
+5	1
+4	2
+6	2
+2	0
+; 3 -> 1
+38	0
+1	1
+4	1
+4	1
+2	0
+2	2
+0	2
+3	1
+2	0
+3	1
+1	1
+2	0

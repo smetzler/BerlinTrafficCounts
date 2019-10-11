@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26455
+datum=06.03.1995
+kurzken=Q 26455/95
+bez=Irenenstraße (westl. Wönnichstraße) (Lichtenberg, 10317) 
+arm1=Irenenstraße,800,0000
+arm2=Wönnichstraße,1700,0001
+arm3=Irenenstraße,2600,0000
+arm4=Wönnichstraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   ;\nWetter: max T =9°; teils sonnig; 0\,4 mm Niederschlag. \n
+data=
+; 2 -> 4
+51 94
+31 12
+41 0
+51 2
+52 5
+31 2
+35 20
+15 5
+51 19
+52 20
+25 2
+11 0
+; 4 -> 2
+10 1
+24 4
+27 1
+34 2
+38 5
+41 10
+30 2
+14 3
+31 9
+40 18
+46 5
+10 1

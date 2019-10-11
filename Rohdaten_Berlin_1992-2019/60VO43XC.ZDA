@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041044
+datum=1.4.1992
+kurzken=Q 4104.4/92
+bez=Tauentzienstr. zw. Breitscheidplatz u. Nürnberger Str.    ( Berlin 31 )
+arm1=Nürnberger Straße,600,0100
+arm2=Breitscheidplatz,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Taxi,Radf,Sonst,Bus,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Nur Busspur gezählt !\n9.25 Uhr - 9.35 Uhr Demo\n13.10 Uhr - 13.25 Uhr Demo ; 16.25 Uhr - 16.40 Uhr Demo
+data=
+; 1 -> 2
+58 23 28 30 
+102 51 28 34 
+146 44 50 33 
+112 46 30 34 
+147 75 39 31 
+153 52 28 33 
+85 67 35 27 
+129 84 13 35 
+133 85 52 46 
+95 66 34 35 
+178 42 57 40 
+164 26 32 40 
+; 2 -> 1
+73 16 4 32 
+129 11 8 32 
+133 24 15 35 
+121 39 6 35 
+148 42 16 36 
+159 65 15 41 
+152 84 22 47 
+140 63 27 41 
+159 97 13 44 
+161 98 14 43 
+198 83 33 41 
+197 45 36 41 

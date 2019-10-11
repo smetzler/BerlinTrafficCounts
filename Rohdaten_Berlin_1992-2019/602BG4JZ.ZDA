@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3004
+datum=16.03.1994
+kurzken=Q 3004/94
+bez=Wilhelminenhofstraße westlich Mathildenstraße (Oberschöneweide)
+arm1=Südseite,700,0100
+arm2=Nordseite,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 2
+40
+42
+87
+112
+110
+113
+89
+126
+128
+103
+99
+52
+; 2 -> 1
+7
+10
+8
+9
+12
+16
+33
+21
+34
+9
+8
+6

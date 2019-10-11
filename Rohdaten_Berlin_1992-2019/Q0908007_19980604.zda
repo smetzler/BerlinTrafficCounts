@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0908007
+datum=04.06.1998
+kurzken=Q 0908007/98
+bez=Wilhelmstraße (nördl. Heerstraße)   (Spandau, 13593)
+arm1=Heerstraße,1350,0100
+arm2=Am Omnibushof,3150,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+411	16	11	15
+355	16	9	8
+312	27	6	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+244	12	6	6
+267	7	9	8
+315	5	9	10
+; 2 -> 1
+206	22	21	8
+290	26	11	5
+261	24	10	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+399	22	9	18
+426	7	10	21
+418	6	8	16

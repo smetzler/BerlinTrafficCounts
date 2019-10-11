@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=K 1065
+datum=11.07.1989
+kurzken=K 1065/89
+bez=Monumentenstrasse / Hohenfriedbergstrasse     ( Berlin 62 )
+Arm1=,0,0000
+Arm2=Monumentenstrasse,900,0001
+Arm3=Hohenfriedbergstr.,1800,0101
+Arm4=Monumentenstrasse,2700,0100
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Langenscheidt Bruecke gesperrt - Bauarbeiten\nNur Anlieger-Verkehr zu den Haeusern  Monumentenstrasse Nr. 38,39,1,2
+data=
+; 2 -> 4
+7 1 5 4 2 4 9 4 6 7 9 5 
+; 3 -> 2
+0 2 2 3 4 2 8 4 5 6 3 5 
+; 3 -> 4
+205 183 161 138 126 152 155 146 212 222 176 152 
+; 4 -> 2
+0 0 8 3 2 2 4 1 11 13 7 5 

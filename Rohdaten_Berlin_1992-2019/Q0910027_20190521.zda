@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0910027
+datum=21.05.2019
+kurzken=Q 0910027/19
+bez=AK Zehlendorf - von Potsdamer Chauss. (Ost) nach A115-AVUS (Nord) (Zehlendorf, 14129) 
+arm1=A115-AVUS (AS Spanische Allee),50,0000
+arm2=Potsdamer Chaussee (Wt),950,0000
+arm3=A115 (AS Kleinmachnow),1850,0000
+arm4=Potsdamer Chaussee (O),2900,1000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 4 -> 1
+119	3	0	1	0
+125	6	0	1	0
+98	4	0	0	0
+79	9	0	0	0
+99	10	0	0	0
+171	12	0	0	0
+106	6	0	1	0
+97	4	0	0	0
+106	9	0	0	0
+94	4	0	2	0
+78	4	0	1	0
+30	0	0	0	0

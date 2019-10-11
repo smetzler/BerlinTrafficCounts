@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2522
+datum=20.04.2004
+kurzken=Q 2522/04
+bez=Hackbuschstraße (südl. Seegefelder Weg)   (Staaken, 13591)
+arm1=Seegefelder Weg (W),720,0010
+arm2=Hackbuschstraße,1730,0000
+arm3=Seegefelder Weg (O),2520,1000
+arm4=Straße 603,3530,0000
+art=Erw,Jugend
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=17°C; Sonne=4\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+5	0
+4	15
+0	0
+0	0
+0	0
+1	0
+2	2
+2	1
+2	6
+0	3
+1	2
+0	0
+1	1
+; 3 -> 1
+0	0
+1	7
+1	0
+0	0
+0	0
+0	0
+0	1
+2	1
+0	2
+0	3
+0	0
+0	0
+0	0

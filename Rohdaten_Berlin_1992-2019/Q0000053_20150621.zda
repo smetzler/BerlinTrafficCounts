@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0053
+datum=21.06.2015
+kurzken=Q 0053/15
+bez=A111 - Zubr. HH (Höhe Wittestr.)   (Reinickendorf, 13509)
+arm1=AS Waidmannsluster Damm,300,0100
+arm2=AS Holzhauser Straße ,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Wittestr. 
+data=
+; 1 -> 2
+2675	15	9	13	60
+3030	26	11	12	84
+2986	14	9	13	56
+; 2 -> 1
+2287	9	1	7	52
+2218	9	1	7	38
+2031	16	5	14	25

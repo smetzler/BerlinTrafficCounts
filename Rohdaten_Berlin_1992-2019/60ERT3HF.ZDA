@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 19145
+datum=04.12.1990
+kurzken=Q 19145/90
+bez=Steinstrasse noerdlich Bahnhofstrasse    ( Berlin 49 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+22 38 32 8 80 4 111 5 110 74 82 19 95 7 
+146 16 125 38 115 37 200 6 72 3 
+; 2 -> 1
+24 38 49 17 72 7 87 4 110 24 103 34 62 11 
+86 12 128 39 167 58 175 16 69 11 

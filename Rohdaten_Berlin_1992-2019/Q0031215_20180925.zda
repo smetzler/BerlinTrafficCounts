@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031215
+datum=25.09.2018
+kurzken=Q 031215/18
+bez=Lohmühlenstraße (nördl. Harzer Straße)   (Neukölln, 12435)
+arm1=Harzer Straße,1400,0100
+arm2=Lexisstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+65	1	6	2	68
+116	0	6	4	168
+121	1	6	5	221
+104	6	2	4	78
+101	4	3	5	50
+102	5	4	9	75
+92	4	6	4	90
+137	12	7	2	91
+221	2	6	10	143
+206	1	8	16	164
+181	1	7	13	157
+162	0	6	6	152
+; 2 -> 1
+162	3	6	8	105
+183	4	5	6	170
+138	0	5	1	156
+94	4	2	14	68
+90	1	2	3	59
+94	4	5	2	72
+86	2	6	2	78
+101	2	5	4	99
+121	1	7	7	114
+112	2	6	12	86
+108	0	6	8	132
+106	0	7	6	158

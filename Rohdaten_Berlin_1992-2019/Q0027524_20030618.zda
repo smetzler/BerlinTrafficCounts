@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27524
+datum=18.06.2003
+kurzken=Q 27524/03
+bez=Französische Straße (östl. Charlottenstraße)   (Mitte, 10117)
+arm1=Charlottenstraße (N),100,0010
+arm2=Französische Straße (W),1000,0000
+arm3=Charlottenstraße (S),1900,1000
+arm4=Französische Straße (O),2700,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+18	0
+26	0
+43	0
+113	2
+78	0
+134	0
+86	0
+58	0
+80	0
+77	0
+100	10
+81	0
+; 3 -> 1
+31	0
+50	0
+48	0
+46	0
+71	9
+95	0
+103	0
+79	0
+66	0
+58	1
+93	0
+69	1

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0923026
+datum=26.04.2007
+kurzken=Q 0923026/07
+bez=Heerstraße (östl. Tieflandstraße)   (Kaulsdorf, 12621)
+arm1=Tieflandstraße,800,0100
+arm2=Finkenstraße,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+101	5	5	1	5
+131	8	5	0	8
+111	3	7	3	12
+146	0	6	2	2
+157	7	7	2	7
+166	10	6	1	13
+135	8	6	4	18
+203	8	7	10	21
+228	2	6	10	16
+332	8	6	14	27
+258	6	5	12	19
+241	0	6	7	18
+; 2 -> 1
+461	10	7	11	36
+342	9	6	9	24
+219	11	6	5	13
+198	2	8	10	2
+156	10	6	4	4
+163	11	5	3	6
+168	5	6	10	9
+154	8	6	7	8
+156	2	6	2	12
+187	3	6	3	17
+214	2	6	6	13
+171	3	5	7	31

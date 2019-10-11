@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 70658
+datum=27.8.1992
+kurzken=Q 7065.8/92-F
+bez=Zossener Straße nördlich Fürbringer Straße    ( Berlin 61 )
+arm1=Ost,820,0100
+arm2=West,2620,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+12 14 
+7 11 
+4 0 
+8 2 
+24 2 
+12 3 
+25 1 
+18 2 
+8 6 
+8 2 
+17 8 
+9 0 
+; 2 -> 1
+8 2 
+10 0 
+13 2 
+7 0 
+8 3 
+5 3 
+17 3 
+13 2 
+6 4 
+10 2 
+28 10 
+10 1 

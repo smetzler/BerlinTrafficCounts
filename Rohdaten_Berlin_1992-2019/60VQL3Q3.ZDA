@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41133
+datum=28.8.1991
+kurzken=Q 4113.3/91
+bez=Karl-Marx-Strasse zw. Neckarstrasse und Anzengruberstrasse    ( Berlin 44 )
+arm1=Anzengruberstraße,900,0100
+arm2=Neckarstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+1395 
+1115 
+1059 
+845 
+817 
+767 
+1135 
+1237 
+1191 
+1062 
+1035 
+1014 
+; 2 -> 1
+915 
+888 
+1005 
+1052 
+1244 
+1477 
+1151 
+1271 
+1514 
+1501 
+1429 
+1243 

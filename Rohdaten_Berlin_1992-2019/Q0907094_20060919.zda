@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907094
+datum=19.09.2006
+kurzken=Q 0907094/06
+bez=Kaiserdamm (östl.  Theodor-Heuss-Platz)   (Charlottenburg, 14057)
+arm1=Theodor-Heuss-Platz,950,0100
+arm2=Soorstraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=20°C max T; 1 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1453	38	5	51	34
+1558	53	5	36	31
+1071	54	11	25	31
+754	66	8	30	30
+785	53	4	17	38
+786	51	1	20	31
+887	37	3	14	39
+1015	46	5	25	60
+1048	40	4	20	36
+1066	29	9	40	40
+1044	25	7	42	44
+1075	11	14	22	46
+; 2 -> 1
+914	50	0	20	77
+1175	46	3	31	34
+1063	63	6	19	62
+904	50	2	28	46
+982	55	1	15	55
+976	47	5	31	43
+1145	44	2	29	53
+1227	35	5	41	53
+1296	28	6	48	48
+1515	32	5	49	72
+1309	20	1	48	99
+1275	12	3	56	80

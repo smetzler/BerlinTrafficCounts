@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16588
+datum=01.09.1987
+kurzken=Q 16588/87
+bez=Kurfuerstenstrasse noerdl. Ringstrasse   ( Berlin 42 )
+Arm1=Ost,900,0100
+Arm2=West,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Azubi,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Fussgaengerzaehlung !\nWetter : klar und trocken
+data=
+; 1 -> 2
+4 3 5 1 8 0 6 0 8 0 8 7 4 32 
+8 6 1 5 11 1 16 0 4 0 
+; 2 -> 1
+13 12 11 14 5 0 6 0 8 0 7 1 10 3 
+4 0 5 1 6 0 7 3 3 2 

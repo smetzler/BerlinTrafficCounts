@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60106
+datum=02.10.1984
+kurzken=Q 60106/84
+bez=Fehlingstrasse  westl.  Alt Lichtenrade  (Berlin 49)
+Arm1=Nord (2a),900,0100
+Arm2=Sued (2b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+2 2 5 3 19 1 4 0 12 0 4 2 4 1 
+4 1 7 0 4 0 2 0 2 0 
+; 2 -> 1
+5 1 11 3 6 1 7 0 19 9 5 7 5 0 
+4 0 8 0 4 1 2 0 1 0 

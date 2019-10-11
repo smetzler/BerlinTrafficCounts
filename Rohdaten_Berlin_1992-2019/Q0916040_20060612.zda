@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0916040
+datum=12.06.2006
+kurzken=Q 0916040/06
+bez=Dahlwitzer Landstr. (Höhe Schöneicher Str.-S-Bhf. Frie)   (Köpenick, 12587)
+arm1=S-Bhf. Friedrichshagen,1750,0000
+arm2=Hinter dem Kurpark,3550,0000
+arm3=((Westen)),850,0001
+arm4=((Osten)),2650,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die die Dahlwitzer Landstr. (Umsteiger Tram <--> S-Bahn) überqueren!\nWetter: max T=30°C; Sonne=16 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+12	1
+28	2
+23	15
+22	0
+23	0
+25	11
+29	3
+42	24
+30	2
+39	18
+33	6
+32	9
+; 4 -> 3
+111	31
+67	10
+62	8
+52	12
+45	2
+22	5
+26	7
+40	11
+62	36
+79	12
+63	9
+72	11

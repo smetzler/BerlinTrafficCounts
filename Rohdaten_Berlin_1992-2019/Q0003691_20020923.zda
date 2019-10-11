@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3691
+datum=23.09.2002
+kurzken=Q 3691/02
+bez=Brunsbütteler Damm (westl. Klosterstraße)   (Spandau, 13581)
+arm1=Brunsbütteler Damm,700,0000
+arm2=Klosterstraße,1550,0001
+arm3=Ruhlebener Straße,2500,0000
+arm4=Klosterstraße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T: 8°C; Sonne: 0 Std; Niederschlag: 16 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+299	43
+244	44
+299	8
+322	27
+264	27
+279	30
+271	41
+297	42
+368	87
+417	84
+358	68
+302	75
+; 4 -> 2
+91	24
+128	7
+152	4
+178	29
+203	10
+232	18
+288	32
+351	38
+416	79
+407	67
+393	78
+384	71

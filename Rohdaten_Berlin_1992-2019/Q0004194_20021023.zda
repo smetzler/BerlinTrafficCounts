@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 4194
+datum=23.10.2002
+kurzken=Q 4194/02
+bez=Th.-Heuss-Pl. :  Zufahrten zu Nebenfahrb. u. Parkplatz (CH, 14052)
+arm1=Nebenfahrb. u. Parkpl. Heerstr.,1000,0000
+arm2=Theodor-Heuss-Platz,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+39	2	0	0	18
+75	1	0	1	7
+40	2	0	1	10
+48	0	0	1	5
+57	0	0	0	12
+58	0	0	0	3
+81	1	0	1	7
+57	1	0	0	17
+51	2	0	2	10
+64	0	0	2	4
+81	0	1	1	16
+80	0	0	3	14

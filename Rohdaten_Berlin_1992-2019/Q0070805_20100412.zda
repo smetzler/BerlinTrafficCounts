@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 070805
+datum=12.04.2010
+kurzken=Q 070805/10
+bez=Wollankstraße (Höhe S-Bhf. Wollankstraße)   (Wedding, 13359)
+arm1=Nordbahnstraße,1600,0100
+arm2=Brehmestraße,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Baustelle: Wollankstr. in beiden Richtungen zw. Brehmestr. und Nordbahnstr. auf 1 Spur eingeengt (1 Spur gesperrt).
+data=
+; 1 -> 2
+324	35	15	8	8
+378	33	15	3	19
+394	32	17	9	20
+413	23	17	9	12
+352	33	17	5	16
+469	28	17	6	11
+529	29	19	4	16
+472	30	18	16	24
+600	24	18	12	40
+656	18	21	21	56
+699	11	18	13	53
+690	9	22	12	73
+639	2	18	15	54
+; 2 -> 1
+521	21	15	30	37
+586	20	18	26	78
+568	27	20	13	61
+480	34	18	9	49
+414	29	17	9	25
+412	25	18	8	21
+416	29	18	16	23
+311	22	16	6	37
+326	20	20	6	54
+353	13	20	7	56
+321	6	19	12	53
+349	13	16	15	36
+354	4	19	11	24

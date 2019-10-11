@@ -1,0 +1,22 @@
+[ZA1001]
+knoten=Q 07164
+datum=30.05.1983
+kurzken=Q 7164/83
+bez=Joachimstaler Strasse  noerdl. Kurfuerstendamm   (  Berlin 15  )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0000,0700
+intv=60
+bemerk=
+data=
+; 1 -> 2
+10 420 2 0 6 4 285 1 0 12 2 202 1 2 10 
+1 152 1 1 10 0 114 1 2 14 8 146 5 8 18 
+22 558 21 23 21 
+; 2 -> 1
+13 461 3 4 13 5 347 4 3 11 2 276 2 0 10 
+3 108 2 2 9 2 129 3 5 10 17 317 17 16 25 
+45 1202 41 31 21 

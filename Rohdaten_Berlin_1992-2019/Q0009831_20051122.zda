@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 9831
+datum=22.11.2005
+kurzken=Q 9831/05
+bez=Yorckstraße (westl. Mehringdamm)   (Kreuzberg, 10961)
+arm1=Yorckstraße,750,0000
+arm2=Mehringdamm,1600,0001
+arm3=Gneisenaustraße,2550,0000
+arm4=Mehringdamm,3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=4°C; Sonne=0 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+94	59
+193	38
+226	10
+235	29
+239	11
+156	12
+223	17
+225	19
+241	41
+334	54
+301	27
+209	17
+; 4 -> 2
+83	39
+157	15
+166	8
+161	20
+187	9
+186	18
+195	11
+205	13
+226	14
+281	41
+244	19
+218	8

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0915032
+datum=29.05.2006
+kurzken=Q 0915032/06
+bez=Bahnübergang Grünbergallee (östl. S-Bhf. Grünbergall.)   (Bohnsdorf, 12526)
+arm1=Grünbergallee,200,0100
+arm2=Am Seegraben,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+44
+10
+11
+16
+23
+17
+19
+23
+36
+14
+14
+10
+; 2 -> 1
+37
+19
+9
+24
+15
+18
+29
+19
+12
+19
+10
+11

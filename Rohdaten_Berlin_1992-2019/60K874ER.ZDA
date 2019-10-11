@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26215
+datum=20.10.1993
+kurzken=Q 2621.5/93-F
+bez=Vincent-van-Gogh-Str. nördl. Randowstr.    ( Hohenschönhausen )
+arm1=West,900,0100
+arm2=Ost,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter : bedeckt und trocken
+data=
+; 1 -> 2
+29 42
+16 8
+17 4
+32 13
+35 26
+23 5
+17 8
+20 14
+26 24
+46 49
+41 11
+16 1
+; 2 -> 1
+13 7
+23 16
+35 6
+36 6
+38 19
+39 48
+18 19
+20 19
+42 46
+59 49
+44 10
+18 5

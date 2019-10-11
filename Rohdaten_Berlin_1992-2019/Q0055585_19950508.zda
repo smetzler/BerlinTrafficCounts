@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 55585
+datum=08.05.1995
+kurzken=Q 55585/95.2
+bez=Im Spektefeld (westl. Am Kiesteich) (Spandau, 13589) 
+arm1=Im Spektefeld,800,0000
+arm2=Am Kiesteich,1550,0001
+arm3=Osten,2450,0000
+arm4=Am Kiesteich,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T = 18°C; teils sonnig; 3 mm Niederschlag.\nDurchführung der Erhebungen: \n - büro für   und  
+data=
+; 2 -> 4
+0 0
+0 0
+4 0
+1 0
+4 7
+1 1
+2 0
+2 2
+2 2
+3 0
+4 5
+3 2
+; 4 -> 2
+3 1
+4 4
+9 3
+3 0
+6 2
+3 0
+5 0
+2 3
+8 2
+6 1
+6 2
+3 0

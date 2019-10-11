@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0914009
+datum=28.10.1998
+kurzken=Q 0914009/98
+bez=Mariendorfer Weg (östl. Eschersheimer Straße)   (Neukölln, 12051)
+arm1=Eschersheimer Straße,1100,0100
+arm2=Bambachstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+474	52	4	3
+388	53	2	3
+334	49	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+532	30	5	13
+529	19	3	12
+443	22	3	10
+; 2 -> 1
+581	56	3	5
+435	59	3	4
+354	52	3	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+545	34	4	8
+595	25	3	10
+467	29	3	7

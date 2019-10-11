@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907031
+datum=20.05.2019
+kurzken=Q 0907031/19
+bez=AD Funkturm - von A100-Süd nach A115-AVUS (Charlottenburg, 14055) 
+arm1=A115-AVUS,1400,0000
+arm2=A100-Süd (Halenseestr./ Rathenauplat),2200,1000
+arm3=A100-Nord (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+501	42	3	6	0
+557	39	12	10	0
+567	35	13	12	0
+518	52	9	6	0
+592	48	4	10	0
+673	63	3	9	0
+756	44	7	18	0
+718	25	8	17	0
+694	26	3	18	0
+775	24	1	15	0
+844	17	4	19	0
+953	27	5	18	0

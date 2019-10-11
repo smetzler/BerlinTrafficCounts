@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q-10313
+datum=13.06.2019
+kurzken=Q-10313/19
+bez=Beusselstraße (im Bereich Erasmusstraße) (Tiergarten, 10553)  über Arm3
+arm1=Beusselstraße (S),1660,0000
+arm2=Erasmusstraße,660,0001
+arm3=Beusselstraße (N),3460,0000
+arm4=Osten,2700,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+14	1
+12	3
+10	0
+17	2
+21	0
+21	1
+28	2
+31	0
+25	5
+25	4
+20	3
+21	2
+; 4 -> 2
+26	6
+29	9
+25	2
+20	1
+22	0
+42	5
+25	2
+35	2
+23	4
+38	5
+27	2
+36	3

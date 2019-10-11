@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6426624
+datum=26.04.2004
+kurzken=Q 6426624/04
+bez=Bouchestraße (nordöstl. Karl-Kunger-Straße)   (Treptow, 12435)
+arm1=Karl-Kunger-Straße,500,0010
+arm2=Bouchestraße,1400,0000
+arm3=Karl-Kunger-Straße,2300,1000
+arm4=Bouchestraße,3200,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+22	6
+37	3
+22	1
+38	0
+51	0
+30	3
+25	10
+32	4
+36	2
+38	8
+29	1
+23	2
+; 3 -> 1
+29	20
+18	1
+17	0
+33	1
+31	0
+38	0
+23	5
+40	1
+40	3
+44	11
+75	9
+33	7

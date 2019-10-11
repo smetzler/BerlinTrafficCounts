@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 3713
+datum=31.05.2006
+kurzken=Q 3713/06
+bez=Stabholzgarten (östl. Altstädter Ring - Klosterstraße)  (Spandau ,13597)
+arm1=Seegefelder Straße,700,0000
+arm2=Klosterstraße,1600,0001
+arm3=Stabholzgarten,2450,0000
+arm4=Altstädter Ring,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=16°C; Sonne=2\,5 Std; Niederschlag=4 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+78	46
+113	32
+233	34
+280	15
+381	38
+482	40
+473	60
+549	39
+551	28
+558	50
+493	36
+423	30
+; 4 -> 2
+26	7
+45	6
+82	5
+142	15
+291	4
+221	13
+200	6
+199	16
+225	22
+222	18
+208	20
+163	13

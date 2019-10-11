@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 52161
+datum=27.05.2014
+kurzken=Q 52161/14
+bez=Markstraße (nördl. Reginhardstraße)   (Wedding, 13347)
+arm1=Markstraße,50,0000
+arm2=Ungarnstraße,1000,0001
+arm3=Louise-Schröder-Platz,1850,0000
+arm4=Reginhardstraße,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=5 Std; Niederschlag=7 mm;
+data=
+; 2 -> 4
+17	2
+16	2
+11	0
+10	0
+5	1
+7	0
+11	2
+14	3
+9	1
+17	1
+12	1
+8	0
+; 4 -> 2
+4	0
+5	0
+10	0
+11	0
+10	1
+19	2
+14	3
+15	5
+9	2
+7	0
+6	2
+7	2

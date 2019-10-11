@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010202
+datum=14.09.2000
+kurzken=Q 010202/00
+bez=Leipziger Platz (östl. Stresemannstraße) (Mitte, 10117)
+arm1=Stresemannstraße,900,0100
+arm2=Leipziger Straße ,2700,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Einbahnstraße wegen Baustelle!
+data=
+; 1 -> 2
+769	81	39	21	18
+798	75	54	19	29
+987	76	51	18	21
+948	81	49	22	19
+851	59	42	28	37
+897	67	46	29	29
+901	72	54	22	41
+945	71	51	22	49
+1010	75	37	24	52
+1010	79	24	23	68
+1033	71	20	22	59
+999	56	12	22	58

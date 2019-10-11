@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 159003
+datum=19.09.2018
+kurzken=Q 159003/18
+bez=Seegefelder Weg (Staaken-West) (westl. Str. 339, Stadtgrenze) (Spandau, 14089)
+arm1=Glienicker Straße,800,0100
+arm2=Straße 339,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+555	8	3	17	36
+396	17	0	15	21
+263	9	1	9	12
+230	1	0	5	10
+243	3	1	6	18
+246	2	1	18	9
+264	4	2	6	7
+298	4	2	12	33
+294	2	1	13	16
+297	3	0	20	38
+188	2	1	7	14
+218	1	0	13	21
+; 2 -> 1
+205	5	3	6	18
+193	12	2	7	12
+231	6	0	8	14
+260	4	0	4	14
+273	7	0	8	16
+274	16	1	14	8
+354	18	1	15	25
+419	20	1	11	16
+515	6	3	46	45
+491	1	2	48	64
+309	16	0	22	20
+338	0	1	21	28

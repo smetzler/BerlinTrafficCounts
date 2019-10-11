@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00301
+datum=04.08.2015
+kurzken=Q 00301/15
+bez=A100 - Stadtring (östl. Goerdeler-Damm-Brücke)   (Moabit, 10553)
+arm1=Goerdeler-Da.-Brücke,1000,0100
+arm2=Seestraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Goerdeler-Damm-Brücke\,\nCity-Atlas Seite 71\, Feld 5c
+data=
+; 1 -> 2
+1627	40	14	6	54
+1899	22	11	4	67
+1572	25	9	6	56
+; 2 -> 1
+1993	37	36	7	73
+1902	28	25	6	62
+1799	15	13	3	66

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907048
+datum=05.04.2005
+kurzken=Q 0907048/05
+bez=Max-Dorn-Straße (westl. Lise-Meitner-Straße)   (Charlottenburg, 10589)
+arm1=Tegeler Weg,1000,0100
+arm2=Lise-Meitner-Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+296	9	28	10	2
+358	12	29	9	3
+254	15	23	10	2
+250	6	25	8	0
+173	6	21	6	5
+176	9	21	2	3
+; 2 -> 1
+170	17	9	4	10
+205	11	10	12	8
+220	24	10	3	3
+228	12	10	12	4
+248	13	9	5	5
+230	6	10	5	3

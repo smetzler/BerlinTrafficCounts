@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60298
+datum=18.06.1986
+kurzken=Q 60298/86
+bez=Friedenstrasse  oestl. Fritz-Werner-Strasse   ( Berlin 42 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: ueberwiegend klar und trocken
+data=
+; 1 -> 2
+7 2 15 2 20 109 14 6 27 49 10 1 8 0 
+25 20 21 1 17 1 8 3 4 0 
+; 2 -> 1
+47 53 40 24 12 11 6 10 21 0 11 75 3 0 
+19 14 15 1 18 3 10 0 5 0 

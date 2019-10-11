@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0919073
+datum=04.04.2005
+kurzken=Q 0919073/05
+bez=Schönerlinder Straße (Höhe BAB A10 - Berliner Ring)   (Buchholz, 13127)
+arm1=BAB A114,1600,0100
+arm2=Schönerlinder Chaussee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2550
+bemerk=Zählzeitraum: 13-19 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+436	84	2	10	2
+422	69	2	16	3
+526	61	2	17	5
+651	59	3	21	3
+595	45	3	19	15
+402	34	3	12	14
+; 2 -> 1
+324	71	2	5	3
+298	50	1	8	3
+410	46	3	10	7
+445	48	4	15	6
+394	15	3	8	7
+289	10	2	11	6

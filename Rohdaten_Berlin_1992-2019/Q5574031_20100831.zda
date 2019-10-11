@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5574031
+datum=31.08.2010
+kurzken=Q 5574031/10
+bez=Alexanderplatz (westl. Otto-Braun-Straße)   (Mitte, 10178)
+arm1=Alexanderplatz,650,0000
+arm2=Alexanderstr.-Grunerstr.,1550,0001
+arm3=Karl-Marx-Allee,2450,0000
+arm4=Otto-Braun-Straße,3350,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+20	0
+32	1
+29	6
+43	2
+55	1
+81	1
+80	1
+76	1
+83	0
+88	5
+81	1
+59	3
+; 4 -> 2
+28	0
+47	1
+75	4
+107	2
+99	6
+103	1
+104	0
+96	1
+80	5
+63	11
+53	2
+46	4

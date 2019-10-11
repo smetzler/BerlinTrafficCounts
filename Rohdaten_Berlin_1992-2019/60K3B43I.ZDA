@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 26039
+datum=31.10.1992
+kurzken=Q 2603.9/92-F
+bez=Fürstenwalder Allee 48 Fußgängerüberweg    ( Berlin 1165-Köpenick )
+arm1=Markierter Radweg,700,0100
+arm2=Spar Supermarkt,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+5 
+36 
+83 
+165 
+91 
+58 
+11 
+3 
+5 
+10 
+0 
+5 
+; 2 -> 1
+2 
+40 
+88 
+186 
+159 
+45 
+10 
+11 
+5 
+8 
+1 
+4 

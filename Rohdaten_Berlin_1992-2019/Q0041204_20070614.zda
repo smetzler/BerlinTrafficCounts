@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 041204
+datum=14.06.2007
+kurzken=Q 041204/07
+bez=Treskowbrücke (Spree)   (Köpenick, 12459)
+arm1=Wilhelminenhofstraße,3400,0100
+arm2=Schnellerstraße,1600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Einbahnstraße! Falschfahrer auch zählen!
+data=
+; 1 -> 2
+10	5	2	12	50
+19	6	1	11	131
+14	4	0	7	79
+0	2	0	2	56
+5	1	0	2	63
+13	5	0	1	50
+4	2	0	1	57
+1	1	2	2	48
+2	6	0	4	68
+3	7	0	4	75
+7	2	0	3	73
+5	2	0	2	78
+; 2 -> 1
+554	139	46	2	21
+559	111	47	11	58
+491	75	38	7	49
+526	86	42	6	76
+410	76	35	5	63
+370	89	56	0	45
+395	91	48	1	72
+523	106	44	1	69
+604	116	66	0	54
+791	162	37	4	108
+821	145	31	5	106
+820	131	24	3	113

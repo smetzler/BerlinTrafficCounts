@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917013
+datum=26.05.1999
+kurzken=Q 0917013/99
+bez=Schlichtallee (nördl. Hauptstraße)   (Lichtenberg, 10317)
+arm1=Hauptstraße,1500,0100
+arm2=Zobtener Straße,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+443	38	0	19
+339	48	0	9
+402	43	0	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+657	32	0	19
+620	23	0	15
+721	19	0	17
+; 2 -> 1
+300	27	6	7
+306	35	9	3
+372	25	6	4
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+376	32	7	11
+379	12	7	9
+341	11	6	12

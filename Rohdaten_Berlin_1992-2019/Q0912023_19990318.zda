@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0912023
+datum=18.03.1999
+kurzken=Q 0912023/99
+bez=Bundesallee (nördl. Handjerystraße)   (Steglitz, 12159)
+arm1=Friedrich-Wilhelm-Platz,0,0100
+arm2=Handjerystraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+256	16	18	7
+376	19	11	4
+394	16	12	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+599	12	17	17
+632	5	18	33
+616	6	18	29
+; 2 -> 1
+443	23	14	14
+512	14	13	10
+403	22	11	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+408	14	14	8
+539	3	14	16
+438	4	13	20

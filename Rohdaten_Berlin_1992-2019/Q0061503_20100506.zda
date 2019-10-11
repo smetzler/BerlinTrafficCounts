@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 061503
+datum=06.05.2010
+kurzken=Q 061503/10
+bez=Murellenweg (südl. Charlottenburger Chaussee)   (Ruhleben, 14052)
+arm1=Rominter Allee,1600,0100
+arm2=Charlottenburger Chaussee,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+46	3	0	0	3
+65	7	1	0	0
+77	6	1	0	5
+84	10	4	0	6
+73	9	1	2	1
+109	5	5	1	6
+91	18	2	2	1
+82	13	0	4	2
+96	2	0	0	0
+110	5	2	1	2
+98	1	0	2	1
+77	2	0	3	2
+82	1	0	2	2
+; 2 -> 1
+58	4	13	0	1
+126	11	12	3	1
+145	7	18	0	1
+76	12	18	4	2
+85	14	12	4	0
+103	8	14	0	4
+115	4	12	2	1
+133	2	11	1	1
+100	6	14	2	0
+152	8	16	2	0
+125	0	11	3	1
+92	1	16	1	4
+75	1	10	3	4

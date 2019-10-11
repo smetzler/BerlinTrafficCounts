@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0904903
+datum=23.08.2000
+kurzken=Q 0904903/00
+bez=Prenzlauer Tor (nördl. Mollstraße)   (Prenzlauer Berg, 10405)
+arm1=Mollstraße,1600,0100
+arm2=Prenzlauer Berg,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=9; Niederschlag=0\,5 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+15
+41
+35
+41
+70
+101
+99
+122
+164
+206
+242
+270
+; 2 -> 1
+154
+298
+243
+137
+146
+141
+134
+135
+91
+110
+133
+115

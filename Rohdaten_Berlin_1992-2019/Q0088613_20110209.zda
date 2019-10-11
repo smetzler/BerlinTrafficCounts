@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 88613
+datum=09.02.2011
+kurzken=Q 88613/11
+bez=Sonnenallee (südl. Planetenstraße)   (Neukölln, 12057)
+arm1=Sonnenallee (NW),410,0000
+arm2=Planetenstraße (SW),1350,0001
+arm3=Sonnenallee (SO),2220,0000
+arm4=Planetenstraße (NO),3120,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonne=3\,5 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+19	11
+19	8
+22	3
+14	0
+20	5
+15	3
+25	1
+55	11
+55	2
+25	4
+28	1
+17	1
+; 4 -> 2
+14	0
+15	2
+16	2
+10	0
+14	0
+13	2
+12	5
+22	3
+10	4
+14	6
+8	4
+6	0

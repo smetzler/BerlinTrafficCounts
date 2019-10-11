@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010608
+datum=28.11.2011
+kurzken=Q 010608/11
+bez=Kaiserdamm (Kaiserdammbrücke)   (Charlottenburg, 14057)
+arm1=Rognitzstraße,1000,0100
+arm2=Saldernstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Messedamm: ab 07:00 Uhr d Fahrtrichtung Kaiserdamm zw. Neue Kantstr. u. Bredtschneiderstr..saniert.\nNeue Kantstraße wird zwischen Messedamm und Dernburgstraße die Fahrbahn saniert\n
+data=
+; 1 -> 2
+1550	44	0	14	43
+1917	36	0	21	61
+1623	34	5	7	41
+1122	48	2	6	38
+1051	45	1	13	52
+1028	33	1	18	61
+995	26	2	15	48
+1091	36	4	18	54
+1228	19	4	16	64
+1342	8	2	24	66
+1216	7	1	11	78
+1028	4	2	9	54
+; 2 -> 1
+1427	58	5	16	43
+1807	50	4	6	49
+1961	74	5	11	54
+1632	74	2	8	36
+1630	81	2	11	69
+1328	51	7	21	66
+1357	39	6	18	66
+1421	32	2	25	79
+1938	43	6	23	81
+1984	18	2	32	66
+1817	20	4	18	79
+1672	6	0	26	60

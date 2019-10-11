@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0905055
+datum=17.11.2010
+kurzken=Q 0905055/10
+bez=Weidenweg (östl. Friedenstraße)   (Friedrichshain, 10249)
+arm1=Friedenstraße,850,0100
+arm2=Auerstraße,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1305,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+192	5	1	1	7
+173	2	0	3	21
+232	10	0	6	12
+216	6	0	2	12
+241	4	0	1	14
+261	9	0	4	12
+269	4	0	3	18
+468	8	0	7	36
+554	12	0	4	40
+776	12	1	10	50
+793	9	0	8	77
+605	3	0	5	68
+; 2 -> 1
+503	7	0	8	70
+561	16	0	13	89
+339	8	0	7	58
+182	0	0	0	36
+182	3	0	2	13
+171	6	0	4	21
+188	5	0	3	21
+240	6	0	4	24
+208	4	0	2	16
+227	3	0	1	21
+228	0	0	0	31
+181	4	0	2	28

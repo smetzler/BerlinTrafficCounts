@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0908056
+datum=24.08.2006
+kurzken=Q 0908056/06
+bez=Heerstraße (östl. Gatower Straße)   (Spandau, 13595)
+arm1=Gatower Straße,750,0100
+arm2=Börnicker Straße,2550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=incl. Nebenfahrbahnen.\n23°C max T; 10 Std Sonne; 0 mm Niederschl.; 6 Sonnentag(e) Vorwoche (>3 Std); 3 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+1914	74	31	55	21
+1605	63	32	33	21
+1376	48	29	32	17
+1088	62	24	12	10
+1086	66	26	37	24
+981	68	23	31	21
+1199	61	29	31	36
+1231	58	31	32	23
+1266	44	30	36	32
+1329	39	32	43	24
+1215	21	31	39	36
+1220	16	26	45	37
+; 2 -> 1
+962	82	33	23	21
+1039	83	34	9	18
+1059	60	30	30	28
+1084	68	28	28	16
+1117	77	22	32	36
+1165	80	25	39	23
+1356	79	26	40	38
+1535	69	30	41	24
+1930	68	36	56	36
+1996	51	34	76	24
+1831	49	33	55	40
+1957	34	26	60	25

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0914087
+datum=02.09.2008
+kurzken=Q 0914087/08
+bez=Rufacher Weg (westl. Buckower Damm)   (Britz, 12349)
+arm1=Leonberger Ring,1000,0100
+arm2=Buckower Damm,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+311	0	0	10	37
+275	4	0	10	17
+219	7	0	4	21
+208	0	0	8	38
+180	3	0	6	26
+162	3	0	10	16
+155	3	0	17	24
+151	2	0	6	25
+182	8	0	18	14
+197	1	0	13	38
+151	0	0	7	18
+136	2	0	4	23
+; 2 -> 1
+115	1	0	6	24
+137	1	0	3	12
+168	1	0	3	16
+172	0	0	6	20
+200	3	0	9	26
+194	1	0	7	22
+241	6	1	9	35
+229	2	0	11	16
+310	0	0	6	14
+341	2	0	25	23
+305	1	0	17	26
+235	0	0	13	11

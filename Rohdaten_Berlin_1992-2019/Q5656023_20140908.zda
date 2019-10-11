@@ -1,0 +1,54 @@
+[ZA1001]
+knoten=Q 5656023
+datum=08.09.2014
+kurzken=Q 5656023/14
+bez=Tschaikowskistraße (östl. Grabbeallee)   (Pankow, 13156)
+arm1=Tschaikowskistraße (W),1070,0000
+arm2=Grabbeallee (S),1920,0001
+arm3=Tschaikowskistraße (O),2870,0000
+arm4=Grabbeallee (N),3570,0100
+art=Erw,Jugend
+zeit=0500,2200
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+5	0
+8	1
+6	1
+16	17
+15	9
+11	0
+16	1
+26	0
+13	1
+24	4
+26	4
+18	3
+17	2
+14	1
+11	1
+9	1
+5	0
+; 4 -> 2
+4	0
+9	1
+12	2
+5	2
+9	2
+4	0
+25	0
+15	0
+5	0
+10	4
+17	8
+20	5
+11	3
+18	1
+5	0
+3	0
+5	0

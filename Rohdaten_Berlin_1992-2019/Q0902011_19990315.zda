@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0902011
+datum=15.03.1999
+kurzken=Q 0902011/99
+bez=Heidestraße (nördl. Invalidenstraße)   (Tiergarten, 10557)
+arm1=Döberitzer Straße,200,0100
+arm2=Invalidenstraße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+1009	97	3	13
+912	89	3	9
+650	74	3	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+723	40	3	11
+791	44	3	19
+629	29	3	13
+; 2 -> 1
+683	42	4	7
+679	73	4	10
+653	69	4	3
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+1091	67	7	18
+1152	42	6	17
+769	23	4	11

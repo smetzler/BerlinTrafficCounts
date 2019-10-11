@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 5563011
+datum=27.04.2015
+kurzken=Q 5563011/15
+bez=Breite Straße (nordwestl. Gertraudenstraße - Mühlendamm)   (Mitte, 10178)
+arm1=Breite Straße,430,0000
+arm2=Gertraudenstraße,1400,0001
+arm3=Fischerinsel,2230,0000
+arm4=Mühlendamm,3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+21	0
+40	0
+62	4
+66	5
+101	1
+105	5
+71	4
+67	0
+63	2
+82	3
+85	1
+57	5
+; 4 -> 2
+27	1
+31	3
+29	0
+41	0
+81	1
+78	2
+83	53
+86	0
+104	9
+61	1
+115	0
+88	4

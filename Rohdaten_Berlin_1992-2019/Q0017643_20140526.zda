@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 17643
+datum=26.05.2014
+kurzken=Q 17643/14
+bez=Paul-Schneider-Straße (südl. Kaiser-Wilhelm-Straße)   (Lankwitz, 12247)
+arm1=Leonorenstraße,250,0000
+arm2=Kaiser-Wilhelm-Straße (W),1350,0001
+arm3=Paul-Schneider-Straße,2150,0000
+arm4=Kaiser-Wilhelm-Straße (O),3150,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=22°C; Sonne=5 Std; Niederschlag=7 mm;
+data=
+; 2 -> 4
+52	12
+82	14
+112	8
+115	5
+145	9
+127	12
+127	21
+108	16
+122	26
+151	20
+145	8
+88	15
+; 4 -> 2
+41	77
+85	19
+110	17
+143	2
+137	9
+124	3
+108	12
+131	14
+134	10
+143	18
+114	7
+95	13

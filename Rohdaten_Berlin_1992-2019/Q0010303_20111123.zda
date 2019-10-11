@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 010303
+datum=23.11.2011
+kurzken=Q 010303/11
+bez=Schöneberger Ufer (westl. Köthener Brücke)   (Kreuzberg, 10785)
+arm1=Flottwellstraße,400,0100
+arm2=Köthener Brücke,2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+1458	62	17	14	44
+1892	57	13	24	159
+1903	77	14	19	145
+1556	58	14	10	92
+1479	50	14	15	66
+1587	70	23	17	85
+1502	51	17	9	63
+1635	43	22	16	77
+2160	40	19	23	107
+1983	32	17	22	119
+1953	16	14	13	132
+1987	15	18	21	138

@@ -1,0 +1,46 @@
+[ZA1001]
+knoten=Q 010505
+datum=05.05.2010
+kurzken=Q 010505/10
+bez=Gotenstraße (südl. Torgauer Straße, S-Bahnbrücke)   (Schöneberg, 10829)
+arm1=Torgauer Straße ,0,0100
+arm2=Tempelhofer Weg,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0600,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Naumannstr. Ri. Süden verengte Fahrbahn im Bereich des S-Bhf.
+data=
+; 1 -> 2
+125	4	6	9	6
+281	10	6	10	29
+323	6	6	9	26
+303	5	6	9	20
+297	11	6	8	16
+256	8	6	9	12
+300	7	6	12	12
+294	5	7	13	22
+254	10	8	10	18
+386	7	8	17	22
+357	4	7	21	47
+376	4	5	17	37
+310	3	5	9	41
+; 2 -> 1
+53	2	0	7	9
+113	8	0	4	42
+181	4	0	5	45
+125	2	0	5	29
+133	4	0	4	14
+135	3	0	6	27
+124	8	1	7	12
+116	2	0	7	16
+134	2	2	2	20
+181	2	0	11	24
+203	4	1	12	27
+194	1	0	6	26
+219	0	0	8	34

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0010303
+datum=06.03.2019
+kurzken=Q 0010303/19
+bez=Schöneberger Ufer (westl. Köthener Brücke) (Kreuzberg, 10785) 
+arm1=Flottwellstraße,400,0100
+arm2=Köthener Brücke,2200,0000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+1494	89	11	21	58
+1783	105	13	16	197
+1615	107	13	27	119
+1500	86	22	10	48
+1417	67	16	12	37
+1592	61	10	19	37
+1414	49	16	26	70
+1679	38	11	31	72
+1929	31	15	35	107
+2052	28	12	36	146
+2131	18	16	43	180
+1934	13	17	25	176

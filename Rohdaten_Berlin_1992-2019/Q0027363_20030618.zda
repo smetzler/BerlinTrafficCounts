@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 27363
+datum=18.06.2003
+kurzken=Q 27363/03
+bez=Markgrafenstraße (südl. Französische Straße)   (Mitte, 10117)
+arm1=Markgrafenstraße (N),100,0000
+arm2=Französische Straße (W),1000,0001
+arm3=Markgrafenstraße (S),1900,0000
+arm4=Französische Straße (O),2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=4 Std; Niederschlag=0\,5 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+22	0
+21	0
+90	0
+28	0
+138	1
+23	0
+118	21
+52	3
+88	7
+137	11
+98	9
+47	1
+; 4 -> 2
+17	2
+6	0
+54	0
+135	0
+61	10
+46	0
+87	0
+96	0
+53	1
+97	4
+71	3
+43	0

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 9773
+datum=07.10.2009
+kurzken=Q 9773/09
+bez=Gleditschstraße (südl Pallasstraße)    (Schöneberg, 10781)
+arm1=Gleditschstraße (N),100,0000
+arm2=Pallasstraße (W),850,0001
+arm3=Gleditschstraße (S),1800,0000
+arm4=Pallasstraße (O),2650,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=3 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+16	47
+14	2
+11	0
+12	24
+26	5
+19	0
+33	9
+18	5
+14	8
+25	14
+26	4
+15	1
+; 4 -> 2
+4	10
+12	3
+14	0
+14	20
+46	16
+53	8
+37	50
+29	20
+24	9
+26	12
+22	7
+9	3

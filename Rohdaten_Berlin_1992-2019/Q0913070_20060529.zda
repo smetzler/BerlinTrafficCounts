@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0913070
+datum=29.05.2006
+kurzken=Q 0913070/06
+bez=Keltinger Straße (südl. Goethestraße)   (Lichtenrade, 12305)
+arm1=Eisnerstraße,1700,0100
+arm2=Goethestraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=15°C max T; 3 Std Sonne; 4 mm Niederschl.; 5 Sonnentag(e) Vorwoche (>3 Std); 4 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+6
+8
+6
+4
+10
+12
+6
+13
+10
+19
+14
+14
+; 2 -> 1
+20
+7
+8
+6
+7
+7
+9
+8
+4
+12
+12
+8

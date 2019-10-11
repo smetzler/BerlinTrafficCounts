@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 20093
+datum=19.06.2017
+kurzken=20093/17
+bez=Auguste-Viktoria-Straße (östl. Antonienstraße)   (Reinickendorf, 13403)
+arm1=Auguste-Viktoria-Straße (W),750,0000
+arm2=Antonienstraße (S),1650,0001
+arm3=Auguste-Viktoria-Straße (O),2550,0000
+arm4=Antonienstraße (N),3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+1	5
+14	5
+9	17
+16	6
+16	2
+8	3
+12	5
+12	6
+10	5
+16	16
+16	9
+17	7
+; 4 -> 2
+8	9
+17	3
+6	1
+16	8
+19	4
+9	2
+3	2
+6	3
+10	19
+4	0
+7	5
+8	3

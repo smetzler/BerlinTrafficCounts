@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0920004
+datum=19.05.1998
+kurzken=Q 0920004/98
+bez=Neheimer Straße (nördl. Bernauer Straße)   (Tegel, 13507)
+arm1=Bernauer Straße,1600,0100
+arm2=Borsigdamm,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+188	11	0	9
+226	21	0	10
+203	22	0	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+425	13	0	34
+447	9	0	36
+410	4	0	26
+; 2 -> 1
+761	30	4	39
+516	23	0	22
+302	21	1	9
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+267	10	0	18
+307	7	0	16
+315	2	0	18

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26885
+datum=16.05.1994
+kurzken=Q 26885/94
+bez=Müggelseedamm / westl. Spreestraße (Friedrichshagen)
+arm1=Müggelseedamm,700,0000
+arm2=Spreestraße,1700,0001
+arm3=Müggelseedamm,2500,0000
+arm4=Straße 330,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für     
+data=
+; 2 -> 4
+3,0
+0,0
+1,0
+0,0
+2,0
+1,0
+0,1
+5,0
+4,8
+0,2
+1,0
+2,3
+; 4 -> 2
+1,1
+1,0
+1,0
+2,0
+3,4
+0,0
+0,0
+8,0
+6,0
+3,2
+2,0
+2,0

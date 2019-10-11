@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010306
+datum=05.03.2014
+kurzken=Q 010306/14
+bez=Yorckstraße (westl. Katzbachstraße)   (Kreuzberg, 10965)
+arm1=Bautzener Straße ,800,0100
+arm2=Katzbachstraße ,2600,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Yorckstr. in beiden Richtungen unter den Eisenbahnbrücken Fahrbahn von 2 auf 1 Fahrstreifen reduziert\n
+data=
+; 1 -> 2
+636	17	11	4	105
+972	28	7	11	187
+911	14	6	8	149
+828	10	6	12	74
+887	8	6	16	96
+904	14	6	18	92
+1005	15	6	29	121
+1111	12	7	16	149
+1139	7	6	18	176
+1384	20	10	24	186
+1188	12	6	19	92
+1195	6	8	25	247
+; 2 -> 1
+1058	20	8	19	136
+1307	21	10	13	235
+1002	14	8	15	191
+980	18	6	16	128
+953	14	6	21	130
+904	21	6	24	127
+1012	29	6	17	132
+977	31	7	14	120
+1103	30	6	22	131
+1184	24	10	68	162
+1096	14	7	21	216
+1075	12	6	14	196

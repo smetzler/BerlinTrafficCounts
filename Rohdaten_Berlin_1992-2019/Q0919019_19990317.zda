@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0919019
+datum=17.03.1999
+kurzken=Q 0919019/99
+bez=Wiltbergstraße (östl. Hobrechtsfelder Chaussee)   (Buch, 13125)
+arm1=Hobrechtsfelder Chaussee,800,0100
+arm2=Am Sandhaus,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+553	20	5	3
+428	26	5	2
+442	25	6	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+542	26	5	4
+502	12	5	4
+404	7	5	6
+; 2 -> 1
+721	23	5	3
+530	28	5	2
+506	19	5	2
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+522	27	6	6
+461	11	5	3
+374	6	3	4

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912135
+datum=03.09.2007
+kurzken=Q 0912135/07
+bez=Lankwitzer Straße (östl. Ferdinandstraße)   (Lichterfelde, 12209)
+arm1=Oberhofer Weg,1300,0000
+arm2=Ferdinandstraße,3100,0000
+arm3=((Nordwest)),300,0001
+arm4=((Südost)),2100,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Lankwitzer Str. im Bereich des Fußgängerüberwegs östl. der Ferdinandstr. queren!\nWetter: max T=17°C; Sonne=3 Std; Niederschlag=20 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+109	8
+142	11
+140	4
+182	2
+188	4
+173	7
+184	0
+228	5
+271	9
+268	21
+253	14
+189	11
+; 4 -> 3
+96	9
+109	6
+106	4
+155	7
+130	5
+138	4
+127	2
+142	10
+139	5
+177	7
+163	6
+138	13

@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 41093
+datum=8.8.1991
+kurzken=Q 4109.3/91
+bez=Joachimstaler Strasse zw. Kurfuerstendamm und Kantstrasse    ( Berlin 30 )
+arm1=Kantstraße,900,0100
+arm2=Kurfürstendamm,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Kfz,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+641 
+703 
+804 
+975 
+832 
+757 
+948 
+927 
+946 
+791 
+1136 
+960 
+; 2 -> 1
+1127 
+1114 
+1093 
+1012 
+1069 
+1039 
+1059 
+983 
+1197 
+1110 
+1110 
+1173 

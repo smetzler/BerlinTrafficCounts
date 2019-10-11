@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0908063
+datum=23.04.2007
+kurzken=Q 0908063/07
+bez=Teltower Straße (nördl. Elsgrabenweg)   (Spandau, 13597)
+arm1=Charlottenburger Chaussee,500,0100
+arm2=Elsgrabenweg,2300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+260	8	2	10	15
+306	6	3	8	11
+179	3	1	6	8
+156	8	2	10	10
+165	2	1	9	15
+191	5	1	10	19
+216	10	0	13	24
+217	16	3	14	19
+306	10	2	20	14
+232	7	1	15	21
+278	19	2	27	26
+246	4	2	18	21
+; 2 -> 1
+201	4	3	6	9
+226	0	13	8	6
+152	4	3	6	3
+150	0	0	6	6
+127	5	1	4	13
+146	6	0	6	17
+121	4	0	17	9
+179	10	2	11	10
+238	8	2	8	14
+262	4	1	18	12
+242	12	3	23	24
+193	4	3	20	21

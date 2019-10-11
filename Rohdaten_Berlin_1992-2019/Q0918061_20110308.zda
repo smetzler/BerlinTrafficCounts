@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0918061
+datum=08.03.2011
+kurzken=Q 0918060/11
+bez=Gustav-Adolf-Straße (zw. Bus-Hst.und DGZ-Ring-Nord)   (Weißensee, 13086)
+arm1=H.-Bayer-Straße,1350,0000
+arm2=(nördlicher) DGZ-Ring,3150,0000
+arm3=((Nordwest)),450,0001
+arm4=((Südost)),2250,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die G.-Adolf-Str. zwischen dem nördlichen DGZ-Ring und der südl. davon gelegenen Bushaltelle queren.\nWetter: max T=9°C; Sonne=10 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+58	2
+25	1
+14	0
+18	0
+26	0
+13	0
+3	0
+7	0
+26	0
+12	0
+6	0
+0	0
+; 4 -> 3
+2	0
+4	0
+4	0
+4	0
+14	0
+12	0
+22	2
+34	8
+25	7
+44	6
+15	0
+16	1

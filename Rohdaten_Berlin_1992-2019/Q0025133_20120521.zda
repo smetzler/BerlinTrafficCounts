@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 25133
+datum=21.05.2012
+kurzken=Q 25133/12
+bez=Neue Roßstraße (südl. Wallstraße)   (Mitte, 10179)
+arm1=Neue Roßstraße (N),550,0000
+arm2=Wallstraße (W),1180,0001
+arm3=Mittelinsel,2050,0000
+arm4=Wallstraße (O),2980,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+43	5
+99	2
+78	12
+56	0
+84	3
+100	3
+147	2
+393	9
+191	36
+116	20
+118	7
+101	4
+; 4 -> 2
+213	17
+256	4
+127	5
+68	6
+124	14
+131	5
+128	1
+84	5
+83	11
+64	8
+72	6
+109	5

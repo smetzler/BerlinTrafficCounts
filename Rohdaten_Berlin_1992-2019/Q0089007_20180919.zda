@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 089007
+datum=19.09.2018
+kurzken=Q 089007/18
+bez=Schönerlinder Straße (B109) (Stadtgrenze)   (Pankow, 13159)
+arm1=Schönerlinde,3450,0100
+arm2=Schönerlinder Chaussee,1650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+722	27	3	13	7
+486	24	0	16	8
+341	34	0	7	1
+306	32	1	8	4
+237	26	0	3	10
+232	22	1	7	6
+252	28	1	12	11
+298	21	0	12	3
+330	11	0	14	8
+319	15	0	21	14
+391	8	0	20	18
+305	4	0	16	16
+; 2 -> 1
+146	19	0	10	5
+203	24	0	7	5
+261	30	2	3	5
+326	32	0	6	12
+343	31	0	9	23
+335	35	0	5	5
+428	40	1	18	16
+585	34	0	21	12
+832	37	0	25	10
+765	29	0	32	23
+583	21	1	18	20
+528	10	0	15	18

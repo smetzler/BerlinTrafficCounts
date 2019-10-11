@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0907217
+datum=24.05.2018
+kurzken=Q 0907217/18
+bez=Schillerstraße (östl. Sesenheimer Straße)   (Charlottenburg, 10627)
+arm1=Sesenheimer Straße,1000,0100
+arm2=Krumme Straße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+35	1	0	3	91
+76	4	0	4	177
+60	1	0	6	83
+76	1	0	2	66
+75	2	0	6	61
+84	2	0	4	62
+93	1	0	13	65
+101	2	0	8	58
+126	0	0	7	62
+98	0	0	8	70
+131	0	0	8	121
+101	0	0	5	76
+; 2 -> 1
+30	0	0	1	21
+56	2	0	2	65
+57	1	0	6	50
+64	0	0	6	66
+85	0	0	2	57
+81	1	0	4	55
+104	0	0	6	75
+94	0	0	9	74
+107	0	0	5	89
+110	0	0	6	108
+112	2	0	5	71
+115	0	0	6	121

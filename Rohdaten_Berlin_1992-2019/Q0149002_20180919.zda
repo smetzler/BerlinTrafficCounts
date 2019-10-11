@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 149002
+datum=19.09.2018
+kurzken=Q 149002/18
+bez=Groß-Ziethener Straße (Stadtgrenze)   (Lichtenrade, 12309)
+arm1=Braunfelsstraße,950,0100
+arm2=Groß-Ziethen,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin\n
+data=
+; 1 -> 2
+186	8	0	7	71
+194	5	2	4	10
+182	8	1	5	15
+206	8	2	4	12
+172	2	1	5	16
+228	5	2	10	14
+244	7	1	6	16
+317	5	1	13	28
+319	4	1	15	34
+346	2	2	14	36
+298	2	1	10	36
+257	1	1	7	20
+; 2 -> 1
+357	10	1	9	26
+231	7	1	7	11
+218	10	1	7	14
+180	2	1	4	26
+191	3	1	2	8
+184	3	1	6	13
+228	3	1	11	60
+215	6	2	8	26
+249	4	1	8	27
+288	2	2	12	36
+293	1	1	9	29
+224	0	1	12	32

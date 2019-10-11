@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=K 0910024
+datum=26.08.2003
+kurzken=K 0910024/03
+bez=AK Zehlendorf - von  A115 (S) nach Potsdamer Ch. (W) (Zehlendorf, 14129)
+arm1=A115 (N; AS Spanische Allee),50,0000
+arm2=Potsdamer Ch. (W; nach Potsdam),950,0000
+arm3=A115 (S; Stadtgrenze),1850,0100
+arm4=Potsdamer Ch. (O; nach Zehlendorf),2900,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0000,2400
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=LKW ab 2\,8 to !\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 2
+3	0	0	0
+0	0	0	0
+2	1	0	0
+3	1	0	0
+6	0	0	0
+51	3	2	0
+93	4	3	0
+154	13	4	1
+112	7	4	1
+76	5	3	2
+65	7	3	0
+67	8	1	0
+63	9	2	2
+72	11	2	2
+70	9	2	0
+67	5	2	0
+76	6	2	5
+88	11	2	1
+78	2	2	7
+71	4	3	3
+57	1	2	1
+21	1	1	0
+20	0	1	0
+10	2	1	0

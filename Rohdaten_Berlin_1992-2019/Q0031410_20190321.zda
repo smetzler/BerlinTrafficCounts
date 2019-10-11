@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0031410
+datum=21.03.2019
+kurzken=Q 0031410/19
+bez=Komturstraße (Komturbrücke) (Tempelhof, 12099) 
+arm1=Industriestraße,1750,0100
+arm2=Teilestraße,3550,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+275	14	2	3	13
+294	16	3	8	10
+222	23	6	5	12
+258	24	2	4	6
+244	16	2	3	9
+208	15	0	1	5
+229	14	1	5	6
+268	15	2	4	8
+307	14	0	3	7
+280	12	2	4	10
+234	8	0	5	14
+218	5	0	6	13
+; 2 -> 1
+243	14	0	0	11
+312	14	0	3	11
+283	18	0	4	9
+334	18	0	4	12
+286	25	0	4	7
+225	12	0	1	4
+258	23	1	6	10
+232	16	0	5	8
+227	8	0	5	9
+224	10	2	2	14
+198	3	3	5	12
+178	13	3	4	9

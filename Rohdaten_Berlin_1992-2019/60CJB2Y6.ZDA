@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 16247
+datum=15.03.1989
+kurzken=Q 16247/89
+bez=Blaschkoallee oestlich Fritz-Reuter-Allee    ( Berlin 47 )
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: bedeckt und zeitweilig Regen !
+data=
+; 1 -> 2
+1 0 2 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+; 2 -> 1
+0 0 3 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 

@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 29111
+datum=28.03.2012
+kurzken=Q 29111/12
+bez=Friedenstraße (nördl. Pufendorfstraße)   (Friedrichshain, 10249)
+arm1=Friedenstraße (N),400,0000
+arm2=((Westen)),1300,0001
+arm3=Friedenstraße (S),2200,0000
+arm4=Pufendorfstraße   ,3100,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 4
+8	1
+10	0
+11	1
+13	1
+4	0
+8	0
+18	0
+9	4
+7	2
+16	5
+6	2
+6	1
+; 4 -> 2
+6	1
+7	1
+2	0
+7	0
+7	0
+2	0
+5	0
+7	2
+9	0
+2	0
+6	0
+4	0

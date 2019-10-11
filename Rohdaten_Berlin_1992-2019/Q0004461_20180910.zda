@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 4461
+datum=10.09.2018
+kurzken=Q 4461/18
+bez=Tegeler Weg (nördl. Osnabrücker Straße)   (Charlottenburg, 10589)
+arm1=Tegeler Weg (N),100,0000
+arm2=Westen,650,0001
+arm3=Tegeler Weg (S),1900,0000
+arm4=Osnabrücker Straße,2450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+3	2
+0	0
+1	0
+2	1
+1	0
+4	0
+10	2
+11	4
+7	3
+4	2
+5	1
+3	0
+; 4 -> 2
+0	0
+2	2
+2	0
+1	0
+1	0
+3	1
+5	0
+7	4
+7	5
+8	4
+4	0
+4	0

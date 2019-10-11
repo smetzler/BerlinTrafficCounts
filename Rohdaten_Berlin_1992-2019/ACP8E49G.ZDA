@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q7311038
+datum=21.4.1993
+kurzken=Q 731103.8/93-F
+bez=Köpenicker Straße nördl. Rudower Straße    (Köpenick )
+arm1=Ost,700,0100
+arm2=West,2500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=1
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+4 3 
+3 1 
+9 3 
+19 3 
+12 11 
+4 0 
+10 4 
+8 4 
+9 3 
+5 4 
+29 5 
+2 1 
+; 2 -> 1
+2 3 
+1 0 
+14 0 
+26 1 
+9 3 
+3 1 
+7 7 
+9 4 
+8 2 
+10 4 
+23 2 
+5 2 

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 7536023
+datum=27.03.2006
+kurzken=Q 7536023/06
+bez=Elisabethstraße (östl. Oberfeldstraße)   (Biesdorf-Nord, 12683)
+arm1=Elisabethstraße,940,0000
+arm2=Oberfeldstraße,1600,0001
+arm3=Elisabethstraße,2740,0000
+arm4=((Norden)),3400,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=19°C; Sonne=2 Std; Niederschlag=2 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+1	0
+2	0
+4	0
+0	0
+3	0
+0	0
+1	3
+2	0
+2	0
+5	1
+5	1
+; 4 -> 2
+1	2
+0	0
+0	0
+2	1
+1	2
+2	0
+1	0
+1	0
+1	0
+1	0
+1	0
+1	0

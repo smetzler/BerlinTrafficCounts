@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0902002
+datum=11.11.1998
+kurzken=Q 0902002/98
+bez=Reichspietschufer (westl. Stauffenbergstraße)   (Tiergarten, 10785)
+arm1=Hildebrandstraße,750,0000
+arm2=Stauffenbergstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 1
+1361	55	9	18
+1404	57	10	18
+1276	63	9	23
+1238	72	7	26
+1350	56	8	19
+1367	51	10	19
+1432	47	14	30
+1450	52	10	27
+1615	44	14	36
+1734	25	15	36
+1607	18	12	20
+1433	19	15	19

@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0909022
+datum=27.04.1999
+kurzken=Q 0909022/99
+bez=Detmolder Straße (Süd) - Zufahrt BAB A100 (Wilmersdorf, 10713)
+arm1=Detmolder Str. (Süd),700,0001
+arm2=,0,0000
+arm3=,0,0000
+arm4=BAB A100 (AS Wexstraße),2600,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 4
+351	18	0	4
+356	13	1	7
+299	11	0	4
+242	15	0	4
+261	19	0	6
+300	28	0	10
+339	19	0	5
+340	12	0	6
+497	11	0	15
+421	8	0	14
+411	4	0	13
+374	6	0	7

@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=K 0907027
+datum=01.07.2009
+kurzken=K 0907027/09
+bez=AD Funkturm - von A115 AVUS nach A100-Süd  (Charlottenburg, 14055)
+arm1=A115 AVUS ,1400,0100
+arm2=A100 Süd (Halenseestr./Rathenaupl),2200,0000
+arm3=A100 (Neue Kantstr.),3300,0000
+arm4=Messedamm / Halenseestr.,100,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=1403,,1385,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+974	68	1	10
+848	58	3	6
+801	48	2	4
+807	48	2	6
+756	35	2	7
+761	40	8	15
+742	51	4	9
+796	36	5	9
+774	25	8	10
+810	29	6	16
+873	12	6	11
+936	23	8	22

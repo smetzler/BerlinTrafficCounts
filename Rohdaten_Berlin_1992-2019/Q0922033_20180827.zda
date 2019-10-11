@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0922033
+datum=27.08.2018
+kurzken=Q 0922033/18
+bez=Gehrenseestraße (südwestl. Pablo-Picasso-Straße)   (Hohenschönhausen, 13053)
+arm1=Gottfriedstraße,1250,0100
+arm2=Pablo-Picasso-Straße,3050,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+459	43	2	10	59
+439	51	3	8	31
+437	53	3	2	20
+444	40	4	10	18
+494	67	3	5	16
+549	64	4	10	16
+622	57	4	11	18
+756	59	3	14	21
+1170	53	3	28	39
+1264	40	4	22	44
+932	14	3	19	28
+610	10	3	18	25
+; 2 -> 1
+795	38	4	20	36
+631	56	3	7	35
+554	49	3	6	16
+466	56	2	6	6
+477	53	3	12	12
+396	57	4	5	16
+452	49	3	13	21
+525	27	3	9	37
+546	20	4	10	42
+538	30	4	10	28
+365	11	3	20	27
+302	5	4	13	24

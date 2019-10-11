@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 59082
+datum=11.09.2003
+kurzken=Q 59082/03
+bez=Heinersdorfer Straße (südl. Grabenstraße)    (Lichterfelde, 12209)
+arm1=Grabenstraße,500,0010
+arm2=Heinersdorfer Str.,1600,0000
+arm3=Grabenstraße,2400,1000
+arm4=Heinersdorfer Str.,3400,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C; Sonne=1 Std; Niederschlag=11 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+1	3
+1	1
+1	0
+2	0
+3	2
+3	4
+1	1
+3	1
+5	3
+1	1
+7	3
+6	1
+; 3 -> 1
+3	1
+2	1
+0	0
+0	0
+2	0
+0	0
+1	0
+1	0
+4	0
+0	0
+1	0
+0	0

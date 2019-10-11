@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0041239
+datum=16.6.1992
+kurzken=Q 4123.9/92-F
+bez=Hansastraße in Höhe 30 km/h-Strecke    ( Berlin1120-Weißensee )
+arm1=Ost,600,0100
+arm2=West,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+64 257 
+36 26 
+59 28 
+15 2 
+26 27 
+21 15 
+40 24 
+41 22 
+20 21 
+27 31 
+34 20 
+25 16 
+; 2 -> 1
+25 8 
+28 102 
+33 8 
+13 7 
+39 7 
+16 105 
+34 65 
+39 60 
+65 70 
+83 43 
+59 29 
+60 21 

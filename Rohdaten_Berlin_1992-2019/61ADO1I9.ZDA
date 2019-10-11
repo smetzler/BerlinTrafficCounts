@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 60108
+datum=02.10.1984
+kurzken=Q 60108/84
+bez=Toepchiner Weg  oestl. Alt Lichtenrade  (Berlin 49)
+Arm1=Nord (4a),900,0100
+Arm2=Sued (4b),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Kinder,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 2 2 0 6 0 2 0 1 0 1 0 1 0 
+6 0 4 1 2 0 3 0 0 0 
+; 2 -> 1
+1 1 6 0 3 1 2 0 3 0 2 2 3 1 
+6 1 4 1 1 0 3 0 0 0 

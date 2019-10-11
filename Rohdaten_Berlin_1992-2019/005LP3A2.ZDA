@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=K 7261
+datum=27.03.1990
+kurzken=K 7261/90
+bez=Buelowstrasse / Steinmetzstrasse    ( Berlin 30 )
+Arm1=Buelowstrasse,710,0011
+Arm2=Steinmetzstrasse,1660,0000
+Arm3=Buelowstrasse,2510,1001
+Arm4=Steinmetzstrasse,3460,1010
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Knotenarm 2 : Fussgaengerzone !
+data=
+; 1 -> 3
+903 848 825 924 1015 1017 1033 1048 1476 1288 1243 1199 
+; 1 -> 4
+57 79 61 64 93 72 53 32 75 66 42 15 
+; 3 -> 1
+1665 1583 1035 1014 993 1057 1059 1053 1270 1466 1122 899 
+; 3 -> 4
+31 40 35 28 30 33 26 32 11 29 48 11 
+; 4 -> 1
+12 26 25 36 38 39 37 35 44 45 39 36 
+; 4 -> 3
+7 16 9 16 21 28 28 23 38 46 26 27 

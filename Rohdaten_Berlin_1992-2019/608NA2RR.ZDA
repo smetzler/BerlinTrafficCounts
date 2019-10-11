@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 11206
+datum=08.09.1988
+kurzken=Q 11206/88
+bez=Pannierstrasse suedl. Maybachufer    ( Berlin 44 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Fussg,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter: klar und trocken
+data=
+; 1 -> 2
+10 8 5 9 6 12 12 8 28 11 28 14 
+; 2 -> 1
+6 13 7 8 9 14 14 5 12 7 12 6 

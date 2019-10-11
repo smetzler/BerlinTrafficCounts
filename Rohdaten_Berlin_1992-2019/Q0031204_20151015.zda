@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 031204
+datum=15.10.2015
+kurzken=Q 031204/15
+bez=Neuköllnische Allee (südöstl.Chris-Gueffroy-Allee)   (Neukölln, 12057)
+arm1=Forsthausallee,2150,0100
+arm2=Chris-Gueffroy-Allee,350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+102	3	0	2	27
+98	8	0	0	24
+64	5	0	2	11
+52	14	0	0	6
+42	9	0	0	1
+79	1	0	1	5
+64	9	0	1	9
+69	0	0	0	8
+53	5	0	0	8
+58	8	0	0	8
+74	1	0	1	13
+48	1	0	1	6
+; 2 -> 1
+146	21	0	1	7
+119	10	0	1	8
+149	15	0	1	6
+150	22	0	0	0
+111	11	0	1	2
+136	12	0	0	6
+169	6	0	0	12
+240	12	0	4	25
+282	7	0	1	27
+274	2	1	4	24
+255	4	0	4	20
+178	1	0	3	18

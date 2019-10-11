@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 041101
+datum=28.04.2016
+kurzken=Q 041101/16
+bez=Rudolf-Rühl-Allee [ehem. Köpenicker A.] (südl. Verl. Waldowallee) (Köpenick, 12555)
+arm1=Verl. Waldowallee,300,0100
+arm2=S-Bhf. Wuhlheide,2100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+162	1	0	1	8
+207	2	0	0	15
+192	4	0	1	3
+188	8	0	2	8
+195	5	0	1	3
+169	7	0	0	4
+237	9	0	1	7
+272	10	1	3	12
+413	8	1	10	11
+452	12	0	8	14
+385	5	0	6	14
+266	7	0	2	12
+; 2 -> 1
+417	5	0	8	13
+320	4	0	5	15
+221	6	0	3	8
+138	4	0	2	0
+153	2	0	0	1
+152	7	0	2	2
+176	6	0	5	3
+178	4	0	0	1
+170	2	0	0	2
+168	0	0	0	12
+161	3	0	4	13
+131	2	0	0	8

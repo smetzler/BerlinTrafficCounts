@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 10841
+datum=01.09.2009
+kurzken=Q 10841/09
+bez=Kreuzbergstraße (westl. Mehringdamm)   (Kreuzberg, 10961)
+arm1=Kreuzbergstraße,900,0000
+arm2=Mehringdamm (S),1700,0001
+arm3=Bergmannstraße,2700,0000
+arm4=Mehringdamm (O),3450,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=32°C; Sonne=8 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+31	11
+40	18
+42	1
+59	1
+59	0
+60	11
+60	0
+68	0
+69	10
+70	10
+86	7
+82	10
+; 4 -> 2
+13	2
+35	4
+61	1
+53	10
+62	13
+65	0
+94	7
+84	14
+86	20
+102	15
+90	8
+76	2

@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0909020
+datum=27.04.1999
+kurzken=Q 0909020/99
+bez=Detmolder Straße (Nord) - Zufahrt BAB A100 (Wilmersdorf, 10713)
+arm1=,0,0000
+arm2=BAB A100 (AK Wilmersdorf),800,0000
+arm3=Detmolder Straße (Nord)-Blisse Str.,2900,0100
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 3 -> 2
+370	9	0	11
+339	10	0	9
+323	10	0	4
+250	17	0	3
+259	10	1	5
+294	15	0	7
+359	9	0	5
+325	6	2	7
+358	3	1	6
+268	2	0	8
+311	4	0	7
+377	1	0	3

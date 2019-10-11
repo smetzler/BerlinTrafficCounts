@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 6544053
+datum=26.08.2010
+kurzken=Q 6544051/10
+bez=Josef-Orlopp-Straße (östl. Möllendorffstraße)    (Lichtenberg, 10367)
+arm1=Storkower Straße,940,0000
+arm2=Möllendorffstraße (S),1770,0001
+arm3=Josef-Orlopp-Straße,2670,0000
+arm4=Möllendorffstraße (N),3570,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+26	13
+15	1
+23	1
+19	0
+30	0
+31	4
+24	13
+21	14
+30	11
+34	6
+21	3
+25	5
+; 4 -> 2
+9	3
+15	0
+19	0
+15	0
+30	0
+27	2
+23	3
+23	3
+29	4
+24	6
+25	1
+12	2

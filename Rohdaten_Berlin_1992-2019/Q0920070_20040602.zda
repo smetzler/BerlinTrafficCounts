@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0920070
+datum=02.06.2004
+kurzken=Q 0920070/04
+bez=Senftenberger Ring (Höhe Fußgängerpassage)   (Märkisches Viertel, 13435)
+arm1=Straupitzer Steig,950,0100
+arm2=Senftenberger Ring,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+131	13	1	7	3
+175	6	1	4	6
+196	8	2	5	10
+260	7	2	5	12
+285	12	0	4	6
+246	13	0	8	10
+201	7	1	2	3
+225	8	0	9	11
+176	1	0	6	2
+290	1	0	7	12
+216	1	0	7	5
+205	2	1	8	7
+; 2 -> 1
+98	8	3	0	7
+128	7	2	5	9
+153	11	3	1	14
+237	12	4	8	15
+253	11	3	4	18
+234	7	3	3	9
+194	3	3	4	14
+189	4	3	7	3
+202	2	3	6	6
+269	2	3	14	10
+211	4	3	5	20
+190	0	3	6	4

@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26227
+datum=28.05.1997
+kurzken=Q 26227/97-F
+bez=Schnellerstraße (östl. Rudower Straße)   (Niederschöneweide, 12439)
+arm1=,0,0000
+arm2=Süd,1750,0001
+arm3=,0,0000
+arm4=Nord,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+22 4
+23 0
+10 0
+17 6
+10 5
+20 2
+12 3
+32 15
+23 9
+24 5
+28 6
+11 4
+; 4 -> 2
+13 8
+11 6
+9 2
+11 0
+11 1
+19 0
+17 2
+13 1
+28 10
+16 0
+21 0
+8 3

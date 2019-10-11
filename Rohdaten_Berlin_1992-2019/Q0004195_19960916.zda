@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4195
+datum=16.09.1996
+kurzken=Q 4195/96
+bez=Nöldnerstraße  in Höhe Haus Nr. 44,(Lichtenberg, 10317)
+arm1=S-Bhf. Rummelsburg,1000,0100
+arm2=Stadthausstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+448 25 7 7
+367 37 9 4
+359 37 7 0
+368 45 7 4
+404 40 8 5
+407 52 6 7
+358 51 5 4
+413 44 6 5
+620 41 9 5
+601 24 7 18
+602 28 7 7
+559 10 6 11
+; 2 -> 1
+369 41 5 9
+315 31 6 2
+273 29 6 6
+287 34 6 2
+228 27 6 4
+249 34 7 4
+260 14 6 3
+235 22 6 7
+312 16 5 10
+295 11 6 4
+219 5 7 9
+268 3 4 5

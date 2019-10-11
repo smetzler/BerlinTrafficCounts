@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 52113
+datum=25.09.2017
+kurzken=Q 52113/17
+bez=Bellermannstraße (südl. Behmstraße)  (Wedding, 13357)
+arm1=Jülicher Straße,50,0000
+arm2=Behmstraße (W),950,0001
+arm3=Bellermannstraße,2000,0000
+arm4=Behmstraße (O),2900,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 4
+11	10
+14	8
+35	0
+45	2
+43	2
+19	2
+63	11
+76	8
+42	11
+75	28
+96	12
+69	10
+; 4 -> 2
+38	21
+55	11
+72	4
+49	1
+61	2
+67	6
+28	6
+59	17
+85	18
+68	16
+82	17
+72	9

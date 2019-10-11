@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 20042
+datum=27.09.2015
+kurzken=Q 20042/15
+bez=A103 - Abzw. Zehlendorf (Zu- u. Abfahrt, nördl. Saarstraße)   (Steglitz, 12169)
+arm1=Saarstraße,1400,0100
+arm2=AK Schöneberg,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=erhöhtes VA wegen diverser Sperrungen im Citybereich
+data=
+; 1 -> 2
+193	0	0	0	5
+186	0	0	0	3
+183	1	0	0	4
+; 2 -> 1
+261	0	0	0	3
+283	0	0	0	6
+283	2	0	0	4

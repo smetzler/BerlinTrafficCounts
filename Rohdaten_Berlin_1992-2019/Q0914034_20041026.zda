@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0914034
+datum=26.10.2004
+kurzken=Q 0914034/04
+bez=AD Neukölln (Ströme zur  AS Grenzallee)   (Neukölln, 12347)
+arm1=BAB / AS Buschkrugallee,800,0001
+arm2=,0,0000
+arm3=AS Späthstraße,1900,0001
+arm4=AS Gradestraße,3300,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   
+data=
+; 1 -> 4
+815	53	0	16
+852	65	0	10
+612	61	0	9
+534	59	0	3
+535	57	1	3
+544	56	1	5
+646	46	2	12
+691	60	0	14
+919	45	0	20
+914	39	1	22
+750	16	1	12
+765	13	2	19
+; 3 -> 4
+129	2	2	7
+110	8	0	5
+103	11	0	5
+80	11	0	2
+73	9	0	3
+83	8	0	7
+96	7	1	2
+99	11	0	3
+88	7	1	3
+82	3	0	1
+77	4	0	1
+70	3	0	0

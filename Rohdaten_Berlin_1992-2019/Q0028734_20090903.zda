@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 28734
+datum=03.09.2009
+kurzken=Q 28734/09
+bez=Waldeyerstraße (nördl. Frankfurter Allee)   (Friedrichshain, 10247)
+arm1=Frankfurter Allee (W),800,0010
+arm2=Weichselstraße ,1650,0000
+arm3=Frankfurter Allee (O),2600,1000
+arm4=Waldeyerstraße,3300,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonne=3 Std; Niederschlag=12 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+31	7
+34	2
+56	6
+91	9
+119	4
+141	4
+179	8
+172	7
+225	13
+300	24
+304	21
+213	17
+; 3 -> 1
+49	5
+57	5
+50	0
+89	9
+108	5
+155	10
+191	9
+195	10
+259	20
+276	39
+297	18
+227	14

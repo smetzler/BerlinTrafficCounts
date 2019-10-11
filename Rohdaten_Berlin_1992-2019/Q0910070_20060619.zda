@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0910070
+datum=19.06.2006
+kurzken=Q 0910070/06
+bez=Wasgenstraße (südl. Tewsstraße) (Schlachtensee, 14129)
+arm1=Tewsstraße,100,0000
+arm2=Krottnauer Straße,1900,0000
+arm3=(Westen - Schule),1000,0001
+arm4=((Osten)),2800,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Fußgänger\, die die Wasgenstr. zw. Tewsstr. und Krottnauer Str. überqueren!\nWetter: max T=31°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+6	1
+2	19
+3	3
+2	42
+6	3
+11	13
+17	82
+17	48
+0	2
+1	2
+1	0
+1	0
+; 4 -> 3
+3	44
+4	26
+2	3
+2	6
+1	1
+2	31
+5	6
+7	17
+0	2
+2	1
+4	0
+1	0

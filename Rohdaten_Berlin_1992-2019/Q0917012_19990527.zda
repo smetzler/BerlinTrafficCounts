@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0917012
+datum=27.05.1999
+kurzken=Q 0917012/99
+bez=Hohenschönhauser Straße (westl. Judith-Auer-Str.)   (Lichtenberg, 10369)
+arm1=Mauglöckchenweg,1300,0100
+arm2=Judith-Auer-Straße,3100,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+350	22	0	9
+336	20	0	5
+437	16	0	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+638	8	0	24
+756	16	0	19
+670	3	0	21
+; 2 -> 1
+957	41	2	22
+697	34	0	9
+528	26	0	12
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+467	15	0	15
+473	9	0	24
+486	8	1	20

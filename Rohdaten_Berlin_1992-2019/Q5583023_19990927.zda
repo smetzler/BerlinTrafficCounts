@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 5583023
+datum=27.09.1999
+kurzken=Q 5583023/99
+bez=Singerstraße (östl. Lichtenberger Straße)  (Friedrichshain, 10243)
+arm1=Singerstraße (W),640,0000
+arm2=Lichtenberger Straße (S),1500,0001
+arm3=Singerstraße (O),2600,0000
+arm4=Lichtenberger Straße (N),3330,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=21°C; Sonnenstd.=8; Niederschlag=0\,0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+10	1
+11	0
+13	0
+11	0
+9	0
+9	0
+10	2
+3	2
+10	2
+10	0
+22	1
+14	2
+; 4 -> 2
+8	0
+10	0
+7	0
+8	0
+8	0
+7	0
+9	3
+2	0
+8	0
+3	0
+15	1
+5	1

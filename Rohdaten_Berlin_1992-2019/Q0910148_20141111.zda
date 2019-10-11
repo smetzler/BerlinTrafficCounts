@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0910148
+datum=11.11.2014
+kurzken=Q 0910148/14
+bez=Matterhornstraße (Höhe Kirchblick)   (Nikolassee, 14129)
+arm1=Eiderstedter Weg,700,0000
+arm2=H.-Albertz-Platz,2500,0000
+arm3=((Norden)),3400,0001
+arm4=((Süden)),1600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die Matterhornstr. in Höhe Kirchblick (ca. 50m westl. bis 50m östl.) queren\nWetter: max T=12°C; Sonne=1 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+4	0
+1	0
+3	0
+4	0
+1	0
+5	0
+2	0
+3	1
+5	0
+6	2
+14	4
+6	2
+; 4 -> 3
+7	0
+7	0
+3	0
+6	0
+1	0
+9	0
+4	0
+4	0
+2	0
+8	0
+13	0
+10	3

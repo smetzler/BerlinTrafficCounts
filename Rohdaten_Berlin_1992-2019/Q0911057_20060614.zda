@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0911057
+datum=14.06.2006
+kurzken=Q 0911057/06
+bez=Leberstraße (Höhe Nr. 69/77)   (Schöneberg, 10829)
+arm1=Leuthener Straße,0,0100
+arm2=Torgauer Straße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+24	2	0	3	9
+50	1	0	2	8
+43	1	0	2	10
+26	2	0	0	10
+32	1	0	1	9
+44	2	0	0	7
+40	0	0	2	9
+41	1	0	2	8
+42	0	0	2	12
+36	0	0	3	19
+40	0	0	2	14
+36	0	0	3	16
+; 2 -> 1
+85	5	7	5	9
+113	3	6	6	4
+97	7	6	6	12
+100	18	6	6	4
+79	4	5	5	10
+93	7	6	4	-1
+73	2	6	2	4
+78	1	7	5	9
+124	0	8	10	12
+88	1	6	6	20
+96	2	6	7	16
+104	0	6	4	20

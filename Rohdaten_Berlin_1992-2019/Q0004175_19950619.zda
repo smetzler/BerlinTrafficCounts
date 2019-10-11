@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 4175
+datum=19.06.1995
+kurzken=Q 4175/95
+bez=Buchholzer Straße (westl. Charlottenstraße)    (Niederschönhausen, 13156)
+arm1=Waldemarstraße,1400,0100
+arm2=Charlottenstraße,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+107 8 0 0 4
+97 14 0 0 5
+103 15 0 2 4
+118 6 0 0 12
+98 13 0 2 7
+108 8 0 0 5
+112 14 0 0 19
+129 8 0 2 16
+142 8 0 4 12
+198 12 0 3 8
+175 3 0 3 7
+131 1 0 2 17
+; 2 -> 1
+176 14 6 3 30
+133 13 4 3 5
+108 9 3 2 10
+116 18 4 0 0
+115 13 3 1 7
+88 10 3 3 4
+124 10 3 0 12
+101 6 4 2 8
+136 12 6 4 12
+171 9 6 1 7
+145 4 6 4 4
+133 3 4 3 6

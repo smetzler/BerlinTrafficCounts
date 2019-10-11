@@ -1,0 +1,24 @@
+[ZA1001]
+Knoten=K0002507
+Datum=03.09.1991
+KurzKen=K 2507/91
+Bez=Greifswalder Straße / Immanuelkirchstraße    ( Berlin 1055 - PrenzlBerg )
+Arm1=Immanuelkirchstraße,570,0100
+Arm2=Greifswalder Straße,1450,0001
+Arm3=,0,0000
+Arm4=Greifswalder Straße,3250,1100
+Art=Kfz,,,,,,
+Zeit=0700,1900
+Intv=60
+Data=
+
+
+
+; 1 -> 2
+   47   27   43   27   63   53   62   60   40   62   38   38
+; 2 -> 4
+  698  781  842  899 1047 1102 1093 1175 1405 1334 1361 1223
+; 4 -> 1
+   42   52   65   36   19   27   56   33   40   31   52   53
+; 4 -> 2
+ 1870 1543 1352 1129 1224 1097 1031 1005 1131 1064 1192 1274

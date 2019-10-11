@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0912159
+datum=06.11.2008
+kurzken=Q 0912159/08
+bez=Bergstraße (westl. Heesestraße)   (Steglitz, 12169)
+arm1=Robert-Lück-Straße,800,0000
+arm2=Heesestraße,2600,0000
+arm3=((Norden)),3500,0001
+arm4=((Süden)),1700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Bergstr. westl. der Heesestraße queren.\nWetter: max T=12°C; Sonne=0 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 3 -> 4
+18	22
+27	2
+29	42
+36	4
+36	0
+32	10
+34	3
+35	4
+48	8
+54	13
+74	6
+47	3
+; 4 -> 3
+44	11
+58	13
+41	5
+34	22
+37	0
+27	2
+39	3
+31	5
+42	2
+47	6
+50	5
+42	2

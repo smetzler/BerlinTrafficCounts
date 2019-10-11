@@ -1,0 +1,26 @@
+[ZA1001]
+Knoten=K6472021
+Datum=21.05.1992
+KurzKen=
+Bez=Hochstraße am Knotenpunkt An der Wuhlheide/Treskowallee
+Arm1=zu Rummelsburger Str,900,0010
+Arm2=,0,0000
+Arm3=zu Treskowallee,1800,1000
+Arm4=,0,0000
+Art=M+Krad,Pkw,Liefer,Lkw,Bus,Rad,
+Zeit=0700,1900
+Intv=60
+Bemerk=Knotennr. wurde neu definiert (Endziffer 1)\nKnoten gehört zum Knotenpunkt K647202\nHochstraße führt parallel über den Straßenzug An der Wuhlheide/Treskowallee
+Data=
+; 1 -> 3
+    7  343   45   32    0    0    3  422   47   35    0    0    5  435   64   36
+    1    0    7  405   56   45    0    0   13  405   58   38    0    0    6  461
+   44   29    0    0    6  385   52   36    0    0   18  568   55   33    1    0
+   19  837   65   31    0    0   16  730   66   27    0    0   13  689   34   21
+    0    0   11  610   34   13    0    0
+; 3 -> 1
+    6  686   47   32    1    0    7  451   30   20    0    0    5  378   58   29
+    0    0    7  316   36   27    1    0    1  258   38   29    0    0    4  339
+   30   30    0    0    5  300   50   13    0    0    2  393   29   24    0    0
+   12  373   16   13    0    0    5  397   16   13    0    0    7  407   14    8
+    0    0    3  377   15    6    0    0

@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 54291
+datum=12.07.1984
+kurzken=Q 54291/84
+bez=Danckelmannstrasse  noerdl. Knobelsdorffstr. (Berlin 19)
+Arm1=Sued,900,0100
+Arm2=Nord,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+1 10 3 1 0 2 16 5 5 0 5 34 4 2 0 
+2 35 5 1 0 1 32 2 2 0 1 43 1 2 0 
+4 35 5 3 0 1 35 4 2 0 3 46 8 4 0 
+1 55 4 3 0 1 44 2 1 0 7 41 1 0 0 
+; 2 -> 1
+2 25 9 1 0 1 46 8 8 0 0 48 9 10 0 
+2 39 9 3 0 5 37 5 2 2 0 42 4 5 0 
+2 36 5 4 0 2 64 4 2 0 4 53 9 6 2 
+4 54 4 1 1 4 80 10 0 0 7 74 1 1 0 

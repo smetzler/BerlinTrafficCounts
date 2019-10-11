@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0914170
+datum=02.04.2014
+kurzken=Q 0914170/14
+bez=AD Neukölln - von  A113-Süd nach AS Buschkrugallee  (Neukölln, 12057)
+arm1=AS Buschkrugallee,800,0000
+arm2=A113-Süd,2400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 2 -> 1
+197	16	0	3
+200	10	0	1
+157	14	0	0
+151	9	0	1
+117	12	0	0
+101	9	0	0
+92	8	0	0
+78	7	1	2
+105	5	1	2
+118	2	0	1
+72	3	0	1
+94	4	0	3

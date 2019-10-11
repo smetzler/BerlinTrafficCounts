@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 0063
+datum=10.05.2015
+kurzken=Q 0063/15
+bez=A115 - AVUS (Höhe Alemannenbrücke)   (Zehlendorf, 14129)
+arm1=AS Spanische Allee,50,0100
+arm2=AK Zehlendorf,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1600,1900
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Standort: Brücke Alemannenstr. SPURAUFTEILUNG vor Ort festlegen!\nCity-Atlas Seite 128\, Feld 7d
+data=
+; 1 -> 2
+2325	9	5	23	15
+2272	1	5	17	19
+1934	7	4	18	23
+; 2 -> 1
+2810	5	8	22	45
+3155	5	8	33	56
+3182	6	16	37	43

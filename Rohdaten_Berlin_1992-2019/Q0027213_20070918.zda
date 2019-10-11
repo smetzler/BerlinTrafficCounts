@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 27213
+datum=18.09.2007
+kurzken=Q 27213/07
+bez=Schönhauser Straße (südl. Kastanienallee)    (Rosenthal, 13158)
+arm1=Schönhauser Straße,300,0000
+arm2=Kastanienallee,1000,0001
+arm3=Schönhauser Straße,2100,0000
+arm4=Kastanienallee,2800,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=14°C; Sonne=2 Std; Niederschlag=9 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+; 4 -> 2
+1	0
+0	0
+1	0
+0	0
+0	0
+0	0
+0	0
+0	0
+1	1
+2	0
+0	0
+0	0

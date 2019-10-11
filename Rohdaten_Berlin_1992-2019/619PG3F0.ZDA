@@ -1,0 +1,20 @@
+[ZA1001]
+knoten=Q 59236
+datum=13.09.1990
+kurzken=Q 59236/90
+bez=Ostpreussendamm westlich Stadion Lichterfelde    ( Berlin 45 )
+Arm1=Nord,900,0100
+Arm2=Sued,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Erw,Jugend,,,,,
+zeit=0700,1900
+intv=60
+bemerk=Wetter : bedeckt und trocken !
+data=
+; 1 -> 2
+1 0 5 0 10 1 10 24 7 4 12 6 9 6 
+11 5 12 9 16 2 11 6 24 20 
+; 2 -> 1
+4 23 6 16 2 10 5 3 2 6 4 7 7 6 
+3 1 2 4 8 3 2 6 3 5 

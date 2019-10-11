@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 26307
+datum=16.05.1994
+kurzken=Q 26307/94
+bez=Waldowallee / südl. Andernacher Straße (Karlshorst)
+arm1=Waldowallee,250,0000
+arm2=Andernacher Straße,1200,0001
+arm3=Waldowallee,2050,0000
+arm4=Str. zum Bundesamt,3000,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen: \n - büro für   \nWetter:  sonnig 
+data=
+; 2 -> 4
+1 1
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+0 0
+8 1
+1 0
+0 0
+0 0
+; 4 -> 2
+0 0
+1 0
+0 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0

@@ -1,0 +1,26 @@
+[ZA1001]
+knoten=Q 00461
+datum=17.04.2015
+kurzken=Q 00461/15
+bez=A100 - Stadtring - Zu- und Abfahrt nordl. Alboinstr. (Schöneberg, 12103)
+arm1=Alboinstr. / Schöneberger Str.,1400,0100
+arm2=AS Tempelhofer Damm,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Lzug,Bus,Krad
+zeit=1500,1800
+intv=60
+projekt=59
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=City-Atlas Seite 116\, Feld 3a
+data=
+; 1 -> 2
+839	19	1	2	12
+798	12	0	4	16
+662	14	2	3	11
+; 2 -> 1
+424	14	0	1	4
+427	6	0	1	8
+399	5	0	3	6

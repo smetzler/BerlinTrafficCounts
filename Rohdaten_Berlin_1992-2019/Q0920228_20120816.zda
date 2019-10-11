@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0920228
+datum=16.08.2012
+kurzken=Q 0920228/12
+bez=Jean-Jaurés-Straße (nördl. Nimrodstraße)   (Waidmannslust, 13469)
+arm1=S-Bhf. Waidmannslust,250,0000
+arm2=Nimrodstraße,2050,0000
+arm3=((Westen)),1150,0001
+arm4=((Osten\, S-Bhf.)),2950,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Jean-Jaurés-Straße zw. Nimrodstr. und neuem südl. Zugang zum S-Bhf. queren.\nWetter: max T=23°C; Sonne=4\,5 Std; Niederschlag=2 mm;
+data=
+; 3 -> 4
+134	38
+112	12
+87	4
+80	0
+73	3
+61	18
+94	95
+85	87
+59	60
+46	26
+50	25
+75	37
+; 4 -> 3
+62	146
+113	58
+77	12
+76	16
+57	3
+52	4
+75	28
+83	34
+54	29
+62	28
+60	12
+35	30

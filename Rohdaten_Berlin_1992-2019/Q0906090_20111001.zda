@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 0906090
+datum=01.10.2011
+kurzken=Q 0906090/11
+bez=Möckernstraße (Höhe Hornstraße)   (Kreuzberg, 10963)
+arm1=Wartenburgstraße,0,0100
+arm2=Yorckstraße,1800,1000
+arm3=,900,0000
+arm4=,2700,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=1300,1700
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=
+data=
+; 1 -> 2
+322	10	0	12	110
+313	2	1	14	96
+329	5	0	14	105
+317	3	0	15	151
+; 2 -> 1
+265	3	0	7	99
+285	0	1	16	97
+315	3	1	16	103
+302	0	1	23	75

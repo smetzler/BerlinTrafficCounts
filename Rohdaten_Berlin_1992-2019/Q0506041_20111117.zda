@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0506041
+datum=17.11.2011
+kurzken=Q 0506041/11
+bez=A115 - AVUS (nördl. Spanische Allee)   (Zehlendorf, 14129)
+arm1=AS Hüttenweg,3300,0100
+arm2=AS Spanische Allee,1500,1000
+arm3=,600,0000
+arm4=,2400,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=AVUS: Baustelle ab Hüttenweg bis AD Funkturm\, AS Hüttenweg gesperrt.\n
+data=
+; 1 -> 2
+1930	102	8	1
+1897	141	6	1
+1936	196	9	1
+1560	147	7	1
+1879	228	3	3
+2078	182	4	4
+2132	212	3	3
+2271	218	7	3
+2400	152	2	0
+2739	142	8	3
+2393	111	10	3
+2619	86	2	5
+; 2 -> 1
+3047	226	2	3
+2939	229	4	2
+2192	199	6	1
+1904	205	2	0
+1904	157	6	2
+1808	173	4	3
+1790	165	9	4
+1980	173	6	1
+2256	136	8	3
+2267	105	12	4
+2184	72	24	8
+2330	56	13	0

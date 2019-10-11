@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 010206
+datum=29.10.2002
+kurzken=Q 010206/02
+bez=Voßstraße (östl. Ebertstraße) (Mitte, 10117)
+arm1=Ebertstraße,900,0000
+arm2=Wilhelmstraße,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,Radf
+zeit=0600,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Baustelle: Zufahrt (4)\, Abfahrt (2) und Abfahrt (3) gesperrt!
+data=
+; 2 -> 1
+121	27	3	0	0
+111	16	3	0	1
+197	30	2	0	3
+180	22	9	0	7
+112	12	6	1	0
+120	13	3	0	7
+114	13	6	6	9
+73	8	1	0	5
+114	11	3	0	2
+127	12	7	1	1
+135	13	4	1	5
+147	13	1	0	4

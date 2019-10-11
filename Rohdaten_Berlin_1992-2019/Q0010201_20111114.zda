@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 010201
+datum=14.11.2011
+kurzken=Q 010201/11
+bez=Invalidenstraße (Sandkrugbrücke)   (Tiergarten, 10557)
+arm1=Heidestraße,1200,0100
+arm2=Alexanderufer,3000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Invalidenstr. zw. Heidestr. u. Hessische Str.auf je 1 FS verengt\, zw. Gartenstr. u. Hessische Str. Ri. West gesperrt.\n
+data=
+; 1 -> 2
+655	36	21	7	55
+862	36	18	6	120
+758	33	16	9	91
+792	34	22	4	22
+687	23	21	6	49
+684	25	28	15	58
+684	21	19	9	71
+849	22	27	9	86
+754	11	17	10	90
+648	22	18	2	104
+746	8	22	11	102
+748	10	23	10	145
+; 2 -> 1
+705	30	20	7	98
+921	26	20	26	193
+780	28	22	10	103
+764	26	26	10	66
+787	45	25	8	66
+849	23	23	8	61
+648	22	20	11	82
+671	24	22	7	81
+777	11	22	17	78
+786	6	26	14	110
+802	10	23	12	97
+767	9	23	9	98

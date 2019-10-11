@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 101104
+datum=18.10.2017
+kurzken=Q 101104/17
+bez=Kaulsdorfer Straße (Höhe Hoppendorfer Straße)   (Köpenick, 12555)
+arm1=Bischofstaler Straße ,300,0000
+arm2=Egersfelder Allee,2100,0000
+arm3=Hoppendorfer Straße (W),1200,0001
+arm4=Hoppendorfer Straße (O),3000,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=querende Fg i. H. Hoppendorfer Straße\nDurchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 3 -> 4
+8	2
+8	1
+5	0
+6	0
+7	0
+2	0
+2	0
+4	0
+0	0
+0	0
+1	0
+2	0
+; 4 -> 3
+2	0
+1	0
+2	0
+2	0
+0	0
+2	0
+3	0
+0	0
+3	0
+1	0
+1	0
+1	0

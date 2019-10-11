@@ -1,0 +1,29 @@
+[ZA1001]
+knoten=Q 0919065
+datum=17.06.2004
+kurzken=Q 0919065/04
+bez=AD Pankow - Strom 15 (von A114 nach A10-Nord)   (Schönerlinde, 16352)
+arm1=A10-Nord,400,0000
+arm2=A114-Süd,1900,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Stadtatlas Seite 34\, Planquadrat X20
+data=
+; 2 -> 1
+582	39	2	5
+564	53	7	3
+513	47	1	0
+448	65	2	0
+446	53	0	4
+489	66	1	10
+523	64	0	2
+615	65	0	7
+798	52	1	1
+923	65	1	5
+859	32	0	2
+705	23	0	1

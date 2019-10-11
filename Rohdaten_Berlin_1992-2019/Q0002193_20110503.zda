@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 2193
+datum=03.05.2011
+kurzken=Q 2193/11
+bez=Falkenseer Chaussee (östl. Westerwaldstraße)   (Spandau, 13583)
+arm1=Falkenseer Chaussee (W),730,0000
+arm2=Siegener Straße,1700,0001
+arm3=Falkenseer Chaussee (O),2530,0000
+arm4=Westerwaldstraße,3500,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=11°C; Sonne=10 Std; Niederschlag=0 mm;
+data=
+; 2 -> 4
+28	25
+58	14
+38	43
+49	1
+45	2
+65	8
+39	17
+49	12
+63	19
+57	28
+46	15
+41	12
+; 4 -> 2
+89	17
+65	9
+72	7
+67	17
+42	2
+62	13
+95	12
+84	20
+91	37
+71	34
+86	24
+68	14

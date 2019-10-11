@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0911003
+datum=08.06.1998
+kurzken=Q 0911003/98
+bez=Bundesallee (südl. Friedrich-Wilhelm-Platz)   (Friedenau, 12161)
+arm1=Friedrich-Wilhelm-Platz,0,0100
+arm2=Handjerystraße,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+314	9	20	11
+392	15	15	19
+448	11	12	14
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+571	10	18	41
+669	7	19	53
+559	3	23	34
+; 2 -> 1
+534	18	19	25
+604	15	13	36
+478	9	12	17
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+471	4	15	38
+494	5	13	31
+483	5	14	47

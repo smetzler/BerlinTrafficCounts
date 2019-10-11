@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0907032
+datum=20.05.2019
+kurzken=Q 0907032/19
+bez=AD Funkturm - von Parkplatz Nordkurve nach A115 AVUS (Charlottenburg, 14055) 
+arm1=A115 AVUS,700,0000
+arm2=Parkplatz Nordkurve,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=1
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 2 -> 1
+9	2	1	0	0
+14	3	1	1	0
+36	5	2	2	0
+22	1	1	4	0
+35	2	2	1	0
+32	4	0	0	0
+44	1	0	0	0
+26	2	2	2	0
+19	0	1	1	0
+36	1	1	1	0
+52	3	2	0	0
+84	1	0	2	0

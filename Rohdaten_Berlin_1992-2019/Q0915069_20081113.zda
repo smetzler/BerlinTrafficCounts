@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0915069
+datum=13.11.2008
+kurzken=Q 0915069/08
+bez=Alt-Stralau (Höhe Schule Nr. 34)   (Stralau, 10245)
+arm1=Palmkernzeile,700,0000
+arm2=Tunnelstraße,2500,0000
+arm3=((Norden)),3400,0001
+arm4=((Süden)),1600,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=17-18 Uhr: Fußg.-Daten Strom 4>3 erhöht wegen Lampionumzug!\nFußg.\, die die Str. Alt-Stralau in Höhe der Schule (50m westl. bis 50m östl.) queren.\nWetter: max T=10°C; Sonne=4 Std; Niederschlag=0 mm; Erhebungen: 
+data=
+; 3 -> 4
+14	2
+19	1
+3	0
+4	0
+3	0
+2	20
+8	11
+8	3
+8	8
+7	11
+7	5
+11	9
+; 4 -> 3
+37	72
+3	2
+12	1
+10	4
+6	4
+3	2
+5	3
+20	1
+6	10
+6	1
+54	30
+4	3

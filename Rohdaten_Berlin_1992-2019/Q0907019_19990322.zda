@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907019
+datum=22.03.1999
+kurzken=Q 0907019/99
+bez=Saatwinkler Damm (östl. Zu.-Abfahrt BAB A111)   (Charlottenburg, 13627)
+arm1=Zu.-Abfahrt BAB,850,0100
+arm2=Friedrich-Olbricht-Damm,2650,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+888	46	10	10
+918	70	10	7
+939	72	7	5
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+545	71	6	7
+594	32	7	9
+485	30	8	5
+; 2 -> 1
+665	65	10	6
+705	71	8	1
+712	82	7	1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+920	59	5	12
+1036	43	10	13
+850	13	7	6

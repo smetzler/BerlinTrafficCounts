@@ -1,0 +1,40 @@
+[ZA1001]
+knoten=Q 0907018
+datum=05.11.1998
+kurzken=Q 0907018/98
+bez=Fasanenstraße (südl. Hertzallee)   (Charlottenburg, 10623)
+arm1=Hardenbergstraße,1700,0100
+arm2=Hertzallee,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad
+zeit=0700,1800
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Zählzeitraum: 7 - 10 und 15 - 18 Uhr.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+292	13	0	7
+456	11	1	14
+310	7	1	8
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+326	9	1	12
+413	10	1	6
+371	2	1	9
+; 2 -> 1
+485	20	0	8
+556	32	1	4
+489	23	2	11
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+-1	-1	-1	-1
+630	10	1	19
+605	6	4	13
+637	5	1	17

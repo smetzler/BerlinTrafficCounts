@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0907080
+datum=14.06.2006
+kurzken=Q 0907080/06
+bez=Harbigstraße (südwestl. Waldschulallee)   (Eichkamp, 14055)
+arm1=Maikäferpfad,1400,0100
+arm2=Waldschulallee,3200,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Durchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+46	2	6	0	32
+38	3	1	2	30
+38	1	0	0	15
+36	2	0	4	20
+36	0	0	3	21
+27	2	1	1	13
+42	2	1	1	12
+39	1	1	1	7
+20	2	4	4	8
+59	2	0	2	15
+68	0	0	1	30
+121	0	0	2	55
+; 2 -> 1
+70	3	7	2	17
+37	1	0	2	25
+48	2	0	0	24
+29	0	0	0	13
+24	0	0	3	18
+33	2	2	0	29
+49	2	1	1	23
+58	2	3	0	10
+48	0	4	6	12
+85	3	0	4	27
+72	1	1	6	39
+55	0	0	2	34

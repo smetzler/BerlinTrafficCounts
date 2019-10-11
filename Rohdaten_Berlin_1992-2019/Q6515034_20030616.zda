@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 6515034
+datum=16.06.2003
+kurzken=Q 6515034/03
+bez=Am Friedrichshain (östl. Hufelandstraße)    (Friedrichshain, 10405)
+arm1=Hufelandstraße,530,0010
+arm2=Am Friedrichshain,1030,0000
+arm3=(Süden),2100,1000
+arm4=Am Friedrichshain,3000,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=23°C; Sonne=10 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 3
+4	1
+4	1
+7	2
+5	1
+7	1
+8	0
+2	3
+4	4
+4	4
+7	5
+12	9
+15	11
+; 3 -> 1
+1	0
+3	0
+5	1
+3	0
+2	0
+2	0
+2	3
+1	0
+0	4
+4	0
+10	4
+9	5

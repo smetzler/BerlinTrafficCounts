@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0906045
+datum=14.09.2006
+kurzken=Q 0906045/06
+bez=Großbeerenstraße (südl. Obentrautstraße)   (Kreuzberg, 10961)
+arm1=Wartenburgstraße,1700,0100
+arm2=Obenstrautstraße,3500,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=26°C max T; 12 Std Sonne; 0 mm Niederschl.; 7 Sonnentag(e) Vorwoche (>3 Std); 0 Regentag(e) Vorwoche (>2 mm);\nDurchführung der Erhebungen: büro 
+data=
+; 1 -> 2
+324	5	0	18	75
+465	8	0	29	139
+360	15	3	21	112
+298	16	0	12	62
+286	14	0	6	55
+193	6	0	12	67
+251	9	0	5	66
+252	9	1	17	78
+300	6	0	16	114
+313	3	1	16	95
+269	2	0	17	110
+293	6	0	23	117
+; 2 -> 1
+131	9	0	7	79
+154	6	0	3	77
+149	6	2	4	69
+204	8	2	6	48
+130	4	0	1	51
+120	10	1	8	70
+184	3	0	11	73
+208	6	0	14	105
+250	4	0	16	110
+254	1	0	17	112
+257	4	0	12	134
+243	0	0	18	142

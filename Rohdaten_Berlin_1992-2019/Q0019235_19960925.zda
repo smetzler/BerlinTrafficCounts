@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 19235
+datum=25.09.1996
+kurzken=Q 19235/96
+bez=Schichauweg  (westl. Motzener Straße),(Lichtenrade, 12307)
+arm1=,1100,0000
+arm2=Egestorffstraße,1750,0001
+arm3=,2900,0000
+arm4=Motzener Straße,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=11°C\, bedeckt\, 3 mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+2 4
+1 2
+1 0
+1 0
+0 0
+0 0
+2 0
+0 0
+6 0
+2 4
+2 1
+4 0
+; 4 -> 2
+0 0
+1 0
+0 0
+1 0
+0 0
+2 5
+4 5
+2 3
+2 3
+4 2
+9 1
+5 0

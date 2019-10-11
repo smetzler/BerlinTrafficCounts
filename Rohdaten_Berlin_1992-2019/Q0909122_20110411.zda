@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0909122
+datum=11.04.2011
+kurzken=Q 0909122/11
+bez=Laubacher Straße (südl. Bergheimer Platz)   (Wilmersdorf, 14197)
+arm1=Bergheimer Platz,0,0000
+arm2=Rauenthaler Straße,1800,0000
+arm3=((Westen)),900,0001
+arm4=((Osten)),2700,0010
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die Laubacher Str. südl. Bergheimer Platz (bis ca. 50m südl.) queren.\nWetter: max T=21°C; Sonne=7\,5 Std; Niederschlag=0 mm;
+data=
+; 3 -> 4
+19	10
+22	5
+11	2
+18	2
+9	1
+3	12
+10	0
+23	2
+28	4
+28	0
+37	7
+22	5
+; 4 -> 3
+17	5
+10	1
+6	2
+18	0
+7	16
+4	0
+18	2
+21	3
+22	1
+26	2
+25	10
+9	1

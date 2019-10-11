@@ -1,0 +1,31 @@
+[ZA1001]
+knoten=Q 0914038
+datum=04.04.2005
+kurzken=Q 0914038/05
+bez=Britzer Damm ((Britzer Brücke - Teltowkanal)   (Britz, 12347)
+arm1=Jahnstraße,200,0100
+arm2=Franz-Körner-Straße,2000,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1300
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=2842
+bemerk=Zählzeitraum: 7-13 Uhr!\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+400	29	17	11	25
+537	21	14	7	32
+565	24	16	15	31
+674	20	12	18	38
+609	23	12	17	39
+695	20	14	24	38
+; 2 -> 1
+814	23	14	28	25
+956	36	15	28	31
+756	24	11	25	21
+602	22	11	28	24
+579	23	13	24	38
+581	17	12	19	24

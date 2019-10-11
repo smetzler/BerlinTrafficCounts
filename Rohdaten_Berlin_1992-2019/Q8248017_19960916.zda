@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 8248017
+datum=16.09.1996
+kurzken=Q 8248017/96
+bez=Gosener Damm  (östl. Krampenburger Weg)    (Müggelheim, 12559)
+arm1=,420,0000
+arm2=Krampenburger Weg,1370,0001
+arm3=,2220,0000
+arm4=Geinsheimer Weg,3160,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=15°C\, teils sonnig\, 0\,2 mm Niederschlag.\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 2 -> 4
+0 0
+2 0
+2 0
+1 0
+2 0
+0 0
+3 3
+4 12
+9 1
+6 0
+0 0
+7 1
+; 4 -> 2
+3 4
+2 1
+1 0
+1 0
+1 0
+0 0
+1 0
+1 0
+1 0
+2 0
+3 0
+3 0

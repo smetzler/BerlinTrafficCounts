@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919201
+datum=05.12.2017
+kurzken=Q 0919201/17
+bez=Achillesstraße (Höhe FGÜ, Hs-Nr. 32)   (Karow, 13125)
+arm1=Beerbaumstraße,200,0100
+arm2=Am Elsebrocken,2000,1000
+arm3=,1100,0000
+arm4=,2900,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+246	0	6	3	13
+224	3	8	2	12
+200	3	6	2	7
+154	1	4	1	8
+150	6	3	0	5
+178	2	1	1	4
+179	3	8	1	2
+253	1	6	1	2
+336	0	8	0	9
+306	1	10	8	14
+282	2	6	0	14
+226	0	6	0	15
+; 2 -> 1
+243	1	5	0	4
+179	4	11	0	4
+168	6	7	1	7
+148	1	2	0	4
+156	4	2	0	5
+168	2	2	0	0
+161	1	7	3	6
+222	2	5	1	2
+312	1	13	1	10
+282	1	8	1	22
+285	0	9	0	11
+187	0	8	0	5

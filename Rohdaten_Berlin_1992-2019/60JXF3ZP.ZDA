@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025827
+datum=22.6.1992
+kurzken=Q 2582.7/92-F
+bez=Regattastraße südlich Wassersportallee    ( Berlin 1180-Köpenick )
+arm1=Ost,1250,0100
+arm2=West,2950,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Fußg,,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : klar und trocken !
+data=
+; 1 -> 2
+8 
+10 
+5 
+16 
+31 
+42 
+21 
+23 
+44 
+28 
+28 
+20 
+; 2 -> 1
+37 
+4 
+30 
+22 
+24 
+23 
+23 
+23 
+28 
+36 
+39 
+23 

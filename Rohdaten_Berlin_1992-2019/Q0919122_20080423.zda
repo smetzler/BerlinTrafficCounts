@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0919122
+datum=23.04.2008
+kurzken=Q 0919122/08
+bez=Str. zum Jgd.-Freiz.-Heim (westl. Walter-Friedrich-Str.)   (Buch, 13125)
+arm1=(Str. zu Kaufland),500,0000
+arm2=Walter-Friedrich-Straße (S),1400,0001
+arm3=,0,0000
+arm4=Walter-Friedrich-Straße (N),3200,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Fußg.\, die die 'Str. zum Jgd.-Freiz.-Heim' überqueren (westl. Walter-Friedrich-Str.).\nWetter: max T=17°C; Sonne=11 Std; Niederschlag=0 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+45	14
+67	7
+56	4
+36	0
+36	6
+48	9
+76	23
+75	27
+66	16
+79	24
+80	15
+51	6
+; 4 -> 2
+65	88
+29	8
+42	2
+58	6
+67	8
+67	7
+78	7
+72	14
+100	36
+88	29
+106	35
+80	12

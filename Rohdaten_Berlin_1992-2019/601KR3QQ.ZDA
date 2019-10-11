@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 2043
+datum=19.9.1991
+kurzken=Q 2043/91
+bez=BAB A 100
+arm1=2 : von A 100,900,0100
+arm2=1 : nach A 100,1800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Kr,Liefwg,Lkw,Bus,,,,
+zeit=0600,1800
+intv=60
+projekt=2
+bemerk=Richtung 1 = Verbindungsfahrbahn von Konstanzer Str. nach A 100\nRichtung 2 = Verbindungsfahrbahn von A 100 nach Konstanzer Str.
+data=
+; 1 -> 2
+135 17 10 3 
+176 21 9 0 
+165 37 19 0 
+179 31 23 1 
+163 21 18 1 
+187 12 19 0 
+248 29 18 3 
+246 42 14 3 
+218 28 18 2 
+315 17 10 1 
+356 21 4 0 
+308 15 10 0 
+; 2 -> 1
+397 14 13 0 
+335 24 15 0 
+358 33 16 1 
+259 25 25 3 
+237 28 21 0 
+207 33 12 1 
+253 27 13 1 
+213 19 11 0 
+210 29 13 0 
+224 24 4 0 
+287 17 4 1 
+242 13 3 4 

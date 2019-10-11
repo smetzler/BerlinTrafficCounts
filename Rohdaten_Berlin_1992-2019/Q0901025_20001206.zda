@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 0901025
+datum=06.12.2000
+kurzken=Q 0901025/00
+bez=Oranienburger Straße (östl. Krausnickstraße)  (Mitte, 10178)
+arm1=Süden,1600,0100
+arm2=Norden,3400,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=5°C; Sonnenstd.=6; Niederschlag=0 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+19	6
+25	8
+23	11
+42	9
+52	12
+54	12
+34	2
+40	3
+24	2
+47	0
+12	1
+24	0
+; 2 -> 1
+14	4
+30	0
+26	1
+23	4
+46	1
+19	7
+34	3
+50	5
+67	1
+59	1
+94	3
+66	1

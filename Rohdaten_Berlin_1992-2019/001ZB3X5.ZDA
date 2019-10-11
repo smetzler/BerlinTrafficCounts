@@ -1,0 +1,28 @@
+[ZA1001]
+Knoten=K0002567
+Datum=26.03.1992
+KurzKen=K 2567/92
+Bez=Louis-Lewin-Straße / Quedlinburger Straße    ( Berlin 1150 - Hellersdorf )
+Arm1=Quedlinburger Straße,1100,0101
+Arm2=Louis-Lewin-Straße,1920,1001
+Arm3=,0,0000
+Arm4=Louis-Lewin-Straße,3550,1100
+Art=Kfz,,,,,,
+Zeit=0700,1900
+Intv=60
+Data=
+
+
+
+; 1 -> 2
+   67   97   86   94   90   86   83   95  125  168  142  113
+; 1 -> 4
+   51   62   46   47   38   38   44   49   77   93   78   54
+; 2 -> 1
+   73   75   68   58   60   61   64   85  122  121  132  114
+; 2 -> 4
+  138   85   86   62   90   81   82   90  107   97  143  108
+; 4 -> 1
+   55   53   45   30   53   60   35   63   71   94   95   79
+; 4 -> 2
+   73   60   71   70   91   81   78   81  159  173  127  141

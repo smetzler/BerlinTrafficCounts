@@ -1,0 +1,42 @@
+[ZA1001]
+knoten=Q 1793
+datum=08.11.1999
+kurzken=Q 1793/99
+bez=Radelandstraße (östl. Kisselnallee)   (Spandau, 13587)
+arm1=Radelandstraße,700,0000
+arm2=Kisselnallee,1600,0001
+arm3=Radelandstraße,2500,0000
+arm4=Pausiner Straße,3550,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+bemerk=Wetter: max T=9°C; Sonnenstd.=0; Niederschlag=2 mm.\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+5	3
+10	3
+8	1
+8	4
+8	1
+8	1
+15	12
+14	14
+16	4
+11	5
+8	6
+9	5
+; 4 -> 2
+6	3
+3	1
+9	0
+4	6
+3	0
+3	0
+8	11
+9	11
+2	0
+3	2
+7	3
+3	4

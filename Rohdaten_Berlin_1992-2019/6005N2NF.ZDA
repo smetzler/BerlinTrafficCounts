@@ -1,0 +1,18 @@
+[ZA1001]
+knoten=Q 00203
+datum=12.04.1988
+kurzken=Q 203/88
+bez=Kiefheider Weg  ( Rote Chaussee ) in Hoehe Bruecke BAB    ( Berlin 27 )
+Arm1=West,900,0100
+Arm2=Ost,2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Kfz,,,,,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+78 82 64 90 94 117 120 116 127 239 202 195 
+; 2 -> 1
+271 216 90 117 82 88 99 128 172 132 112 129 

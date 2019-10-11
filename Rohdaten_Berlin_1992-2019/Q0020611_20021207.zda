@@ -1,0 +1,28 @@
+[ZA1001]
+knoten=Q 20611
+datum=07.12.2002
+kurzken=Q 2061/02
+bez=B1 Potsdamer Ch. (östl. Nibelungenstr. - re. Spur)   (Nikolassee, 14109)
+arm1=Nibelungenstraße,950,0100
+arm2=Isoldestraße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw,Liefw,Lkw,Lzug,Bus,Krad
+zeit=0700,1200
+intv=60
+projekt=58
+gltypen=,,,,,,,,,,,,,,,
+bemerk=1>2: re. Spur wegen parkende Kfz nicht befahrbar!\nDurchführung der Erhebungen:\n - büro für   
+data=
+; 1 -> 2
+0	0	0	0	0	0
+0	0	0	0	0	0
+0	0	0	0	0	0
+0	0	0	0	0	0
+0	0	0	0	0	0
+; 2 -> 1
+12	0	1	0	0	0
+28	1	0	0	0	0
+24	1	0	0	0	0
+23	0	0	0	0	0
+21	1	0	0	0	0

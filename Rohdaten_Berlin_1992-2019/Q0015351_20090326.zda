@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 15351
+datum=26.03.2009
+kurzken=Q 15351/04
+bez=Grunewaldstraße (westl. Schloßstraße)  (Steglitz, 12165)
+arm1=Grunewaldstraße,600,0000
+arm2=Schloßstraße,1450,0001
+arm3=Albrechtstraße,2400,0000
+arm4=Schloßstraße,3250,0100
+art=Erw,Jugend
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=0,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Wetter: max T=8°C; Sonne=1 Std; Niederschlag=1 mm;\nDurchführung der Erhebungen:  - büro für   
+data=
+; 2 -> 4
+39	7
+108	2
+189	5
+302	6
+304	31
+243	1
+303	27
+284	26
+268	30
+334	34
+319	25
+275	19
+; 4 -> 2
+30	8
+58	3
+122	5
+205	4
+361	29
+379	7
+396	38
+387	14
+382	20
+442	34
+467	49
+477	42

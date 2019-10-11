@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q0025746
+datum=26.3.1992
+kurzken=Q 2574.6/92-F
+bez=Nassener Straße südlich Risaer Straße    ( Berlin 1150 Hellersdorf )
+arm1=Ost,1550,0100
+arm2=West,3350,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=
+data=
+; 1 -> 2
+87 109 
+54 62 
+75 39 
+61 16 
+56 16 
+33 19 
+43 34 
+62 26 
+91 47 
+77 41 
+92 53 
+60 31 
+; 2 -> 1
+20 35 
+39 30 
+61 13 
+36 4 
+38 2 
+19 6 
+45 13 
+36 23 
+48 15 
+52 19 
+76 18 
+44 19 

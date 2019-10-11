@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0921081
+datum=30.08.2018
+kurzken=Q 0921081/18
+bez=Sella-Hasse-Straße (südli. Mehrower Allee)   (Marzahn, 12687)
+arm1=Ludwig-Renn-Straße,1500,0100
+arm2=Mehrower Allee,3300,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw(>3.5t),Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+81	3	0	3	9
+61	1	0	1	5
+63	3	0	0	6
+98	1	0	0	8
+72	2	0	3	5
+85	2	0	0	4
+68	1	0	2	7
+69	0	0	0	7
+107	2	0	2	4
+112	0	0	1	1
+86	0	0	1	4
+65	1	0	0	1
+; 2 -> 1
+116	4	0	0	10
+84	2	0	0	5
+73	6	0	0	8
+130	4	0	0	10
+91	2	0	2	6
+108	2	0	1	7
+89	4	0	0	6
+103	1	0	1	8
+120	1	0	3	2
+156	1	0	1	2
+101	1	0	3	3
+96	1	0	2	6

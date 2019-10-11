@@ -1,0 +1,24 @@
+[ZA1001]
+knoten=Q 07884
+datum=29.05.1984
+kurzken=Q 7884/84
+bez=LEWISHAMSTRASSE  zwischen Tunnel (Zu+Abf.Nord) und Wilmersd.Str. (Berlin 12)
+Arm1=Wilmerdorfer Str.,900,0100
+Arm2=Tunnel (Zu+Abf.Nord),2700,1000
+Arm3=,0,0000
+Arm4=,0,0000
+art=Krad,Pkw,Liefwg,Lkw,Bus,,
+zeit=0700,1900
+intv=60
+bemerk=
+data=
+; 1 -> 2
+17 534 29 21 4 7 490 38 30 5 4 452 21 26 9 
+3 460 34 25 6 1 489 53 19 7 6 452 40 24 9 
+10 459 19 22 7 8 490 28 18 6 20 479 36 25 6 
+15 573 20 6 9 12 594 6 4 12 7 449 4 1 7 
+; 2 -> 1
+14 244 11 17 5 1 324 24 19 5 7 382 27 23 7 
+2 441 42 24 7 5 381 19 13 6 3 509 28 17 9 
+7 492 29 26 9 9 421 42 21 7 18 551 36 11 5 
+16 550 12 10 7 16 559 10 7 7 10 537 11 4 7 

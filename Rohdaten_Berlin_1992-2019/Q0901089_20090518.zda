@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0901089
+datum=18.05.2009
+kurzken=Q 0901089/09
+bez=Hannoversche Straße (Robert-Koch-Platz (Ost))   (Mitte,, 10115)
+arm1=Luisenstraße,950,0100
+arm2=Hessische Straße,2750,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebungen:  - büro für   
+data=
+; 1 -> 2
+137	6	3	9	9
+188	13	3	4	16
+212	11	3	6	27
+162	7	3	5	13
+179	3	3	2	18
+160	6	4	7	12
+176	6	3	6	20
+211	2	3	6	26
+275	6	2	16	31
+267	4	4	4	30
+276	1	2	16	40
+215	0	2	11	45
+; 2 -> 1
+55	2	5	8	8
+97	6	6	2	25
+62	1	5	0	18
+82	4	8	1	8
+86	1	6	2	16
+65	2	7	2	7
+74	1	6	3	20
+62	1	7	2	14
+58	1	5	2	34
+64	0	6	0	16
+59	0	5	1	26
+36	0	6	0	26

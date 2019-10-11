@@ -1,0 +1,41 @@
+[ZA1001]
+knoten=Q 42565
+datum=12.3.1991
+kurzken=Q 4256.5/91-F
+bez=Koepenicker Strasse westlich Bethaniendamm    ( Berlin 36 )
+arm1=Süd,900,0100
+arm2=Nord,2700,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Erw,Jugend,,,,,,
+zeit=0700,1900
+intv=60
+projekt=2
+bemerk=Wetter : bedeckt und feucht !
+data=
+; 1 -> 2
+5 0 
+2 0 
+9 0 
+6 0 
+3 1 
+11 0 
+15 3 
+11 0 
+20 6 
+9 1 
+23 1 
+9 1 
+; 2 -> 1
+10 0 
+4 0 
+15 0 
+19 1 
+16 3 
+14 2 
+15 1 
+18 1 
+16 2 
+9 0 
+23 0 
+19 0 

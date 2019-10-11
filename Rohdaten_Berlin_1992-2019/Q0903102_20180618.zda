@@ -1,0 +1,44 @@
+[ZA1001]
+knoten=Q 0903102
+datum=18.06.2018
+kurzken=Q 0903102/18
+bez=Schulzendorfer Straße (Mittelinsel; östl. Panke)   (Wedding, 13347)
+arm1=Kunkelstraße,1000,0100
+arm2=Neue Hochstraße,2800,1000
+arm3=,0,0000
+arm4=,0,0000
+art=Pkw+Lfw,Lkw,Bus,Krad,Radf
+zeit=0700,1900
+intv=60
+projekt=2
+gltypen=,,,,,,,,,,,,,,,
+24hf=,,,,,,,,
+12hf=,,,,,,,,
+bemerk=Durchführung der Erhebung:   - Projektbüro Berlin
+data=
+; 1 -> 2
+235	5	0	4	3
+360	3	0	12	9
+221	6	0	6	13
+123	4	0	8	6
+220	6	0	7	7
+267	6	0	5	17
+306	3	0	4	13
+388	7	0	11	18
+538	5	0	22	23
+522	6	0	18	26
+474	5	0	26	42
+380	2	0	13	40
+; 2 -> 1
+308	4	0	9	39
+426	6	0	15	73
+279	4	0	12	52
+182	4	0	6	8
+118	2	0	4	9
+156	5	0	1	6
+152	4	0	3	14
+165	5	0	7	9
+230	0	0	10	10
+172	0	0	10	8
+219	2	0	7	12
+158	0	0	3	7
