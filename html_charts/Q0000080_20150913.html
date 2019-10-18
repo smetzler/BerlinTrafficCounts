@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-f28e0c0e7d894e934c407b3c7083e4ac"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "13.09.2015: B109 - Sch\u00f6nerlinder Stra\u00dfe (n\u00f6rdl. Sch\u00f6nerlinder Ch.)   (Buch, 13127)"}, {"data": {"name": "data-2f3e26b9de65aab1a0086f9bb061615e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-f28e0c0e7d894e934c407b3c7083e4ac": [{"dir": "1->2", "hour": 16, "count": 237}, {"dir": "1->2", "hour": 17, "count": 182}, {"dir": "1->2", "hour": 18, "count": 170}, {"dir": "2->1", "hour": 16, "count": 614}, {"dir": "2->1", "hour": 17, "count": 728}, {"dir": "2->1", "hour": 18, "count": 705}], "data-2f3e26b9de65aab1a0086f9bb061615e": [{"dir": "1->2", "hour": 16, "count": 23}, {"dir": "1->2", "hour": 17, "count": 10}, {"dir": "1->2", "hour": 18, "count": 3}, {"dir": "2->1", "hour": 16, "count": 24}, {"dir": "2->1", "hour": 17, "count": 34}, {"dir": "2->1", "hour": 18, "count": 34}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

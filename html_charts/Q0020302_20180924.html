@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-13ab1d10b688104b42352662d47b1993"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.09.2018: Oberbaumbr\u00fccke   (Kreuzberg, 10243)"}, {"data": {"name": "data-9b363da261793fe140aacfdbd9259fbe"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-13ab1d10b688104b42352662d47b1993": [{"dir": "1->2", "hour": 7, "count": 501}, {"dir": "1->2", "hour": 8, "count": 468}, {"dir": "1->2", "hour": 9, "count": 475}, {"dir": "1->2", "hour": 10, "count": 402}, {"dir": "1->2", "hour": 11, "count": 424}, {"dir": "1->2", "hour": 12, "count": 479}, {"dir": "1->2", "hour": 13, "count": 544}, {"dir": "1->2", "hour": 14, "count": 601}, {"dir": "1->2", "hour": 15, "count": 526}, {"dir": "1->2", "hour": 16, "count": 716}, {"dir": "1->2", "hour": 17, "count": 627}, {"dir": "1->2", "hour": 18, "count": 615}, {"dir": "2->1", "hour": 7, "count": 761}, {"dir": "2->1", "hour": 8, "count": 768}, {"dir": "2->1", "hour": 9, "count": 787}, {"dir": "2->1", "hour": 10, "count": 592}, {"dir": "2->1", "hour": 11, "count": 590}, {"dir": "2->1", "hour": 12, "count": 524}, {"dir": "2->1", "hour": 13, "count": 552}, {"dir": "2->1", "hour": 14, "count": 578}, {"dir": "2->1", "hour": 15, "count": 682}, {"dir": "2->1", "hour": 16, "count": 642}, {"dir": "2->1", "hour": 17, "count": 568}, {"dir": "2->1", "hour": 18, "count": 524}], "data-9b363da261793fe140aacfdbd9259fbe": [{"dir": "1->2", "hour": 7, "count": 252}, {"dir": "1->2", "hour": 8, "count": 439}, {"dir": "1->2", "hour": 9, "count": 418}, {"dir": "1->2", "hour": 10, "count": 194}, {"dir": "1->2", "hour": 11, "count": 165}, {"dir": "1->2", "hour": 12, "count": 187}, {"dir": "1->2", "hour": 13, "count": 302}, {"dir": "1->2", "hour": 14, "count": 191}, {"dir": "1->2", "hour": 15, "count": 308}, {"dir": "1->2", "hour": 16, "count": 434}, {"dir": "1->2", "hour": 17, "count": 581}, {"dir": "1->2", "hour": 18, "count": 727}, {"dir": "2->1", "hour": 7, "count": 358}, {"dir": "2->1", "hour": 8, "count": 778}, {"dir": "2->1", "hour": 9, "count": 693}, {"dir": "2->1", "hour": 10, "count": 274}, {"dir": "2->1", "hour": 11, "count": 265}, {"dir": "2->1", "hour": 12, "count": 210}, {"dir": "2->1", "hour": 13, "count": 270}, {"dir": "2->1", "hour": 14, "count": 253}, {"dir": "2->1", "hour": 15, "count": 339}, {"dir": "2->1", "hour": 16, "count": 376}, {"dir": "2->1", "hour": 17, "count": 401}, {"dir": "2->1", "hour": 18, "count": 526}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

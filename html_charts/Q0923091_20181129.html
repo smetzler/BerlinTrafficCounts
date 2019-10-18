@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-deeb41cafef4a2a1cc02242e74486762"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "29.11.2018: K\u00f6penicker Stra\u00dfe / Am Binsengrund (12683 Biesdorf)"}, {"data": {"name": "data-27f21cc4b658ca6c7eba385ab755d9d9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-deeb41cafef4a2a1cc02242e74486762": [{"dir": "1->2", "hour": 7, "count": 843}, {"dir": "1->2", "hour": 8, "count": 841}, {"dir": "1->2", "hour": 9, "count": 817}, {"dir": "1->2", "hour": 10, "count": 832}, {"dir": "1->2", "hour": 11, "count": 847}, {"dir": "1->2", "hour": 12, "count": 725}, {"dir": "1->2", "hour": 13, "count": 721}, {"dir": "1->2", "hour": 14, "count": 790}, {"dir": "1->2", "hour": 15, "count": 1075}, {"dir": "1->2", "hour": 16, "count": 1056}, {"dir": "1->2", "hour": 17, "count": 964}, {"dir": "1->2", "hour": 18, "count": 824}, {"dir": "2->1", "hour": 7, "count": 665}, {"dir": "2->1", "hour": 8, "count": 579}, {"dir": "2->1", "hour": 9, "count": 634}, {"dir": "2->1", "hour": 10, "count": 712}, {"dir": "2->1", "hour": 11, "count": 841}, {"dir": "2->1", "hour": 12, "count": 732}, {"dir": "2->1", "hour": 13, "count": 735}, {"dir": "2->1", "hour": 14, "count": 751}, {"dir": "2->1", "hour": 15, "count": 1032}, {"dir": "2->1", "hour": 16, "count": 1028}, {"dir": "2->1", "hour": 17, "count": 873}, {"dir": "2->1", "hour": 18, "count": 793}], "data-27f21cc4b658ca6c7eba385ab755d9d9": [{"dir": "1->2", "hour": 7, "count": 6}, {"dir": "1->2", "hour": 8, "count": 4}, {"dir": "1->2", "hour": 9, "count": 4}, {"dir": "1->2", "hour": 10, "count": 2}, {"dir": "1->2", "hour": 11, "count": 1}, {"dir": "1->2", "hour": 12, "count": 4}, {"dir": "1->2", "hour": 13, "count": 2}, {"dir": "1->2", "hour": 14, "count": 7}, {"dir": "1->2", "hour": 15, "count": 7}, {"dir": "1->2", "hour": 16, "count": 10}, {"dir": "1->2", "hour": 17, "count": 9}, {"dir": "1->2", "hour": 18, "count": 4}, {"dir": "2->1", "hour": 7, "count": 2}, {"dir": "2->1", "hour": 8, "count": 2}, {"dir": "2->1", "hour": 9, "count": 3}, {"dir": "2->1", "hour": 10, "count": 8}, {"dir": "2->1", "hour": 11, "count": 6}, {"dir": "2->1", "hour": 12, "count": 2}, {"dir": "2->1", "hour": 13, "count": 3}, {"dir": "2->1", "hour": 14, "count": 6}, {"dir": "2->1", "hour": 15, "count": 6}, {"dir": "2->1", "hour": 16, "count": 10}, {"dir": "2->1", "hour": 17, "count": 10}, {"dir": "2->1", "hour": 18, "count": 5}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

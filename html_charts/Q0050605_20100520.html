@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-406cc68e35e2bd506f16fbd20e6ca53b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "20.05.2010: A100-Stadtring (Tunnel nordwestl. Rathenauplatz)  (Wilmersdorf, 10711)"}, {"data": {"name": "data-406cc68e35e2bd506f16fbd20e6ca53b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-406cc68e35e2bd506f16fbd20e6ca53b": [{"dir": "1->2", "hour": 6, "count": 4783}, {"dir": "1->2", "hour": 7, "count": 7410}, {"dir": "1->2", "hour": 8, "count": 8103}, {"dir": "1->2", "hour": 9, "count": 5650}, {"dir": "1->2", "hour": 10, "count": 4905}, {"dir": "1->2", "hour": 11, "count": 4546}, {"dir": "1->2", "hour": 12, "count": 4530}, {"dir": "1->2", "hour": 13, "count": 5417}, {"dir": "1->2", "hour": 14, "count": 5697}, {"dir": "1->2", "hour": 15, "count": 7194}, {"dir": "1->2", "hour": 16, "count": 6809}, {"dir": "1->2", "hour": 17, "count": 7006}, {"dir": "1->2", "hour": 18, "count": 6656}, {"dir": "2->1", "hour": 6, "count": 5726}, {"dir": "2->1", "hour": 7, "count": 6474}, {"dir": "2->1", "hour": 8, "count": 5654}, {"dir": "2->1", "hour": 9, "count": 5067}, {"dir": "2->1", "hour": 10, "count": 4809}, {"dir": "2->1", "hour": 11, "count": 4782}, {"dir": "2->1", "hour": 12, "count": 4974}, {"dir": "2->1", "hour": 13, "count": 5356}, {"dir": "2->1", "hour": 14, "count": 5676}, {"dir": "2->1", "hour": 15, "count": 5584}, {"dir": "2->1", "hour": 16, "count": 5930}, {"dir": "2->1", "hour": 17, "count": 5794}, {"dir": "2->1", "hour": 18, "count": 5994}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

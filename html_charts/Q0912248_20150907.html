@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-5d74db924de62241fa82e1d459deaf9e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "07.09.2015: Weskammstra\u00dfe (n\u00f6rdl. Tennstedter Str.)   (Lichterfelde, 12279)"}, {"data": {"name": "data-6c7ab0c8116d17bec9c47de8e02f8154"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-5d74db924de62241fa82e1d459deaf9e": [{"dir": "1->2", "hour": 7, "count": 301}, {"dir": "1->2", "hour": 8, "count": 231}, {"dir": "1->2", "hour": 9, "count": 181}, {"dir": "1->2", "hour": 10, "count": 220}, {"dir": "1->2", "hour": 11, "count": 201}, {"dir": "1->2", "hour": 12, "count": 175}, {"dir": "1->2", "hour": 13, "count": 237}, {"dir": "1->2", "hour": 14, "count": 197}, {"dir": "1->2", "hour": 15, "count": 211}, {"dir": "1->2", "hour": 16, "count": 268}, {"dir": "1->2", "hour": 17, "count": 231}, {"dir": "1->2", "hour": 18, "count": 206}, {"dir": "2->1", "hour": 7, "count": 215}, {"dir": "2->1", "hour": 8, "count": 220}, {"dir": "2->1", "hour": 9, "count": 172}, {"dir": "2->1", "hour": 10, "count": 186}, {"dir": "2->1", "hour": 11, "count": 219}, {"dir": "2->1", "hour": 12, "count": 196}, {"dir": "2->1", "hour": 13, "count": 237}, {"dir": "2->1", "hour": 14, "count": 248}, {"dir": "2->1", "hour": 15, "count": 354}, {"dir": "2->1", "hour": 16, "count": 346}, {"dir": "2->1", "hour": 17, "count": 281}, {"dir": "2->1", "hour": 18, "count": 235}], "data-6c7ab0c8116d17bec9c47de8e02f8154": [{"dir": "1->2", "hour": 7, "count": 20}, {"dir": "1->2", "hour": 8, "count": 13}, {"dir": "1->2", "hour": 9, "count": 14}, {"dir": "1->2", "hour": 10, "count": 14}, {"dir": "1->2", "hour": 11, "count": 16}, {"dir": "1->2", "hour": 12, "count": 9}, {"dir": "1->2", "hour": 13, "count": 26}, {"dir": "1->2", "hour": 14, "count": 15}, {"dir": "1->2", "hour": 15, "count": 16}, {"dir": "1->2", "hour": 16, "count": 20}, {"dir": "1->2", "hour": 17, "count": 13}, {"dir": "1->2", "hour": 18, "count": 18}, {"dir": "2->1", "hour": 7, "count": 17}, {"dir": "2->1", "hour": 8, "count": 11}, {"dir": "2->1", "hour": 9, "count": 14}, {"dir": "2->1", "hour": 10, "count": 8}, {"dir": "2->1", "hour": 11, "count": 12}, {"dir": "2->1", "hour": 12, "count": 15}, {"dir": "2->1", "hour": 13, "count": 14}, {"dir": "2->1", "hour": 14, "count": 22}, {"dir": "2->1", "hour": 15, "count": 12}, {"dir": "2->1", "hour": 16, "count": 10}, {"dir": "2->1", "hour": 17, "count": 15}, {"dir": "2->1", "hour": 18, "count": 10}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

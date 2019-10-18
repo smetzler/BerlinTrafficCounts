@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-b0fc242d3a19c085c3f5f8d5141f4e94"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "12.03.2019: K\u00f6nigsberger Stra\u00dfe (Emil-Schulz-Br\u00fccke) (Steglitz, 12207)"}, {"data": {"name": "data-fade3e7ab657f312194db57f7632cbb8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-b0fc242d3a19c085c3f5f8d5141f4e94": [{"dir": "1->2", "hour": 7, "count": 744}, {"dir": "1->2", "hour": 8, "count": 896}, {"dir": "1->2", "hour": 9, "count": 816}, {"dir": "1->2", "hour": 10, "count": 780}, {"dir": "1->2", "hour": 11, "count": 794}, {"dir": "1->2", "hour": 12, "count": 863}, {"dir": "1->2", "hour": 13, "count": 959}, {"dir": "1->2", "hour": 14, "count": 1121}, {"dir": "1->2", "hour": 15, "count": 1324}, {"dir": "1->2", "hour": 16, "count": 1250}, {"dir": "1->2", "hour": 17, "count": 1228}, {"dir": "1->2", "hour": 18, "count": 1175}, {"dir": "2->1", "hour": 7, "count": 1249}, {"dir": "2->1", "hour": 8, "count": 1378}, {"dir": "2->1", "hour": 9, "count": 1092}, {"dir": "2->1", "hour": 10, "count": 986}, {"dir": "2->1", "hour": 11, "count": 961}, {"dir": "2->1", "hour": 12, "count": 875}, {"dir": "2->1", "hour": 13, "count": 906}, {"dir": "2->1", "hour": 14, "count": 944}, {"dir": "2->1", "hour": 15, "count": 1070}, {"dir": "2->1", "hour": 16, "count": 920}, {"dir": "2->1", "hour": 17, "count": 1010}, {"dir": "2->1", "hour": 18, "count": 861}], "data-fade3e7ab657f312194db57f7632cbb8": [{"dir": "1->2", "hour": 7, "count": 42}, {"dir": "1->2", "hour": 8, "count": 38}, {"dir": "1->2", "hour": 9, "count": 31}, {"dir": "1->2", "hour": 10, "count": 16}, {"dir": "1->2", "hour": 11, "count": 18}, {"dir": "1->2", "hour": 12, "count": 26}, {"dir": "1->2", "hour": 13, "count": 27}, {"dir": "1->2", "hour": 14, "count": 61}, {"dir": "1->2", "hour": 15, "count": 43}, {"dir": "1->2", "hour": 16, "count": 52}, {"dir": "1->2", "hour": 17, "count": 55}, {"dir": "1->2", "hour": 18, "count": 36}, {"dir": "2->1", "hour": 7, "count": 68}, {"dir": "2->1", "hour": 8, "count": 39}, {"dir": "2->1", "hour": 9, "count": 58}, {"dir": "2->1", "hour": 10, "count": 14}, {"dir": "2->1", "hour": 11, "count": 22}, {"dir": "2->1", "hour": 12, "count": 35}, {"dir": "2->1", "hour": 13, "count": 38}, {"dir": "2->1", "hour": 14, "count": 39}, {"dir": "2->1", "hour": 15, "count": 48}, {"dir": "2->1", "hour": 16, "count": 34}, {"dir": "2->1", "hour": 17, "count": 36}, {"dir": "2->1", "hour": 18, "count": 39}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-7c397be38cfbc377b3ba95397ef61326"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "10.07.2019: Lange Br\u00fccke (Spree) (K\u00f6penick,12557)"}, {"data": {"name": "data-8405d25a7438e64979719bb7a0ab259c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-7c397be38cfbc377b3ba95397ef61326": [{"dir": "1->2", "hour": 7, "count": 179}, {"dir": "1->2", "hour": 8, "count": 181}, {"dir": "1->2", "hour": 9, "count": 139}, {"dir": "1->2", "hour": 10, "count": 152}, {"dir": "1->2", "hour": 11, "count": 143}, {"dir": "1->2", "hour": 12, "count": 148}, {"dir": "1->2", "hour": 13, "count": 150}, {"dir": "1->2", "hour": 14, "count": 198}, {"dir": "1->2", "hour": 15, "count": 289}, {"dir": "1->2", "hour": 16, "count": 310}, {"dir": "1->2", "hour": 17, "count": 281}, {"dir": "1->2", "hour": 18, "count": 184}, {"dir": "2->1", "hour": 7, "count": 324}, {"dir": "2->1", "hour": 8, "count": 318}, {"dir": "2->1", "hour": 9, "count": 166}, {"dir": "2->1", "hour": 10, "count": 170}, {"dir": "2->1", "hour": 11, "count": 125}, {"dir": "2->1", "hour": 12, "count": 106}, {"dir": "2->1", "hour": 13, "count": 99}, {"dir": "2->1", "hour": 14, "count": 121}, {"dir": "2->1", "hour": 15, "count": 194}, {"dir": "2->1", "hour": 16, "count": 182}, {"dir": "2->1", "hour": 17, "count": 208}, {"dir": "2->1", "hour": 18, "count": 127}], "data-8405d25a7438e64979719bb7a0ab259c": [{"dir": "1->2", "hour": 7, "count": 112}, {"dir": "1->2", "hour": 8, "count": 85}, {"dir": "1->2", "hour": 9, "count": 105}, {"dir": "1->2", "hour": 10, "count": 178}, {"dir": "1->2", "hour": 11, "count": 93}, {"dir": "1->2", "hour": 12, "count": 103}, {"dir": "1->2", "hour": 13, "count": 119}, {"dir": "1->2", "hour": 14, "count": 63}, {"dir": "1->2", "hour": 15, "count": 111}, {"dir": "1->2", "hour": 16, "count": 84}, {"dir": "1->2", "hour": 17, "count": 130}, {"dir": "1->2", "hour": 18, "count": 77}, {"dir": "2->1", "hour": 7, "count": 193}, {"dir": "2->1", "hour": 8, "count": 167}, {"dir": "2->1", "hour": 9, "count": 131}, {"dir": "2->1", "hour": 10, "count": 128}, {"dir": "2->1", "hour": 11, "count": 109}, {"dir": "2->1", "hour": 12, "count": 92}, {"dir": "2->1", "hour": 13, "count": 117}, {"dir": "2->1", "hour": 14, "count": 87}, {"dir": "2->1", "hour": 15, "count": 144}, {"dir": "2->1", "hour": 16, "count": 132}, {"dir": "2->1", "hour": 17, "count": 132}, {"dir": "2->1", "hour": 18, "count": 134}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

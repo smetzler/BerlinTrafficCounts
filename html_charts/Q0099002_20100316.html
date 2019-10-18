@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-a41bf822e22a67184980b3aa37cf495b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "16.03.2010: Dorfstra\u00dfe  (B2)    (in H\u00f6he Stadtgrenze)   (Wei\u00dfensee, 13125)"}, {"data": {"name": "data-2acaa45277355b123ef78df04b1b948f"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-a41bf822e22a67184980b3aa37cf495b": [{"dir": "1->2", "hour": 6, "count": 426}, {"dir": "1->2", "hour": 7, "count": 452}, {"dir": "1->2", "hour": 8, "count": 503}, {"dir": "1->2", "hour": 9, "count": 512}, {"dir": "1->2", "hour": 10, "count": 479}, {"dir": "1->2", "hour": 11, "count": 410}, {"dir": "1->2", "hour": 12, "count": 451}, {"dir": "1->2", "hour": 13, "count": 513}, {"dir": "1->2", "hour": 14, "count": 620}, {"dir": "1->2", "hour": 15, "count": 746}, {"dir": "1->2", "hour": 16, "count": 779}, {"dir": "1->2", "hour": 17, "count": 712}, {"dir": "1->2", "hour": 18, "count": 580}, {"dir": "2->1", "hour": 6, "count": 853}, {"dir": "2->1", "hour": 7, "count": 647}, {"dir": "2->1", "hour": 8, "count": 618}, {"dir": "2->1", "hour": 9, "count": 542}, {"dir": "2->1", "hour": 10, "count": 472}, {"dir": "2->1", "hour": 11, "count": 467}, {"dir": "2->1", "hour": 12, "count": 445}, {"dir": "2->1", "hour": 13, "count": 409}, {"dir": "2->1", "hour": 14, "count": 434}, {"dir": "2->1", "hour": 15, "count": 484}, {"dir": "2->1", "hour": 16, "count": 541}, {"dir": "2->1", "hour": 17, "count": 460}, {"dir": "2->1", "hour": 18, "count": 404}], "data-2acaa45277355b123ef78df04b1b948f": [{"dir": "1->2", "hour": 6, "count": 3}, {"dir": "1->2", "hour": 7, "count": 5}, {"dir": "1->2", "hour": 8, "count": 4}, {"dir": "1->2", "hour": 9, "count": 39}, {"dir": "1->2", "hour": 10, "count": 12}, {"dir": "1->2", "hour": 11, "count": 2}, {"dir": "1->2", "hour": 12, "count": 4}, {"dir": "1->2", "hour": 13, "count": 1}, {"dir": "1->2", "hour": 14, "count": 14}, {"dir": "1->2", "hour": 15, "count": 17}, {"dir": "1->2", "hour": 16, "count": 7}, {"dir": "1->2", "hour": 17, "count": 3}, {"dir": "1->2", "hour": 18, "count": 1}, {"dir": "2->1", "hour": 6, "count": 0}, {"dir": "2->1", "hour": 7, "count": 2}, {"dir": "2->1", "hour": 8, "count": 1}, {"dir": "2->1", "hour": 9, "count": 4}, {"dir": "2->1", "hour": 10, "count": 1}, {"dir": "2->1", "hour": 11, "count": 6}, {"dir": "2->1", "hour": 12, "count": 12}, {"dir": "2->1", "hour": 13, "count": 14}, {"dir": "2->1", "hour": 14, "count": 2}, {"dir": "2->1", "hour": 15, "count": 12}, {"dir": "2->1", "hour": 16, "count": 21}, {"dir": "2->1", "hour": 17, "count": 8}, {"dir": "2->1", "hour": 18, "count": 2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

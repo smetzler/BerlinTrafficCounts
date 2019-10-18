@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-efbdc690a46e4450e09b804eb3059ca7"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "07.11.2011: Bohnsdorfer Chaussee (s\u00fcdl. Gr\u00fcnbergallee-Kirschweg)   (Altglienicke,12524)"}, {"data": {"name": "data-7feb18e2ee3c5c9e738f6dcec88a162c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-efbdc690a46e4450e09b804eb3059ca7": [{"dir": "1->2", "hour": 7, "count": 89}, {"dir": "1->2", "hour": 8, "count": 66}, {"dir": "1->2", "hour": 9, "count": 76}, {"dir": "1->2", "hour": 10, "count": 77}, {"dir": "1->2", "hour": 11, "count": 60}, {"dir": "1->2", "hour": 12, "count": 67}, {"dir": "1->2", "hour": 13, "count": 71}, {"dir": "1->2", "hour": 14, "count": 75}, {"dir": "1->2", "hour": 15, "count": 121}, {"dir": "1->2", "hour": 16, "count": 154}, {"dir": "1->2", "hour": 17, "count": 147}, {"dir": "1->2", "hour": 18, "count": 114}, {"dir": "2->1", "hour": 7, "count": 108}, {"dir": "2->1", "hour": 8, "count": 96}, {"dir": "2->1", "hour": 9, "count": 120}, {"dir": "2->1", "hour": 10, "count": 90}, {"dir": "2->1", "hour": 11, "count": 75}, {"dir": "2->1", "hour": 12, "count": 84}, {"dir": "2->1", "hour": 13, "count": 72}, {"dir": "2->1", "hour": 14, "count": 95}, {"dir": "2->1", "hour": 15, "count": 100}, {"dir": "2->1", "hour": 16, "count": 122}, {"dir": "2->1", "hour": 17, "count": 124}, {"dir": "2->1", "hour": 18, "count": 97}], "data-7feb18e2ee3c5c9e738f6dcec88a162c": [{"dir": "1->2", "hour": 7, "count": 6}, {"dir": "1->2", "hour": 8, "count": 11}, {"dir": "1->2", "hour": 9, "count": 3}, {"dir": "1->2", "hour": 10, "count": 4}, {"dir": "1->2", "hour": 11, "count": 1}, {"dir": "1->2", "hour": 12, "count": 6}, {"dir": "1->2", "hour": 13, "count": 7}, {"dir": "1->2", "hour": 14, "count": 2}, {"dir": "1->2", "hour": 15, "count": 4}, {"dir": "1->2", "hour": 16, "count": 2}, {"dir": "1->2", "hour": 17, "count": 8}, {"dir": "1->2", "hour": 18, "count": 3}, {"dir": "2->1", "hour": 7, "count": 6}, {"dir": "2->1", "hour": 8, "count": 5}, {"dir": "2->1", "hour": 9, "count": 4}, {"dir": "2->1", "hour": 10, "count": 5}, {"dir": "2->1", "hour": 11, "count": 4}, {"dir": "2->1", "hour": 12, "count": 4}, {"dir": "2->1", "hour": 13, "count": 3}, {"dir": "2->1", "hour": 14, "count": 3}, {"dir": "2->1", "hour": 15, "count": 6}, {"dir": "2->1", "hour": 16, "count": 4}, {"dir": "2->1", "hour": 17, "count": 7}, {"dir": "2->1", "hour": 18, "count": 2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

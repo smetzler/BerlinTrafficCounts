@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-dd422918092b96d93ceb23f7315d78a9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "28.07.2015: B5 - Heerstra\u00dfe (westl. B\u00f6rnicker Stra\u00dfe)   (Spandau, 13595)"}, {"data": {"name": "data-b5911a623202d872ea6e8222ce39bb6f"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-dd422918092b96d93ceb23f7315d78a9": [{"dir": "1->2", "hour": 15, "count": 1104}, {"dir": "1->2", "hour": 16, "count": 1288}, {"dir": "1->2", "hour": 17, "count": 1299}, {"dir": "2->1", "hour": 15, "count": 1209}, {"dir": "2->1", "hour": 16, "count": 1377}, {"dir": "2->1", "hour": 17, "count": 1414}], "data-b5911a623202d872ea6e8222ce39bb6f": [{"dir": "1->2", "hour": 15, "count": 15}, {"dir": "1->2", "hour": 16, "count": 18}, {"dir": "1->2", "hour": 17, "count": 22}, {"dir": "2->1", "hour": 15, "count": 26}, {"dir": "2->1", "hour": 16, "count": 38}, {"dir": "2->1", "hour": 17, "count": 23}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

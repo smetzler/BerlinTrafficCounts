@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-8c2247344a25cd9ffccbea65715625bc"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "04.03.2014: Sch\u00f6neberger Ufer (westl. K\u00f6thener Br\u00fccke)   (Kreuzberg, 10785)"}, {"data": {"name": "data-90b258524eeeff78f7875b6ba10474c3"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-8c2247344a25cd9ffccbea65715625bc": [{"dir": "1->2", "hour": 7, "count": 1203}, {"dir": "1->2", "hour": 8, "count": 1138}, {"dir": "1->2", "hour": 9, "count": 1289}, {"dir": "1->2", "hour": 10, "count": 830}, {"dir": "1->2", "hour": 11, "count": 1002}, {"dir": "1->2", "hour": 12, "count": 1060}, {"dir": "1->2", "hour": 13, "count": 1362}, {"dir": "1->2", "hour": 14, "count": 1616}, {"dir": "1->2", "hour": 15, "count": 1670}, {"dir": "1->2", "hour": 16, "count": 1712}, {"dir": "1->2", "hour": 17, "count": 1579}, {"dir": "1->2", "hour": 18, "count": 1755}], "data-90b258524eeeff78f7875b6ba10474c3": [{"dir": "1->2", "hour": 7, "count": 35}, {"dir": "1->2", "hour": 8, "count": 96}, {"dir": "1->2", "hour": 9, "count": 81}, {"dir": "1->2", "hour": 10, "count": 35}, {"dir": "1->2", "hour": 11, "count": 40}, {"dir": "1->2", "hour": 12, "count": 49}, {"dir": "1->2", "hour": 13, "count": 45}, {"dir": "1->2", "hour": 14, "count": 73}, {"dir": "1->2", "hour": 15, "count": 66}, {"dir": "1->2", "hour": 16, "count": 66}, {"dir": "1->2", "hour": 17, "count": 91}, {"dir": "1->2", "hour": 18, "count": 119}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

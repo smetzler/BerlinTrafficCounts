@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-9889a79302b8055f2a4eb3b245be4fd9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.10.2011: Prinzenstra\u00dfe (s\u00fcdl. Moritzplatz)   (Kreuzberg, 10969)"}, {"data": {"name": "data-2d3b4058191e4c5d5afe2c5a4b7c8940"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-9889a79302b8055f2a4eb3b245be4fd9": [{"dir": "1->2", "hour": 7, "count": 467}, {"dir": "1->2", "hour": 8, "count": 512}, {"dir": "1->2", "hour": 9, "count": 518}, {"dir": "1->2", "hour": 10, "count": 516}, {"dir": "1->2", "hour": 11, "count": 536}, {"dir": "1->2", "hour": 12, "count": 468}, {"dir": "1->2", "hour": 13, "count": 504}, {"dir": "1->2", "hour": 14, "count": 533}, {"dir": "1->2", "hour": 15, "count": 597}, {"dir": "1->2", "hour": 16, "count": 636}, {"dir": "1->2", "hour": 17, "count": 587}, {"dir": "1->2", "hour": 18, "count": 543}, {"dir": "2->1", "hour": 7, "count": 535}, {"dir": "2->1", "hour": 8, "count": 455}, {"dir": "2->1", "hour": 9, "count": 569}, {"dir": "2->1", "hour": 10, "count": 496}, {"dir": "2->1", "hour": 11, "count": 485}, {"dir": "2->1", "hour": 12, "count": 540}, {"dir": "2->1", "hour": 13, "count": 430}, {"dir": "2->1", "hour": 14, "count": 488}, {"dir": "2->1", "hour": 15, "count": 526}, {"dir": "2->1", "hour": 16, "count": 544}, {"dir": "2->1", "hour": 17, "count": 563}, {"dir": "2->1", "hour": 18, "count": 511}], "data-2d3b4058191e4c5d5afe2c5a4b7c8940": [{"dir": "1->2", "hour": 7, "count": 76}, {"dir": "1->2", "hour": 8, "count": 191}, {"dir": "1->2", "hour": 9, "count": 189}, {"dir": "1->2", "hour": 10, "count": 78}, {"dir": "1->2", "hour": 11, "count": 75}, {"dir": "1->2", "hour": 12, "count": 82}, {"dir": "1->2", "hour": 13, "count": 71}, {"dir": "1->2", "hour": 14, "count": 92}, {"dir": "1->2", "hour": 15, "count": 95}, {"dir": "1->2", "hour": 16, "count": 116}, {"dir": "1->2", "hour": 17, "count": 96}, {"dir": "1->2", "hour": 18, "count": 85}, {"dir": "2->1", "hour": 7, "count": 68}, {"dir": "2->1", "hour": 8, "count": 104}, {"dir": "2->1", "hour": 9, "count": 95}, {"dir": "2->1", "hour": 10, "count": 56}, {"dir": "2->1", "hour": 11, "count": 70}, {"dir": "2->1", "hour": 12, "count": 60}, {"dir": "2->1", "hour": 13, "count": 85}, {"dir": "2->1", "hour": 14, "count": 73}, {"dir": "2->1", "hour": 15, "count": 101}, {"dir": "2->1", "hour": 16, "count": 112}, {"dir": "2->1", "hour": 17, "count": 152}, {"dir": "2->1", "hour": 18, "count": 156}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

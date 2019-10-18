@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-fb9c15b360df09a16fcdeba70c698128"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "07.10.2014: T\u00f6pchiner Weg (n\u00f6rdl. Baldersheimer Weg)   (Buckow, 12349)"}, {"data": {"name": "data-b58ea7f9105231b4cac5826c90ce7b5e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-fb9c15b360df09a16fcdeba70c698128": [{"dir": "1->2", "hour": 0, "count": 14}, {"dir": "1->2", "hour": 1, "count": 6}, {"dir": "1->2", "hour": 2, "count": 6}, {"dir": "1->2", "hour": 3, "count": 2}, {"dir": "1->2", "hour": 4, "count": 21}, {"dir": "1->2", "hour": 5, "count": 103}, {"dir": "1->2", "hour": 6, "count": 153}, {"dir": "1->2", "hour": 7, "count": 314}, {"dir": "1->2", "hour": 8, "count": 280}, {"dir": "1->2", "hour": 9, "count": 208}, {"dir": "1->2", "hour": 10, "count": 210}, {"dir": "1->2", "hour": 11, "count": 195}, {"dir": "1->2", "hour": 12, "count": 206}, {"dir": "1->2", "hour": 13, "count": 224}, {"dir": "1->2", "hour": 14, "count": 288}, {"dir": "1->2", "hour": 15, "count": 304}, {"dir": "1->2", "hour": 16, "count": 324}, {"dir": "1->2", "hour": 17, "count": 308}, {"dir": "1->2", "hour": 18, "count": 272}, {"dir": "1->2", "hour": 19, "count": 160}, {"dir": "1->2", "hour": 20, "count": 101}, {"dir": "1->2", "hour": 21, "count": 68}, {"dir": "1->2", "hour": 22, "count": 50}, {"dir": "1->2", "hour": 23, "count": 27}, {"dir": "2->1", "hour": 0, "count": 18}, {"dir": "2->1", "hour": 1, "count": 7}, {"dir": "2->1", "hour": 2, "count": 5}, {"dir": "2->1", "hour": 3, "count": 4}, {"dir": "2->1", "hour": 4, "count": 13}, {"dir": "2->1", "hour": 5, "count": 52}, {"dir": "2->1", "hour": 6, "count": 91}, {"dir": "2->1", "hour": 7, "count": 224}, {"dir": "2->1", "hour": 8, "count": 207}, {"dir": "2->1", "hour": 9, "count": 158}, {"dir": "2->1", "hour": 10, "count": 152}, {"dir": "2->1", "hour": 11, "count": 180}, {"dir": "2->1", "hour": 12, "count": 200}, {"dir": "2->1", "hour": 13, "count": 194}, {"dir": "2->1", "hour": 14, "count": 274}, {"dir": "2->1", "hour": 15, "count": 264}, {"dir": "2->1", "hour": 16, "count": 278}, {"dir": "2->1", "hour": 17, "count": 271}, {"dir": "2->1", "hour": 18, "count": 279}, {"dir": "2->1", "hour": 19, "count": 200}, {"dir": "2->1", "hour": 20, "count": 125}, {"dir": "2->1", "hour": 21, "count": 108}, {"dir": "2->1", "hour": 22, "count": 66}, {"dir": "2->1", "hour": 23, "count": 31}], "data-b58ea7f9105231b4cac5826c90ce7b5e": [{"dir": "1->2", "hour": 0, "count": 1}, {"dir": "1->2", "hour": 1, "count": 0}, {"dir": "1->2", "hour": 2, "count": 0}, {"dir": "1->2", "hour": 3, "count": 0}, {"dir": "1->2", "hour": 4, "count": 2}, {"dir": "1->2", "hour": 5, "count": 11}, {"dir": "1->2", "hour": 6, "count": 15}, {"dir": "1->2", "hour": 7, "count": 33}, {"dir": "1->2", "hour": 8, "count": 19}, {"dir": "1->2", "hour": 9, "count": 6}, {"dir": "1->2", "hour": 10, "count": 8}, {"dir": "1->2", "hour": 11, "count": 11}, {"dir": "1->2", "hour": 12, "count": 10}, {"dir": "1->2", "hour": 13, "count": 12}, {"dir": "1->2", "hour": 14, "count": 15}, {"dir": "1->2", "hour": 15, "count": 16}, {"dir": "1->2", "hour": 16, "count": 16}, {"dir": "1->2", "hour": 17, "count": 8}, {"dir": "1->2", "hour": 18, "count": 17}, {"dir": "1->2", "hour": 19, "count": 3}, {"dir": "1->2", "hour": 20, "count": 1}, {"dir": "1->2", "hour": 21, "count": 6}, {"dir": "1->2", "hour": 22, "count": 1}, {"dir": "1->2", "hour": 23, "count": 0}, {"dir": "2->1", "hour": 0, "count": 0}, {"dir": "2->1", "hour": 1, "count": 0}, {"dir": "2->1", "hour": 2, "count": 0}, {"dir": "2->1", "hour": 3, "count": 0}, {"dir": "2->1", "hour": 4, "count": 1}, {"dir": "2->1", "hour": 5, "count": 4}, {"dir": "2->1", "hour": 6, "count": 7}, {"dir": "2->1", "hour": 7, "count": 17}, {"dir": "2->1", "hour": 8, "count": 14}, {"dir": "2->1", "hour": 9, "count": 7}, {"dir": "2->1", "hour": 10, "count": 8}, {"dir": "2->1", "hour": 11, "count": 18}, {"dir": "2->1", "hour": 12, "count": 4}, {"dir": "2->1", "hour": 13, "count": 12}, {"dir": "2->1", "hour": 14, "count": 22}, {"dir": "2->1", "hour": 15, "count": 20}, {"dir": "2->1", "hour": 16, "count": 26}, {"dir": "2->1", "hour": 17, "count": 10}, {"dir": "2->1", "hour": 18, "count": 8}, {"dir": "2->1", "hour": 19, "count": 8}, {"dir": "2->1", "hour": 20, "count": 1}, {"dir": "2->1", "hour": 21, "count": 0}, {"dir": "2->1", "hour": 22, "count": 2}, {"dir": "2->1", "hour": 23, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

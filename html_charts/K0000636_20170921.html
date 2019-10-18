@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-2c647125eaa7fda3f5c83658b71f049a"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "21.09.2017: Ernst-Reuter-Platz / Hardenbergstra\u00dfe   (Charlottenburg, 10587)"}, {"data": {"name": "data-409d02d08c6f82a4223960852017785a"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-2c647125eaa7fda3f5c83658b71f049a": [{"dir": "1->3", "hour": 7, "count": 880}, {"dir": "1->3", "hour": 8, "count": 1136}, {"dir": "1->3", "hour": 9, "count": 968}, {"dir": "1->3", "hour": 10, "count": 733}, {"dir": "1->3", "hour": 11, "count": 716}, {"dir": "1->3", "hour": 12, "count": 818}, {"dir": "1->3", "hour": 13, "count": 879}, {"dir": "1->3", "hour": 14, "count": 954}, {"dir": "1->3", "hour": 15, "count": 1093}, {"dir": "1->3", "hour": 16, "count": 1244}, {"dir": "1->3", "hour": 17, "count": 1125}, {"dir": "1->3", "hour": 18, "count": 865}, {"dir": "1->4", "hour": 7, "count": 1402}, {"dir": "1->4", "hour": 8, "count": 1720}, {"dir": "1->4", "hour": 9, "count": 1357}, {"dir": "1->4", "hour": 10, "count": 1173}, {"dir": "1->4", "hour": 11, "count": 1186}, {"dir": "1->4", "hour": 12, "count": 1352}, {"dir": "1->4", "hour": 13, "count": 1376}, {"dir": "1->4", "hour": 14, "count": 1568}, {"dir": "1->4", "hour": 15, "count": 1814}, {"dir": "1->4", "hour": 16, "count": 1799}, {"dir": "1->4", "hour": 17, "count": 1770}, {"dir": "1->4", "hour": 18, "count": 1498}, {"dir": "3->4", "hour": 7, "count": 733}, {"dir": "3->4", "hour": 8, "count": 893}, {"dir": "3->4", "hour": 9, "count": 807}, {"dir": "3->4", "hour": 10, "count": 714}, {"dir": "3->4", "hour": 11, "count": 750}, {"dir": "3->4", "hour": 12, "count": 789}, {"dir": "3->4", "hour": 13, "count": 832}, {"dir": "3->4", "hour": 14, "count": 943}, {"dir": "3->4", "hour": 15, "count": 1188}, {"dir": "3->4", "hour": 16, "count": 1254}, {"dir": "3->4", "hour": 17, "count": 1161}, {"dir": "3->4", "hour": 18, "count": 908}], "data-409d02d08c6f82a4223960852017785a": [{"dir": "1->3", "hour": 7, "count": 81}, {"dir": "1->3", "hour": 8, "count": 80}, {"dir": "1->3", "hour": 9, "count": 61}, {"dir": "1->3", "hour": 10, "count": 37}, {"dir": "1->3", "hour": 11, "count": 30}, {"dir": "1->3", "hour": 12, "count": 80}, {"dir": "1->3", "hour": 13, "count": 71}, {"dir": "1->3", "hour": 14, "count": 76}, {"dir": "1->3", "hour": 15, "count": 94}, {"dir": "1->3", "hour": 16, "count": 128}, {"dir": "1->3", "hour": 17, "count": 122}, {"dir": "1->3", "hour": 18, "count": 94}, {"dir": "1->4", "hour": 7, "count": 242}, {"dir": "1->4", "hour": 8, "count": 476}, {"dir": "1->4", "hour": 9, "count": 332}, {"dir": "1->4", "hour": 10, "count": 194}, {"dir": "1->4", "hour": 11, "count": 180}, {"dir": "1->4", "hour": 12, "count": 127}, {"dir": "1->4", "hour": 13, "count": 161}, {"dir": "1->4", "hour": 14, "count": 173}, {"dir": "1->4", "hour": 15, "count": 178}, {"dir": "1->4", "hour": 16, "count": 187}, {"dir": "1->4", "hour": 17, "count": 260}, {"dir": "1->4", "hour": 18, "count": 225}, {"dir": "3->4", "hour": 7, "count": 43}, {"dir": "3->4", "hour": 8, "count": 73}, {"dir": "3->4", "hour": 9, "count": 76}, {"dir": "3->4", "hour": 10, "count": 75}, {"dir": "3->4", "hour": 11, "count": 50}, {"dir": "3->4", "hour": 12, "count": 48}, {"dir": "3->4", "hour": 13, "count": 89}, {"dir": "3->4", "hour": 14, "count": 74}, {"dir": "3->4", "hour": 15, "count": 73}, {"dir": "3->4", "hour": 16, "count": 79}, {"dir": "3->4", "hour": 17, "count": 102}, {"dir": "3->4", "hour": 18, "count": 77}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

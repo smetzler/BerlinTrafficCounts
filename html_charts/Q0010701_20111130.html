@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-8b80dc26dc7dcb8b0d36bdf7b00ab1ee"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "30.11.2011: F\u00f6hrer Stra\u00dfe (F\u00f6hrer Br\u00fccke)   (Wedding, 13351)"}, {"data": {"name": "data-5b94c23b1bf0bb780048a104868b96f5"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-8b80dc26dc7dcb8b0d36bdf7b00ab1ee": [{"dir": "1->2", "hour": 7, "count": 2138}, {"dir": "1->2", "hour": 8, "count": 2228}, {"dir": "1->2", "hour": 9, "count": 2272}, {"dir": "1->2", "hour": 10, "count": 1586}, {"dir": "1->2", "hour": 11, "count": 970}, {"dir": "1->2", "hour": 12, "count": 838}, {"dir": "1->2", "hour": 13, "count": 1011}, {"dir": "1->2", "hour": 14, "count": 989}, {"dir": "1->2", "hour": 15, "count": 1102}, {"dir": "1->2", "hour": 16, "count": 1146}, {"dir": "1->2", "hour": 17, "count": 965}, {"dir": "1->2", "hour": 18, "count": 822}, {"dir": "2->1", "hour": 7, "count": 976}, {"dir": "2->1", "hour": 8, "count": 1356}, {"dir": "2->1", "hour": 9, "count": 1027}, {"dir": "2->1", "hour": 10, "count": 1000}, {"dir": "2->1", "hour": 11, "count": 1128}, {"dir": "2->1", "hour": 12, "count": 969}, {"dir": "2->1", "hour": 13, "count": 1098}, {"dir": "2->1", "hour": 14, "count": 1385}, {"dir": "2->1", "hour": 15, "count": 1677}, {"dir": "2->1", "hour": 16, "count": 1614}, {"dir": "2->1", "hour": 17, "count": 1530}, {"dir": "2->1", "hour": 18, "count": 1319}], "data-5b94c23b1bf0bb780048a104868b96f5": [{"dir": "1->2", "hour": 7, "count": 85}, {"dir": "1->2", "hour": 8, "count": 89}, {"dir": "1->2", "hour": 9, "count": 77}, {"dir": "1->2", "hour": 10, "count": 46}, {"dir": "1->2", "hour": 11, "count": 76}, {"dir": "1->2", "hour": 12, "count": 69}, {"dir": "1->2", "hour": 13, "count": 66}, {"dir": "1->2", "hour": 14, "count": 82}, {"dir": "1->2", "hour": 15, "count": 107}, {"dir": "1->2", "hour": 16, "count": 126}, {"dir": "1->2", "hour": 17, "count": 81}, {"dir": "1->2", "hour": 18, "count": 66}, {"dir": "2->1", "hour": 7, "count": 96}, {"dir": "2->1", "hour": 8, "count": 118}, {"dir": "2->1", "hour": 9, "count": 74}, {"dir": "2->1", "hour": 10, "count": 54}, {"dir": "2->1", "hour": 11, "count": 51}, {"dir": "2->1", "hour": 12, "count": 64}, {"dir": "2->1", "hour": 13, "count": 57}, {"dir": "2->1", "hour": 14, "count": 90}, {"dir": "2->1", "hour": 15, "count": 94}, {"dir": "2->1", "hour": 16, "count": 88}, {"dir": "2->1", "hour": 17, "count": 90}, {"dir": "2->1", "hour": 18, "count": 77}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

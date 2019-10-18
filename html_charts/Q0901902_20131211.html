@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-6b0392ac2fcf13ed8bb18fe3c93d911a"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "11.12.2013: Spandauer Stra\u00dfe (n\u00f6rdl. Karl-Liebknecht-Stra\u00dfe)   (Mitte, 10178)"}, {"data": {"name": "data-046d31c33247133138d605c3e4a18b00"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-6b0392ac2fcf13ed8bb18fe3c93d911a": [{"dir": "1->2", "hour": 7, "count": 71}, {"dir": "1->2", "hour": 8, "count": 188}, {"dir": "1->2", "hour": 9, "count": 169}, {"dir": "1->2", "hour": 10, "count": 68}, {"dir": "1->2", "hour": 11, "count": 66}, {"dir": "1->2", "hour": 12, "count": 53}, {"dir": "1->2", "hour": 13, "count": 73}, {"dir": "1->2", "hour": 14, "count": 104}, {"dir": "1->2", "hour": 15, "count": 137}, {"dir": "1->2", "hour": 16, "count": 114}, {"dir": "1->2", "hour": 17, "count": 104}, {"dir": "1->2", "hour": 18, "count": 141}, {"dir": "2->1", "hour": 7, "count": 45}, {"dir": "2->1", "hour": 8, "count": 141}, {"dir": "2->1", "hour": 9, "count": 206}, {"dir": "2->1", "hour": 10, "count": 76}, {"dir": "2->1", "hour": 11, "count": 55}, {"dir": "2->1", "hour": 12, "count": 71}, {"dir": "2->1", "hour": 13, "count": 102}, {"dir": "2->1", "hour": 14, "count": 95}, {"dir": "2->1", "hour": 15, "count": 138}, {"dir": "2->1", "hour": 16, "count": 98}, {"dir": "2->1", "hour": 17, "count": 109}, {"dir": "2->1", "hour": 18, "count": 154}], "data-046d31c33247133138d605c3e4a18b00": [{"dir": "1->2", "hour": 7, "count": 61}, {"dir": "1->2", "hour": 8, "count": 147}, {"dir": "1->2", "hour": 9, "count": 119}, {"dir": "1->2", "hour": 10, "count": 76}, {"dir": "1->2", "hour": 11, "count": 63}, {"dir": "1->2", "hour": 12, "count": 52}, {"dir": "1->2", "hour": 13, "count": 63}, {"dir": "1->2", "hour": 14, "count": 60}, {"dir": "1->2", "hour": 15, "count": 90}, {"dir": "1->2", "hour": 16, "count": 78}, {"dir": "1->2", "hour": 17, "count": 106}, {"dir": "1->2", "hour": 18, "count": 122}, {"dir": "2->1", "hour": 7, "count": 42}, {"dir": "2->1", "hour": 8, "count": 102}, {"dir": "2->1", "hour": 9, "count": 120}, {"dir": "2->1", "hour": 10, "count": 70}, {"dir": "2->1", "hour": 11, "count": 67}, {"dir": "2->1", "hour": 12, "count": 38}, {"dir": "2->1", "hour": 13, "count": 59}, {"dir": "2->1", "hour": 14, "count": 89}, {"dir": "2->1", "hour": 15, "count": 99}, {"dir": "2->1", "hour": 16, "count": 108}, {"dir": "2->1", "hour": 17, "count": 109}, {"dir": "2->1", "hour": 18, "count": 102}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

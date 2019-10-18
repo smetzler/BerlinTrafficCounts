@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-747bc9b324e252b3f45d5d0d08a4cfdf"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.06.2003: A115-AVUS (H\u00f6he Br\u00fccke Am Beelitzhof-Borussenstr.)  (Zehlendorf, 14129)"}, {"data": {"name": "data-747bc9b324e252b3f45d5d0d08a4cfdf"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-747bc9b324e252b3f45d5d0d08a4cfdf": [{"dir": "1->2", "hour": 0, "count": 239}, {"dir": "1->2", "hour": 1, "count": 143}, {"dir": "1->2", "hour": 2, "count": 110}, {"dir": "1->2", "hour": 3, "count": 141}, {"dir": "1->2", "hour": 4, "count": 226}, {"dir": "1->2", "hour": 5, "count": 586}, {"dir": "1->2", "hour": 6, "count": 1555}, {"dir": "1->2", "hour": 7, "count": 1992}, {"dir": "1->2", "hour": 8, "count": 2348}, {"dir": "1->2", "hour": 9, "count": 2100}, {"dir": "1->2", "hour": 10, "count": 1954}, {"dir": "1->2", "hour": 11, "count": 1834}, {"dir": "1->2", "hour": 12, "count": 1832}, {"dir": "1->2", "hour": 13, "count": 1997}, {"dir": "1->2", "hour": 14, "count": 2257}, {"dir": "1->2", "hour": 15, "count": 2617}, {"dir": "1->2", "hour": 16, "count": 3144}, {"dir": "1->2", "hour": 17, "count": 2684}, {"dir": "1->2", "hour": 18, "count": 2403}, {"dir": "1->2", "hour": 19, "count": 1765}, {"dir": "1->2", "hour": 20, "count": 1295}, {"dir": "1->2", "hour": 21, "count": 921}, {"dir": "1->2", "hour": 22, "count": 814}, {"dir": "1->2", "hour": 23, "count": 633}, {"dir": "2->1", "hour": 0, "count": 307}, {"dir": "2->1", "hour": 1, "count": 196}, {"dir": "2->1", "hour": 2, "count": 132}, {"dir": "2->1", "hour": 3, "count": 124}, {"dir": "2->1", "hour": 4, "count": 298}, {"dir": "2->1", "hour": 5, "count": 1070}, {"dir": "2->1", "hour": 6, "count": 2443}, {"dir": "2->1", "hour": 7, "count": 3063}, {"dir": "2->1", "hour": 8, "count": 2854}, {"dir": "2->1", "hour": 9, "count": 2315}, {"dir": "2->1", "hour": 10, "count": 1723}, {"dir": "2->1", "hour": 11, "count": 1700}, {"dir": "2->1", "hour": 12, "count": 1604}, {"dir": "2->1", "hour": 13, "count": 1782}, {"dir": "2->1", "hour": 14, "count": 1887}, {"dir": "2->1", "hour": 15, "count": 2086}, {"dir": "2->1", "hour": 16, "count": 2330}, {"dir": "2->1", "hour": 17, "count": 2249}, {"dir": "2->1", "hour": 18, "count": 2292}, {"dir": "2->1", "hour": 19, "count": 1805}, {"dir": "2->1", "hour": 20, "count": 1431}, {"dir": "2->1", "hour": 21, "count": 1117}, {"dir": "2->1", "hour": 22, "count": 907}, {"dir": "2->1", "hour": 23, "count": 520}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

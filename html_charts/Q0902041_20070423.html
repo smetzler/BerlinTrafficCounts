@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-601850446c61a68cc78e5890d63aa61d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "23.04.2007: Potsdamer Str. (s\u00fcdl. L\u00fctzowstr.)   (Tiergarten, 10785)"}, {"data": {"name": "data-94a15beea69c8ab2727aff758a5809d8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-601850446c61a68cc78e5890d63aa61d": [{"dir": "1->2", "hour": 7, "count": 798}, {"dir": "1->2", "hour": 8, "count": 980}, {"dir": "1->2", "hour": 9, "count": 993}, {"dir": "1->2", "hour": 10, "count": 858}, {"dir": "1->2", "hour": 11, "count": 860}, {"dir": "1->2", "hour": 12, "count": 814}, {"dir": "1->2", "hour": 13, "count": 812}, {"dir": "1->2", "hour": 14, "count": 818}, {"dir": "1->2", "hour": 15, "count": 923}, {"dir": "1->2", "hour": 16, "count": 905}, {"dir": "1->2", "hour": 17, "count": 936}, {"dir": "1->2", "hour": 18, "count": 927}, {"dir": "2->1", "hour": 7, "count": 733}, {"dir": "2->1", "hour": 8, "count": 684}, {"dir": "2->1", "hour": 9, "count": 880}, {"dir": "2->1", "hour": 10, "count": 827}, {"dir": "2->1", "hour": 11, "count": 826}, {"dir": "2->1", "hour": 12, "count": 819}, {"dir": "2->1", "hour": 13, "count": 804}, {"dir": "2->1", "hour": 14, "count": 749}, {"dir": "2->1", "hour": 15, "count": 797}, {"dir": "2->1", "hour": 16, "count": 869}, {"dir": "2->1", "hour": 17, "count": 835}, {"dir": "2->1", "hour": 18, "count": 862}], "data-94a15beea69c8ab2727aff758a5809d8": [{"dir": "1->2", "hour": 7, "count": 85}, {"dir": "1->2", "hour": 8, "count": 191}, {"dir": "1->2", "hour": 9, "count": 140}, {"dir": "1->2", "hour": 10, "count": 124}, {"dir": "1->2", "hour": 11, "count": 112}, {"dir": "1->2", "hour": 12, "count": 92}, {"dir": "1->2", "hour": 13, "count": 90}, {"dir": "1->2", "hour": 14, "count": 93}, {"dir": "1->2", "hour": 15, "count": 107}, {"dir": "1->2", "hour": 16, "count": 129}, {"dir": "1->2", "hour": 17, "count": 116}, {"dir": "1->2", "hour": 18, "count": 146}, {"dir": "2->1", "hour": 7, "count": 48}, {"dir": "2->1", "hour": 8, "count": 77}, {"dir": "2->1", "hour": 9, "count": 88}, {"dir": "2->1", "hour": 10, "count": 99}, {"dir": "2->1", "hour": 11, "count": 85}, {"dir": "2->1", "hour": 12, "count": 61}, {"dir": "2->1", "hour": 13, "count": 85}, {"dir": "2->1", "hour": 14, "count": 96}, {"dir": "2->1", "hour": 15, "count": 123}, {"dir": "2->1", "hour": 16, "count": 129}, {"dir": "2->1", "hour": 17, "count": 184}, {"dir": "2->1", "hour": 18, "count": 195}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

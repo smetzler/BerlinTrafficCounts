@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-984b92da8603ede26e9c22e2b8470b89"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "12.09.2013: Britzer Damm (n\u00f6rdl. Britzer Br\u00fccke)   (Britz, 12347)"}, {"data": {"name": "data-f6caf9bef09a413f574cc6b1dc62c342"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-984b92da8603ede26e9c22e2b8470b89": [{"dir": "1->2", "hour": 0, "count": 126}, {"dir": "1->2", "hour": 1, "count": 81}, {"dir": "1->2", "hour": 2, "count": 50}, {"dir": "1->2", "hour": 3, "count": 58}, {"dir": "1->2", "hour": 4, "count": 51}, {"dir": "1->2", "hour": 5, "count": 110}, {"dir": "1->2", "hour": 6, "count": 261}, {"dir": "1->2", "hour": 7, "count": 399}, {"dir": "1->2", "hour": 8, "count": 451}, {"dir": "1->2", "hour": 9, "count": 498}, {"dir": "1->2", "hour": 10, "count": 446}, {"dir": "1->2", "hour": 11, "count": 494}, {"dir": "1->2", "hour": 12, "count": 566}, {"dir": "1->2", "hour": 13, "count": 583}, {"dir": "1->2", "hour": 14, "count": 676}, {"dir": "1->2", "hour": 15, "count": 908}, {"dir": "1->2", "hour": 16, "count": 822}, {"dir": "1->2", "hour": 17, "count": 770}, {"dir": "1->2", "hour": 18, "count": 651}, {"dir": "1->2", "hour": 19, "count": 543}, {"dir": "1->2", "hour": 20, "count": 403}, {"dir": "1->2", "hour": 21, "count": 294}, {"dir": "1->2", "hour": 22, "count": 264}, {"dir": "1->2", "hour": 23, "count": 172}, {"dir": "2->1", "hour": 0, "count": 94}, {"dir": "2->1", "hour": 1, "count": 48}, {"dir": "2->1", "hour": 2, "count": 27}, {"dir": "2->1", "hour": 3, "count": 48}, {"dir": "2->1", "hour": 4, "count": 79}, {"dir": "2->1", "hour": 5, "count": 220}, {"dir": "2->1", "hour": 6, "count": 481}, {"dir": "2->1", "hour": 7, "count": 690}, {"dir": "2->1", "hour": 8, "count": 776}, {"dir": "2->1", "hour": 9, "count": 608}, {"dir": "2->1", "hour": 10, "count": 624}, {"dir": "2->1", "hour": 11, "count": 505}, {"dir": "2->1", "hour": 12, "count": 498}, {"dir": "2->1", "hour": 13, "count": 458}, {"dir": "2->1", "hour": 14, "count": 368}, {"dir": "2->1", "hour": 15, "count": 472}, {"dir": "2->1", "hour": 16, "count": 442}, {"dir": "2->1", "hour": 17, "count": 548}, {"dir": "2->1", "hour": 18, "count": 582}, {"dir": "2->1", "hour": 19, "count": 463}, {"dir": "2->1", "hour": 20, "count": 363}, {"dir": "2->1", "hour": 21, "count": 252}, {"dir": "2->1", "hour": 22, "count": 202}, {"dir": "2->1", "hour": 23, "count": 111}], "data-f6caf9bef09a413f574cc6b1dc62c342": [{"dir": "1->2", "hour": 0, "count": 1}, {"dir": "1->2", "hour": 1, "count": 3}, {"dir": "1->2", "hour": 2, "count": 0}, {"dir": "1->2", "hour": 3, "count": 2}, {"dir": "1->2", "hour": 4, "count": 2}, {"dir": "1->2", "hour": 5, "count": 8}, {"dir": "1->2", "hour": 6, "count": 18}, {"dir": "1->2", "hour": 7, "count": 36}, {"dir": "1->2", "hour": 8, "count": 38}, {"dir": "1->2", "hour": 9, "count": 28}, {"dir": "1->2", "hour": 10, "count": 27}, {"dir": "1->2", "hour": 11, "count": 25}, {"dir": "1->2", "hour": 12, "count": 31}, {"dir": "1->2", "hour": 13, "count": 24}, {"dir": "1->2", "hour": 14, "count": 43}, {"dir": "1->2", "hour": 15, "count": 46}, {"dir": "1->2", "hour": 16, "count": 52}, {"dir": "1->2", "hour": 17, "count": 45}, {"dir": "1->2", "hour": 18, "count": 51}, {"dir": "1->2", "hour": 19, "count": 27}, {"dir": "1->2", "hour": 20, "count": 43}, {"dir": "1->2", "hour": 21, "count": 12}, {"dir": "1->2", "hour": 22, "count": 11}, {"dir": "1->2", "hour": 23, "count": 3}, {"dir": "2->1", "hour": 0, "count": 2}, {"dir": "2->1", "hour": 1, "count": 0}, {"dir": "2->1", "hour": 2, "count": 1}, {"dir": "2->1", "hour": 3, "count": 4}, {"dir": "2->1", "hour": 4, "count": 3}, {"dir": "2->1", "hour": 5, "count": 10}, {"dir": "2->1", "hour": 6, "count": 24}, {"dir": "2->1", "hour": 7, "count": 45}, {"dir": "2->1", "hour": 8, "count": 28}, {"dir": "2->1", "hour": 9, "count": 34}, {"dir": "2->1", "hour": 10, "count": 25}, {"dir": "2->1", "hour": 11, "count": 28}, {"dir": "2->1", "hour": 12, "count": 37}, {"dir": "2->1", "hour": 13, "count": 42}, {"dir": "2->1", "hour": 14, "count": 28}, {"dir": "2->1", "hour": 15, "count": 34}, {"dir": "2->1", "hour": 16, "count": 26}, {"dir": "2->1", "hour": 17, "count": 41}, {"dir": "2->1", "hour": 18, "count": 55}, {"dir": "2->1", "hour": 19, "count": 28}, {"dir": "2->1", "hour": 20, "count": 28}, {"dir": "2->1", "hour": 21, "count": 30}, {"dir": "2->1", "hour": 22, "count": 13}, {"dir": "2->1", "hour": 23, "count": 7}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

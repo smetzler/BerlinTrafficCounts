@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-72c7539489feda72581716f888566add"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "28.05.2008: Friedenstra\u00dfe (\u00f6stl. Fritz-Werner-Stra\u00dfe)   (Mariendorf, 12107)"}, {"data": {"name": "data-59022fe3764a8d98dadf6e2cd734174d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-72c7539489feda72581716f888566add": [{"dir": "1->2", "hour": 0, "count": 78}, {"dir": "1->2", "hour": 1, "count": 63}, {"dir": "1->2", "hour": 2, "count": 42}, {"dir": "1->2", "hour": 3, "count": 34}, {"dir": "1->2", "hour": 4, "count": 56}, {"dir": "1->2", "hour": 5, "count": 259}, {"dir": "1->2", "hour": 6, "count": 567}, {"dir": "1->2", "hour": 7, "count": 837}, {"dir": "1->2", "hour": 8, "count": 923}, {"dir": "1->2", "hour": 9, "count": 806}, {"dir": "1->2", "hour": 10, "count": 821}, {"dir": "1->2", "hour": 11, "count": 873}, {"dir": "1->2", "hour": 12, "count": 937}, {"dir": "1->2", "hour": 13, "count": 935}, {"dir": "1->2", "hour": 14, "count": 1070}, {"dir": "1->2", "hour": 15, "count": 1155}, {"dir": "1->2", "hour": 16, "count": 1338}, {"dir": "1->2", "hour": 17, "count": 1125}, {"dir": "1->2", "hour": 18, "count": 1071}, {"dir": "1->2", "hour": 19, "count": 839}, {"dir": "1->2", "hour": 20, "count": 598}, {"dir": "1->2", "hour": 21, "count": 402}, {"dir": "1->2", "hour": 22, "count": 372}, {"dir": "1->2", "hour": 23, "count": 175}], "data-59022fe3764a8d98dadf6e2cd734174d": [{"dir": "1->2", "hour": 0, "count": 3}, {"dir": "1->2", "hour": 1, "count": 0}, {"dir": "1->2", "hour": 2, "count": 0}, {"dir": "1->2", "hour": 3, "count": 0}, {"dir": "1->2", "hour": 4, "count": 2}, {"dir": "1->2", "hour": 5, "count": 21}, {"dir": "1->2", "hour": 6, "count": 16}, {"dir": "1->2", "hour": 7, "count": 32}, {"dir": "1->2", "hour": 8, "count": 32}, {"dir": "1->2", "hour": 9, "count": 26}, {"dir": "1->2", "hour": 10, "count": 31}, {"dir": "1->2", "hour": 11, "count": 16}, {"dir": "1->2", "hour": 12, "count": 33}, {"dir": "1->2", "hour": 13, "count": 32}, {"dir": "1->2", "hour": 14, "count": 40}, {"dir": "1->2", "hour": 15, "count": 58}, {"dir": "1->2", "hour": 16, "count": 64}, {"dir": "1->2", "hour": 17, "count": 39}, {"dir": "1->2", "hour": 18, "count": 37}, {"dir": "1->2", "hour": 19, "count": 20}, {"dir": "1->2", "hour": 20, "count": 22}, {"dir": "1->2", "hour": 21, "count": 14}, {"dir": "1->2", "hour": 22, "count": 8}, {"dir": "1->2", "hour": 23, "count": 2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

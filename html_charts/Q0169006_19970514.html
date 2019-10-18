@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-bd50c55dadeccd20d2af3e8e6d5b9c3e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.05.1997: Am Seegraben (Stadtgrenze)   (Bohnsdorf,12526)"}, {"data": {"name": "data-a7a795f353afaec9d56b94f65274a4e5"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-bd50c55dadeccd20d2af3e8e6d5b9c3e": [{"dir": "1->2", "hour": 7, "count": 765}, {"dir": "1->2", "hour": 8, "count": 821}, {"dir": "1->2", "hour": 9, "count": 668}, {"dir": "1->2", "hour": 10, "count": 588}, {"dir": "1->2", "hour": 11, "count": 452}, {"dir": "1->2", "hour": 12, "count": 611}, {"dir": "1->2", "hour": 13, "count": 575}, {"dir": "1->2", "hour": 14, "count": 701}, {"dir": "1->2", "hour": 15, "count": 748}, {"dir": "1->2", "hour": 16, "count": 945}, {"dir": "1->2", "hour": 17, "count": 869}, {"dir": "1->2", "hour": 18, "count": 635}, {"dir": "2->1", "hour": 7, "count": 862}, {"dir": "2->1", "hour": 8, "count": 754}, {"dir": "2->1", "hour": 9, "count": 570}, {"dir": "2->1", "hour": 10, "count": 431}, {"dir": "2->1", "hour": 11, "count": 511}, {"dir": "2->1", "hour": 12, "count": 409}, {"dir": "2->1", "hour": 13, "count": 434}, {"dir": "2->1", "hour": 14, "count": 546}, {"dir": "2->1", "hour": 15, "count": 493}, {"dir": "2->1", "hour": 16, "count": 443}, {"dir": "2->1", "hour": 17, "count": 785}, {"dir": "2->1", "hour": 18, "count": 557}], "data-a7a795f353afaec9d56b94f65274a4e5": [{"dir": "1->2", "hour": 6, "count": 862}, {"dir": "1->2", "hour": 7, "count": 754}, {"dir": "1->2", "hour": 8, "count": 570}, {"dir": "1->2", "hour": 9, "count": 431}, {"dir": "1->2", "hour": 10, "count": 511}, {"dir": "1->2", "hour": 11, "count": 409}, {"dir": "1->2", "hour": 12, "count": 434}, {"dir": "1->2", "hour": 13, "count": 546}, {"dir": "1->2", "hour": 14, "count": 493}, {"dir": "1->2", "hour": 15, "count": 443}, {"dir": "1->2", "hour": 16, "count": 785}, {"dir": "1->2", "hour": 17, "count": 557}, {"dir": "2->1", "hour": 6, "count": 862}, {"dir": "2->1", "hour": 7, "count": 754}, {"dir": "2->1", "hour": 8, "count": 570}, {"dir": "2->1", "hour": 9, "count": 431}, {"dir": "2->1", "hour": 10, "count": 511}, {"dir": "2->1", "hour": 11, "count": 409}, {"dir": "2->1", "hour": 12, "count": 434}, {"dir": "2->1", "hour": 13, "count": 546}, {"dir": "2->1", "hour": 14, "count": 493}, {"dir": "2->1", "hour": 15, "count": 443}, {"dir": "2->1", "hour": 16, "count": 785}, {"dir": "2->1", "hour": 17, "count": 557}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
