@@ -1,13 +1,18 @@
 # BerlinTrafficCounts
 
 ## Übersicht aller Zählungen 
-https://smetzler.github.io/BerlinTrafficCounts/index.html
+https://vizsim.github.io/BerlinTrafficCounts/index.html
+	- filter table to get the street you are interested
+	- get raw data/"Rohdaten"
+	- view raw data in chart for cars and bikes
 
 
-## Darstellungen einiger Zählungen au Karte (Geocode nicht zuverlässig)
-https://smetzler.github.io/BerlinTrafficCounts/out_circles_col_size_hyperlink_vega_modified.html
 
-Viusualisation of a snippet of (~500 counts) from the official traffic counts data since 1992 which is quite messy and also somtings inaccurate. it was originally not meant to publish.
+
+## Darstellungen einiger Zählungen auf Karte (Geocode leider nicht zuverlässig genug)
+https://vizsim.github.io/BerlinTrafficCounts/out_circles_col_size_hyperlink_vega_modified.html
+
+Viusualisation of a snippet of (~500 counts out of 20,000) from the official traffic counts data since 1980ies which is quite messy and also somtings inaccurate. it was originally not meant to be published.
 
 disclaimer:
 - geocoding worked not for all points well
@@ -15,7 +20,7 @@ disclaimer:
 
 
 
-data source:
+## data source:
 VLB Berlin
 https://fragdenstaat.de/anfrage/kfz-verkehrszahldaten-aus-berlin/
 
