@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-862bfb334fb01054e51614fae0803a69"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.04.2012: Brodauer Stra\u00dfe (s\u00fcdl. Waplitzer Stra\u00dfe)   (Kaulsdorf, 12619)"}, {"data": {"name": "data-006bddb1e89e0bb6b15b4e1a33a22955"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-862bfb334fb01054e51614fae0803a69": [{"dir": "1->2", "hour": 7, "count": 134}, {"dir": "1->2", "hour": 8, "count": 150}, {"dir": "1->2", "hour": 9, "count": 84}, {"dir": "1->2", "hour": 10, "count": 104}, {"dir": "1->2", "hour": 11, "count": 70}, {"dir": "1->2", "hour": 12, "count": 77}, {"dir": "1->2", "hour": 13, "count": 106}, {"dir": "1->2", "hour": 14, "count": 103}, {"dir": "1->2", "hour": 15, "count": 139}, {"dir": "1->2", "hour": 16, "count": 130}, {"dir": "1->2", "hour": 17, "count": 151}, {"dir": "1->2", "hour": 18, "count": 138}, {"dir": "2->1", "hour": 7, "count": 157}, {"dir": "2->1", "hour": 8, "count": 127}, {"dir": "2->1", "hour": 9, "count": 83}, {"dir": "2->1", "hour": 10, "count": 71}, {"dir": "2->1", "hour": 11, "count": 82}, {"dir": "2->1", "hour": 12, "count": 88}, {"dir": "2->1", "hour": 13, "count": 80}, {"dir": "2->1", "hour": 14, "count": 98}, {"dir": "2->1", "hour": 15, "count": 103}, {"dir": "2->1", "hour": 16, "count": 154}, {"dir": "2->1", "hour": 17, "count": 138}, {"dir": "2->1", "hour": 18, "count": 124}], "data-006bddb1e89e0bb6b15b4e1a33a22955": [{"dir": "1->2", "hour": 7, "count": 10}, {"dir": "1->2", "hour": 8, "count": 6}, {"dir": "1->2", "hour": 9, "count": 3}, {"dir": "1->2", "hour": 10, "count": 5}, {"dir": "1->2", "hour": 11, "count": 3}, {"dir": "1->2", "hour": 12, "count": 5}, {"dir": "1->2", "hour": 13, "count": 9}, {"dir": "1->2", "hour": 14, "count": 8}, {"dir": "1->2", "hour": 15, "count": 14}, {"dir": "1->2", "hour": 16, "count": 20}, {"dir": "1->2", "hour": 17, "count": 12}, {"dir": "1->2", "hour": 18, "count": 8}, {"dir": "2->1", "hour": 7, "count": 6}, {"dir": "2->1", "hour": 8, "count": 4}, {"dir": "2->1", "hour": 9, "count": 2}, {"dir": "2->1", "hour": 10, "count": 3}, {"dir": "2->1", "hour": 11, "count": 5}, {"dir": "2->1", "hour": 12, "count": 2}, {"dir": "2->1", "hour": 13, "count": 8}, {"dir": "2->1", "hour": 14, "count": 6}, {"dir": "2->1", "hour": 15, "count": 10}, {"dir": "2->1", "hour": 16, "count": 14}, {"dir": "2->1", "hour": 17, "count": 6}, {"dir": "2->1", "hour": 18, "count": 5}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

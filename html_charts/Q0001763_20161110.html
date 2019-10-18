@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-055600c9770c7fe9785380f26d6dcdc1"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "10.11.2016: Falkenseer Chaussee (\u00f6stl. Stadtrandstra\u00dfe)   (Spandau, 13589)"}, {"data": {"name": "data-055600c9770c7fe9785380f26d6dcdc1"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-055600c9770c7fe9785380f26d6dcdc1": [{"dir": "2->1", "hour": 15, "count": 0}, {"dir": "2->1", "hour": 16, "count": 1}, {"dir": "2->1", "hour": 17, "count": 5}, {"dir": "2->1", "hour": 18, "count": 4}, {"dir": "2->1", "hour": 19, "count": 2}, {"dir": "2->1", "hour": 20, "count": 1}, {"dir": "2->1", "hour": 21, "count": 5}, {"dir": "2->1", "hour": 22, "count": 5}, {"dir": "2->1", "hour": 23, "count": 4}, {"dir": "2->1", "hour": 24, "count": 4}, {"dir": "2->1", "hour": 25, "count": 4}, {"dir": "2->1", "hour": 26, "count": 1}, {"dir": "2->1", "hour": 27, "count": 8}, {"dir": "2->1", "hour": 28, "count": 2}, {"dir": "2->1", "hour": 29, "count": 1}, {"dir": "2->1", "hour": 30, "count": 6}, {"dir": "2->1", "hour": 31, "count": 2}, {"dir": "2->1", "hour": 32, "count": 3}, {"dir": "2->1", "hour": 33, "count": 3}, {"dir": "2->1", "hour": 34, "count": 6}, {"dir": "2->1", "hour": 35, "count": 2}, {"dir": "2->1", "hour": 36, "count": 6}, {"dir": "2->1", "hour": 37, "count": 3}, {"dir": "2->1", "hour": 38, "count": 4}, {"dir": "2->1", "hour": 39, "count": 5}, {"dir": "2->1", "hour": 40, "count": 4}, {"dir": "2->1", "hour": 41, "count": 3}, {"dir": "2->1", "hour": 42, "count": 3}, {"dir": "2->1", "hour": 43, "count": 4}, {"dir": "2->1", "hour": 44, "count": 9}, {"dir": "2->1", "hour": 45, "count": 1}, {"dir": "2->1", "hour": 46, "count": 2}, {"dir": "2->1", "hour": 47, "count": 4}, {"dir": "2->1", "hour": 48, "count": 5}, {"dir": "2->1", "hour": 49, "count": 3}, {"dir": "2->1", "hour": 50, "count": 3}, {"dir": "2->1", "hour": 51, "count": 2}, {"dir": "2->1", "hour": 52, "count": 7}, {"dir": "2->1", "hour": 53, "count": 2}, {"dir": "2->1", "hour": 54, "count": 3}, {"dir": "2->1", "hour": 55, "count": 2}, {"dir": "2->1", "hour": 56, "count": 4}, {"dir": "2->1", "hour": 57, "count": 2}, {"dir": "2->1", "hour": 58, "count": 2}, {"dir": "2->1", "hour": 59, "count": 1}, {"dir": "2->1", "hour": 60, "count": 0}, {"dir": "2->1", "hour": 61, "count": 0}, {"dir": "2->1", "hour": 62, "count": 0}, {"dir": "2->1", "hour": 63, "count": 0}, {"dir": "2->1", "hour": 64, "count": 0}, {"dir": "2->1", "hour": 65, "count": 0}, {"dir": "2->1", "hour": 66, "count": 1}, {"dir": "2->1", "hour": 67, "count": 1}, {"dir": "2->1", "hour": 68, "count": 0}, {"dir": "2->1", "hour": 69, "count": 1}, {"dir": "2->1", "hour": 70, "count": 1}, {"dir": "2->1", "hour": 71, "count": 1}, {"dir": "2->1", "hour": 72, "count": 0}, {"dir": "2->1", "hour": 73, "count": 0}, {"dir": "2->1", "hour": 74, "count": 1}, {"dir": "2->1", "hour": 75, "count": 1}, {"dir": "2->1", "hour": 76, "count": 4}, {"dir": "2->1", "hour": 77, "count": 1}, {"dir": "2->1", "hour": 78, "count": 0}, {"dir": "2->1", "hour": 79, "count": 0}, {"dir": "2->1", "hour": 80, "count": 0}, {"dir": "2->1", "hour": 81, "count": 0}, {"dir": "2->1", "hour": 82, "count": 1}, {"dir": "2->1", "hour": 83, "count": 1}, {"dir": "2->1", "hour": 84, "count": 0}, {"dir": "2->1", "hour": 85, "count": 2}, {"dir": "2->1", "hour": 86, "count": 0}, {"dir": "2->1", "hour": 87, "count": 0}, {"dir": "2->1", "hour": 88, "count": 0}, {"dir": "2->1", "hour": 89, "count": 1}, {"dir": "2->1", "hour": 90, "count": 3}, {"dir": "2->1", "hour": 91, "count": 1}, {"dir": "2->1", "hour": 92, "count": 0}, {"dir": "2->1", "hour": 93, "count": 0}, {"dir": "2->1", "hour": 94, "count": 3}, {"dir": "2->1", "hour": 95, "count": 0}, {"dir": "2->1", "hour": 96, "count": 1}, {"dir": "2->1", "hour": 97, "count": 0}, {"dir": "2->1", "hour": 98, "count": 2}, {"dir": "2->1", "hour": 99, "count": 0}, {"dir": "2->1", "hour": 100, "count": 1}, {"dir": "2->1", "hour": 101, "count": 0}, {"dir": "2->1", "hour": 102, "count": 0}, {"dir": "2->1", "hour": 103, "count": 1}, {"dir": "2->1", "hour": 104, "count": 0}, {"dir": "2->1", "hour": 105, "count": 1}, {"dir": "2->1", "hour": 106, "count": 1}, {"dir": "2->1", "hour": 107, "count": 1}, {"dir": "2->1", "hour": 108, "count": 0}, {"dir": "2->1", "hour": 109, "count": 1}, {"dir": "2->1", "hour": 110, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

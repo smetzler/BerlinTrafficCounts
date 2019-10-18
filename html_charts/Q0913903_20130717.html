@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-3eb32505ab21b052e57e300830017ecc"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.07.2013: Tempelhofer Damm (Bereich Br\u00fccke A100)   (Tempelhof, 12099)"}, {"data": {"name": "data-f25da73aaf5a5ca2929bfe28d84eb755"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-3eb32505ab21b052e57e300830017ecc": [{"dir": "1->2", "hour": 7, "count": 129}, {"dir": "1->2", "hour": 8, "count": 171}, {"dir": "1->2", "hour": 9, "count": 124}, {"dir": "1->2", "hour": 10, "count": 86}, {"dir": "1->2", "hour": 11, "count": 98}, {"dir": "1->2", "hour": 12, "count": 90}, {"dir": "1->2", "hour": 13, "count": 105}, {"dir": "1->2", "hour": 14, "count": 133}, {"dir": "1->2", "hour": 15, "count": 179}, {"dir": "1->2", "hour": 16, "count": 180}, {"dir": "1->2", "hour": 17, "count": 184}, {"dir": "1->2", "hour": 18, "count": 207}, {"dir": "2->1", "hour": 7, "count": 125}, {"dir": "2->1", "hour": 8, "count": 205}, {"dir": "2->1", "hour": 9, "count": 121}, {"dir": "2->1", "hour": 10, "count": 100}, {"dir": "2->1", "hour": 11, "count": 126}, {"dir": "2->1", "hour": 12, "count": 135}, {"dir": "2->1", "hour": 13, "count": 116}, {"dir": "2->1", "hour": 14, "count": 125}, {"dir": "2->1", "hour": 15, "count": 150}, {"dir": "2->1", "hour": 16, "count": 202}, {"dir": "2->1", "hour": 17, "count": 214}, {"dir": "2->1", "hour": 18, "count": 207}], "data-f25da73aaf5a5ca2929bfe28d84eb755": [{"dir": "1->2", "hour": 7, "count": 119}, {"dir": "1->2", "hour": 8, "count": 120}, {"dir": "1->2", "hour": 9, "count": 102}, {"dir": "1->2", "hour": 10, "count": 94}, {"dir": "1->2", "hour": 11, "count": 83}, {"dir": "1->2", "hour": 12, "count": 87}, {"dir": "1->2", "hour": 13, "count": 92}, {"dir": "1->2", "hour": 14, "count": 113}, {"dir": "1->2", "hour": 15, "count": 143}, {"dir": "1->2", "hour": 16, "count": 198}, {"dir": "1->2", "hour": 17, "count": 156}, {"dir": "1->2", "hour": 18, "count": 163}, {"dir": "2->1", "hour": 7, "count": 120}, {"dir": "2->1", "hour": 8, "count": 133}, {"dir": "2->1", "hour": 9, "count": 109}, {"dir": "2->1", "hour": 10, "count": 88}, {"dir": "2->1", "hour": 11, "count": 97}, {"dir": "2->1", "hour": 12, "count": 83}, {"dir": "2->1", "hour": 13, "count": 100}, {"dir": "2->1", "hour": 14, "count": 130}, {"dir": "2->1", "hour": 15, "count": 137}, {"dir": "2->1", "hour": 16, "count": 170}, {"dir": "2->1", "hour": 17, "count": 236}, {"dir": "2->1", "hour": 18, "count": 215}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

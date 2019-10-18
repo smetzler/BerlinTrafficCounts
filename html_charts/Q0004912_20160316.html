@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-d8419a4dc44a450d9fb15d3d80e9153d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "16.03.2016: Spandauer Damm (westl. Luisenplatz)   (Charlottenburg, 10585)"}, {"data": {"name": "data-d8419a4dc44a450d9fb15d3d80e9153d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-d8419a4dc44a450d9fb15d3d80e9153d": [{"dir": "1->2", "hour": 7, "count": 715}, {"dir": "1->2", "hour": 8, "count": 1022}, {"dir": "1->2", "hour": 9, "count": 985}, {"dir": "1->2", "hour": 10, "count": 825}, {"dir": "1->2", "hour": 11, "count": 802}, {"dir": "1->2", "hour": 12, "count": 814}, {"dir": "1->2", "hour": 13, "count": 818}, {"dir": "1->2", "hour": 14, "count": 824}, {"dir": "1->2", "hour": 15, "count": 948}, {"dir": "1->2", "hour": 16, "count": 1031}, {"dir": "1->2", "hour": 17, "count": 1012}, {"dir": "1->2", "hour": 18, "count": 922}, {"dir": "2->1", "hour": 7, "count": 568}, {"dir": "2->1", "hour": 8, "count": 856}, {"dir": "2->1", "hour": 9, "count": 828}, {"dir": "2->1", "hour": 10, "count": 871}, {"dir": "2->1", "hour": 11, "count": 857}, {"dir": "2->1", "hour": 12, "count": 938}, {"dir": "2->1", "hour": 13, "count": 907}, {"dir": "2->1", "hour": 14, "count": 994}, {"dir": "2->1", "hour": 15, "count": 1132}, {"dir": "2->1", "hour": 16, "count": 1251}, {"dir": "2->1", "hour": 17, "count": 1247}, {"dir": "2->1", "hour": 18, "count": 1184}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

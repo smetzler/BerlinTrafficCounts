@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-e1d35e90dee7f958a04d34aa544a8856"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.11.2018: Teltower Damm (n\u00f6rdl. Sch\u00f6nower Stra\u00dfe)   (Zehlendorf, 14167)"}, {"data": {"name": "data-3ca7421d9bc76ac1de6802550b24d516"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-e1d35e90dee7f958a04d34aa544a8856": [{"dir": "1->2", "hour": 7, "count": 176}, {"dir": "1->2", "hour": 8, "count": 98}, {"dir": "1->2", "hour": 9, "count": 66}, {"dir": "1->2", "hour": 10, "count": 62}, {"dir": "1->2", "hour": 11, "count": 92}, {"dir": "1->2", "hour": 12, "count": 94}, {"dir": "1->2", "hour": 13, "count": 115}, {"dir": "1->2", "hour": 14, "count": 170}, {"dir": "1->2", "hour": 15, "count": 140}, {"dir": "1->2", "hour": 16, "count": 180}, {"dir": "1->2", "hour": 17, "count": 154}, {"dir": "1->2", "hour": 18, "count": 117}, {"dir": "2->1", "hour": 7, "count": 191}, {"dir": "2->1", "hour": 8, "count": 126}, {"dir": "2->1", "hour": 9, "count": 68}, {"dir": "2->1", "hour": 10, "count": 68}, {"dir": "2->1", "hour": 11, "count": 62}, {"dir": "2->1", "hour": 12, "count": 64}, {"dir": "2->1", "hour": 13, "count": 88}, {"dir": "2->1", "hour": 14, "count": 92}, {"dir": "2->1", "hour": 15, "count": 120}, {"dir": "2->1", "hour": 16, "count": 118}, {"dir": "2->1", "hour": 17, "count": 91}, {"dir": "2->1", "hour": 18, "count": 65}], "data-3ca7421d9bc76ac1de6802550b24d516": [{"dir": "1->2", "hour": 7, "count": 168}, {"dir": "1->2", "hour": 8, "count": 47}, {"dir": "1->2", "hour": 9, "count": 49}, {"dir": "1->2", "hour": 10, "count": 54}, {"dir": "1->2", "hour": 11, "count": 62}, {"dir": "1->2", "hour": 12, "count": 60}, {"dir": "1->2", "hour": 13, "count": 60}, {"dir": "1->2", "hour": 14, "count": 90}, {"dir": "1->2", "hour": 15, "count": 113}, {"dir": "1->2", "hour": 16, "count": 72}, {"dir": "1->2", "hour": 17, "count": 79}, {"dir": "1->2", "hour": 18, "count": 54}, {"dir": "2->1", "hour": 7, "count": 162}, {"dir": "2->1", "hour": 8, "count": 105}, {"dir": "2->1", "hour": 9, "count": 56}, {"dir": "2->1", "hour": 10, "count": 40}, {"dir": "2->1", "hour": 11, "count": 36}, {"dir": "2->1", "hour": 12, "count": 102}, {"dir": "2->1", "hour": 13, "count": 103}, {"dir": "2->1", "hour": 14, "count": 111}, {"dir": "2->1", "hour": 15, "count": 114}, {"dir": "2->1", "hour": 16, "count": 56}, {"dir": "2->1", "hour": 17, "count": 50}, {"dir": "2->1", "hour": 18, "count": 32}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-95a5884467f75023bb3c797f14e75999"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "06.09.2004: Blumberger Damm / Altentreptower Stra\u00dfe   (Biesdorf, 12683)"}, {"data": {"name": "data-2bc95bea07f5cdb0ce216cd35e8da4dc"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-95a5884467f75023bb3c797f14e75999": [{"dir": "2->3", "hour": 13, "count": 322}, {"dir": "2->3", "hour": 14, "count": 493}, {"dir": "2->3", "hour": 15, "count": 549}, {"dir": "2->3", "hour": 16, "count": 638}, {"dir": "2->3", "hour": 17, "count": 667}, {"dir": "2->3", "hour": 18, "count": 460}, {"dir": "2->4", "hour": 13, "count": 488}, {"dir": "2->4", "hour": 14, "count": 497}, {"dir": "2->4", "hour": 15, "count": 591}, {"dir": "2->4", "hour": 16, "count": 573}, {"dir": "2->4", "hour": 17, "count": 633}, {"dir": "2->4", "hour": 18, "count": 662}, {"dir": "3->2", "hour": 13, "count": 325}, {"dir": "3->2", "hour": 14, "count": 324}, {"dir": "3->2", "hour": 15, "count": 348}, {"dir": "3->2", "hour": 16, "count": 418}, {"dir": "3->2", "hour": 17, "count": 376}, {"dir": "3->2", "hour": 18, "count": 353}, {"dir": "3->4", "hour": 13, "count": 146}, {"dir": "3->4", "hour": 14, "count": 142}, {"dir": "3->4", "hour": 15, "count": 177}, {"dir": "3->4", "hour": 16, "count": 178}, {"dir": "3->4", "hour": 17, "count": 211}, {"dir": "3->4", "hour": 18, "count": 130}, {"dir": "4->2", "hour": 13, "count": 659}, {"dir": "4->2", "hour": 14, "count": 697}, {"dir": "4->2", "hour": 15, "count": 859}, {"dir": "4->2", "hour": 16, "count": 908}, {"dir": "4->2", "hour": 17, "count": 804}, {"dir": "4->2", "hour": 18, "count": 696}, {"dir": "4->3", "hour": 13, "count": 202}, {"dir": "4->3", "hour": 14, "count": 221}, {"dir": "4->3", "hour": 15, "count": 261}, {"dir": "4->3", "hour": 16, "count": 257}, {"dir": "4->3", "hour": 17, "count": 310}, {"dir": "4->3", "hour": 18, "count": 240}], "data-2bc95bea07f5cdb0ce216cd35e8da4dc": [{"dir": "2->3", "hour": 13, "count": 3}, {"dir": "2->3", "hour": 14, "count": 3}, {"dir": "2->3", "hour": 15, "count": 5}, {"dir": "2->3", "hour": 16, "count": 3}, {"dir": "2->3", "hour": 17, "count": 9}, {"dir": "2->3", "hour": 18, "count": 15}, {"dir": "2->4", "hour": 13, "count": 6}, {"dir": "2->4", "hour": 14, "count": 8}, {"dir": "2->4", "hour": 15, "count": 11}, {"dir": "2->4", "hour": 16, "count": 14}, {"dir": "2->4", "hour": 17, "count": 16}, {"dir": "2->4", "hour": 18, "count": 5}, {"dir": "3->2", "hour": 13, "count": 2}, {"dir": "3->2", "hour": 14, "count": 5}, {"dir": "3->2", "hour": 15, "count": 2}, {"dir": "3->2", "hour": 16, "count": 7}, {"dir": "3->2", "hour": 17, "count": 2}, {"dir": "3->2", "hour": 18, "count": 1}, {"dir": "3->4", "hour": 13, "count": 2}, {"dir": "3->4", "hour": 14, "count": 7}, {"dir": "3->4", "hour": 15, "count": 3}, {"dir": "3->4", "hour": 16, "count": 0}, {"dir": "3->4", "hour": 17, "count": 0}, {"dir": "3->4", "hour": 18, "count": 0}, {"dir": "4->2", "hour": 13, "count": 9}, {"dir": "4->2", "hour": 14, "count": 20}, {"dir": "4->2", "hour": 15, "count": 31}, {"dir": "4->2", "hour": 16, "count": 26}, {"dir": "4->2", "hour": 17, "count": 24}, {"dir": "4->2", "hour": 18, "count": 18}, {"dir": "4->3", "hour": 13, "count": 2}, {"dir": "4->3", "hour": 14, "count": 1}, {"dir": "4->3", "hour": 15, "count": 5}, {"dir": "4->3", "hour": 16, "count": 2}, {"dir": "4->3", "hour": 17, "count": 2}, {"dir": "4->3", "hour": 18, "count": 3}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

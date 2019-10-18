@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-470d0c818a97ccccd942117ca8c755fd"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "06.11.2002: Lorenzstra\u00dfe (n\u00f6rdl. Langestra\u00dfe)   (Lichterfelde, 12209)"}, {"data": {"name": "data-ce81e38be5dcc8e41f915ae2401856ca"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-470d0c818a97ccccd942117ca8c755fd": [{"dir": "1->2", "hour": 0, "count": 37}, {"dir": "1->2", "hour": 1, "count": 15}, {"dir": "1->2", "hour": 2, "count": 12}, {"dir": "1->2", "hour": 3, "count": 5}, {"dir": "1->2", "hour": 4, "count": 11}, {"dir": "1->2", "hour": 5, "count": 53}, {"dir": "1->2", "hour": 6, "count": 93}, {"dir": "1->2", "hour": 7, "count": 235}, {"dir": "1->2", "hour": 8, "count": 243}, {"dir": "1->2", "hour": 9, "count": 296}, {"dir": "1->2", "hour": 10, "count": 274}, {"dir": "1->2", "hour": 11, "count": 286}, {"dir": "1->2", "hour": 12, "count": 298}, {"dir": "1->2", "hour": 13, "count": 346}, {"dir": "1->2", "hour": 14, "count": 368}, {"dir": "1->2", "hour": 15, "count": 523}, {"dir": "1->2", "hour": 16, "count": 565}, {"dir": "1->2", "hour": 17, "count": 492}, {"dir": "1->2", "hour": 18, "count": 432}, {"dir": "1->2", "hour": 19, "count": 241}, {"dir": "1->2", "hour": 20, "count": 187}, {"dir": "1->2", "hour": 21, "count": 159}, {"dir": "1->2", "hour": 22, "count": 114}, {"dir": "1->2", "hour": 23, "count": 79}, {"dir": "2->1", "hour": 0, "count": 20}, {"dir": "2->1", "hour": 1, "count": 8}, {"dir": "2->1", "hour": 2, "count": 5}, {"dir": "2->1", "hour": 3, "count": 5}, {"dir": "2->1", "hour": 4, "count": 10}, {"dir": "2->1", "hour": 5, "count": 112}, {"dir": "2->1", "hour": 6, "count": 223}, {"dir": "2->1", "hour": 7, "count": 496}, {"dir": "2->1", "hour": 8, "count": 527}, {"dir": "2->1", "hour": 9, "count": 410}, {"dir": "2->1", "hour": 10, "count": 337}, {"dir": "2->1", "hour": 11, "count": 355}, {"dir": "2->1", "hour": 12, "count": 299}, {"dir": "2->1", "hour": 13, "count": 268}, {"dir": "2->1", "hour": 14, "count": 280}, {"dir": "2->1", "hour": 15, "count": 308}, {"dir": "2->1", "hour": 16, "count": 338}, {"dir": "2->1", "hour": 17, "count": 345}, {"dir": "2->1", "hour": 18, "count": 261}, {"dir": "2->1", "hour": 19, "count": 187}, {"dir": "2->1", "hour": 20, "count": 131}, {"dir": "2->1", "hour": 21, "count": 121}, {"dir": "2->1", "hour": 22, "count": 76}, {"dir": "2->1", "hour": 23, "count": 45}], "data-ce81e38be5dcc8e41f915ae2401856ca": [{"dir": "1->2", "hour": 0, "count": 1}, {"dir": "1->2", "hour": 1, "count": 0}, {"dir": "1->2", "hour": 2, "count": 0}, {"dir": "1->2", "hour": 3, "count": 1}, {"dir": "1->2", "hour": 4, "count": 0}, {"dir": "1->2", "hour": 5, "count": 0}, {"dir": "1->2", "hour": 6, "count": 3}, {"dir": "1->2", "hour": 7, "count": 9}, {"dir": "1->2", "hour": 8, "count": 3}, {"dir": "1->2", "hour": 9, "count": 2}, {"dir": "1->2", "hour": 10, "count": 1}, {"dir": "1->2", "hour": 11, "count": 5}, {"dir": "1->2", "hour": 12, "count": 3}, {"dir": "1->2", "hour": 13, "count": 9}, {"dir": "1->2", "hour": 14, "count": 8}, {"dir": "1->2", "hour": 15, "count": 6}, {"dir": "1->2", "hour": 16, "count": 6}, {"dir": "1->2", "hour": 17, "count": 12}, {"dir": "1->2", "hour": 18, "count": 4}, {"dir": "1->2", "hour": 19, "count": 2}, {"dir": "1->2", "hour": 20, "count": 1}, {"dir": "1->2", "hour": 21, "count": 3}, {"dir": "1->2", "hour": 22, "count": 1}, {"dir": "1->2", "hour": 23, "count": 4}, {"dir": "2->1", "hour": 0, "count": 0}, {"dir": "2->1", "hour": 1, "count": 0}, {"dir": "2->1", "hour": 2, "count": 0}, {"dir": "2->1", "hour": 3, "count": 0}, {"dir": "2->1", "hour": 4, "count": 0}, {"dir": "2->1", "hour": 5, "count": 2}, {"dir": "2->1", "hour": 6, "count": 4}, {"dir": "2->1", "hour": 7, "count": 15}, {"dir": "2->1", "hour": 8, "count": 9}, {"dir": "2->1", "hour": 9, "count": 6}, {"dir": "2->1", "hour": 10, "count": 4}, {"dir": "2->1", "hour": 11, "count": 5}, {"dir": "2->1", "hour": 12, "count": 5}, {"dir": "2->1", "hour": 13, "count": 7}, {"dir": "2->1", "hour": 14, "count": 10}, {"dir": "2->1", "hour": 15, "count": 7}, {"dir": "2->1", "hour": 16, "count": 10}, {"dir": "2->1", "hour": 17, "count": 10}, {"dir": "2->1", "hour": 18, "count": 1}, {"dir": "2->1", "hour": 19, "count": 1}, {"dir": "2->1", "hour": 20, "count": 1}, {"dir": "2->1", "hour": 21, "count": 2}, {"dir": "2->1", "hour": 22, "count": 1}, {"dir": "2->1", "hour": 23, "count": 1}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

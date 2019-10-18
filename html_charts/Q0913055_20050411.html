@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-ca53325064d0fef8bea37dd782d7059e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "11.04.2005: Buckower Chaussee (westl. Richard-Tauber-Damm)   (Marienfelde, 12277)"}, {"data": {"name": "data-7855defae6f7594c3ee21a2490ab8d43"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-ca53325064d0fef8bea37dd782d7059e": [{"dir": "1->2", "hour": 13, "count": 648}, {"dir": "1->2", "hour": 14, "count": 811}, {"dir": "1->2", "hour": 15, "count": 850}, {"dir": "1->2", "hour": 16, "count": 887}, {"dir": "1->2", "hour": 17, "count": 833}, {"dir": "1->2", "hour": 18, "count": 842}, {"dir": "2->1", "hour": 13, "count": 822}, {"dir": "2->1", "hour": 14, "count": 645}, {"dir": "2->1", "hour": 15, "count": 732}, {"dir": "2->1", "hour": 16, "count": 860}, {"dir": "2->1", "hour": 17, "count": 728}, {"dir": "2->1", "hour": 18, "count": 689}], "data-7855defae6f7594c3ee21a2490ab8d43": [{"dir": "1->2", "hour": 13, "count": 24}, {"dir": "1->2", "hour": 14, "count": 42}, {"dir": "1->2", "hour": 15, "count": 50}, {"dir": "1->2", "hour": 16, "count": 32}, {"dir": "1->2", "hour": 17, "count": 31}, {"dir": "1->2", "hour": 18, "count": 42}, {"dir": "2->1", "hour": 13, "count": 23}, {"dir": "2->1", "hour": 14, "count": 32}, {"dir": "2->1", "hour": 15, "count": 24}, {"dir": "2->1", "hour": 16, "count": 12}, {"dir": "2->1", "hour": 17, "count": 48}, {"dir": "2->1", "hour": 18, "count": 23}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

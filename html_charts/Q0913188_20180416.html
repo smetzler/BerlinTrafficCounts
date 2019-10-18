@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-fec0336eaacd017cd0c34da063ea862b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "16.04.2018: Boelckestra\u00dfe (H\u00f6he Fritz-Br\u00e4uning-Promenade)   (Tempelhof, 12101)"}, {"data": {"name": "data-f4d86a8d1f0999cb646281ec7e6595b9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-fec0336eaacd017cd0c34da063ea862b": [{"dir": "1->2", "hour": 7, "count": 408}, {"dir": "1->2", "hour": 8, "count": 530}, {"dir": "1->2", "hour": 9, "count": 357}, {"dir": "1->2", "hour": 10, "count": 536}, {"dir": "1->2", "hour": 11, "count": 508}, {"dir": "1->2", "hour": 12, "count": 589}, {"dir": "1->2", "hour": 13, "count": 578}, {"dir": "1->2", "hour": 14, "count": 672}, {"dir": "1->2", "hour": 15, "count": 823}, {"dir": "1->2", "hour": 16, "count": 840}, {"dir": "1->2", "hour": 17, "count": 729}, {"dir": "1->2", "hour": 18, "count": 674}, {"dir": "2->1", "hour": 7, "count": 802}, {"dir": "2->1", "hour": 8, "count": 827}, {"dir": "2->1", "hour": 9, "count": 709}, {"dir": "2->1", "hour": 10, "count": 542}, {"dir": "2->1", "hour": 11, "count": 525}, {"dir": "2->1", "hour": 12, "count": 463}, {"dir": "2->1", "hour": 13, "count": 466}, {"dir": "2->1", "hour": 14, "count": 580}, {"dir": "2->1", "hour": 15, "count": 618}, {"dir": "2->1", "hour": 16, "count": 576}, {"dir": "2->1", "hour": 17, "count": 572}, {"dir": "2->1", "hour": 18, "count": 428}], "data-f4d86a8d1f0999cb646281ec7e6595b9": [{"dir": "1->2", "hour": 7, "count": 24}, {"dir": "1->2", "hour": 8, "count": 22}, {"dir": "1->2", "hour": 9, "count": 12}, {"dir": "1->2", "hour": 10, "count": 14}, {"dir": "1->2", "hour": 11, "count": 10}, {"dir": "1->2", "hour": 12, "count": 12}, {"dir": "1->2", "hour": 13, "count": 17}, {"dir": "1->2", "hour": 14, "count": 25}, {"dir": "1->2", "hour": 15, "count": 31}, {"dir": "1->2", "hour": 16, "count": 50}, {"dir": "1->2", "hour": 17, "count": 41}, {"dir": "1->2", "hour": 18, "count": 39}, {"dir": "2->1", "hour": 7, "count": 45}, {"dir": "2->1", "hour": 8, "count": 37}, {"dir": "2->1", "hour": 9, "count": 23}, {"dir": "2->1", "hour": 10, "count": 18}, {"dir": "2->1", "hour": 11, "count": 7}, {"dir": "2->1", "hour": 12, "count": 8}, {"dir": "2->1", "hour": 13, "count": 13}, {"dir": "2->1", "hour": 14, "count": 22}, {"dir": "2->1", "hour": 15, "count": 24}, {"dir": "2->1", "hour": 16, "count": 22}, {"dir": "2->1", "hour": 17, "count": 23}, {"dir": "2->1", "hour": 18, "count": 20}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

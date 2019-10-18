@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-333e597777a40386ade61940f0ab6229"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "05.11.2002: Adalbertstra\u00dfe (n\u00f6rdl. Engeldamm)   (Mitte, 10179)"}, {"data": {"name": "data-f710427890d83fe1cb8a66073059c218"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-333e597777a40386ade61940f0ab6229": [{"dir": "1->2", "hour": 7, "count": 591}, {"dir": "1->2", "hour": 8, "count": 532}, {"dir": "1->2", "hour": 9, "count": -1}, {"dir": "1->2", "hour": 10, "count": -1}, {"dir": "1->2", "hour": 11, "count": -1}, {"dir": "1->2", "hour": 12, "count": -1}, {"dir": "1->2", "hour": 13, "count": -1}, {"dir": "1->2", "hour": 14, "count": -1}, {"dir": "1->2", "hour": 15, "count": 513}, {"dir": "1->2", "hour": 16, "count": 445}, {"dir": "1->2", "hour": 17, "count": 439}, {"dir": "2->1", "hour": 7, "count": 431}, {"dir": "2->1", "hour": 8, "count": 440}, {"dir": "2->1", "hour": 9, "count": -1}, {"dir": "2->1", "hour": 10, "count": -1}, {"dir": "2->1", "hour": 11, "count": -1}, {"dir": "2->1", "hour": 12, "count": -1}, {"dir": "2->1", "hour": 13, "count": -1}, {"dir": "2->1", "hour": 14, "count": -1}, {"dir": "2->1", "hour": 15, "count": 652}, {"dir": "2->1", "hour": 16, "count": 654}, {"dir": "2->1", "hour": 17, "count": 724}], "data-f710427890d83fe1cb8a66073059c218": [{"dir": "1->2", "hour": 6, "count": 4}, {"dir": "1->2", "hour": 7, "count": 2}, {"dir": "1->2", "hour": 8, "count": 9}, {"dir": "1->2", "hour": 9, "count": 15}, {"dir": "1->2", "hour": 10, "count": 7}, {"dir": "1->2", "hour": 11, "count": 3}, {"dir": "1->2", "hour": 12, "count": 5}, {"dir": "1->2", "hour": 13, "count": 4}, {"dir": "1->2", "hour": 14, "count": 5}, {"dir": "1->2", "hour": 15, "count": 7}, {"dir": "1->2", "hour": 16, "count": 10}, {"dir": "1->2", "hour": 17, "count": 4}, {"dir": "2->1", "hour": 6, "count": 2}, {"dir": "2->1", "hour": 7, "count": 2}, {"dir": "2->1", "hour": 8, "count": 4}, {"dir": "2->1", "hour": 9, "count": 6}, {"dir": "2->1", "hour": 10, "count": 7}, {"dir": "2->1", "hour": 11, "count": 6}, {"dir": "2->1", "hour": 12, "count": 7}, {"dir": "2->1", "hour": 13, "count": 7}, {"dir": "2->1", "hour": 14, "count": 10}, {"dir": "2->1", "hour": 15, "count": 13}, {"dir": "2->1", "hour": 16, "count": 14}, {"dir": "2->1", "hour": 17, "count": 11}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

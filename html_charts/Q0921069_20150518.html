@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-ddc2fdc10ee5aeb35fb621ceaa0012ca"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "18.05.2015: Abfahrt von M\u00e4rkische Allee-Nord (zur Landsberger Allee-West)  (Marzahn, 12681)"}, {"data": {"name": "data-950665e5f2e9c6f981e8335c22531887"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-ddc2fdc10ee5aeb35fb621ceaa0012ca": [{"dir": "2->1", "hour": 7, "count": 597}, {"dir": "2->1", "hour": 8, "count": 484}, {"dir": "2->1", "hour": 9, "count": 449}, {"dir": "2->1", "hour": 10, "count": 387}, {"dir": "2->1", "hour": 11, "count": 400}, {"dir": "2->1", "hour": 12, "count": 414}, {"dir": "2->1", "hour": 13, "count": 367}, {"dir": "2->1", "hour": 14, "count": 360}, {"dir": "2->1", "hour": 15, "count": 339}, {"dir": "2->1", "hour": 16, "count": 370}, {"dir": "2->1", "hour": 17, "count": 330}, {"dir": "2->1", "hour": 18, "count": 279}], "data-950665e5f2e9c6f981e8335c22531887": [{"dir": "2->1", "hour": 7, "count": 22}, {"dir": "2->1", "hour": 8, "count": 15}, {"dir": "2->1", "hour": 9, "count": 13}, {"dir": "2->1", "hour": 10, "count": 7}, {"dir": "2->1", "hour": 11, "count": 6}, {"dir": "2->1", "hour": 12, "count": 11}, {"dir": "2->1", "hour": 13, "count": 9}, {"dir": "2->1", "hour": 14, "count": 8}, {"dir": "2->1", "hour": 15, "count": 11}, {"dir": "2->1", "hour": 16, "count": 21}, {"dir": "2->1", "hour": 17, "count": 17}, {"dir": "2->1", "hour": 18, "count": 18}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

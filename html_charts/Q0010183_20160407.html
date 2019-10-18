@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-43badf28ffcbc21bdf8d10d7bc1632d8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "07.04.2016: Maybachufer (\u00f6stl. Hobrechtbr\u00fccke)   (Kreuzberg, 12047)"}, {"data": {"name": "data-43badf28ffcbc21bdf8d10d7bc1632d8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-43badf28ffcbc21bdf8d10d7bc1632d8": [{"dir": "1->2", "hour": 0, "count": 16}, {"dir": "1->2", "hour": 1, "count": 10}, {"dir": "1->2", "hour": 2, "count": 3}, {"dir": "1->2", "hour": 3, "count": 1}, {"dir": "1->2", "hour": 4, "count": 4}, {"dir": "1->2", "hour": 5, "count": 7}, {"dir": "1->2", "hour": 6, "count": 12}, {"dir": "1->2", "hour": 7, "count": 38}, {"dir": "1->2", "hour": 8, "count": 46}, {"dir": "1->2", "hour": 9, "count": 59}, {"dir": "1->2", "hour": 10, "count": 44}, {"dir": "1->2", "hour": 11, "count": 34}, {"dir": "1->2", "hour": 12, "count": 53}, {"dir": "1->2", "hour": 13, "count": 57}, {"dir": "1->2", "hour": 14, "count": 75}, {"dir": "1->2", "hour": 15, "count": 62}, {"dir": "1->2", "hour": 16, "count": 74}, {"dir": "1->2", "hour": 17, "count": 44}, {"dir": "1->2", "hour": 18, "count": 81}, {"dir": "1->2", "hour": 19, "count": 72}, {"dir": "1->2", "hour": 20, "count": 56}, {"dir": "1->2", "hour": 21, "count": 36}, {"dir": "1->2", "hour": 22, "count": 22}, {"dir": "1->2", "hour": 23, "count": 20}, {"dir": "2->1", "hour": 0, "count": 24}, {"dir": "2->1", "hour": 1, "count": 15}, {"dir": "2->1", "hour": 2, "count": 6}, {"dir": "2->1", "hour": 3, "count": 2}, {"dir": "2->1", "hour": 4, "count": 1}, {"dir": "2->1", "hour": 5, "count": 3}, {"dir": "2->1", "hour": 6, "count": 13}, {"dir": "2->1", "hour": 7, "count": 39}, {"dir": "2->1", "hour": 8, "count": 39}, {"dir": "2->1", "hour": 9, "count": 34}, {"dir": "2->1", "hour": 10, "count": 30}, {"dir": "2->1", "hour": 11, "count": 49}, {"dir": "2->1", "hour": 12, "count": 49}, {"dir": "2->1", "hour": 13, "count": 47}, {"dir": "2->1", "hour": 14, "count": 43}, {"dir": "2->1", "hour": 15, "count": 59}, {"dir": "2->1", "hour": 16, "count": 58}, {"dir": "2->1", "hour": 17, "count": 53}, {"dir": "2->1", "hour": 18, "count": 65}, {"dir": "2->1", "hour": 19, "count": 56}, {"dir": "2->1", "hour": 20, "count": 51}, {"dir": "2->1", "hour": 21, "count": 38}, {"dir": "2->1", "hour": 22, "count": 20}, {"dir": "2->1", "hour": 23, "count": 23}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

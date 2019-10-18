@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-845d6153a6df408cc214156f957865eb"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "20.03.2019: A100 - Zu- Abfahrt Gradestra\u00dfe (n\u00f6rdl. Gradestra\u00dfe) (Tempelhof, 12099)"}, {"data": {"name": "data-516f385c69951529a90b8f14b791a783"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-845d6153a6df408cc214156f957865eb": [{"dir": "1->2", "hour": 7, "count": 672}, {"dir": "1->2", "hour": 8, "count": 594}, {"dir": "1->2", "hour": 9, "count": 552}, {"dir": "1->2", "hour": 10, "count": 700}, {"dir": "1->2", "hour": 11, "count": 602}, {"dir": "1->2", "hour": 12, "count": 708}, {"dir": "1->2", "hour": 13, "count": 833}, {"dir": "1->2", "hour": 14, "count": 855}, {"dir": "1->2", "hour": 15, "count": 969}, {"dir": "1->2", "hour": 16, "count": 1144}, {"dir": "1->2", "hour": 17, "count": 851}, {"dir": "1->2", "hour": 18, "count": 739}, {"dir": "2->1", "hour": 7, "count": 1322}, {"dir": "2->1", "hour": 8, "count": 1316}, {"dir": "2->1", "hour": 9, "count": 1039}, {"dir": "2->1", "hour": 10, "count": 780}, {"dir": "2->1", "hour": 11, "count": 691}, {"dir": "2->1", "hour": 12, "count": 500}, {"dir": "2->1", "hour": 13, "count": 803}, {"dir": "2->1", "hour": 14, "count": 761}, {"dir": "2->1", "hour": 15, "count": 1000}, {"dir": "2->1", "hour": 16, "count": 670}, {"dir": "2->1", "hour": 17, "count": 720}, {"dir": "2->1", "hour": 18, "count": 520}], "data-516f385c69951529a90b8f14b791a783": [{"dir": "1->2", "hour": 7, "count": 0}, {"dir": "1->2", "hour": 8, "count": 0}, {"dir": "1->2", "hour": 9, "count": 0}, {"dir": "1->2", "hour": 10, "count": 0}, {"dir": "1->2", "hour": 11, "count": 0}, {"dir": "1->2", "hour": 12, "count": 0}, {"dir": "1->2", "hour": 13, "count": 0}, {"dir": "1->2", "hour": 14, "count": 0}, {"dir": "1->2", "hour": 15, "count": 0}, {"dir": "1->2", "hour": 16, "count": 0}, {"dir": "1->2", "hour": 17, "count": 0}, {"dir": "1->2", "hour": 18, "count": 0}, {"dir": "2->1", "hour": 7, "count": 0}, {"dir": "2->1", "hour": 8, "count": 0}, {"dir": "2->1", "hour": 9, "count": 0}, {"dir": "2->1", "hour": 10, "count": 0}, {"dir": "2->1", "hour": 11, "count": 0}, {"dir": "2->1", "hour": 12, "count": 0}, {"dir": "2->1", "hour": 13, "count": 0}, {"dir": "2->1", "hour": 14, "count": 0}, {"dir": "2->1", "hour": 15, "count": 0}, {"dir": "2->1", "hour": 16, "count": 0}, {"dir": "2->1", "hour": 17, "count": 0}, {"dir": "2->1", "hour": 18, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

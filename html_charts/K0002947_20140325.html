@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-abe1dd468bd11a62fcd5507c305dfaad"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "25.03.2014: AK Reinickendorf (A111 - Tunnel Flughafen Tegel / A105 Abzw. Wedding)   (Tegel, 13405)"}, {"data": {"name": "data-abe1dd468bd11a62fcd5507c305dfaad"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-abe1dd468bd11a62fcd5507c305dfaad": [{"dir": "1->2", "hour": 7, "count": 1785}, {"dir": "1->2", "hour": 8, "count": 1617}, {"dir": "1->2", "hour": 9, "count": 1623}, {"dir": "1->2", "hour": 10, "count": 1244}, {"dir": "1->2", "hour": 11, "count": 1166}, {"dir": "1->2", "hour": 12, "count": 1181}, {"dir": "1->2", "hour": 13, "count": 1142}, {"dir": "1->2", "hour": 14, "count": 908}, {"dir": "1->2", "hour": 15, "count": 1013}, {"dir": "1->2", "hour": 16, "count": 1031}, {"dir": "1->2", "hour": 17, "count": 1027}, {"dir": "1->2", "hour": 18, "count": 750}, {"dir": "1->2", "hour": 19, "count": 826}, {"dir": "1->2", "hour": 20, "count": 730}, {"dir": "1->2", "hour": 21, "count": 871}, {"dir": "1->2", "hour": 22, "count": 827}, {"dir": "1->2", "hour": 23, "count": 846}, {"dir": "1->2", "hour": 24, "count": 658}, {"dir": "1->2", "hour": 25, "count": 857}, {"dir": "1->2", "hour": 26, "count": 900}, {"dir": "1->2", "hour": 27, "count": 967}, {"dir": "1->2", "hour": 28, "count": 1028}, {"dir": "1->2", "hour": 29, "count": 1001}, {"dir": "1->2", "hour": 30, "count": 152}, {"dir": "1->3", "hour": 7, "count": 388}, {"dir": "1->3", "hour": 8, "count": 405}, {"dir": "1->3", "hour": 9, "count": 388}, {"dir": "1->3", "hour": 10, "count": 339}, {"dir": "1->3", "hour": 11, "count": 259}, {"dir": "1->3", "hour": 12, "count": 249}, {"dir": "1->3", "hour": 13, "count": 256}, {"dir": "1->3", "hour": 14, "count": 240}, {"dir": "1->3", "hour": 15, "count": 240}, {"dir": "1->3", "hour": 16, "count": 239}, {"dir": "1->3", "hour": 17, "count": 202}, {"dir": "1->3", "hour": 18, "count": 316}, {"dir": "1->3", "hour": 19, "count": 426}, {"dir": "1->3", "hour": 20, "count": 280}, {"dir": "1->3", "hour": 21, "count": 287}, {"dir": "1->3", "hour": 22, "count": 316}, {"dir": "1->3", "hour": 23, "count": 358}, {"dir": "1->3", "hour": 24, "count": 476}, {"dir": "1->3", "hour": 25, "count": 452}, {"dir": "1->3", "hour": 26, "count": 326}, {"dir": "1->3", "hour": 27, "count": 409}, {"dir": "1->3", "hour": 28, "count": 398}, {"dir": "1->3", "hour": 29, "count": 439}, {"dir": "1->3", "hour": 30, "count": 905}, {"dir": "3->1", "hour": 7, "count": 170}, {"dir": "3->1", "hour": 8, "count": 200}, {"dir": "3->1", "hour": 9, "count": 187}, {"dir": "3->1", "hour": 10, "count": 224}, {"dir": "3->1", "hour": 11, "count": 189}, {"dir": "3->1", "hour": 12, "count": 184}, {"dir": "3->1", "hour": 13, "count": 148}, {"dir": "3->1", "hour": 14, "count": 234}, {"dir": "3->1", "hour": 15, "count": 193}, {"dir": "3->1", "hour": 16, "count": 246}, {"dir": "3->1", "hour": 17, "count": 262}, {"dir": "3->1", "hour": 18, "count": 225}, {"dir": "3->1", "hour": 19, "count": 315}, {"dir": "3->1", "hour": 20, "count": 270}, {"dir": "3->1", "hour": 21, "count": 334}, {"dir": "3->1", "hour": 22, "count": 391}, {"dir": "3->1", "hour": 23, "count": 537}, {"dir": "3->1", "hour": 24, "count": 568}, {"dir": "3->1", "hour": 25, "count": 650}, {"dir": "3->1", "hour": 26, "count": 441}, {"dir": "3->1", "hour": 27, "count": 557}, {"dir": "3->1", "hour": 28, "count": 488}, {"dir": "3->1", "hour": 29, "count": 415}, {"dir": "3->1", "hour": 30, "count": 419}, {"dir": "4->1", "hour": 7, "count": 872}, {"dir": "4->1", "hour": 8, "count": 933}, {"dir": "4->1", "hour": 9, "count": 910}, {"dir": "4->1", "hour": 10, "count": 921}, {"dir": "4->1", "hour": 11, "count": 900}, {"dir": "4->1", "hour": 12, "count": 898}, {"dir": "4->1", "hour": 13, "count": 774}, {"dir": "4->1", "hour": 14, "count": 851}, {"dir": "4->1", "hour": 15, "count": 1001}, {"dir": "4->1", "hour": 16, "count": 937}, {"dir": "4->1", "hour": 17, "count": 938}, {"dir": "4->1", "hour": 18, "count": 807}, {"dir": "4->1", "hour": 19, "count": 769}, {"dir": "4->1", "hour": 20, "count": 943}, {"dir": "4->1", "hour": 21, "count": 1226}, {"dir": "4->1", "hour": 22, "count": 1374}, {"dir": "4->1", "hour": 23, "count": 1433}, {"dir": "4->1", "hour": 24, "count": 1027}, {"dir": "4->1", "hour": 25, "count": 1392}, {"dir": "4->1", "hour": 26, "count": 1429}, {"dir": "4->1", "hour": 27, "count": 1441}, {"dir": "4->1", "hour": 28, "count": 1313}, {"dir": "4->1", "hour": 29, "count": 1180}, {"dir": "4->1", "hour": 30, "count": 963}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

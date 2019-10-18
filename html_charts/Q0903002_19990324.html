@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-3bc1d77ebb2aaa9c1f4934a0e9562407"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.03.1999: Transvaalstra\u00dfe (s\u00fcdl. Senegalstra\u00dfe)   (Wedding, 13351)"}, {"data": {"name": "data-3bc1d77ebb2aaa9c1f4934a0e9562407"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-3bc1d77ebb2aaa9c1f4934a0e9562407": [{"dir": "1->2", "hour": 7, "count": 270}, {"dir": "1->2", "hour": 8, "count": 268}, {"dir": "1->2", "hour": 9, "count": 289}, {"dir": "1->2", "hour": 10, "count": -1}, {"dir": "1->2", "hour": 11, "count": -1}, {"dir": "1->2", "hour": 12, "count": -1}, {"dir": "1->2", "hour": 13, "count": -1}, {"dir": "1->2", "hour": 14, "count": -1}, {"dir": "1->2", "hour": 15, "count": 501}, {"dir": "1->2", "hour": 16, "count": 519}, {"dir": "1->2", "hour": 17, "count": 451}, {"dir": "2->1", "hour": 7, "count": 893}, {"dir": "2->1", "hour": 8, "count": 784}, {"dir": "2->1", "hour": 9, "count": 512}, {"dir": "2->1", "hour": 10, "count": -1}, {"dir": "2->1", "hour": 11, "count": -1}, {"dir": "2->1", "hour": 12, "count": -1}, {"dir": "2->1", "hour": 13, "count": -1}, {"dir": "2->1", "hour": 14, "count": -1}, {"dir": "2->1", "hour": 15, "count": 455}, {"dir": "2->1", "hour": 16, "count": 457}, {"dir": "2->1", "hour": 17, "count": 388}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

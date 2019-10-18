@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-ddd7a96f3a646ed582f9584f9cd36e38"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "15.06.1998: Siemensdamm (H\u00f6he S-Bhf. Wernerwerk)   (Siemensstadt, 14050)"}, {"data": {"name": "data-ddd7a96f3a646ed582f9584f9cd36e38"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-ddd7a96f3a646ed582f9584f9cd36e38": [{"dir": "1->2", "hour": 7, "count": 1743}, {"dir": "1->2", "hour": 8, "count": 1564}, {"dir": "1->2", "hour": 9, "count": 1261}, {"dir": "1->2", "hour": 10, "count": -1}, {"dir": "1->2", "hour": 11, "count": -1}, {"dir": "1->2", "hour": 12, "count": -1}, {"dir": "1->2", "hour": 13, "count": -1}, {"dir": "1->2", "hour": 14, "count": -1}, {"dir": "1->2", "hour": 15, "count": 1773}, {"dir": "1->2", "hour": 16, "count": 1634}, {"dir": "1->2", "hour": 17, "count": 1541}, {"dir": "2->1", "hour": 7, "count": 1639}, {"dir": "2->1", "hour": 8, "count": 1797}, {"dir": "2->1", "hour": 9, "count": 1447}, {"dir": "2->1", "hour": 10, "count": -1}, {"dir": "2->1", "hour": 11, "count": -1}, {"dir": "2->1", "hour": 12, "count": -1}, {"dir": "2->1", "hour": 13, "count": -1}, {"dir": "2->1", "hour": 14, "count": -1}, {"dir": "2->1", "hour": 15, "count": 1660}, {"dir": "2->1", "hour": 16, "count": 1751}, {"dir": "2->1", "hour": 17, "count": 1677}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

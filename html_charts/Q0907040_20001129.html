@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-e75c43808011b44dad7b91b387c32bc0"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "29.11.2000: Kurf\u00fcrstendamm (\u00f6stl. Clausewitzstra\u00dfe)   (Charlottenburg, 10629)"}, {"data": {"name": "data-e75c43808011b44dad7b91b387c32bc0"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-e75c43808011b44dad7b91b387c32bc0": [{"dir": "1->2", "hour": 0, "count": 365}, {"dir": "1->2", "hour": 1, "count": 230}, {"dir": "1->2", "hour": 2, "count": 149}, {"dir": "1->2", "hour": 3, "count": 121}, {"dir": "1->2", "hour": 4, "count": 109}, {"dir": "1->2", "hour": 5, "count": 147}, {"dir": "1->2", "hour": 6, "count": 388}, {"dir": "1->2", "hour": 7, "count": 844}, {"dir": "1->2", "hour": 8, "count": 1355}, {"dir": "1->2", "hour": 9, "count": 1100}, {"dir": "1->2", "hour": 10, "count": 1134}, {"dir": "1->2", "hour": 11, "count": 1065}, {"dir": "1->2", "hour": 12, "count": 1077}, {"dir": "1->2", "hour": 13, "count": 1111}, {"dir": "1->2", "hour": 14, "count": 1174}, {"dir": "1->2", "hour": 15, "count": 1226}, {"dir": "1->2", "hour": 16, "count": 1253}, {"dir": "1->2", "hour": 17, "count": 1219}, {"dir": "1->2", "hour": 18, "count": 1143}, {"dir": "1->2", "hour": 19, "count": 1184}, {"dir": "1->2", "hour": 20, "count": 880}, {"dir": "1->2", "hour": 21, "count": 678}, {"dir": "1->2", "hour": 22, "count": 638}, {"dir": "1->2", "hour": 23, "count": 523}, {"dir": "2->1", "hour": 0, "count": 418}, {"dir": "2->1", "hour": 1, "count": 271}, {"dir": "2->1", "hour": 2, "count": 170}, {"dir": "2->1", "hour": 3, "count": 114}, {"dir": "2->1", "hour": 4, "count": 101}, {"dir": "2->1", "hour": 5, "count": 144}, {"dir": "2->1", "hour": 6, "count": 283}, {"dir": "2->1", "hour": 7, "count": 582}, {"dir": "2->1", "hour": 8, "count": 743}, {"dir": "2->1", "hour": 9, "count": 806}, {"dir": "2->1", "hour": 10, "count": 865}, {"dir": "2->1", "hour": 11, "count": 871}, {"dir": "2->1", "hour": 12, "count": 1051}, {"dir": "2->1", "hour": 13, "count": 1128}, {"dir": "2->1", "hour": 14, "count": 1521}, {"dir": "2->1", "hour": 15, "count": 1191}, {"dir": "2->1", "hour": 16, "count": 1167}, {"dir": "2->1", "hour": 17, "count": 1326}, {"dir": "2->1", "hour": 18, "count": 1161}, {"dir": "2->1", "hour": 19, "count": 1065}, {"dir": "2->1", "hour": 20, "count": 1067}, {"dir": "2->1", "hour": 21, "count": 836}, {"dir": "2->1", "hour": 22, "count": 861}, {"dir": "2->1", "hour": 23, "count": 656}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

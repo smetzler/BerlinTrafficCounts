@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-8b9e1029c91113b9a3ffaaec628d2d35"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "29.07.2015: B96a - Blankenfelder Chaussee (s\u00fcdl. Berliner Str.)   (Blankenfelde, 13159)"}, {"data": {"name": "data-f6b25a8a51300ba7ca37833f028fef8a"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-8b9e1029c91113b9a3ffaaec628d2d35": [{"dir": "1->2", "hour": 15, "count": 306}, {"dir": "1->2", "hour": 16, "count": 327}, {"dir": "1->2", "hour": 17, "count": 317}, {"dir": "2->1", "hour": 15, "count": 470}, {"dir": "2->1", "hour": 16, "count": 571}, {"dir": "2->1", "hour": 17, "count": 473}], "data-f6b25a8a51300ba7ca37833f028fef8a": [{"dir": "1->2", "hour": 15, "count": 12}, {"dir": "1->2", "hour": 16, "count": 11}, {"dir": "1->2", "hour": 17, "count": 21}, {"dir": "2->1", "hour": 15, "count": 24}, {"dir": "2->1", "hour": 16, "count": 24}, {"dir": "2->1", "hour": 17, "count": 11}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
