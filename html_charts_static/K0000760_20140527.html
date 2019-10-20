@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-fd0c3e4d57b0df8b998623e55b95e109"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "27.05.2014: Moritzplatz - Prinzenstra\u00dfe   (Kreuzberg, 10969)"}, {"data": {"name": "data-aa2ca719e99747049a2d1fbf560be724"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-fd0c3e4d57b0df8b998623e55b95e109": [{"dir": "1->2", "hour": 7, "count": 335}, {"dir": "1->2", "hour": 8, "count": 256}, {"dir": "1->2", "hour": 9, "count": 339}, {"dir": "1->2", "hour": 10, "count": 379}, {"dir": "1->2", "hour": 11, "count": 314}, {"dir": "1->2", "hour": 12, "count": 485}, {"dir": "1->2", "hour": 13, "count": 582}, {"dir": "1->2", "hour": 14, "count": 721}, {"dir": "1->2", "hour": 15, "count": 776}, {"dir": "1->2", "hour": 16, "count": 719}, {"dir": "1->2", "hour": 17, "count": 624}, {"dir": "1->2", "hour": 18, "count": 629}, {"dir": "1->4", "hour": 7, "count": 261}, {"dir": "1->4", "hour": 8, "count": 426}, {"dir": "1->4", "hour": 9, "count": 478}, {"dir": "1->4", "hour": 10, "count": 483}, {"dir": "1->4", "hour": 11, "count": 467}, {"dir": "1->4", "hour": 12, "count": 388}, {"dir": "1->4", "hour": 13, "count": 460}, {"dir": "1->4", "hour": 14, "count": 506}, {"dir": "1->4", "hour": 15, "count": 487}, {"dir": "1->4", "hour": 16, "count": 511}, {"dir": "1->4", "hour": 17, "count": 591}, {"dir": "1->4", "hour": 18, "count": 596}, {"dir": "2->4", "hour": 7, "count": 409}, {"dir": "2->4", "hour": 8, "count": 445}, {"dir": "2->4", "hour": 9, "count": 438}, {"dir": "2->4", "hour": 10, "count": 453}, {"dir": "2->4", "hour": 11, "count": 387}, {"dir": "2->4", "hour": 12, "count": 481}, {"dir": "2->4", "hour": 13, "count": 479}, {"dir": "2->4", "hour": 14, "count": 535}, {"dir": "2->4", "hour": 15, "count": 529}, {"dir": "2->4", "hour": 16, "count": 475}, {"dir": "2->4", "hour": 17, "count": 477}, {"dir": "2->4", "hour": 18, "count": 486}], "data-aa2ca719e99747049a2d1fbf560be724": [{"dir": "1->2", "hour": 7, "count": 59}, {"dir": "1->2", "hour": 8, "count": 171}, {"dir": "1->2", "hour": 9, "count": 247}, {"dir": "1->2", "hour": 10, "count": 143}, {"dir": "1->2", "hour": 11, "count": 132}, {"dir": "1->2", "hour": 12, "count": 97}, {"dir": "1->2", "hour": 13, "count": 74}, {"dir": "1->2", "hour": 14, "count": 78}, {"dir": "1->2", "hour": 15, "count": 123}, {"dir": "1->2", "hour": 16, "count": 106}, {"dir": "1->2", "hour": 17, "count": 134}, {"dir": "1->2", "hour": 18, "count": 76}, {"dir": "1->4", "hour": 7, "count": 83}, {"dir": "1->4", "hour": 8, "count": 112}, {"dir": "1->4", "hour": 9, "count": 139}, {"dir": "1->4", "hour": 10, "count": 112}, {"dir": "1->4", "hour": 11, "count": 96}, {"dir": "1->4", "hour": 12, "count": 104}, {"dir": "1->4", "hour": 13, "count": 103}, {"dir": "1->4", "hour": 14, "count": 159}, {"dir": "1->4", "hour": 15, "count": 172}, {"dir": "1->4", "hour": 16, "count": 194}, {"dir": "1->4", "hour": 17, "count": 295}, {"dir": "1->4", "hour": 18, "count": 353}, {"dir": "2->4", "hour": 7, "count": 164}, {"dir": "2->4", "hour": 8, "count": 324}, {"dir": "2->4", "hour": 9, "count": 267}, {"dir": "2->4", "hour": 10, "count": 142}, {"dir": "2->4", "hour": 11, "count": 109}, {"dir": "2->4", "hour": 12, "count": 113}, {"dir": "2->4", "hour": 13, "count": 99}, {"dir": "2->4", "hour": 14, "count": 69}, {"dir": "2->4", "hour": 15, "count": 91}, {"dir": "2->4", "hour": 16, "count": 115}, {"dir": "2->4", "hour": 17, "count": 109}, {"dir": "2->4", "hour": 18, "count": 131}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-d5e81ce66c66c47024b441cde7926b75"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "22.08.2011: Columbiadamm (\u00f6stl. Lilienthalstra\u00dfe)   (Tempelhof, 10965)"}, {"data": {"name": "data-aaa39f0b7d77bac4f9f19d5cce45362c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-d5e81ce66c66c47024b441cde7926b75": [{"dir": "1->2", "hour": 7, "count": 368}, {"dir": "1->2", "hour": 8, "count": 547}, {"dir": "1->2", "hour": 9, "count": 445}, {"dir": "1->2", "hour": 10, "count": 290}, {"dir": "1->2", "hour": 11, "count": 445}, {"dir": "1->2", "hour": 12, "count": 413}, {"dir": "1->2", "hour": 13, "count": 524}, {"dir": "1->2", "hour": 14, "count": 602}, {"dir": "1->2", "hour": 15, "count": 695}, {"dir": "1->2", "hour": 16, "count": 796}, {"dir": "1->2", "hour": 17, "count": 674}, {"dir": "1->2", "hour": 18, "count": 605}, {"dir": "2->1", "hour": 7, "count": 695}, {"dir": "2->1", "hour": 8, "count": 847}, {"dir": "2->1", "hour": 9, "count": 599}, {"dir": "2->1", "hour": 10, "count": 396}, {"dir": "2->1", "hour": 11, "count": 424}, {"dir": "2->1", "hour": 12, "count": 412}, {"dir": "2->1", "hour": 13, "count": 549}, {"dir": "2->1", "hour": 14, "count": 584}, {"dir": "2->1", "hour": 15, "count": 516}, {"dir": "2->1", "hour": 16, "count": 488}, {"dir": "2->1", "hour": 17, "count": 633}, {"dir": "2->1", "hour": 18, "count": 575}], "data-aaa39f0b7d77bac4f9f19d5cce45362c": [{"dir": "1->2", "hour": 7, "count": 32}, {"dir": "1->2", "hour": 8, "count": 62}, {"dir": "1->2", "hour": 9, "count": 59}, {"dir": "1->2", "hour": 10, "count": 30}, {"dir": "1->2", "hour": 11, "count": 37}, {"dir": "1->2", "hour": 12, "count": 50}, {"dir": "1->2", "hour": 13, "count": 52}, {"dir": "1->2", "hour": 14, "count": 82}, {"dir": "1->2", "hour": 15, "count": 124}, {"dir": "1->2", "hour": 16, "count": 166}, {"dir": "1->2", "hour": 17, "count": 165}, {"dir": "1->2", "hour": 18, "count": 176}, {"dir": "2->1", "hour": 7, "count": 37}, {"dir": "2->1", "hour": 8, "count": 65}, {"dir": "2->1", "hour": 9, "count": 30}, {"dir": "2->1", "hour": 10, "count": 20}, {"dir": "2->1", "hour": 11, "count": 20}, {"dir": "2->1", "hour": 12, "count": 66}, {"dir": "2->1", "hour": 13, "count": 62}, {"dir": "2->1", "hour": 14, "count": 64}, {"dir": "2->1", "hour": 15, "count": 88}, {"dir": "2->1", "hour": 16, "count": 92}, {"dir": "2->1", "hour": 17, "count": 88}, {"dir": "2->1", "hour": 18, "count": 137}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

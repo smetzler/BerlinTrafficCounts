@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-cd9869106e7619599c8c092b37a7c48c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.09.2018: BAB Zubr. Prenzlau (A114) (n\u00f6rdl. Zu-Abfahrt)   (Pankow, 13127)"}, {"data": {"name": "data-516f385c69951529a90b8f14b791a783"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-cd9869106e7619599c8c092b37a7c48c": [{"dir": "1->2", "hour": 7, "count": 1527}, {"dir": "1->2", "hour": 8, "count": 1424}, {"dir": "1->2", "hour": 9, "count": 1135}, {"dir": "1->2", "hour": 10, "count": 818}, {"dir": "1->2", "hour": 11, "count": 785}, {"dir": "1->2", "hour": 12, "count": 804}, {"dir": "1->2", "hour": 13, "count": 760}, {"dir": "1->2", "hour": 14, "count": 838}, {"dir": "1->2", "hour": 15, "count": 1030}, {"dir": "1->2", "hour": 16, "count": 1084}, {"dir": "1->2", "hour": 17, "count": 1115}, {"dir": "1->2", "hour": 18, "count": 910}, {"dir": "2->1", "hour": 7, "count": 1076}, {"dir": "2->1", "hour": 8, "count": 935}, {"dir": "2->1", "hour": 9, "count": 873}, {"dir": "2->1", "hour": 10, "count": 864}, {"dir": "2->1", "hour": 11, "count": 821}, {"dir": "2->1", "hour": 12, "count": 732}, {"dir": "2->1", "hour": 13, "count": 770}, {"dir": "2->1", "hour": 14, "count": 1039}, {"dir": "2->1", "hour": 15, "count": 1413}, {"dir": "2->1", "hour": 16, "count": 1504}, {"dir": "2->1", "hour": 17, "count": 1306}, {"dir": "2->1", "hour": 18, "count": 1119}], "data-516f385c69951529a90b8f14b791a783": [{"dir": "1->2", "hour": 7, "count": 0}, {"dir": "1->2", "hour": 8, "count": 0}, {"dir": "1->2", "hour": 9, "count": 0}, {"dir": "1->2", "hour": 10, "count": 0}, {"dir": "1->2", "hour": 11, "count": 0}, {"dir": "1->2", "hour": 12, "count": 0}, {"dir": "1->2", "hour": 13, "count": 0}, {"dir": "1->2", "hour": 14, "count": 0}, {"dir": "1->2", "hour": 15, "count": 0}, {"dir": "1->2", "hour": 16, "count": 0}, {"dir": "1->2", "hour": 17, "count": 0}, {"dir": "1->2", "hour": 18, "count": 0}, {"dir": "2->1", "hour": 7, "count": 0}, {"dir": "2->1", "hour": 8, "count": 0}, {"dir": "2->1", "hour": 9, "count": 0}, {"dir": "2->1", "hour": 10, "count": 0}, {"dir": "2->1", "hour": 11, "count": 0}, {"dir": "2->1", "hour": 12, "count": 0}, {"dir": "2->1", "hour": 13, "count": 0}, {"dir": "2->1", "hour": 14, "count": 0}, {"dir": "2->1", "hour": 15, "count": 0}, {"dir": "2->1", "hour": 16, "count": 0}, {"dir": "2->1", "hour": 17, "count": 0}, {"dir": "2->1", "hour": 18, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

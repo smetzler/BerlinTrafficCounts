@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-ceaf928c8beac3cee6fbc5c33ea5f990"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "23.09.2008: Cunostra\u00dfe (s\u00fcdl. Reichenhaller Str.)   (Schmargendorf, 14199)"}, {"data": {"name": "data-4d47c6db0845df1eb3baa72270564e10"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-ceaf928c8beac3cee6fbc5c33ea5f990": [{"dir": "1->2", "hour": 7, "count": 79}, {"dir": "1->2", "hour": 8, "count": 52}, {"dir": "1->2", "hour": 9, "count": 51}, {"dir": "1->2", "hour": 10, "count": 48}, {"dir": "1->2", "hour": 11, "count": 51}, {"dir": "1->2", "hour": 12, "count": 50}, {"dir": "1->2", "hour": 13, "count": 70}, {"dir": "1->2", "hour": 14, "count": 82}, {"dir": "1->2", "hour": 15, "count": 86}, {"dir": "1->2", "hour": 16, "count": 102}, {"dir": "1->2", "hour": 17, "count": 76}, {"dir": "1->2", "hour": 18, "count": 62}, {"dir": "2->1", "hour": 7, "count": 75}, {"dir": "2->1", "hour": 8, "count": 71}, {"dir": "2->1", "hour": 9, "count": 60}, {"dir": "2->1", "hour": 10, "count": 84}, {"dir": "2->1", "hour": 11, "count": 56}, {"dir": "2->1", "hour": 12, "count": 77}, {"dir": "2->1", "hour": 13, "count": 89}, {"dir": "2->1", "hour": 14, "count": 69}, {"dir": "2->1", "hour": 15, "count": 120}, {"dir": "2->1", "hour": 16, "count": 132}, {"dir": "2->1", "hour": 17, "count": 97}, {"dir": "2->1", "hour": 18, "count": 69}], "data-4d47c6db0845df1eb3baa72270564e10": [{"dir": "1->2", "hour": 7, "count": 9}, {"dir": "1->2", "hour": 8, "count": 5}, {"dir": "1->2", "hour": 9, "count": 6}, {"dir": "1->2", "hour": 10, "count": 2}, {"dir": "1->2", "hour": 11, "count": 2}, {"dir": "1->2", "hour": 12, "count": 7}, {"dir": "1->2", "hour": 13, "count": 7}, {"dir": "1->2", "hour": 14, "count": 4}, {"dir": "1->2", "hour": 15, "count": 6}, {"dir": "1->2", "hour": 16, "count": 15}, {"dir": "1->2", "hour": 17, "count": 16}, {"dir": "1->2", "hour": 18, "count": 13}, {"dir": "2->1", "hour": 7, "count": 6}, {"dir": "2->1", "hour": 8, "count": 4}, {"dir": "2->1", "hour": 9, "count": 7}, {"dir": "2->1", "hour": 10, "count": 6}, {"dir": "2->1", "hour": 11, "count": 3}, {"dir": "2->1", "hour": 12, "count": 5}, {"dir": "2->1", "hour": 13, "count": 14}, {"dir": "2->1", "hour": 14, "count": 8}, {"dir": "2->1", "hour": 15, "count": 2}, {"dir": "2->1", "hour": 16, "count": 8}, {"dir": "2->1", "hour": 17, "count": 16}, {"dir": "2->1", "hour": 18, "count": 9}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

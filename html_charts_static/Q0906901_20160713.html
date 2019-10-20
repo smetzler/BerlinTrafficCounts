@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-9d24762fe75cd7c48a5604ddbbe91e2b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "13.07.2016: Zossener Stra\u00dfe (n\u00f6rdl. Bl\u00fccherstra\u00dfe)   (Kreuzberg, 10961)"}, {"data": {"name": "data-e38b2a0c6603d93d5ee194874c5ba744"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-9d24762fe75cd7c48a5604ddbbe91e2b": [{"dir": "1->2", "hour": 7, "count": 221}, {"dir": "1->2", "hour": 8, "count": 410}, {"dir": "1->2", "hour": 9, "count": 306}, {"dir": "1->2", "hour": 10, "count": 197}, {"dir": "1->2", "hour": 11, "count": 59}, {"dir": "1->2", "hour": 12, "count": 36}, {"dir": "1->2", "hour": 13, "count": 50}, {"dir": "1->2", "hour": 14, "count": 88}, {"dir": "1->2", "hour": 15, "count": 121}, {"dir": "1->2", "hour": 16, "count": 134}, {"dir": "1->2", "hour": 17, "count": 160}, {"dir": "1->2", "hour": 18, "count": 166}, {"dir": "2->1", "hour": 7, "count": 104}, {"dir": "2->1", "hour": 8, "count": 139}, {"dir": "2->1", "hour": 9, "count": 104}, {"dir": "2->1", "hour": 10, "count": 77}, {"dir": "2->1", "hour": 11, "count": 50}, {"dir": "2->1", "hour": 12, "count": 41}, {"dir": "2->1", "hour": 13, "count": 56}, {"dir": "2->1", "hour": 14, "count": 84}, {"dir": "2->1", "hour": 15, "count": 157}, {"dir": "2->1", "hour": 16, "count": 128}, {"dir": "2->1", "hour": 17, "count": 242}, {"dir": "2->1", "hour": 18, "count": 312}], "data-e38b2a0c6603d93d5ee194874c5ba744": [{"dir": "1->2", "hour": 7, "count": 235}, {"dir": "1->2", "hour": 8, "count": 580}, {"dir": "1->2", "hour": 9, "count": 523}, {"dir": "1->2", "hour": 10, "count": 368}, {"dir": "1->2", "hour": 11, "count": 127}, {"dir": "1->2", "hour": 12, "count": 93}, {"dir": "1->2", "hour": 13, "count": 108}, {"dir": "1->2", "hour": 14, "count": 136}, {"dir": "1->2", "hour": 15, "count": 173}, {"dir": "1->2", "hour": 16, "count": 140}, {"dir": "1->2", "hour": 17, "count": 183}, {"dir": "1->2", "hour": 18, "count": 215}, {"dir": "2->1", "hour": 7, "count": 87}, {"dir": "2->1", "hour": 8, "count": 180}, {"dir": "2->1", "hour": 9, "count": 185}, {"dir": "2->1", "hour": 10, "count": 120}, {"dir": "2->1", "hour": 11, "count": 64}, {"dir": "2->1", "hour": 12, "count": 45}, {"dir": "2->1", "hour": 13, "count": 78}, {"dir": "2->1", "hour": 14, "count": 127}, {"dir": "2->1", "hour": 15, "count": 212}, {"dir": "2->1", "hour": 16, "count": 232}, {"dir": "2->1", "hour": 17, "count": 307}, {"dir": "2->1", "hour": 18, "count": 433}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

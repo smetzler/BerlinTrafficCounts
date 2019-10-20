@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-89445a55d94b19a64286ea94c57a2b55"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "03.06.2009: Reichsstra\u00dfe (s\u00fcdl.Steubenplatz)   (Westend, 14052)"}, {"data": {"name": "data-c09ca361168afe5c9d2f6f2e0cfe391e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-89445a55d94b19a64286ea94c57a2b55": [{"dir": "1->2", "hour": 7, "count": 1042}, {"dir": "1->2", "hour": 8, "count": 1167}, {"dir": "1->2", "hour": 9, "count": 1041}, {"dir": "1->2", "hour": 10, "count": 814}, {"dir": "1->2", "hour": 11, "count": 818}, {"dir": "1->2", "hour": 12, "count": 831}, {"dir": "1->2", "hour": 13, "count": 815}, {"dir": "1->2", "hour": 14, "count": 872}, {"dir": "1->2", "hour": 15, "count": 1028}, {"dir": "1->2", "hour": 16, "count": 924}, {"dir": "1->2", "hour": 17, "count": 804}, {"dir": "1->2", "hour": 18, "count": 745}, {"dir": "2->1", "hour": 7, "count": 698}, {"dir": "2->1", "hour": 8, "count": 730}, {"dir": "2->1", "hour": 9, "count": 881}, {"dir": "2->1", "hour": 10, "count": 766}, {"dir": "2->1", "hour": 11, "count": 851}, {"dir": "2->1", "hour": 12, "count": 908}, {"dir": "2->1", "hour": 13, "count": 924}, {"dir": "2->1", "hour": 14, "count": 959}, {"dir": "2->1", "hour": 15, "count": 1052}, {"dir": "2->1", "hour": 16, "count": 1238}, {"dir": "2->1", "hour": 17, "count": 1157}, {"dir": "2->1", "hour": 18, "count": 908}], "data-c09ca361168afe5c9d2f6f2e0cfe391e": [{"dir": "1->2", "hour": 7, "count": 38}, {"dir": "1->2", "hour": 8, "count": 33}, {"dir": "1->2", "hour": 9, "count": 39}, {"dir": "1->2", "hour": 10, "count": 24}, {"dir": "1->2", "hour": 11, "count": 32}, {"dir": "1->2", "hour": 12, "count": 24}, {"dir": "1->2", "hour": 13, "count": 22}, {"dir": "1->2", "hour": 14, "count": 24}, {"dir": "1->2", "hour": 15, "count": 22}, {"dir": "1->2", "hour": 16, "count": 26}, {"dir": "1->2", "hour": 17, "count": 13}, {"dir": "1->2", "hour": 18, "count": 21}, {"dir": "2->1", "hour": 7, "count": 16}, {"dir": "2->1", "hour": 8, "count": 26}, {"dir": "2->1", "hour": 9, "count": 16}, {"dir": "2->1", "hour": 10, "count": 34}, {"dir": "2->1", "hour": 11, "count": 24}, {"dir": "2->1", "hour": 12, "count": 25}, {"dir": "2->1", "hour": 13, "count": 23}, {"dir": "2->1", "hour": 14, "count": 24}, {"dir": "2->1", "hour": 15, "count": 45}, {"dir": "2->1", "hour": 16, "count": 41}, {"dir": "2->1", "hour": 17, "count": 34}, {"dir": "2->1", "hour": 18, "count": 25}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-d27a9ddc4132f0dd29e67ae7c5c0a8cf"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "26.04.2010: Beusselstra\u00dfe (s\u00fcdl. BAB, Ludwig-Hoffmann-Br\u00fccke)   (Tiergarten, 10553)"}, {"data": {"name": "data-0eac277d83296dc3515c100cce6b9dfc"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-d27a9ddc4132f0dd29e67ae7c5c0a8cf": [{"dir": "1->2", "hour": 6, "count": 1017}, {"dir": "1->2", "hour": 7, "count": 1062}, {"dir": "1->2", "hour": 8, "count": 1122}, {"dir": "1->2", "hour": 9, "count": 986}, {"dir": "1->2", "hour": 10, "count": 1038}, {"dir": "1->2", "hour": 11, "count": 810}, {"dir": "1->2", "hour": 12, "count": 763}, {"dir": "1->2", "hour": 13, "count": 809}, {"dir": "1->2", "hour": 14, "count": 837}, {"dir": "1->2", "hour": 15, "count": 844}, {"dir": "1->2", "hour": 16, "count": 847}, {"dir": "1->2", "hour": 17, "count": 823}, {"dir": "1->2", "hour": 18, "count": 950}, {"dir": "2->1", "hour": 6, "count": 607}, {"dir": "2->1", "hour": 7, "count": 664}, {"dir": "2->1", "hour": 8, "count": 656}, {"dir": "2->1", "hour": 9, "count": 660}, {"dir": "2->1", "hour": 10, "count": 606}, {"dir": "2->1", "hour": 11, "count": 595}, {"dir": "2->1", "hour": 12, "count": 749}, {"dir": "2->1", "hour": 13, "count": 741}, {"dir": "2->1", "hour": 14, "count": 764}, {"dir": "2->1", "hour": 15, "count": 788}, {"dir": "2->1", "hour": 16, "count": 839}, {"dir": "2->1", "hour": 17, "count": 887}, {"dir": "2->1", "hour": 18, "count": 817}], "data-0eac277d83296dc3515c100cce6b9dfc": [{"dir": "1->2", "hour": 6, "count": 51}, {"dir": "1->2", "hour": 7, "count": 55}, {"dir": "1->2", "hour": 8, "count": 80}, {"dir": "1->2", "hour": 9, "count": 38}, {"dir": "1->2", "hour": 10, "count": 34}, {"dir": "1->2", "hour": 11, "count": 36}, {"dir": "1->2", "hour": 12, "count": 33}, {"dir": "1->2", "hour": 13, "count": 23}, {"dir": "1->2", "hour": 14, "count": 45}, {"dir": "1->2", "hour": 15, "count": 43}, {"dir": "1->2", "hour": 16, "count": 35}, {"dir": "1->2", "hour": 17, "count": 35}, {"dir": "1->2", "hour": 18, "count": 31}, {"dir": "2->1", "hour": 6, "count": 12}, {"dir": "2->1", "hour": 7, "count": 46}, {"dir": "2->1", "hour": 8, "count": 36}, {"dir": "2->1", "hour": 9, "count": 32}, {"dir": "2->1", "hour": 10, "count": 32}, {"dir": "2->1", "hour": 11, "count": 30}, {"dir": "2->1", "hour": 12, "count": 35}, {"dir": "2->1", "hour": 13, "count": 37}, {"dir": "2->1", "hour": 14, "count": 38}, {"dir": "2->1", "hour": 15, "count": 39}, {"dir": "2->1", "hour": 16, "count": 26}, {"dir": "2->1", "hour": 17, "count": 44}, {"dir": "2->1", "hour": 18, "count": 37}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

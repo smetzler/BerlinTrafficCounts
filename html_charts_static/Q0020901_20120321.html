@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-042f1f48d61cae7e856a12440a7738c7"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "21.03.2012: Eldenaer Str. (westl. Scheffelstr., S-Bahn.Br\u00fccke)   (Friedrichshain, 10247)"}, {"data": {"name": "data-2e19b8b2fc4c477647263a86c0b63e14"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-042f1f48d61cae7e856a12440a7738c7": [{"dir": "1->2", "hour": 7, "count": 143}, {"dir": "1->2", "hour": 8, "count": 132}, {"dir": "1->2", "hour": 9, "count": 167}, {"dir": "1->2", "hour": 10, "count": 236}, {"dir": "1->2", "hour": 11, "count": 227}, {"dir": "1->2", "hour": 12, "count": 211}, {"dir": "1->2", "hour": 13, "count": 258}, {"dir": "1->2", "hour": 14, "count": 277}, {"dir": "1->2", "hour": 15, "count": 316}, {"dir": "1->2", "hour": 16, "count": 516}, {"dir": "1->2", "hour": 17, "count": 486}, {"dir": "1->2", "hour": 18, "count": 398}, {"dir": "2->1", "hour": 7, "count": 504}, {"dir": "2->1", "hour": 8, "count": 481}, {"dir": "2->1", "hour": 9, "count": 299}, {"dir": "2->1", "hour": 10, "count": 208}, {"dir": "2->1", "hour": 11, "count": 193}, {"dir": "2->1", "hour": 12, "count": 223}, {"dir": "2->1", "hour": 13, "count": 243}, {"dir": "2->1", "hour": 14, "count": 236}, {"dir": "2->1", "hour": 15, "count": 242}, {"dir": "2->1", "hour": 16, "count": 298}, {"dir": "2->1", "hour": 17, "count": 246}, {"dir": "2->1", "hour": 18, "count": 273}], "data-2e19b8b2fc4c477647263a86c0b63e14": [{"dir": "1->2", "hour": 7, "count": 62}, {"dir": "1->2", "hour": 8, "count": 39}, {"dir": "1->2", "hour": 9, "count": 25}, {"dir": "1->2", "hour": 10, "count": 34}, {"dir": "1->2", "hour": 11, "count": 26}, {"dir": "1->2", "hour": 12, "count": 32}, {"dir": "1->2", "hour": 13, "count": 44}, {"dir": "1->2", "hour": 14, "count": 36}, {"dir": "1->2", "hour": 15, "count": 34}, {"dir": "1->2", "hour": 16, "count": 38}, {"dir": "1->2", "hour": 17, "count": 87}, {"dir": "1->2", "hour": 18, "count": 73}, {"dir": "2->1", "hour": 7, "count": 74}, {"dir": "2->1", "hour": 8, "count": 64}, {"dir": "2->1", "hour": 9, "count": 38}, {"dir": "2->1", "hour": 10, "count": 24}, {"dir": "2->1", "hour": 11, "count": 24}, {"dir": "2->1", "hour": 12, "count": 30}, {"dir": "2->1", "hour": 13, "count": 45}, {"dir": "2->1", "hour": 14, "count": 35}, {"dir": "2->1", "hour": 15, "count": 37}, {"dir": "2->1", "hour": 16, "count": 64}, {"dir": "2->1", "hour": 17, "count": 66}, {"dir": "2->1", "hour": 18, "count": 52}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

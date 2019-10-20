@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-15c548a3bb3f7d3928a44938bf74b4ac"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.05.2014: Ludolfingerplatz / Welfenallee   (Frohnau, 13465)"}, {"data": {"name": "data-c91b50b6a9bcd1b6c2e6f3a5f57e0c80"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-15c548a3bb3f7d3928a44938bf74b4ac": [{"dir": "2->3", "hour": 7, "count": 213}, {"dir": "2->3", "hour": 8, "count": 221}, {"dir": "2->3", "hour": 9, "count": 207}, {"dir": "2->3", "hour": 10, "count": 214}, {"dir": "2->3", "hour": 11, "count": 144}, {"dir": "2->3", "hour": 12, "count": 142}, {"dir": "2->3", "hour": 13, "count": 165}, {"dir": "2->3", "hour": 14, "count": 134}, {"dir": "2->3", "hour": 15, "count": 170}, {"dir": "2->3", "hour": 16, "count": 200}, {"dir": "2->3", "hour": 17, "count": 159}, {"dir": "2->3", "hour": 18, "count": 123}, {"dir": "2->4", "hour": 7, "count": 213}, {"dir": "2->4", "hour": 8, "count": 223}, {"dir": "2->4", "hour": 9, "count": 257}, {"dir": "2->4", "hour": 10, "count": 234}, {"dir": "2->4", "hour": 11, "count": 280}, {"dir": "2->4", "hour": 12, "count": 298}, {"dir": "2->4", "hour": 13, "count": 301}, {"dir": "2->4", "hour": 14, "count": 282}, {"dir": "2->4", "hour": 15, "count": 288}, {"dir": "2->4", "hour": 16, "count": 330}, {"dir": "2->4", "hour": 17, "count": 291}, {"dir": "2->4", "hour": 18, "count": 224}, {"dir": "3->4", "hour": 7, "count": 88}, {"dir": "3->4", "hour": 8, "count": 109}, {"dir": "3->4", "hour": 9, "count": 114}, {"dir": "3->4", "hour": 10, "count": 152}, {"dir": "3->4", "hour": 11, "count": 154}, {"dir": "3->4", "hour": 12, "count": 161}, {"dir": "3->4", "hour": 13, "count": 166}, {"dir": "3->4", "hour": 14, "count": 178}, {"dir": "3->4", "hour": 15, "count": 211}, {"dir": "3->4", "hour": 16, "count": 256}, {"dir": "3->4", "hour": 17, "count": 229}, {"dir": "3->4", "hour": 18, "count": 193}], "data-c91b50b6a9bcd1b6c2e6f3a5f57e0c80": [{"dir": "2->3", "hour": 7, "count": 21}, {"dir": "2->3", "hour": 8, "count": 23}, {"dir": "2->3", "hour": 9, "count": 8}, {"dir": "2->3", "hour": 10, "count": 6}, {"dir": "2->3", "hour": 11, "count": 4}, {"dir": "2->3", "hour": 12, "count": 6}, {"dir": "2->3", "hour": 13, "count": 22}, {"dir": "2->3", "hour": 14, "count": 19}, {"dir": "2->3", "hour": 15, "count": 24}, {"dir": "2->3", "hour": 16, "count": 20}, {"dir": "2->3", "hour": 17, "count": 23}, {"dir": "2->3", "hour": 18, "count": 16}, {"dir": "2->4", "hour": 7, "count": 68}, {"dir": "2->4", "hour": 8, "count": 36}, {"dir": "2->4", "hour": 9, "count": 37}, {"dir": "2->4", "hour": 10, "count": 20}, {"dir": "2->4", "hour": 11, "count": 11}, {"dir": "2->4", "hour": 12, "count": 10}, {"dir": "2->4", "hour": 13, "count": 14}, {"dir": "2->4", "hour": 14, "count": 33}, {"dir": "2->4", "hour": 15, "count": 28}, {"dir": "2->4", "hour": 16, "count": 42}, {"dir": "2->4", "hour": 17, "count": 22}, {"dir": "2->4", "hour": 18, "count": 13}, {"dir": "3->4", "hour": 7, "count": 12}, {"dir": "3->4", "hour": 8, "count": 9}, {"dir": "3->4", "hour": 9, "count": 5}, {"dir": "3->4", "hour": 10, "count": 0}, {"dir": "3->4", "hour": 11, "count": 13}, {"dir": "3->4", "hour": 12, "count": 17}, {"dir": "3->4", "hour": 13, "count": 11}, {"dir": "3->4", "hour": 14, "count": 23}, {"dir": "3->4", "hour": 15, "count": 20}, {"dir": "3->4", "hour": 16, "count": 34}, {"dir": "3->4", "hour": 17, "count": 36}, {"dir": "3->4", "hour": 18, "count": 19}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

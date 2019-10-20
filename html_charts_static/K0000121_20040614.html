@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-4871b0764a6b13c7fe9b8ead0ad9d457"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.06.2004: Bernauer Stra\u00dfe / Bocholter Weg - Neheimer Stra\u00dfe   (Tegel, 13507)"}, {"data": {"name": "data-e1390ae336e16c071222add099e73d1f"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-4871b0764a6b13c7fe9b8ead0ad9d457": [{"dir": "1->2", "hour": 7, "count": 4}, {"dir": "1->2", "hour": 8, "count": 5}, {"dir": "1->2", "hour": 9, "count": 1}, {"dir": "1->2", "hour": 10, "count": 1}, {"dir": "1->2", "hour": 11, "count": 7}, {"dir": "1->2", "hour": 12, "count": 8}, {"dir": "1->3", "hour": 7, "count": 389}, {"dir": "1->3", "hour": 8, "count": 341}, {"dir": "1->3", "hour": 9, "count": 383}, {"dir": "1->3", "hour": 10, "count": 331}, {"dir": "1->3", "hour": 11, "count": 304}, {"dir": "1->3", "hour": 12, "count": 364}, {"dir": "1->4", "hour": 7, "count": 139}, {"dir": "1->4", "hour": 8, "count": 149}, {"dir": "1->4", "hour": 9, "count": 169}, {"dir": "1->4", "hour": 10, "count": 167}, {"dir": "1->4", "hour": 11, "count": 149}, {"dir": "1->4", "hour": 12, "count": 148}, {"dir": "3->1", "hour": 7, "count": 482}, {"dir": "3->1", "hour": 8, "count": 461}, {"dir": "3->1", "hour": 9, "count": 404}, {"dir": "3->1", "hour": 10, "count": 392}, {"dir": "3->1", "hour": 11, "count": 350}, {"dir": "3->1", "hour": 12, "count": 340}, {"dir": "3->2", "hour": 7, "count": 6}, {"dir": "3->2", "hour": 8, "count": 9}, {"dir": "3->2", "hour": 9, "count": 16}, {"dir": "3->2", "hour": 10, "count": 12}, {"dir": "3->2", "hour": 11, "count": 7}, {"dir": "3->2", "hour": 12, "count": 12}, {"dir": "3->4", "hour": 7, "count": 30}, {"dir": "3->4", "hour": 8, "count": 38}, {"dir": "3->4", "hour": 9, "count": 34}, {"dir": "3->4", "hour": 10, "count": 33}, {"dir": "3->4", "hour": 11, "count": 42}, {"dir": "3->4", "hour": 12, "count": 31}, {"dir": "4->1", "hour": 7, "count": 412}, {"dir": "4->1", "hour": 8, "count": 387}, {"dir": "4->1", "hour": 9, "count": 235}, {"dir": "4->1", "hour": 10, "count": 162}, {"dir": "4->1", "hour": 11, "count": 146}, {"dir": "4->1", "hour": 12, "count": 121}, {"dir": "4->2", "hour": 7, "count": 6}, {"dir": "4->2", "hour": 8, "count": 9}, {"dir": "4->2", "hour": 9, "count": 7}, {"dir": "4->2", "hour": 10, "count": 14}, {"dir": "4->2", "hour": 11, "count": 13}, {"dir": "4->2", "hour": 12, "count": 25}, {"dir": "4->3", "hour": 7, "count": 12}, {"dir": "4->3", "hour": 8, "count": 15}, {"dir": "4->3", "hour": 9, "count": 9}, {"dir": "4->3", "hour": 10, "count": 15}, {"dir": "4->3", "hour": 11, "count": 16}, {"dir": "4->3", "hour": 12, "count": 20}], "data-e1390ae336e16c071222add099e73d1f": [{"dir": "1->2", "hour": 7, "count": 2}, {"dir": "1->2", "hour": 8, "count": 1}, {"dir": "1->2", "hour": 9, "count": 0}, {"dir": "1->2", "hour": 10, "count": 0}, {"dir": "1->2", "hour": 11, "count": 1}, {"dir": "1->2", "hour": 12, "count": 0}, {"dir": "1->3", "hour": 7, "count": 3}, {"dir": "1->3", "hour": 8, "count": 1}, {"dir": "1->3", "hour": 9, "count": 1}, {"dir": "1->3", "hour": 10, "count": 0}, {"dir": "1->3", "hour": 11, "count": 3}, {"dir": "1->3", "hour": 12, "count": 5}, {"dir": "1->4", "hour": 7, "count": 7}, {"dir": "1->4", "hour": 8, "count": 5}, {"dir": "1->4", "hour": 9, "count": 7}, {"dir": "1->4", "hour": 10, "count": 2}, {"dir": "1->4", "hour": 11, "count": 5}, {"dir": "1->4", "hour": 12, "count": 4}, {"dir": "3->1", "hour": 7, "count": 8}, {"dir": "3->1", "hour": 8, "count": 3}, {"dir": "3->1", "hour": 9, "count": 5}, {"dir": "3->1", "hour": 10, "count": 6}, {"dir": "3->1", "hour": 11, "count": 5}, {"dir": "3->1", "hour": 12, "count": 4}, {"dir": "3->2", "hour": 7, "count": 1}, {"dir": "3->2", "hour": 8, "count": 0}, {"dir": "3->2", "hour": 9, "count": 1}, {"dir": "3->2", "hour": 10, "count": 1}, {"dir": "3->2", "hour": 11, "count": 1}, {"dir": "3->2", "hour": 12, "count": 0}, {"dir": "3->4", "hour": 7, "count": 0}, {"dir": "3->4", "hour": 8, "count": 0}, {"dir": "3->4", "hour": 9, "count": 0}, {"dir": "3->4", "hour": 10, "count": 1}, {"dir": "3->4", "hour": 11, "count": 1}, {"dir": "3->4", "hour": 12, "count": 0}, {"dir": "4->1", "hour": 7, "count": 20}, {"dir": "4->1", "hour": 8, "count": 13}, {"dir": "4->1", "hour": 9, "count": 8}, {"dir": "4->1", "hour": 10, "count": 9}, {"dir": "4->1", "hour": 11, "count": 3}, {"dir": "4->1", "hour": 12, "count": 13}, {"dir": "4->2", "hour": 7, "count": 1}, {"dir": "4->2", "hour": 8, "count": 2}, {"dir": "4->2", "hour": 9, "count": 1}, {"dir": "4->2", "hour": 10, "count": 0}, {"dir": "4->2", "hour": 11, "count": 2}, {"dir": "4->2", "hour": 12, "count": 1}, {"dir": "4->3", "hour": 7, "count": 1}, {"dir": "4->3", "hour": 8, "count": 0}, {"dir": "4->3", "hour": 9, "count": 0}, {"dir": "4->3", "hour": 10, "count": 0}, {"dir": "4->3", "hour": 11, "count": 0}, {"dir": "4->3", "hour": 12, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

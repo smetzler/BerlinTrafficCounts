@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-7bae6b6b9eb88fbac1b918eb219f76cd"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "01.09.2004: Hermannstra\u00dfe / Flughafenstra\u00dfe   (Neuk\u00f6lln, 12049)"}, {"data": {"name": "data-82ce0719e72b96b471696c9b7ff5c612"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-7bae6b6b9eb88fbac1b918eb219f76cd": [{"dir": "1->2", "hour": 13, "count": 127}, {"dir": "1->2", "hour": 14, "count": 117}, {"dir": "1->2", "hour": 15, "count": 137}, {"dir": "1->2", "hour": 16, "count": 146}, {"dir": "1->2", "hour": 17, "count": 110}, {"dir": "1->2", "hour": 18, "count": 112}, {"dir": "1->3", "hour": 13, "count": 568}, {"dir": "1->3", "hour": 14, "count": 610}, {"dir": "1->3", "hour": 15, "count": 686}, {"dir": "1->3", "hour": 16, "count": 777}, {"dir": "1->3", "hour": 17, "count": 658}, {"dir": "1->3", "hour": 18, "count": 613}, {"dir": "2->1", "hour": 13, "count": 131}, {"dir": "2->1", "hour": 14, "count": 169}, {"dir": "2->1", "hour": 15, "count": 168}, {"dir": "2->1", "hour": 16, "count": 196}, {"dir": "2->1", "hour": 17, "count": 157}, {"dir": "2->1", "hour": 18, "count": 150}, {"dir": "2->3", "hour": 13, "count": 183}, {"dir": "2->3", "hour": 14, "count": 177}, {"dir": "2->3", "hour": 15, "count": 251}, {"dir": "2->3", "hour": 16, "count": 254}, {"dir": "2->3", "hour": 17, "count": 176}, {"dir": "2->3", "hour": 18, "count": 178}, {"dir": "2->4", "hour": 13, "count": 330}, {"dir": "2->4", "hour": 14, "count": 358}, {"dir": "2->4", "hour": 15, "count": 448}, {"dir": "2->4", "hour": 16, "count": 493}, {"dir": "2->4", "hour": 17, "count": 369}, {"dir": "2->4", "hour": 18, "count": 287}, {"dir": "3->1", "hour": 13, "count": 518}, {"dir": "3->1", "hour": 14, "count": 685}, {"dir": "3->1", "hour": 15, "count": 636}, {"dir": "3->1", "hour": 16, "count": 657}, {"dir": "3->1", "hour": 17, "count": 701}, {"dir": "3->1", "hour": 18, "count": 606}, {"dir": "3->2", "hour": 13, "count": 134}, {"dir": "3->2", "hour": 14, "count": 153}, {"dir": "3->2", "hour": 15, "count": 154}, {"dir": "3->2", "hour": 16, "count": 163}, {"dir": "3->2", "hour": 17, "count": 143}, {"dir": "3->2", "hour": 18, "count": 148}, {"dir": "3->4", "hour": 13, "count": 114}, {"dir": "3->4", "hour": 14, "count": 121}, {"dir": "3->4", "hour": 15, "count": 148}, {"dir": "3->4", "hour": 16, "count": 121}, {"dir": "3->4", "hour": 17, "count": 150}, {"dir": "3->4", "hour": 18, "count": 146}, {"dir": "4->1", "hour": 13, "count": 36}, {"dir": "4->1", "hour": 14, "count": 27}, {"dir": "4->1", "hour": 15, "count": 40}, {"dir": "4->1", "hour": 16, "count": 29}, {"dir": "4->1", "hour": 17, "count": 46}, {"dir": "4->1", "hour": 18, "count": 35}, {"dir": "4->2", "hour": 13, "count": 254}, {"dir": "4->2", "hour": 14, "count": 242}, {"dir": "4->2", "hour": 15, "count": 248}, {"dir": "4->2", "hour": 16, "count": 314}, {"dir": "4->2", "hour": 17, "count": 271}, {"dir": "4->2", "hour": 18, "count": 256}, {"dir": "4->3", "hour": 13, "count": 140}, {"dir": "4->3", "hour": 14, "count": 157}, {"dir": "4->3", "hour": 15, "count": 152}, {"dir": "4->3", "hour": 16, "count": 187}, {"dir": "4->3", "hour": 17, "count": 148}, {"dir": "4->3", "hour": 18, "count": 134}], "data-82ce0719e72b96b471696c9b7ff5c612": [{"dir": "1->2", "hour": 13, "count": 4}, {"dir": "1->2", "hour": 14, "count": 2}, {"dir": "1->2", "hour": 15, "count": 8}, {"dir": "1->2", "hour": 16, "count": 3}, {"dir": "1->2", "hour": 17, "count": 4}, {"dir": "1->2", "hour": 18, "count": 5}, {"dir": "1->3", "hour": 13, "count": 50}, {"dir": "1->3", "hour": 14, "count": 51}, {"dir": "1->3", "hour": 15, "count": 55}, {"dir": "1->3", "hour": 16, "count": 51}, {"dir": "1->3", "hour": 17, "count": 65}, {"dir": "1->3", "hour": 18, "count": 56}, {"dir": "2->1", "hour": 13, "count": 0}, {"dir": "2->1", "hour": 14, "count": 6}, {"dir": "2->1", "hour": 15, "count": 7}, {"dir": "2->1", "hour": 16, "count": 4}, {"dir": "2->1", "hour": 17, "count": 2}, {"dir": "2->1", "hour": 18, "count": 4}, {"dir": "2->3", "hour": 13, "count": 4}, {"dir": "2->3", "hour": 14, "count": 13}, {"dir": "2->3", "hour": 15, "count": 12}, {"dir": "2->3", "hour": 16, "count": 21}, {"dir": "2->3", "hour": 17, "count": 3}, {"dir": "2->3", "hour": 18, "count": 11}, {"dir": "2->4", "hour": 13, "count": 9}, {"dir": "2->4", "hour": 14, "count": 15}, {"dir": "2->4", "hour": 15, "count": 27}, {"dir": "2->4", "hour": 16, "count": 51}, {"dir": "2->4", "hour": 17, "count": 32}, {"dir": "2->4", "hour": 18, "count": 21}, {"dir": "3->1", "hour": 13, "count": 48}, {"dir": "3->1", "hour": 14, "count": 61}, {"dir": "3->1", "hour": 15, "count": 67}, {"dir": "3->1", "hour": 16, "count": 62}, {"dir": "3->1", "hour": 17, "count": 71}, {"dir": "3->1", "hour": 18, "count": 42}, {"dir": "3->2", "hour": 13, "count": 10}, {"dir": "3->2", "hour": 14, "count": 9}, {"dir": "3->2", "hour": 15, "count": 9}, {"dir": "3->2", "hour": 16, "count": 8}, {"dir": "3->2", "hour": 17, "count": 8}, {"dir": "3->2", "hour": 18, "count": 4}, {"dir": "3->4", "hour": 13, "count": 12}, {"dir": "3->4", "hour": 14, "count": 14}, {"dir": "3->4", "hour": 15, "count": 15}, {"dir": "3->4", "hour": 16, "count": 19}, {"dir": "3->4", "hour": 17, "count": 19}, {"dir": "3->4", "hour": 18, "count": 8}, {"dir": "4->1", "hour": 13, "count": 0}, {"dir": "4->1", "hour": 14, "count": 6}, {"dir": "4->1", "hour": 15, "count": 8}, {"dir": "4->1", "hour": 16, "count": 7}, {"dir": "4->1", "hour": 17, "count": 5}, {"dir": "4->1", "hour": 18, "count": 5}, {"dir": "4->2", "hour": 13, "count": 19}, {"dir": "4->2", "hour": 14, "count": 12}, {"dir": "4->2", "hour": 15, "count": 18}, {"dir": "4->2", "hour": 16, "count": 16}, {"dir": "4->2", "hour": 17, "count": 20}, {"dir": "4->2", "hour": 18, "count": 17}, {"dir": "4->3", "hour": 13, "count": 8}, {"dir": "4->3", "hour": 14, "count": 9}, {"dir": "4->3", "hour": 15, "count": 8}, {"dir": "4->3", "hour": 16, "count": 7}, {"dir": "4->3", "hour": 17, "count": 7}, {"dir": "4->3", "hour": 18, "count": 2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

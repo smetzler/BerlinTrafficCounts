@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-98a37b1dcc4a497691bc29c53ea04953"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.03.2010: K\u00f6penicker Stra\u00dfe (\u00f6stl. Bethaniendamm)   (Kreuzberg, 10179)"}, {"data": {"name": "data-5602f58f6c0ec7b5c50dae4713b48cb6"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-98a37b1dcc4a497691bc29c53ea04953": [{"dir": "1->2", "hour": 6, "count": 250}, {"dir": "1->2", "hour": 7, "count": 403}, {"dir": "1->2", "hour": 8, "count": 514}, {"dir": "1->2", "hour": 9, "count": 528}, {"dir": "1->2", "hour": 10, "count": 446}, {"dir": "1->2", "hour": 11, "count": 473}, {"dir": "1->2", "hour": 12, "count": 470}, {"dir": "1->2", "hour": 13, "count": 450}, {"dir": "1->2", "hour": 14, "count": 511}, {"dir": "1->2", "hour": 15, "count": 634}, {"dir": "1->2", "hour": 16, "count": 640}, {"dir": "1->2", "hour": 17, "count": 533}, {"dir": "1->2", "hour": 18, "count": 521}, {"dir": "2->1", "hour": 6, "count": 418}, {"dir": "2->1", "hour": 7, "count": 630}, {"dir": "2->1", "hour": 8, "count": 716}, {"dir": "2->1", "hour": 9, "count": 622}, {"dir": "2->1", "hour": 10, "count": 455}, {"dir": "2->1", "hour": 11, "count": 493}, {"dir": "2->1", "hour": 12, "count": 487}, {"dir": "2->1", "hour": 13, "count": 496}, {"dir": "2->1", "hour": 14, "count": 551}, {"dir": "2->1", "hour": 15, "count": 606}, {"dir": "2->1", "hour": 16, "count": 741}, {"dir": "2->1", "hour": 17, "count": 630}, {"dir": "2->1", "hour": 18, "count": 654}], "data-5602f58f6c0ec7b5c50dae4713b48cb6": [{"dir": "1->2", "hour": 6, "count": 24}, {"dir": "1->2", "hour": 7, "count": 51}, {"dir": "1->2", "hour": 8, "count": 113}, {"dir": "1->2", "hour": 9, "count": 135}, {"dir": "1->2", "hour": 10, "count": 87}, {"dir": "1->2", "hour": 11, "count": 55}, {"dir": "1->2", "hour": 12, "count": 48}, {"dir": "1->2", "hour": 13, "count": 75}, {"dir": "1->2", "hour": 14, "count": 102}, {"dir": "1->2", "hour": 15, "count": 121}, {"dir": "1->2", "hour": 16, "count": 142}, {"dir": "1->2", "hour": 17, "count": 167}, {"dir": "1->2", "hour": 18, "count": 198}, {"dir": "2->1", "hour": 6, "count": 50}, {"dir": "2->1", "hour": 7, "count": 137}, {"dir": "2->1", "hour": 8, "count": 232}, {"dir": "2->1", "hour": 9, "count": 289}, {"dir": "2->1", "hour": 10, "count": 101}, {"dir": "2->1", "hour": 11, "count": 69}, {"dir": "2->1", "hour": 12, "count": 80}, {"dir": "2->1", "hour": 13, "count": 97}, {"dir": "2->1", "hour": 14, "count": 92}, {"dir": "2->1", "hour": 15, "count": 124}, {"dir": "2->1", "hour": 16, "count": 81}, {"dir": "2->1", "hour": 17, "count": 122}, {"dir": "2->1", "hour": 18, "count": 153}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

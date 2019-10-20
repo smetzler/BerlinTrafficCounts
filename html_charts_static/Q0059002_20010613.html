@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-33a67bd7e4da4b3fdd4cacda4c550441"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "13.06.2001: Benschallee (n\u00f6rdl. An der Stammbahn) (Zehlendorf, 14163)"}, {"data": {"name": "data-ab6c1d9e476337b5c5ed9dda946c5d88"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-33a67bd7e4da4b3fdd4cacda4c550441": [{"dir": "1->2", "hour": 6, "count": 4}, {"dir": "1->2", "hour": 7, "count": 24}, {"dir": "1->2", "hour": 8, "count": 16}, {"dir": "1->2", "hour": 9, "count": 12}, {"dir": "1->2", "hour": 10, "count": 13}, {"dir": "1->2", "hour": 11, "count": 17}, {"dir": "1->2", "hour": 12, "count": 23}, {"dir": "1->2", "hour": 13, "count": 52}, {"dir": "1->2", "hour": 14, "count": 30}, {"dir": "1->2", "hour": 15, "count": 58}, {"dir": "1->2", "hour": 16, "count": 63}, {"dir": "1->2", "hour": 17, "count": 56}, {"dir": "2->1", "hour": 6, "count": 20}, {"dir": "2->1", "hour": 7, "count": 93}, {"dir": "2->1", "hour": 8, "count": 41}, {"dir": "2->1", "hour": 9, "count": 22}, {"dir": "2->1", "hour": 10, "count": 27}, {"dir": "2->1", "hour": 11, "count": 22}, {"dir": "2->1", "hour": 12, "count": 16}, {"dir": "2->1", "hour": 13, "count": 36}, {"dir": "2->1", "hour": 14, "count": 20}, {"dir": "2->1", "hour": 15, "count": 53}, {"dir": "2->1", "hour": 16, "count": 37}, {"dir": "2->1", "hour": 17, "count": 34}], "data-ab6c1d9e476337b5c5ed9dda946c5d88": [{"dir": "1->2", "hour": 6, "count": 7}, {"dir": "1->2", "hour": 7, "count": 25}, {"dir": "1->2", "hour": 8, "count": 28}, {"dir": "1->2", "hour": 9, "count": 36}, {"dir": "1->2", "hour": 10, "count": 28}, {"dir": "1->2", "hour": 11, "count": 13}, {"dir": "1->2", "hour": 12, "count": 40}, {"dir": "1->2", "hour": 13, "count": 46}, {"dir": "1->2", "hour": 14, "count": 54}, {"dir": "1->2", "hour": 15, "count": 59}, {"dir": "1->2", "hour": 16, "count": 34}, {"dir": "1->2", "hour": 17, "count": 73}, {"dir": "2->1", "hour": 6, "count": 13}, {"dir": "2->1", "hour": 7, "count": 83}, {"dir": "2->1", "hour": 8, "count": 49}, {"dir": "2->1", "hour": 9, "count": 38}, {"dir": "2->1", "hour": 10, "count": 36}, {"dir": "2->1", "hour": 11, "count": 30}, {"dir": "2->1", "hour": 12, "count": 42}, {"dir": "2->1", "hour": 13, "count": 43}, {"dir": "2->1", "hour": 14, "count": 36}, {"dir": "2->1", "hour": 15, "count": 42}, {"dir": "2->1", "hour": 16, "count": 44}, {"dir": "2->1", "hour": 17, "count": 31}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

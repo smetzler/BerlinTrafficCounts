@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-b6acff1882a7361837759e716b2bd831"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.02.2016: Karl-Liebknecht-Stra\u00dfe (westl. Spandauer Stra\u00dfe)   (Mitte, 10178)"}, {"data": {"name": "data-dbc26d089c5fc6156ac454b0fa46d0c9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-b6acff1882a7361837759e716b2bd831": [{"dir": "1->2", "hour": 7, "count": 20}, {"dir": "1->2", "hour": 8, "count": 25}, {"dir": "1->2", "hour": 9, "count": 34}, {"dir": "1->2", "hour": 10, "count": 32}, {"dir": "1->2", "hour": 11, "count": 40}, {"dir": "1->2", "hour": 12, "count": 45}, {"dir": "1->2", "hour": 13, "count": 43}, {"dir": "1->2", "hour": 14, "count": 85}, {"dir": "1->2", "hour": 15, "count": 71}, {"dir": "1->2", "hour": 16, "count": 98}, {"dir": "1->2", "hour": 17, "count": 157}, {"dir": "1->2", "hour": 18, "count": 146}, {"dir": "2->1", "hour": 7, "count": 77}, {"dir": "2->1", "hour": 8, "count": 222}, {"dir": "2->1", "hour": 9, "count": 179}, {"dir": "2->1", "hour": 10, "count": 78}, {"dir": "2->1", "hour": 11, "count": 60}, {"dir": "2->1", "hour": 12, "count": 69}, {"dir": "2->1", "hour": 13, "count": 57}, {"dir": "2->1", "hour": 14, "count": 41}, {"dir": "2->1", "hour": 15, "count": 24}, {"dir": "2->1", "hour": 16, "count": 44}, {"dir": "2->1", "hour": 17, "count": 41}, {"dir": "2->1", "hour": 18, "count": 45}], "data-dbc26d089c5fc6156ac454b0fa46d0c9": [{"dir": "1->2", "hour": 7, "count": 26}, {"dir": "1->2", "hour": 8, "count": 54}, {"dir": "1->2", "hour": 9, "count": 37}, {"dir": "1->2", "hour": 10, "count": 36}, {"dir": "1->2", "hour": 11, "count": 52}, {"dir": "1->2", "hour": 12, "count": 62}, {"dir": "1->2", "hour": 13, "count": 94}, {"dir": "1->2", "hour": 14, "count": 110}, {"dir": "1->2", "hour": 15, "count": 147}, {"dir": "1->2", "hour": 16, "count": 326}, {"dir": "1->2", "hour": 17, "count": 181}, {"dir": "1->2", "hour": 18, "count": 175}, {"dir": "2->1", "hour": 7, "count": 168}, {"dir": "2->1", "hour": 8, "count": 301}, {"dir": "2->1", "hour": 9, "count": 240}, {"dir": "2->1", "hour": 10, "count": 84}, {"dir": "2->1", "hour": 11, "count": 115}, {"dir": "2->1", "hour": 12, "count": 83}, {"dir": "2->1", "hour": 13, "count": 96}, {"dir": "2->1", "hour": 14, "count": 91}, {"dir": "2->1", "hour": 15, "count": 73}, {"dir": "2->1", "hour": 16, "count": 90}, {"dir": "2->1", "hour": 17, "count": 67}, {"dir": "2->1", "hour": 18, "count": 61}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

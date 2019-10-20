@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-fc6d3e0f26c7a66b3feb0f61aaacb0dc"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "06.09.2007: Saalestra\u00dfe (H\u00f6he S.-Aufh\u00e4user-Platz, S-Bhf.)   (Neuk\u00f6lln, 12055)"}, {"data": {"name": "data-c9d497705601b4e7725c669268af87ba"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-fc6d3e0f26c7a66b3feb0f61aaacb0dc": [{"dir": "1->2", "hour": 7, "count": 298}, {"dir": "1->2", "hour": 8, "count": 339}, {"dir": "1->2", "hour": 9, "count": 295}, {"dir": "1->2", "hour": 10, "count": 292}, {"dir": "1->2", "hour": 11, "count": 274}, {"dir": "1->2", "hour": 12, "count": 301}, {"dir": "1->2", "hour": 13, "count": 246}, {"dir": "1->2", "hour": 14, "count": 310}, {"dir": "1->2", "hour": 15, "count": 406}, {"dir": "1->2", "hour": 16, "count": 317}, {"dir": "1->2", "hour": 17, "count": 276}, {"dir": "1->2", "hour": 18, "count": 204}, {"dir": "2->1", "hour": 7, "count": 218}, {"dir": "2->1", "hour": 8, "count": 228}, {"dir": "2->1", "hour": 9, "count": 227}, {"dir": "2->1", "hour": 10, "count": 262}, {"dir": "2->1", "hour": 11, "count": 238}, {"dir": "2->1", "hour": 12, "count": 214}, {"dir": "2->1", "hour": 13, "count": 209}, {"dir": "2->1", "hour": 14, "count": 238}, {"dir": "2->1", "hour": 15, "count": 288}, {"dir": "2->1", "hour": 16, "count": 214}, {"dir": "2->1", "hour": 17, "count": 253}, {"dir": "2->1", "hour": 18, "count": 192}], "data-c9d497705601b4e7725c669268af87ba": [{"dir": "1->2", "hour": 7, "count": 15}, {"dir": "1->2", "hour": 8, "count": 23}, {"dir": "1->2", "hour": 9, "count": 11}, {"dir": "1->2", "hour": 10, "count": 20}, {"dir": "1->2", "hour": 11, "count": 21}, {"dir": "1->2", "hour": 12, "count": 12}, {"dir": "1->2", "hour": 13, "count": 17}, {"dir": "1->2", "hour": 14, "count": 23}, {"dir": "1->2", "hour": 15, "count": 14}, {"dir": "1->2", "hour": 16, "count": 26}, {"dir": "1->2", "hour": 17, "count": 20}, {"dir": "1->2", "hour": 18, "count": 12}, {"dir": "2->1", "hour": 7, "count": 26}, {"dir": "2->1", "hour": 8, "count": 19}, {"dir": "2->1", "hour": 9, "count": 25}, {"dir": "2->1", "hour": 10, "count": 22}, {"dir": "2->1", "hour": 11, "count": 20}, {"dir": "2->1", "hour": 12, "count": 21}, {"dir": "2->1", "hour": 13, "count": 18}, {"dir": "2->1", "hour": 14, "count": 26}, {"dir": "2->1", "hour": 15, "count": 18}, {"dir": "2->1", "hour": 16, "count": 11}, {"dir": "2->1", "hour": 17, "count": 23}, {"dir": "2->1", "hour": 18, "count": 17}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

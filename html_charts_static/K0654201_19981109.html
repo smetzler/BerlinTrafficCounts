@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-310e05abd3861c9a216d8b2d1605fd24"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "09.11.1998: Frankfurter Allee / G\u00fcrtelstra\u00dfe - M\u00f6llendorffstr.   (Lichtenberg, 10247)"}, {"data": {"name": "data-310e05abd3861c9a216d8b2d1605fd24"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-310e05abd3861c9a216d8b2d1605fd24": [{"dir": "1->2", "hour": 7, "count": 69}, {"dir": "1->2", "hour": 8, "count": 72}, {"dir": "1->2", "hour": 9, "count": 58}, {"dir": "1->2", "hour": 10, "count": 49}, {"dir": "1->2", "hour": 11, "count": 51}, {"dir": "1->2", "hour": 12, "count": 55}, {"dir": "1->2", "hour": 13, "count": 42}, {"dir": "1->2", "hour": 14, "count": 40}, {"dir": "1->2", "hour": 15, "count": 36}, {"dir": "1->2", "hour": 16, "count": 49}, {"dir": "1->2", "hour": 17, "count": 34}, {"dir": "1->2", "hour": 18, "count": 33}, {"dir": "1->3", "hour": 7, "count": 1836}, {"dir": "1->3", "hour": 8, "count": 1613}, {"dir": "1->3", "hour": 9, "count": 1467}, {"dir": "1->3", "hour": 10, "count": 1600}, {"dir": "1->3", "hour": 11, "count": 1490}, {"dir": "1->3", "hour": 12, "count": 1808}, {"dir": "1->3", "hour": 13, "count": 1535}, {"dir": "1->3", "hour": 14, "count": 2119}, {"dir": "1->3", "hour": 15, "count": 2245}, {"dir": "1->3", "hour": 16, "count": 2418}, {"dir": "1->3", "hour": 17, "count": 2221}, {"dir": "1->3", "hour": 18, "count": 2388}, {"dir": "1->4", "hour": 7, "count": 188}, {"dir": "1->4", "hour": 8, "count": 203}, {"dir": "1->4", "hour": 9, "count": 207}, {"dir": "1->4", "hour": 10, "count": 278}, {"dir": "1->4", "hour": 11, "count": 279}, {"dir": "1->4", "hour": 12, "count": 277}, {"dir": "1->4", "hour": 13, "count": 284}, {"dir": "1->4", "hour": 14, "count": 313}, {"dir": "1->4", "hour": 15, "count": 353}, {"dir": "1->4", "hour": 16, "count": 359}, {"dir": "1->4", "hour": 17, "count": 388}, {"dir": "1->4", "hour": 18, "count": 378}, {"dir": "2->3", "hour": 7, "count": 75}, {"dir": "2->3", "hour": 8, "count": 56}, {"dir": "2->3", "hour": 9, "count": 90}, {"dir": "2->3", "hour": 10, "count": 115}, {"dir": "2->3", "hour": 11, "count": 91}, {"dir": "2->3", "hour": 12, "count": 118}, {"dir": "2->3", "hour": 13, "count": 113}, {"dir": "2->3", "hour": 14, "count": 69}, {"dir": "2->3", "hour": 15, "count": 91}, {"dir": "2->3", "hour": 16, "count": 92}, {"dir": "2->3", "hour": 17, "count": 73}, {"dir": "2->3", "hour": 18, "count": 123}, {"dir": "2->4", "hour": 7, "count": 461}, {"dir": "2->4", "hour": 8, "count": 434}, {"dir": "2->4", "hour": 9, "count": 428}, {"dir": "2->4", "hour": 10, "count": 415}, {"dir": "2->4", "hour": 11, "count": 366}, {"dir": "2->4", "hour": 12, "count": 409}, {"dir": "2->4", "hour": 13, "count": 430}, {"dir": "2->4", "hour": 14, "count": 443}, {"dir": "2->4", "hour": 15, "count": 482}, {"dir": "2->4", "hour": 16, "count": 469}, {"dir": "2->4", "hour": 17, "count": 372}, {"dir": "2->4", "hour": 18, "count": 463}, {"dir": "3->1", "hour": 7, "count": 2564}, {"dir": "3->1", "hour": 8, "count": 2157}, {"dir": "3->1", "hour": 9, "count": 1766}, {"dir": "3->1", "hour": 10, "count": 1363}, {"dir": "3->1", "hour": 11, "count": 1378}, {"dir": "3->1", "hour": 12, "count": 1425}, {"dir": "3->1", "hour": 13, "count": 1249}, {"dir": "3->1", "hour": 14, "count": 1384}, {"dir": "3->1", "hour": 15, "count": 1636}, {"dir": "3->1", "hour": 16, "count": 1579}, {"dir": "3->1", "hour": 17, "count": 1371}, {"dir": "3->1", "hour": 18, "count": 1204}, {"dir": "3->2", "hour": 7, "count": 198}, {"dir": "3->2", "hour": 8, "count": 240}, {"dir": "3->2", "hour": 9, "count": 193}, {"dir": "3->2", "hour": 10, "count": 223}, {"dir": "3->2", "hour": 11, "count": 222}, {"dir": "3->2", "hour": 12, "count": 185}, {"dir": "3->2", "hour": 13, "count": 224}, {"dir": "3->2", "hour": 14, "count": 214}, {"dir": "3->2", "hour": 15, "count": 256}, {"dir": "3->2", "hour": 16, "count": 255}, {"dir": "3->2", "hour": 17, "count": 228}, {"dir": "3->2", "hour": 18, "count": 194}, {"dir": "3->4", "hour": 7, "count": 148}, {"dir": "3->4", "hour": 8, "count": 194}, {"dir": "3->4", "hour": 9, "count": 274}, {"dir": "3->4", "hour": 10, "count": 222}, {"dir": "3->4", "hour": 11, "count": 207}, {"dir": "3->4", "hour": 12, "count": 212}, {"dir": "3->4", "hour": 13, "count": 205}, {"dir": "3->4", "hour": 14, "count": 206}, {"dir": "3->4", "hour": 15, "count": 208}, {"dir": "3->4", "hour": 16, "count": 245}, {"dir": "3->4", "hour": 17, "count": 253}, {"dir": "3->4", "hour": 18, "count": 222}, {"dir": "4->1", "hour": 7, "count": 42}, {"dir": "4->1", "hour": 8, "count": 80}, {"dir": "4->1", "hour": 9, "count": 93}, {"dir": "4->1", "hour": 10, "count": 123}, {"dir": "4->1", "hour": 11, "count": 108}, {"dir": "4->1", "hour": 12, "count": 141}, {"dir": "4->1", "hour": 13, "count": 100}, {"dir": "4->1", "hour": 14, "count": 120}, {"dir": "4->1", "hour": 15, "count": 124}, {"dir": "4->1", "hour": 16, "count": 105}, {"dir": "4->1", "hour": 17, "count": 98}, {"dir": "4->1", "hour": 18, "count": 118}, {"dir": "4->2", "hour": 7, "count": 522}, {"dir": "4->2", "hour": 8, "count": 464}, {"dir": "4->2", "hour": 9, "count": 407}, {"dir": "4->2", "hour": 10, "count": 397}, {"dir": "4->2", "hour": 11, "count": 362}, {"dir": "4->2", "hour": 12, "count": 387}, {"dir": "4->2", "hour": 13, "count": 313}, {"dir": "4->2", "hour": 14, "count": 341}, {"dir": "4->2", "hour": 15, "count": 400}, {"dir": "4->2", "hour": 16, "count": 456}, {"dir": "4->2", "hour": 17, "count": 412}, {"dir": "4->2", "hour": 18, "count": 463}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

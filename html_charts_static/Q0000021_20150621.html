@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-f28f199bb52c9aef89bbd84bf3849560"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "21.06.2015: B2 - (H\u00f6he Bahnbr\u00fccke, n\u00f6rdl. Blankenburger Pflasterweg) (Wei\u00dfensee, 13051)"}, {"data": {"name": "data-8f80bdc5d223e2b638eb19980fa1353b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-f28f199bb52c9aef89bbd84bf3849560": [{"dir": "1->2", "hour": 16, "count": 321}, {"dir": "1->2", "hour": 17, "count": 313}, {"dir": "1->2", "hour": 18, "count": 330}, {"dir": "2->1", "hour": 16, "count": 650}, {"dir": "2->1", "hour": 17, "count": 712}, {"dir": "2->1", "hour": 18, "count": 645}], "data-8f80bdc5d223e2b638eb19980fa1353b": [{"dir": "1->2", "hour": 16, "count": 25}, {"dir": "1->2", "hour": 17, "count": 20}, {"dir": "1->2", "hour": 18, "count": 7}, {"dir": "2->1", "hour": 16, "count": 32}, {"dir": "2->1", "hour": 17, "count": 21}, {"dir": "2->1", "hour": 18, "count": 27}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

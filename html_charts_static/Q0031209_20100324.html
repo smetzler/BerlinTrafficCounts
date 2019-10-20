@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-0a2ae26f2e5ce1dda1b661fb5c640e18"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.03.2010: Schlesische Stra\u00dfe - Puschkinstra\u00dfe (s\u00fcdl. Am Flutgraben)   (Kreuzberg, 10997)"}, {"data": {"name": "data-c799bc843904fa1306d9790ecbc63586"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-0a2ae26f2e5ce1dda1b661fb5c640e18": [{"dir": "1->2", "hour": 6, "count": 317}, {"dir": "1->2", "hour": 7, "count": 486}, {"dir": "1->2", "hour": 8, "count": 548}, {"dir": "1->2", "hour": 9, "count": 536}, {"dir": "1->2", "hour": 10, "count": 548}, {"dir": "1->2", "hour": 11, "count": 523}, {"dir": "1->2", "hour": 12, "count": 558}, {"dir": "1->2", "hour": 13, "count": 606}, {"dir": "1->2", "hour": 14, "count": 682}, {"dir": "1->2", "hour": 15, "count": 898}, {"dir": "1->2", "hour": 16, "count": 934}, {"dir": "1->2", "hour": 17, "count": 888}, {"dir": "1->2", "hour": 18, "count": 824}, {"dir": "2->1", "hour": 6, "count": 618}, {"dir": "2->1", "hour": 7, "count": 917}, {"dir": "2->1", "hour": 8, "count": 786}, {"dir": "2->1", "hour": 9, "count": 658}, {"dir": "2->1", "hour": 10, "count": 534}, {"dir": "2->1", "hour": 11, "count": 443}, {"dir": "2->1", "hour": 12, "count": 542}, {"dir": "2->1", "hour": 13, "count": 527}, {"dir": "2->1", "hour": 14, "count": 542}, {"dir": "2->1", "hour": 15, "count": 635}, {"dir": "2->1", "hour": 16, "count": 731}, {"dir": "2->1", "hour": 17, "count": 645}, {"dir": "2->1", "hour": 18, "count": 619}], "data-c799bc843904fa1306d9790ecbc63586": [{"dir": "1->2", "hour": 6, "count": 44}, {"dir": "1->2", "hour": 7, "count": 75}, {"dir": "1->2", "hour": 8, "count": 124}, {"dir": "1->2", "hour": 9, "count": 97}, {"dir": "1->2", "hour": 10, "count": 87}, {"dir": "1->2", "hour": 11, "count": 54}, {"dir": "1->2", "hour": 12, "count": 96}, {"dir": "1->2", "hour": 13, "count": 136}, {"dir": "1->2", "hour": 14, "count": 156}, {"dir": "1->2", "hour": 15, "count": 194}, {"dir": "1->2", "hour": 16, "count": 224}, {"dir": "1->2", "hour": 17, "count": 214}, {"dir": "1->2", "hour": 18, "count": 210}, {"dir": "2->1", "hour": 6, "count": 61}, {"dir": "2->1", "hour": 7, "count": 165}, {"dir": "2->1", "hour": 8, "count": 223}, {"dir": "2->1", "hour": 9, "count": 158}, {"dir": "2->1", "hour": 10, "count": 89}, {"dir": "2->1", "hour": 11, "count": 72}, {"dir": "2->1", "hour": 12, "count": 76}, {"dir": "2->1", "hour": 13, "count": 117}, {"dir": "2->1", "hour": 14, "count": 97}, {"dir": "2->1", "hour": 15, "count": 145}, {"dir": "2->1", "hour": 16, "count": 132}, {"dir": "2->1", "hour": 17, "count": 169}, {"dir": "2->1", "hour": 18, "count": 146}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

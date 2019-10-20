@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-83698dc9e78080177ee47e73d7e82cb1"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "29.10.2013: Benschallee (s\u00fcdl. Berlepschstra\u00dfe)   (Zehlendorf, 14163)"}, {"data": {"name": "data-df0aee44ee5be0e6f5f315583f451789"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-83698dc9e78080177ee47e73d7e82cb1": [{"dir": "1->2", "hour": 7, "count": 180}, {"dir": "1->2", "hour": 8, "count": 231}, {"dir": "1->2", "hour": 9, "count": 221}, {"dir": "1->2", "hour": 10, "count": 278}, {"dir": "1->2", "hour": 11, "count": 244}, {"dir": "1->2", "hour": 12, "count": 252}, {"dir": "1->2", "hour": 13, "count": 348}, {"dir": "1->2", "hour": 14, "count": 436}, {"dir": "1->2", "hour": 15, "count": 497}, {"dir": "1->2", "hour": 16, "count": 485}, {"dir": "1->2", "hour": 17, "count": 473}, {"dir": "1->2", "hour": 18, "count": 442}, {"dir": "2->1", "hour": 7, "count": 723}, {"dir": "2->1", "hour": 8, "count": 583}, {"dir": "2->1", "hour": 9, "count": 345}, {"dir": "2->1", "hour": 10, "count": 258}, {"dir": "2->1", "hour": 11, "count": 242}, {"dir": "2->1", "hour": 12, "count": 246}, {"dir": "2->1", "hour": 13, "count": 288}, {"dir": "2->1", "hour": 14, "count": 292}, {"dir": "2->1", "hour": 15, "count": 336}, {"dir": "2->1", "hour": 16, "count": 296}, {"dir": "2->1", "hour": 17, "count": 306}, {"dir": "2->1", "hour": 18, "count": 235}], "data-df0aee44ee5be0e6f5f315583f451789": [{"dir": "1->2", "hour": 7, "count": 40}, {"dir": "1->2", "hour": 8, "count": 31}, {"dir": "1->2", "hour": 9, "count": 32}, {"dir": "1->2", "hour": 10, "count": 24}, {"dir": "1->2", "hour": 11, "count": 26}, {"dir": "1->2", "hour": 12, "count": 33}, {"dir": "1->2", "hour": 13, "count": 38}, {"dir": "1->2", "hour": 14, "count": 72}, {"dir": "1->2", "hour": 15, "count": 63}, {"dir": "1->2", "hour": 16, "count": 51}, {"dir": "1->2", "hour": 17, "count": 52}, {"dir": "1->2", "hour": 18, "count": 44}, {"dir": "2->1", "hour": 7, "count": 101}, {"dir": "2->1", "hour": 8, "count": 74}, {"dir": "2->1", "hour": 9, "count": 38}, {"dir": "2->1", "hour": 10, "count": 48}, {"dir": "2->1", "hour": 11, "count": 33}, {"dir": "2->1", "hour": 12, "count": 22}, {"dir": "2->1", "hour": 13, "count": 44}, {"dir": "2->1", "hour": 14, "count": 51}, {"dir": "2->1", "hour": 15, "count": 52}, {"dir": "2->1", "hour": 16, "count": 48}, {"dir": "2->1", "hour": 17, "count": 72}, {"dir": "2->1", "hour": 18, "count": 24}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

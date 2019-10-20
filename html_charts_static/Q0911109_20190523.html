@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-f26748742094e643f7578e03ee4fd975"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "23.05.2019: Wexstra\u00dfe (Nord) - Zufahrt BAB-Unterquerung (\u00f6stl. Prinzregentenstr.) (Friedenau, 10825)"}, {"data": {"name": "data-0f13df62d4ffe675eb6d70584b85a0ed"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-f26748742094e643f7578e03ee4fd975": [{"dir": "1->4", "hour": 7, "count": 343}, {"dir": "1->4", "hour": 8, "count": 362}, {"dir": "1->4", "hour": 9, "count": 313}, {"dir": "1->4", "hour": 10, "count": 302}, {"dir": "1->4", "hour": 11, "count": 328}, {"dir": "1->4", "hour": 12, "count": 349}, {"dir": "1->4", "hour": 13, "count": 478}, {"dir": "1->4", "hour": 14, "count": 516}, {"dir": "1->4", "hour": 15, "count": 556}, {"dir": "1->4", "hour": 16, "count": 588}, {"dir": "1->4", "hour": 17, "count": 488}, {"dir": "1->4", "hour": 18, "count": 525}], "data-0f13df62d4ffe675eb6d70584b85a0ed": [{"dir": "1->4", "hour": 7, "count": 0}, {"dir": "1->4", "hour": 8, "count": 0}, {"dir": "1->4", "hour": 9, "count": 0}, {"dir": "1->4", "hour": 10, "count": 0}, {"dir": "1->4", "hour": 11, "count": 0}, {"dir": "1->4", "hour": 12, "count": 0}, {"dir": "1->4", "hour": 13, "count": 0}, {"dir": "1->4", "hour": 14, "count": 0}, {"dir": "1->4", "hour": 15, "count": 0}, {"dir": "1->4", "hour": 16, "count": 0}, {"dir": "1->4", "hour": 17, "count": 0}, {"dir": "1->4", "hour": 18, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

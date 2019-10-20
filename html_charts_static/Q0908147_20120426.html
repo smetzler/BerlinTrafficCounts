@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-bf125b8739577a391dac10ce5a61ada0"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "26.04.2012: Magistratsweg (s\u00fcdl. Rellstabweg)   (Staaken, 13591)"}, {"data": {"name": "data-02934a542f11f237ac85d16bb5692924"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-bf125b8739577a391dac10ce5a61ada0": [{"dir": "1->2", "hour": 0, "count": 19}, {"dir": "1->2", "hour": 1, "count": 18}, {"dir": "1->2", "hour": 2, "count": 16}, {"dir": "1->2", "hour": 3, "count": 14}, {"dir": "1->2", "hour": 4, "count": 31}, {"dir": "1->2", "hour": 5, "count": 117}, {"dir": "1->2", "hour": 6, "count": 200}, {"dir": "1->2", "hour": 7, "count": 372}, {"dir": "1->2", "hour": 8, "count": 436}, {"dir": "1->2", "hour": 9, "count": 392}, {"dir": "1->2", "hour": 10, "count": 350}, {"dir": "1->2", "hour": 11, "count": 372}, {"dir": "1->2", "hour": 12, "count": 397}, {"dir": "1->2", "hour": 13, "count": 435}, {"dir": "1->2", "hour": 14, "count": 448}, {"dir": "1->2", "hour": 15, "count": 494}, {"dir": "1->2", "hour": 16, "count": 514}, {"dir": "1->2", "hour": 17, "count": 491}, {"dir": "1->2", "hour": 18, "count": 412}, {"dir": "1->2", "hour": 19, "count": 315}, {"dir": "1->2", "hour": 20, "count": 225}, {"dir": "1->2", "hour": 21, "count": 126}, {"dir": "1->2", "hour": 22, "count": 94}, {"dir": "1->2", "hour": 23, "count": 71}, {"dir": "2->1", "hour": 0, "count": 42}, {"dir": "2->1", "hour": 1, "count": 21}, {"dir": "2->1", "hour": 2, "count": 7}, {"dir": "2->1", "hour": 3, "count": 10}, {"dir": "2->1", "hour": 4, "count": 25}, {"dir": "2->1", "hour": 5, "count": 89}, {"dir": "2->1", "hour": 6, "count": 146}, {"dir": "2->1", "hour": 7, "count": 323}, {"dir": "2->1", "hour": 8, "count": 372}, {"dir": "2->1", "hour": 9, "count": 382}, {"dir": "2->1", "hour": 10, "count": 366}, {"dir": "2->1", "hour": 11, "count": 401}, {"dir": "2->1", "hour": 12, "count": 384}, {"dir": "2->1", "hour": 13, "count": 352}, {"dir": "2->1", "hour": 14, "count": 375}, {"dir": "2->1", "hour": 15, "count": 452}, {"dir": "2->1", "hour": 16, "count": 398}, {"dir": "2->1", "hour": 17, "count": 403}, {"dir": "2->1", "hour": 18, "count": 395}, {"dir": "2->1", "hour": 19, "count": 257}, {"dir": "2->1", "hour": 20, "count": 178}, {"dir": "2->1", "hour": 21, "count": 102}, {"dir": "2->1", "hour": 22, "count": 72}, {"dir": "2->1", "hour": 23, "count": 49}], "data-02934a542f11f237ac85d16bb5692924": [{"dir": "1->2", "hour": 0, "count": 0}, {"dir": "1->2", "hour": 1, "count": 0}, {"dir": "1->2", "hour": 2, "count": 0}, {"dir": "1->2", "hour": 3, "count": 0}, {"dir": "1->2", "hour": 4, "count": 2}, {"dir": "1->2", "hour": 5, "count": 3}, {"dir": "1->2", "hour": 6, "count": 11}, {"dir": "1->2", "hour": 7, "count": 12}, {"dir": "1->2", "hour": 8, "count": 11}, {"dir": "1->2", "hour": 9, "count": 14}, {"dir": "1->2", "hour": 10, "count": 7}, {"dir": "1->2", "hour": 11, "count": 7}, {"dir": "1->2", "hour": 12, "count": 20}, {"dir": "1->2", "hour": 13, "count": 19}, {"dir": "1->2", "hour": 14, "count": 18}, {"dir": "1->2", "hour": 15, "count": 32}, {"dir": "1->2", "hour": 16, "count": 22}, {"dir": "1->2", "hour": 17, "count": 16}, {"dir": "1->2", "hour": 18, "count": 17}, {"dir": "1->2", "hour": 19, "count": 12}, {"dir": "1->2", "hour": 20, "count": 9}, {"dir": "1->2", "hour": 21, "count": 4}, {"dir": "1->2", "hour": 22, "count": 0}, {"dir": "1->2", "hour": 23, "count": 1}, {"dir": "2->1", "hour": 0, "count": 1}, {"dir": "2->1", "hour": 1, "count": 1}, {"dir": "2->1", "hour": 2, "count": 2}, {"dir": "2->1", "hour": 3, "count": 2}, {"dir": "2->1", "hour": 4, "count": 0}, {"dir": "2->1", "hour": 5, "count": 6}, {"dir": "2->1", "hour": 6, "count": 8}, {"dir": "2->1", "hour": 7, "count": 23}, {"dir": "2->1", "hour": 8, "count": 21}, {"dir": "2->1", "hour": 9, "count": 8}, {"dir": "2->1", "hour": 10, "count": 11}, {"dir": "2->1", "hour": 11, "count": 20}, {"dir": "2->1", "hour": 12, "count": 20}, {"dir": "2->1", "hour": 13, "count": 28}, {"dir": "2->1", "hour": 14, "count": 20}, {"dir": "2->1", "hour": 15, "count": 12}, {"dir": "2->1", "hour": 16, "count": 2}, {"dir": "2->1", "hour": 17, "count": 20}, {"dir": "2->1", "hour": 18, "count": 17}, {"dir": "2->1", "hour": 19, "count": 7}, {"dir": "2->1", "hour": 20, "count": 6}, {"dir": "2->1", "hour": 21, "count": 6}, {"dir": "2->1", "hour": 22, "count": 2}, {"dir": "2->1", "hour": 23, "count": 3}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
