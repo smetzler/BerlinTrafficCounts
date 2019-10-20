@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-c5691e80e081c449c1a4ef5af698abb5"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "17.05.2010: Storkower Stra\u00dfe (s\u00fcdl. Landsberger Allee)   (Lichtenberg, 10369)"}, {"data": {"name": "data-f5fbaa66ec231f4dc32a3a4ef36e979c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-c5691e80e081c449c1a4ef5af698abb5": [{"dir": "1->2", "hour": 6, "count": 492}, {"dir": "1->2", "hour": 7, "count": 640}, {"dir": "1->2", "hour": 8, "count": 632}, {"dir": "1->2", "hour": 9, "count": 628}, {"dir": "1->2", "hour": 10, "count": 665}, {"dir": "1->2", "hour": 11, "count": 652}, {"dir": "1->2", "hour": 12, "count": 655}, {"dir": "1->2", "hour": 13, "count": 649}, {"dir": "1->2", "hour": 14, "count": 722}, {"dir": "1->2", "hour": 15, "count": 769}, {"dir": "1->2", "hour": 16, "count": 765}, {"dir": "1->2", "hour": 17, "count": 819}, {"dir": "1->2", "hour": 18, "count": 757}, {"dir": "2->1", "hour": 6, "count": 550}, {"dir": "2->1", "hour": 7, "count": 644}, {"dir": "2->1", "hour": 8, "count": 611}, {"dir": "2->1", "hour": 9, "count": 596}, {"dir": "2->1", "hour": 10, "count": 497}, {"dir": "2->1", "hour": 11, "count": 574}, {"dir": "2->1", "hour": 12, "count": 554}, {"dir": "2->1", "hour": 13, "count": 668}, {"dir": "2->1", "hour": 14, "count": 654}, {"dir": "2->1", "hour": 15, "count": 783}, {"dir": "2->1", "hour": 16, "count": 779}, {"dir": "2->1", "hour": 17, "count": 770}, {"dir": "2->1", "hour": 18, "count": 543}], "data-f5fbaa66ec231f4dc32a3a4ef36e979c": [{"dir": "1->2", "hour": 6, "count": 27}, {"dir": "1->2", "hour": 7, "count": 56}, {"dir": "1->2", "hour": 8, "count": 66}, {"dir": "1->2", "hour": 9, "count": 44}, {"dir": "1->2", "hour": 10, "count": 41}, {"dir": "1->2", "hour": 11, "count": 40}, {"dir": "1->2", "hour": 12, "count": 36}, {"dir": "1->2", "hour": 13, "count": 49}, {"dir": "1->2", "hour": 14, "count": 52}, {"dir": "1->2", "hour": 15, "count": 70}, {"dir": "1->2", "hour": 16, "count": 76}, {"dir": "1->2", "hour": 17, "count": 85}, {"dir": "1->2", "hour": 18, "count": 66}, {"dir": "2->1", "hour": 6, "count": 27}, {"dir": "2->1", "hour": 7, "count": 85}, {"dir": "2->1", "hour": 8, "count": 51}, {"dir": "2->1", "hour": 9, "count": 44}, {"dir": "2->1", "hour": 10, "count": 19}, {"dir": "2->1", "hour": 11, "count": 24}, {"dir": "2->1", "hour": 12, "count": 50}, {"dir": "2->1", "hour": 13, "count": 60}, {"dir": "2->1", "hour": 14, "count": 69}, {"dir": "2->1", "hour": 15, "count": 92}, {"dir": "2->1", "hour": 16, "count": 80}, {"dir": "2->1", "hour": 17, "count": 96}, {"dir": "2->1", "hour": 18, "count": 69}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

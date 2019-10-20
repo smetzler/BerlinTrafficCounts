@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-3e3a61d21abdabf8485575e22c1dae67"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.06.2010: A115- AVUS (n\u00f6rdl. AS H\u00fcttenweg)   (Zehlendorf, 14129)"}, {"data": {"name": "data-3e3a61d21abdabf8485575e22c1dae67"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-3e3a61d21abdabf8485575e22c1dae67": [{"dir": "1->2", "hour": 6, "count": 2162}, {"dir": "1->2", "hour": 7, "count": 2479}, {"dir": "1->2", "hour": 8, "count": 2798}, {"dir": "1->2", "hour": 9, "count": 2549}, {"dir": "1->2", "hour": 10, "count": 2484}, {"dir": "1->2", "hour": 11, "count": 2323}, {"dir": "1->2", "hour": 12, "count": 2247}, {"dir": "1->2", "hour": 13, "count": 2367}, {"dir": "1->2", "hour": 14, "count": 2542}, {"dir": "1->2", "hour": 15, "count": 2977}, {"dir": "1->2", "hour": 16, "count": 2834}, {"dir": "1->2", "hour": 17, "count": 3208}, {"dir": "1->2", "hour": 18, "count": 2996}, {"dir": "2->1", "hour": 6, "count": 3003}, {"dir": "2->1", "hour": 7, "count": 3081}, {"dir": "2->1", "hour": 8, "count": 2612}, {"dir": "2->1", "hour": 9, "count": 2390}, {"dir": "2->1", "hour": 10, "count": 2295}, {"dir": "2->1", "hour": 11, "count": 2194}, {"dir": "2->1", "hour": 12, "count": 2064}, {"dir": "2->1", "hour": 13, "count": 2121}, {"dir": "2->1", "hour": 14, "count": 2428}, {"dir": "2->1", "hour": 15, "count": 2641}, {"dir": "2->1", "hour": 16, "count": 2662}, {"dir": "2->1", "hour": 17, "count": 2540}, {"dir": "2->1", "hour": 18, "count": 2640}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

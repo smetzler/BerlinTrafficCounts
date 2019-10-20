@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-14c81aa5434b89a125888cc855e044b0"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "08.05.2014: Bernauer Stra\u00dfe (Tegeler Br\u00fccke)   (Reinickendorf, 13629)"}, {"data": {"name": "data-c9f23b34473be51b4522ba5df3e82353"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-14c81aa5434b89a125888cc855e044b0": [{"dir": "1->2", "hour": 7, "count": 781}, {"dir": "1->2", "hour": 8, "count": 743}, {"dir": "1->2", "hour": 9, "count": 604}, {"dir": "1->2", "hour": 10, "count": 522}, {"dir": "1->2", "hour": 11, "count": 475}, {"dir": "1->2", "hour": 12, "count": 479}, {"dir": "1->2", "hour": 13, "count": 501}, {"dir": "1->2", "hour": 14, "count": 620}, {"dir": "1->2", "hour": 15, "count": 674}, {"dir": "1->2", "hour": 16, "count": 722}, {"dir": "1->2", "hour": 17, "count": 600}, {"dir": "1->2", "hour": 18, "count": 450}, {"dir": "2->1", "hour": 7, "count": 516}, {"dir": "2->1", "hour": 8, "count": 560}, {"dir": "2->1", "hour": 9, "count": 463}, {"dir": "2->1", "hour": 10, "count": 444}, {"dir": "2->1", "hour": 11, "count": 456}, {"dir": "2->1", "hour": 12, "count": 500}, {"dir": "2->1", "hour": 13, "count": 537}, {"dir": "2->1", "hour": 14, "count": 650}, {"dir": "2->1", "hour": 15, "count": 687}, {"dir": "2->1", "hour": 16, "count": 702}, {"dir": "2->1", "hour": 17, "count": 626}, {"dir": "2->1", "hour": 18, "count": 510}], "data-c9f23b34473be51b4522ba5df3e82353": [{"dir": "1->2", "hour": 7, "count": 37}, {"dir": "1->2", "hour": 8, "count": 32}, {"dir": "1->2", "hour": 9, "count": 15}, {"dir": "1->2", "hour": 10, "count": 14}, {"dir": "1->2", "hour": 11, "count": 18}, {"dir": "1->2", "hour": 12, "count": 24}, {"dir": "1->2", "hour": 13, "count": 19}, {"dir": "1->2", "hour": 14, "count": 13}, {"dir": "1->2", "hour": 15, "count": 18}, {"dir": "1->2", "hour": 16, "count": 14}, {"dir": "1->2", "hour": 17, "count": 16}, {"dir": "1->2", "hour": 18, "count": 17}, {"dir": "2->1", "hour": 7, "count": 26}, {"dir": "2->1", "hour": 8, "count": 17}, {"dir": "2->1", "hour": 9, "count": 8}, {"dir": "2->1", "hour": 10, "count": 20}, {"dir": "2->1", "hour": 11, "count": 15}, {"dir": "2->1", "hour": 12, "count": 17}, {"dir": "2->1", "hour": 13, "count": 20}, {"dir": "2->1", "hour": 14, "count": 16}, {"dir": "2->1", "hour": 15, "count": 27}, {"dir": "2->1", "hour": 16, "count": 16}, {"dir": "2->1", "hour": 17, "count": 37}, {"dir": "2->1", "hour": 18, "count": 28}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

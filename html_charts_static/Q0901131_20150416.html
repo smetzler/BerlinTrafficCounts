@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-1c30ad5f17015d194ea038c5b0797a8e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "16.04.2015: Torstra\u00dfe (\u00f6stl. Stra\u00dfburger Stra\u00dfe)   (Mitte, 10119)"}, {"data": {"name": "data-fcf9b3514c965ca51e495400263eb4c9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-1c30ad5f17015d194ea038c5b0797a8e": [{"dir": "1->2", "hour": 0, "count": 275}, {"dir": "1->2", "hour": 1, "count": 163}, {"dir": "1->2", "hour": 2, "count": 106}, {"dir": "1->2", "hour": 3, "count": 110}, {"dir": "1->2", "hour": 4, "count": 114}, {"dir": "1->2", "hour": 5, "count": 318}, {"dir": "1->2", "hour": 6, "count": 730}, {"dir": "1->2", "hour": 7, "count": 913}, {"dir": "1->2", "hour": 8, "count": 1002}, {"dir": "1->2", "hour": 9, "count": 1142}, {"dir": "1->2", "hour": 10, "count": 979}, {"dir": "1->2", "hour": 11, "count": 966}, {"dir": "1->2", "hour": 12, "count": 1018}, {"dir": "1->2", "hour": 13, "count": 1198}, {"dir": "1->2", "hour": 14, "count": 1270}, {"dir": "1->2", "hour": 15, "count": 1576}, {"dir": "1->2", "hour": 16, "count": 1490}, {"dir": "1->2", "hour": 17, "count": 1574}, {"dir": "1->2", "hour": 18, "count": 1365}, {"dir": "1->2", "hour": 19, "count": 1257}, {"dir": "1->2", "hour": 20, "count": 1190}, {"dir": "1->2", "hour": 21, "count": 800}, {"dir": "1->2", "hour": 22, "count": 824}, {"dir": "1->2", "hour": 23, "count": 559}, {"dir": "2->1", "hour": 0, "count": 184}, {"dir": "2->1", "hour": 1, "count": 181}, {"dir": "2->1", "hour": 2, "count": 136}, {"dir": "2->1", "hour": 3, "count": 160}, {"dir": "2->1", "hour": 4, "count": 312}, {"dir": "2->1", "hour": 5, "count": 747}, {"dir": "2->1", "hour": 6, "count": 898}, {"dir": "2->1", "hour": 7, "count": 945}, {"dir": "2->1", "hour": 8, "count": 815}, {"dir": "2->1", "hour": 9, "count": 736}, {"dir": "2->1", "hour": 10, "count": 827}, {"dir": "2->1", "hour": 11, "count": 807}, {"dir": "2->1", "hour": 12, "count": 798}, {"dir": "2->1", "hour": 13, "count": 832}, {"dir": "2->1", "hour": 14, "count": 826}, {"dir": "2->1", "hour": 15, "count": 824}, {"dir": "2->1", "hour": 16, "count": 970}, {"dir": "2->1", "hour": 17, "count": 950}, {"dir": "2->1", "hour": 18, "count": 1087}, {"dir": "2->1", "hour": 19, "count": 901}, {"dir": "2->1", "hour": 20, "count": 749}, {"dir": "2->1", "hour": 21, "count": 665}, {"dir": "2->1", "hour": 22, "count": 478}, {"dir": "2->1", "hour": 23, "count": 412}], "data-fcf9b3514c965ca51e495400263eb4c9": [{"dir": "1->2", "hour": 0, "count": 30}, {"dir": "1->2", "hour": 1, "count": 11}, {"dir": "1->2", "hour": 2, "count": 9}, {"dir": "1->2", "hour": 3, "count": 4}, {"dir": "1->2", "hour": 4, "count": 4}, {"dir": "1->2", "hour": 5, "count": 13}, {"dir": "1->2", "hour": 6, "count": 18}, {"dir": "1->2", "hour": 7, "count": 51}, {"dir": "1->2", "hour": 8, "count": 95}, {"dir": "1->2", "hour": 9, "count": 76}, {"dir": "1->2", "hour": 10, "count": 33}, {"dir": "1->2", "hour": 11, "count": 50}, {"dir": "1->2", "hour": 12, "count": 62}, {"dir": "1->2", "hour": 13, "count": 84}, {"dir": "1->2", "hour": 14, "count": 80}, {"dir": "1->2", "hour": 15, "count": 110}, {"dir": "1->2", "hour": 16, "count": 122}, {"dir": "1->2", "hour": 17, "count": 119}, {"dir": "1->2", "hour": 18, "count": 195}, {"dir": "1->2", "hour": 19, "count": 155}, {"dir": "1->2", "hour": 20, "count": 98}, {"dir": "1->2", "hour": 21, "count": 93}, {"dir": "1->2", "hour": 22, "count": 70}, {"dir": "1->2", "hour": 23, "count": 68}, {"dir": "2->1", "hour": 0, "count": 33}, {"dir": "2->1", "hour": 1, "count": 13}, {"dir": "2->1", "hour": 2, "count": 7}, {"dir": "2->1", "hour": 3, "count": 4}, {"dir": "2->1", "hour": 4, "count": 4}, {"dir": "2->1", "hour": 5, "count": 23}, {"dir": "2->1", "hour": 6, "count": 24}, {"dir": "2->1", "hour": 7, "count": 66}, {"dir": "2->1", "hour": 8, "count": 148}, {"dir": "2->1", "hour": 9, "count": 140}, {"dir": "2->1", "hour": 10, "count": 83}, {"dir": "2->1", "hour": 11, "count": 45}, {"dir": "2->1", "hour": 12, "count": 77}, {"dir": "2->1", "hour": 13, "count": 94}, {"dir": "2->1", "hour": 14, "count": 90}, {"dir": "2->1", "hour": 15, "count": 86}, {"dir": "2->1", "hour": 16, "count": 98}, {"dir": "2->1", "hour": 17, "count": 123}, {"dir": "2->1", "hour": 18, "count": 196}, {"dir": "2->1", "hour": 19, "count": 163}, {"dir": "2->1", "hour": 20, "count": 89}, {"dir": "2->1", "hour": 21, "count": 63}, {"dir": "2->1", "hour": 22, "count": 75}, {"dir": "2->1", "hour": 23, "count": 45}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

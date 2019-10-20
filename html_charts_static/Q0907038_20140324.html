@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-60eb3a520b516c1295c43a66678a7db8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.03.2014: A100-Stadtring - Zu-Abfahrt Siemensdamm   (Charlottenburg, 13627)"}, {"data": {"name": "data-60eb3a520b516c1295c43a66678a7db8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-60eb3a520b516c1295c43a66678a7db8": [{"dir": "1->2", "hour": 7, "count": 490}, {"dir": "1->2", "hour": 8, "count": 204}, {"dir": "1->2", "hour": 9, "count": 343}, {"dir": "1->2", "hour": 10, "count": 373}, {"dir": "1->2", "hour": 11, "count": 409}, {"dir": "1->2", "hour": 12, "count": 489}, {"dir": "1->2", "hour": 13, "count": 386}, {"dir": "1->2", "hour": 14, "count": 625}, {"dir": "1->2", "hour": 15, "count": 164}, {"dir": "1->2", "hour": 16, "count": 21}, {"dir": "1->2", "hour": 17, "count": 437}, {"dir": "1->2", "hour": 18, "count": 444}, {"dir": "2->1", "hour": 7, "count": 709}, {"dir": "2->1", "hour": 8, "count": 605}, {"dir": "2->1", "hour": 9, "count": 532}, {"dir": "2->1", "hour": 10, "count": 421}, {"dir": "2->1", "hour": 11, "count": 401}, {"dir": "2->1", "hour": 12, "count": 480}, {"dir": "2->1", "hour": 13, "count": 601}, {"dir": "2->1", "hour": 14, "count": 553}, {"dir": "2->1", "hour": 15, "count": 449}, {"dir": "2->1", "hour": 16, "count": 420}, {"dir": "2->1", "hour": 17, "count": 518}, {"dir": "2->1", "hour": 18, "count": 416}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

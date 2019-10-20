@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-d42a18769642ab373aec80c1bf67d66c"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "26.09.2018: Axel-Springer-Stra\u00dfe (s\u00fcdl. Zimmerstra\u00dfe)   (Kreuzberg, 10969)"}, {"data": {"name": "data-a2e429ce9ae2346f3314f6e3e417f02a"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-d42a18769642ab373aec80c1bf67d66c": [{"dir": "1->2", "hour": 7, "count": 731}, {"dir": "1->2", "hour": 8, "count": 864}, {"dir": "1->2", "hour": 9, "count": 872}, {"dir": "1->2", "hour": 10, "count": 782}, {"dir": "1->2", "hour": 11, "count": 652}, {"dir": "1->2", "hour": 12, "count": 681}, {"dir": "1->2", "hour": 13, "count": 684}, {"dir": "1->2", "hour": 14, "count": 890}, {"dir": "1->2", "hour": 15, "count": 905}, {"dir": "1->2", "hour": 16, "count": 912}, {"dir": "1->2", "hour": 17, "count": 862}, {"dir": "1->2", "hour": 18, "count": 797}, {"dir": "2->1", "hour": 7, "count": 676}, {"dir": "2->1", "hour": 8, "count": 627}, {"dir": "2->1", "hour": 9, "count": 663}, {"dir": "2->1", "hour": 10, "count": 618}, {"dir": "2->1", "hour": 11, "count": 607}, {"dir": "2->1", "hour": 12, "count": 515}, {"dir": "2->1", "hour": 13, "count": 563}, {"dir": "2->1", "hour": 14, "count": 584}, {"dir": "2->1", "hour": 15, "count": 773}, {"dir": "2->1", "hour": 16, "count": 694}, {"dir": "2->1", "hour": 17, "count": 698}, {"dir": "2->1", "hour": 18, "count": 729}], "data-a2e429ce9ae2346f3314f6e3e417f02a": [{"dir": "1->2", "hour": 7, "count": 81}, {"dir": "1->2", "hour": 8, "count": 304}, {"dir": "1->2", "hour": 9, "count": 209}, {"dir": "1->2", "hour": 10, "count": 88}, {"dir": "1->2", "hour": 11, "count": 84}, {"dir": "1->2", "hour": 12, "count": 88}, {"dir": "1->2", "hour": 13, "count": 83}, {"dir": "1->2", "hour": 14, "count": 73}, {"dir": "1->2", "hour": 15, "count": 127}, {"dir": "1->2", "hour": 16, "count": 168}, {"dir": "1->2", "hour": 17, "count": 162}, {"dir": "1->2", "hour": 18, "count": 214}, {"dir": "2->1", "hour": 7, "count": 86}, {"dir": "2->1", "hour": 8, "count": 204}, {"dir": "2->1", "hour": 9, "count": 182}, {"dir": "2->1", "hour": 10, "count": 52}, {"dir": "2->1", "hour": 11, "count": 71}, {"dir": "2->1", "hour": 12, "count": 69}, {"dir": "2->1", "hour": 13, "count": 64}, {"dir": "2->1", "hour": 14, "count": 74}, {"dir": "2->1", "hour": 15, "count": 45}, {"dir": "2->1", "hour": 16, "count": 118}, {"dir": "2->1", "hour": 17, "count": 212}, {"dir": "2->1", "hour": 18, "count": 207}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

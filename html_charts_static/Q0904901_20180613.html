@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-519285aa78de5aa65a0fbf91d03dcf2d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "13.06.2018: Kastanienallee (n\u00f6rdl. Schwedter Stra\u00dfe)   (Prenzlauer Berg, 10435)"}, {"data": {"name": "data-fd9334072ed1925416d131dbce22e231"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-519285aa78de5aa65a0fbf91d03dcf2d": [{"dir": "1->2", "hour": 7, "count": 39}, {"dir": "1->2", "hour": 8, "count": 63}, {"dir": "1->2", "hour": 9, "count": 116}, {"dir": "1->2", "hour": 10, "count": 82}, {"dir": "1->2", "hour": 11, "count": 85}, {"dir": "1->2", "hour": 12, "count": 107}, {"dir": "1->2", "hour": 13, "count": 139}, {"dir": "1->2", "hour": 14, "count": 159}, {"dir": "1->2", "hour": 15, "count": 184}, {"dir": "1->2", "hour": 16, "count": 204}, {"dir": "1->2", "hour": 17, "count": 284}, {"dir": "1->2", "hour": 18, "count": 400}, {"dir": "2->1", "hour": 7, "count": 199}, {"dir": "2->1", "hour": 8, "count": 365}, {"dir": "2->1", "hour": 9, "count": 345}, {"dir": "2->1", "hour": 10, "count": 154}, {"dir": "2->1", "hour": 11, "count": 126}, {"dir": "2->1", "hour": 12, "count": 101}, {"dir": "2->1", "hour": 13, "count": 139}, {"dir": "2->1", "hour": 14, "count": 134}, {"dir": "2->1", "hour": 15, "count": 163}, {"dir": "2->1", "hour": 16, "count": 116}, {"dir": "2->1", "hour": 17, "count": 156}, {"dir": "2->1", "hour": 18, "count": 200}], "data-fd9334072ed1925416d131dbce22e231": [{"dir": "1->2", "hour": 7, "count": 37}, {"dir": "1->2", "hour": 8, "count": 67}, {"dir": "1->2", "hour": 9, "count": 80}, {"dir": "1->2", "hour": 10, "count": 64}, {"dir": "1->2", "hour": 11, "count": 68}, {"dir": "1->2", "hour": 12, "count": 96}, {"dir": "1->2", "hour": 13, "count": 141}, {"dir": "1->2", "hour": 14, "count": 126}, {"dir": "1->2", "hour": 15, "count": 167}, {"dir": "1->2", "hour": 16, "count": 216}, {"dir": "1->2", "hour": 17, "count": 239}, {"dir": "1->2", "hour": 18, "count": 302}, {"dir": "2->1", "hour": 7, "count": 201}, {"dir": "2->1", "hour": 8, "count": 403}, {"dir": "2->1", "hour": 9, "count": 287}, {"dir": "2->1", "hour": 10, "count": 110}, {"dir": "2->1", "hour": 11, "count": 105}, {"dir": "2->1", "hour": 12, "count": 110}, {"dir": "2->1", "hour": 13, "count": 153}, {"dir": "2->1", "hour": 14, "count": 117}, {"dir": "2->1", "hour": 15, "count": 147}, {"dir": "2->1", "hour": 16, "count": 164}, {"dir": "2->1", "hour": 17, "count": 119}, {"dir": "2->1", "hour": 18, "count": 186}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

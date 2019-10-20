@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-3f67819b81f05b1015a32d15f647e6b5"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "08.06.2006: Fulhamer Allee ( H\u00f6he Nr. 34-38, \u00dcbergang zum Park)   (Britz, 12359)"}, {"data": {"name": "data-7b46e3dce6469fb63b879cbb82e11e8d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-3f67819b81f05b1015a32d15f647e6b5": [{"dir": "1->2", "hour": 7, "count": 259}, {"dir": "1->2", "hour": 8, "count": 253}, {"dir": "1->2", "hour": 9, "count": 236}, {"dir": "1->2", "hour": 10, "count": 240}, {"dir": "1->2", "hour": 11, "count": 259}, {"dir": "1->2", "hour": 12, "count": 244}, {"dir": "1->2", "hour": 13, "count": 265}, {"dir": "1->2", "hour": 14, "count": 320}, {"dir": "1->2", "hour": 15, "count": 352}, {"dir": "1->2", "hour": 16, "count": 406}, {"dir": "1->2", "hour": 17, "count": 337}, {"dir": "1->2", "hour": 18, "count": 289}, {"dir": "2->1", "hour": 7, "count": 374}, {"dir": "2->1", "hour": 8, "count": 340}, {"dir": "2->1", "hour": 9, "count": 287}, {"dir": "2->1", "hour": 10, "count": 299}, {"dir": "2->1", "hour": 11, "count": 289}, {"dir": "2->1", "hour": 12, "count": 207}, {"dir": "2->1", "hour": 13, "count": 271}, {"dir": "2->1", "hour": 14, "count": 273}, {"dir": "2->1", "hour": 15, "count": 302}, {"dir": "2->1", "hour": 16, "count": 311}, {"dir": "2->1", "hour": 17, "count": 300}, {"dir": "2->1", "hour": 18, "count": 237}], "data-7b46e3dce6469fb63b879cbb82e11e8d": [{"dir": "1->2", "hour": 7, "count": 49}, {"dir": "1->2", "hour": 8, "count": 7}, {"dir": "1->2", "hour": 9, "count": 16}, {"dir": "1->2", "hour": 10, "count": 15}, {"dir": "1->2", "hour": 11, "count": 24}, {"dir": "1->2", "hour": 12, "count": 21}, {"dir": "1->2", "hour": 13, "count": 20}, {"dir": "1->2", "hour": 14, "count": 36}, {"dir": "1->2", "hour": 15, "count": 40}, {"dir": "1->2", "hour": 16, "count": 25}, {"dir": "1->2", "hour": 17, "count": 35}, {"dir": "1->2", "hour": 18, "count": 30}, {"dir": "2->1", "hour": 7, "count": 45}, {"dir": "2->1", "hour": 8, "count": 54}, {"dir": "2->1", "hour": 9, "count": 21}, {"dir": "2->1", "hour": 10, "count": 22}, {"dir": "2->1", "hour": 11, "count": 18}, {"dir": "2->1", "hour": 12, "count": 34}, {"dir": "2->1", "hour": 13, "count": 36}, {"dir": "2->1", "hour": 14, "count": 43}, {"dir": "2->1", "hour": 15, "count": 36}, {"dir": "2->1", "hour": 16, "count": 46}, {"dir": "2->1", "hour": 17, "count": 38}, {"dir": "2->1", "hour": 18, "count": 13}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

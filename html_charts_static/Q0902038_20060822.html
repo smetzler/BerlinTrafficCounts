@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-c98ca1dd82fb6f43d2c5ec2d4cdf978d"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "22.08.2006: Kaiserin-Augusta-Allee (westl. Beusselstra\u00dfe)   (Moabit, 10553)"}, {"data": {"name": "data-eb3065431c2a9d7fa5f167e0f72e70d5"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-c98ca1dd82fb6f43d2c5ec2d4cdf978d": [{"dir": "1->2", "hour": 7, "count": 357}, {"dir": "1->2", "hour": 8, "count": 438}, {"dir": "1->2", "hour": 9, "count": 453}, {"dir": "1->2", "hour": 10, "count": 410}, {"dir": "1->2", "hour": 11, "count": 411}, {"dir": "1->2", "hour": 12, "count": 446}, {"dir": "1->2", "hour": 13, "count": 464}, {"dir": "1->2", "hour": 14, "count": 527}, {"dir": "1->2", "hour": 15, "count": 620}, {"dir": "1->2", "hour": 16, "count": 547}, {"dir": "1->2", "hour": 17, "count": 631}, {"dir": "1->2", "hour": 18, "count": 617}, {"dir": "2->1", "hour": 7, "count": 471}, {"dir": "2->1", "hour": 8, "count": 637}, {"dir": "2->1", "hour": 9, "count": 531}, {"dir": "2->1", "hour": 10, "count": 446}, {"dir": "2->1", "hour": 11, "count": 471}, {"dir": "2->1", "hour": 12, "count": 469}, {"dir": "2->1", "hour": 13, "count": 367}, {"dir": "2->1", "hour": 14, "count": 407}, {"dir": "2->1", "hour": 15, "count": 508}, {"dir": "2->1", "hour": 16, "count": 518}, {"dir": "2->1", "hour": 17, "count": 531}, {"dir": "2->1", "hour": 18, "count": 506}], "data-eb3065431c2a9d7fa5f167e0f72e70d5": [{"dir": "1->2", "hour": 7, "count": 32}, {"dir": "1->2", "hour": 8, "count": 48}, {"dir": "1->2", "hour": 9, "count": 38}, {"dir": "1->2", "hour": 10, "count": 32}, {"dir": "1->2", "hour": 11, "count": 28}, {"dir": "1->2", "hour": 12, "count": 41}, {"dir": "1->2", "hour": 13, "count": 44}, {"dir": "1->2", "hour": 14, "count": 54}, {"dir": "1->2", "hour": 15, "count": 70}, {"dir": "1->2", "hour": 16, "count": 71}, {"dir": "1->2", "hour": 17, "count": 67}, {"dir": "1->2", "hour": 18, "count": 77}, {"dir": "2->1", "hour": 7, "count": 65}, {"dir": "2->1", "hour": 8, "count": 85}, {"dir": "2->1", "hour": 9, "count": 63}, {"dir": "2->1", "hour": 10, "count": 34}, {"dir": "2->1", "hour": 11, "count": 38}, {"dir": "2->1", "hour": 12, "count": 28}, {"dir": "2->1", "hour": 13, "count": 12}, {"dir": "2->1", "hour": 14, "count": 46}, {"dir": "2->1", "hour": 15, "count": 48}, {"dir": "2->1", "hour": 16, "count": 66}, {"dir": "2->1", "hour": 17, "count": 59}, {"dir": "2->1", "hour": 18, "count": 49}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

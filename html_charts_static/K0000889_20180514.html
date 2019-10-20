@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-dec4edb06ea389a829ef54505466a8f6"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.05.2018: Kottbusser Tor / Skalitzer Stra\u00dfe (W)   (Kreuzberg, 10999)"}, {"data": {"name": "data-9472d6125da777a9db8c6e66be57d32e"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-dec4edb06ea389a829ef54505466a8f6": [{"dir": "2->3", "hour": 7, "count": 598}, {"dir": "2->3", "hour": 8, "count": 629}, {"dir": "2->3", "hour": 9, "count": 621}, {"dir": "2->3", "hour": 10, "count": 656}, {"dir": "2->3", "hour": 11, "count": 691}, {"dir": "2->3", "hour": 12, "count": 736}, {"dir": "2->3", "hour": 13, "count": 743}, {"dir": "2->3", "hour": 14, "count": 805}, {"dir": "2->3", "hour": 15, "count": 890}, {"dir": "2->3", "hour": 16, "count": 907}, {"dir": "2->3", "hour": 17, "count": 871}, {"dir": "2->3", "hour": 18, "count": 840}, {"dir": "4->2", "hour": 7, "count": 721}, {"dir": "4->2", "hour": 8, "count": 779}, {"dir": "4->2", "hour": 9, "count": 701}, {"dir": "4->2", "hour": 10, "count": 594}, {"dir": "4->2", "hour": 11, "count": 594}, {"dir": "4->2", "hour": 12, "count": 673}, {"dir": "4->2", "hour": 13, "count": 621}, {"dir": "4->2", "hour": 14, "count": 690}, {"dir": "4->2", "hour": 15, "count": 736}, {"dir": "4->2", "hour": 16, "count": 708}, {"dir": "4->2", "hour": 17, "count": 793}, {"dir": "4->2", "hour": 18, "count": 755}, {"dir": "4->3", "hour": 7, "count": 323}, {"dir": "4->3", "hour": 8, "count": 292}, {"dir": "4->3", "hour": 9, "count": 321}, {"dir": "4->3", "hour": 10, "count": 337}, {"dir": "4->3", "hour": 11, "count": 340}, {"dir": "4->3", "hour": 12, "count": 349}, {"dir": "4->3", "hour": 13, "count": 380}, {"dir": "4->3", "hour": 14, "count": 405}, {"dir": "4->3", "hour": 15, "count": 407}, {"dir": "4->3", "hour": 16, "count": 420}, {"dir": "4->3", "hour": 17, "count": 439}, {"dir": "4->3", "hour": 18, "count": 436}], "data-9472d6125da777a9db8c6e66be57d32e": [{"dir": "2->3", "hour": 7, "count": 74}, {"dir": "2->3", "hour": 8, "count": 154}, {"dir": "2->3", "hour": 9, "count": 224}, {"dir": "2->3", "hour": 10, "count": 104}, {"dir": "2->3", "hour": 11, "count": 102}, {"dir": "2->3", "hour": 12, "count": 101}, {"dir": "2->3", "hour": 13, "count": 114}, {"dir": "2->3", "hour": 14, "count": 174}, {"dir": "2->3", "hour": 15, "count": 217}, {"dir": "2->3", "hour": 16, "count": 207}, {"dir": "2->3", "hour": 17, "count": 218}, {"dir": "2->3", "hour": 18, "count": 185}, {"dir": "4->2", "hour": 7, "count": 124}, {"dir": "4->2", "hour": 8, "count": 326}, {"dir": "4->2", "hour": 9, "count": 206}, {"dir": "4->2", "hour": 10, "count": 109}, {"dir": "4->2", "hour": 11, "count": 103}, {"dir": "4->2", "hour": 12, "count": 99}, {"dir": "4->2", "hour": 13, "count": 100}, {"dir": "4->2", "hour": 14, "count": 94}, {"dir": "4->2", "hour": 15, "count": 120}, {"dir": "4->2", "hour": 16, "count": 139}, {"dir": "4->2", "hour": 17, "count": 127}, {"dir": "4->2", "hour": 18, "count": 113}, {"dir": "4->3", "hour": 7, "count": 84}, {"dir": "4->3", "hour": 8, "count": 197}, {"dir": "4->3", "hour": 9, "count": 218}, {"dir": "4->3", "hour": 10, "count": 148}, {"dir": "4->3", "hour": 11, "count": 141}, {"dir": "4->3", "hour": 12, "count": 212}, {"dir": "4->3", "hour": 13, "count": 210}, {"dir": "4->3", "hour": 14, "count": 211}, {"dir": "4->3", "hour": 15, "count": 328}, {"dir": "4->3", "hour": 16, "count": 256}, {"dir": "4->3", "hour": 17, "count": 298}, {"dir": "4->3", "hour": 18, "count": 203}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

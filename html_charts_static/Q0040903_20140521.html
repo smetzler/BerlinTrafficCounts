@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-fdb3e8fcaa54d6e2b34abbc8a8f88336"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "21.05.2014: Frankfurter Allee (\u00f6stl. Hubertusstra\u00dfe) (Lichtenberg, 10317)"}, {"data": {"name": "data-1ca3d9ebaaefd7c379ea7e918e33a60b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-fdb3e8fcaa54d6e2b34abbc8a8f88336": [{"dir": "1->2", "hour": 7, "count": 1542}, {"dir": "1->2", "hour": 8, "count": 1508}, {"dir": "1->2", "hour": 9, "count": 1504}, {"dir": "1->2", "hour": 10, "count": 1551}, {"dir": "1->2", "hour": 11, "count": 1525}, {"dir": "1->2", "hour": 12, "count": 1594}, {"dir": "1->2", "hour": 13, "count": 1746}, {"dir": "1->2", "hour": 14, "count": 2521}, {"dir": "1->2", "hour": 15, "count": 2890}, {"dir": "1->2", "hour": 16, "count": 3177}, {"dir": "1->2", "hour": 17, "count": 2166}, {"dir": "1->2", "hour": 18, "count": 1962}, {"dir": "2->1", "hour": 7, "count": 3904}, {"dir": "2->1", "hour": 8, "count": 3321}, {"dir": "2->1", "hour": 9, "count": 2546}, {"dir": "2->1", "hour": 10, "count": 2162}, {"dir": "2->1", "hour": 11, "count": 1939}, {"dir": "2->1", "hour": 12, "count": 2043}, {"dir": "2->1", "hour": 13, "count": 1864}, {"dir": "2->1", "hour": 14, "count": 1874}, {"dir": "2->1", "hour": 15, "count": 1965}, {"dir": "2->1", "hour": 16, "count": 2068}, {"dir": "2->1", "hour": 17, "count": 1920}, {"dir": "2->1", "hour": 18, "count": 1809}], "data-1ca3d9ebaaefd7c379ea7e918e33a60b": [{"dir": "1->2", "hour": 7, "count": 54}, {"dir": "1->2", "hour": 8, "count": 82}, {"dir": "1->2", "hour": 9, "count": 71}, {"dir": "1->2", "hour": 10, "count": 40}, {"dir": "1->2", "hour": 11, "count": 36}, {"dir": "1->2", "hour": 12, "count": 48}, {"dir": "1->2", "hour": 13, "count": 64}, {"dir": "1->2", "hour": 14, "count": 87}, {"dir": "1->2", "hour": 15, "count": 113}, {"dir": "1->2", "hour": 16, "count": 154}, {"dir": "1->2", "hour": 17, "count": 24}, {"dir": "1->2", "hour": 18, "count": 41}, {"dir": "2->1", "hour": 7, "count": 114}, {"dir": "2->1", "hour": 8, "count": 93}, {"dir": "2->1", "hour": 9, "count": 45}, {"dir": "2->1", "hour": 10, "count": 37}, {"dir": "2->1", "hour": 11, "count": 35}, {"dir": "2->1", "hour": 12, "count": 59}, {"dir": "2->1", "hour": 13, "count": 65}, {"dir": "2->1", "hour": 14, "count": 52}, {"dir": "2->1", "hour": 15, "count": 74}, {"dir": "2->1", "hour": 16, "count": 84}, {"dir": "2->1", "hour": 17, "count": 71}, {"dir": "2->1", "hour": 18, "count": 71}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

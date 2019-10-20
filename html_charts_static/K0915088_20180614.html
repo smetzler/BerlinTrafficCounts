@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-3dab653b8898d1afcb490f8f6e704bdd"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "14.06.2018: Rummelsb. Str. - A. d. Wuhlheide (Hochstr. \u00fcb. Edisonstr.)  (O'weide, 12459)"}, {"data": {"name": "data-59617f7d5444d2487278f9f4ec192a29"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-3dab653b8898d1afcb490f8f6e704bdd": [{"dir": "1->3", "hour": 7, "count": 488}, {"dir": "1->3", "hour": 8, "count": 427}, {"dir": "1->3", "hour": 9, "count": 469}, {"dir": "1->3", "hour": 10, "count": 404}, {"dir": "1->3", "hour": 11, "count": 447}, {"dir": "1->3", "hour": 12, "count": 462}, {"dir": "1->3", "hour": 13, "count": 583}, {"dir": "1->3", "hour": 14, "count": 807}, {"dir": "1->3", "hour": 15, "count": 932}, {"dir": "1->3", "hour": 16, "count": 998}, {"dir": "1->3", "hour": 17, "count": 823}, {"dir": "1->3", "hour": 18, "count": 670}, {"dir": "3->1", "hour": 7, "count": 1058}, {"dir": "3->1", "hour": 8, "count": 843}, {"dir": "3->1", "hour": 9, "count": 580}, {"dir": "3->1", "hour": 10, "count": 449}, {"dir": "3->1", "hour": 11, "count": 418}, {"dir": "3->1", "hour": 12, "count": 464}, {"dir": "3->1", "hour": 13, "count": 411}, {"dir": "3->1", "hour": 14, "count": 438}, {"dir": "3->1", "hour": 15, "count": 481}, {"dir": "3->1", "hour": 16, "count": 451}, {"dir": "3->1", "hour": 17, "count": 447}, {"dir": "3->1", "hour": 18, "count": 434}], "data-59617f7d5444d2487278f9f4ec192a29": [{"dir": "1->3", "hour": 7, "count": 0}, {"dir": "1->3", "hour": 8, "count": 0}, {"dir": "1->3", "hour": 9, "count": 0}, {"dir": "1->3", "hour": 10, "count": 0}, {"dir": "1->3", "hour": 11, "count": 0}, {"dir": "1->3", "hour": 12, "count": 0}, {"dir": "1->3", "hour": 13, "count": 0}, {"dir": "1->3", "hour": 14, "count": 0}, {"dir": "1->3", "hour": 15, "count": 0}, {"dir": "1->3", "hour": 16, "count": 0}, {"dir": "1->3", "hour": 17, "count": 0}, {"dir": "1->3", "hour": 18, "count": 0}, {"dir": "3->1", "hour": 7, "count": 0}, {"dir": "3->1", "hour": 8, "count": 0}, {"dir": "3->1", "hour": 9, "count": 0}, {"dir": "3->1", "hour": 10, "count": 0}, {"dir": "3->1", "hour": 11, "count": 0}, {"dir": "3->1", "hour": 12, "count": 0}, {"dir": "3->1", "hour": 13, "count": 0}, {"dir": "3->1", "hour": 14, "count": 0}, {"dir": "3->1", "hour": 15, "count": 0}, {"dir": "3->1", "hour": 16, "count": 0}, {"dir": "3->1", "hour": 17, "count": 0}, {"dir": "3->1", "hour": 18, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

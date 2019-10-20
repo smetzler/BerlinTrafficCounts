@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-06c3fda3a1723ae121cd6296f3df7dc3"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "27.08.2014: Greifswalder Stra\u00dfe (s\u00fcdl. Lehderstra\u00dfe)   (Prenzlauer Berg,10409)"}, {"data": {"name": "data-92eb573f020b0f3c06c892edb94ae490"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-06c3fda3a1723ae121cd6296f3df7dc3": [{"dir": "1->2", "hour": 7, "count": 708}, {"dir": "1->2", "hour": 8, "count": 501}, {"dir": "1->2", "hour": 9, "count": 915}, {"dir": "1->2", "hour": 10, "count": 842}, {"dir": "1->2", "hour": 11, "count": 886}, {"dir": "1->2", "hour": 12, "count": 806}, {"dir": "1->2", "hour": 13, "count": 940}, {"dir": "1->2", "hour": 14, "count": 1153}, {"dir": "1->2", "hour": 15, "count": 1385}, {"dir": "1->2", "hour": 16, "count": 1412}, {"dir": "1->2", "hour": 17, "count": 1276}, {"dir": "1->2", "hour": 18, "count": 1177}, {"dir": "2->1", "hour": 7, "count": 1303}, {"dir": "2->1", "hour": 8, "count": 1142}, {"dir": "2->1", "hour": 9, "count": 915}, {"dir": "2->1", "hour": 10, "count": 934}, {"dir": "2->1", "hour": 11, "count": 871}, {"dir": "2->1", "hour": 12, "count": 843}, {"dir": "2->1", "hour": 13, "count": 895}, {"dir": "2->1", "hour": 14, "count": 902}, {"dir": "2->1", "hour": 15, "count": 1025}, {"dir": "2->1", "hour": 16, "count": 968}, {"dir": "2->1", "hour": 17, "count": 965}, {"dir": "2->1", "hour": 18, "count": 845}], "data-92eb573f020b0f3c06c892edb94ae490": [{"dir": "1->2", "hour": 7, "count": 129}, {"dir": "1->2", "hour": 8, "count": 81}, {"dir": "1->2", "hour": 9, "count": 97}, {"dir": "1->2", "hour": 10, "count": 74}, {"dir": "1->2", "hour": 11, "count": 62}, {"dir": "1->2", "hour": 12, "count": 98}, {"dir": "1->2", "hour": 13, "count": 125}, {"dir": "1->2", "hour": 14, "count": 159}, {"dir": "1->2", "hour": 15, "count": 161}, {"dir": "1->2", "hour": 16, "count": 228}, {"dir": "1->2", "hour": 17, "count": 221}, {"dir": "1->2", "hour": 18, "count": 207}, {"dir": "2->1", "hour": 7, "count": 277}, {"dir": "2->1", "hour": 8, "count": 273}, {"dir": "2->1", "hour": 9, "count": 169}, {"dir": "2->1", "hour": 10, "count": 98}, {"dir": "2->1", "hour": 11, "count": 94}, {"dir": "2->1", "hour": 12, "count": 112}, {"dir": "2->1", "hour": 13, "count": 139}, {"dir": "2->1", "hour": 14, "count": 120}, {"dir": "2->1", "hour": 15, "count": 113}, {"dir": "2->1", "hour": 16, "count": 134}, {"dir": "2->1", "hour": 17, "count": 12}, {"dir": "2->1", "hour": 18, "count": 175}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

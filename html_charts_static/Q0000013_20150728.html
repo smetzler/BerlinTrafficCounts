@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-1f5863b384ba212da1e26a5c05b690f3"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "28.07.2015: B5 - Heerstra\u00dfe (\u00f6stl. Magistratsweg)   (Spandau, 13593)"}, {"data": {"name": "data-a66ea3585d0bdab7a9f7f2d7d1177273"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-1f5863b384ba212da1e26a5c05b690f3": [{"dir": "1->2", "hour": 15, "count": 832}, {"dir": "1->2", "hour": 16, "count": 881}, {"dir": "1->2", "hour": 17, "count": 896}, {"dir": "2->1", "hour": 15, "count": 1062}, {"dir": "2->1", "hour": 16, "count": 1116}, {"dir": "2->1", "hour": 17, "count": 1013}], "data-a66ea3585d0bdab7a9f7f2d7d1177273": [{"dir": "1->2", "hour": 15, "count": 18}, {"dir": "1->2", "hour": 16, "count": 16}, {"dir": "1->2", "hour": 17, "count": 14}, {"dir": "2->1", "hour": 15, "count": 12}, {"dir": "2->1", "hour": 16, "count": 17}, {"dir": "2->1", "hour": 17, "count": 18}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

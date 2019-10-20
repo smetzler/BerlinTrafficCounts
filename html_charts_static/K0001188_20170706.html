@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-45f7cf1c497b38c59494b608aa9a05c4"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "06.07.2017: Tempelhofer Damm / Manfred-von-Richthofen-Stra\u00dfe [Nord]   (Tempelhof, 12101)"}, {"data": {"name": "data-6fa6b1e1b9d78c7fea12741df4f1d342"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-45f7cf1c497b38c59494b608aa9a05c4": [{"dir": "1->2", "hour": 7, "count": 211}, {"dir": "1->2", "hour": 8, "count": 219}, {"dir": "1->2", "hour": 9, "count": 230}, {"dir": "1->2", "hour": 10, "count": 340}, {"dir": "1->2", "hour": 11, "count": 233}, {"dir": "1->2", "hour": 12, "count": 284}, {"dir": "1->2", "hour": 13, "count": 277}, {"dir": "1->2", "hour": 14, "count": 401}, {"dir": "1->2", "hour": 15, "count": 542}, {"dir": "1->2", "hour": 16, "count": 608}, {"dir": "1->2", "hour": 17, "count": 468}, {"dir": "1->2", "hour": 18, "count": 368}, {"dir": "1->3", "hour": 7, "count": 982}, {"dir": "1->3", "hour": 8, "count": 884}, {"dir": "1->3", "hour": 9, "count": 781}, {"dir": "1->3", "hour": 10, "count": 796}, {"dir": "1->3", "hour": 11, "count": 820}, {"dir": "1->3", "hour": 12, "count": 755}, {"dir": "1->3", "hour": 13, "count": 838}, {"dir": "1->3", "hour": 14, "count": 812}, {"dir": "1->3", "hour": 15, "count": 856}, {"dir": "1->3", "hour": 16, "count": 960}, {"dir": "1->3", "hour": 17, "count": 988}, {"dir": "1->3", "hour": 18, "count": 1039}, {"dir": "2->1", "hour": 7, "count": 313}, {"dir": "2->1", "hour": 8, "count": 439}, {"dir": "2->1", "hour": 9, "count": 295}, {"dir": "2->1", "hour": 10, "count": 188}, {"dir": "2->1", "hour": 11, "count": 162}, {"dir": "2->1", "hour": 12, "count": 220}, {"dir": "2->1", "hour": 13, "count": 212}, {"dir": "2->1", "hour": 14, "count": 255}, {"dir": "2->1", "hour": 15, "count": 268}, {"dir": "2->1", "hour": 16, "count": 254}, {"dir": "2->1", "hour": 17, "count": 266}, {"dir": "2->1", "hour": 18, "count": 217}, {"dir": "2->3", "hour": 7, "count": 10}, {"dir": "2->3", "hour": 8, "count": 15}, {"dir": "2->3", "hour": 9, "count": 19}, {"dir": "2->3", "hour": 10, "count": 18}, {"dir": "2->3", "hour": 11, "count": 10}, {"dir": "2->3", "hour": 12, "count": 21}, {"dir": "2->3", "hour": 13, "count": 13}, {"dir": "2->3", "hour": 14, "count": 14}, {"dir": "2->3", "hour": 15, "count": 22}, {"dir": "2->3", "hour": 16, "count": 12}, {"dir": "2->3", "hour": 17, "count": 23}, {"dir": "2->3", "hour": 18, "count": 14}, {"dir": "3->1", "hour": 7, "count": 974}, {"dir": "3->1", "hour": 8, "count": 1152}, {"dir": "3->1", "hour": 9, "count": 958}, {"dir": "3->1", "hour": 10, "count": 758}, {"dir": "3->1", "hour": 11, "count": 742}, {"dir": "3->1", "hour": 12, "count": 923}, {"dir": "3->1", "hour": 13, "count": 1152}, {"dir": "3->1", "hour": 14, "count": 1184}, {"dir": "3->1", "hour": 15, "count": 1093}, {"dir": "3->1", "hour": 16, "count": 1064}, {"dir": "3->1", "hour": 17, "count": 1147}, {"dir": "3->1", "hour": 18, "count": 979}], "data-6fa6b1e1b9d78c7fea12741df4f1d342": [{"dir": "1->2", "hour": 7, "count": 50}, {"dir": "1->2", "hour": 8, "count": 59}, {"dir": "1->2", "hour": 9, "count": 30}, {"dir": "1->2", "hour": 10, "count": 22}, {"dir": "1->2", "hour": 11, "count": 22}, {"dir": "1->2", "hour": 12, "count": 26}, {"dir": "1->2", "hour": 13, "count": 31}, {"dir": "1->2", "hour": 14, "count": 28}, {"dir": "1->2", "hour": 15, "count": 59}, {"dir": "1->2", "hour": 16, "count": 54}, {"dir": "1->2", "hour": 17, "count": 76}, {"dir": "1->2", "hour": 18, "count": 57}, {"dir": "1->3", "hour": 7, "count": 60}, {"dir": "1->3", "hour": 8, "count": 72}, {"dir": "1->3", "hour": 9, "count": 49}, {"dir": "1->3", "hour": 10, "count": 30}, {"dir": "1->3", "hour": 11, "count": 35}, {"dir": "1->3", "hour": 12, "count": 19}, {"dir": "1->3", "hour": 13, "count": 14}, {"dir": "1->3", "hour": 14, "count": 48}, {"dir": "1->3", "hour": 15, "count": 87}, {"dir": "1->3", "hour": 16, "count": 126}, {"dir": "1->3", "hour": 17, "count": 106}, {"dir": "1->3", "hour": 18, "count": 126}, {"dir": "2->1", "hour": 7, "count": 54}, {"dir": "2->1", "hour": 8, "count": 91}, {"dir": "2->1", "hour": 9, "count": 72}, {"dir": "2->1", "hour": 10, "count": 30}, {"dir": "2->1", "hour": 11, "count": 20}, {"dir": "2->1", "hour": 12, "count": 21}, {"dir": "2->1", "hour": 13, "count": 30}, {"dir": "2->1", "hour": 14, "count": 43}, {"dir": "2->1", "hour": 15, "count": 49}, {"dir": "2->1", "hour": 16, "count": 68}, {"dir": "2->1", "hour": 17, "count": 67}, {"dir": "2->1", "hour": 18, "count": 53}, {"dir": "2->3", "hour": 7, "count": 3}, {"dir": "2->3", "hour": 8, "count": 0}, {"dir": "2->3", "hour": 9, "count": 0}, {"dir": "2->3", "hour": 10, "count": 0}, {"dir": "2->3", "hour": 11, "count": 0}, {"dir": "2->3", "hour": 12, "count": 3}, {"dir": "2->3", "hour": 13, "count": 3}, {"dir": "2->3", "hour": 14, "count": 0}, {"dir": "2->3", "hour": 15, "count": 4}, {"dir": "2->3", "hour": 16, "count": 0}, {"dir": "2->3", "hour": 17, "count": 1}, {"dir": "2->3", "hour": 18, "count": 7}, {"dir": "3->1", "hour": 7, "count": 51}, {"dir": "3->1", "hour": 8, "count": 87}, {"dir": "3->1", "hour": 9, "count": 75}, {"dir": "3->1", "hour": 10, "count": 34}, {"dir": "3->1", "hour": 11, "count": 28}, {"dir": "3->1", "hour": 12, "count": 45}, {"dir": "3->1", "hour": 13, "count": 57}, {"dir": "3->1", "hour": 14, "count": 77}, {"dir": "3->1", "hour": 15, "count": 75}, {"dir": "3->1", "hour": 16, "count": 98}, {"dir": "3->1", "hour": 17, "count": 101}, {"dir": "3->1", "hour": 18, "count": 86}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

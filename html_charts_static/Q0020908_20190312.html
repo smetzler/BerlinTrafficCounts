@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-cca6b17cef0679120591af1dc5fb83a1"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "12.03.2019: Landsberger Allee (\u00f6stl. Oderbruchstra\u00dfe) (Lichtenberg, 10369)"}, {"data": {"name": "data-306ce6afd66d5c86687836e705a23e7b"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-cca6b17cef0679120591af1dc5fb83a1": [{"dir": "1->2", "hour": 7, "count": 1203}, {"dir": "1->2", "hour": 8, "count": 1105}, {"dir": "1->2", "hour": 9, "count": 1183}, {"dir": "1->2", "hour": 10, "count": 1316}, {"dir": "1->2", "hour": 11, "count": 1340}, {"dir": "1->2", "hour": 12, "count": 1329}, {"dir": "1->2", "hour": 13, "count": 1404}, {"dir": "1->2", "hour": 14, "count": 1611}, {"dir": "1->2", "hour": 15, "count": 1659}, {"dir": "1->2", "hour": 16, "count": 1702}, {"dir": "1->2", "hour": 17, "count": 1478}, {"dir": "1->2", "hour": 18, "count": 1445}, {"dir": "2->1", "hour": 7, "count": 1794}, {"dir": "2->1", "hour": 8, "count": 1738}, {"dir": "2->1", "hour": 9, "count": 1355}, {"dir": "2->1", "hour": 10, "count": 1162}, {"dir": "2->1", "hour": 11, "count": 1213}, {"dir": "2->1", "hour": 12, "count": 1304}, {"dir": "2->1", "hour": 13, "count": 1220}, {"dir": "2->1", "hour": 14, "count": 1260}, {"dir": "2->1", "hour": 15, "count": 1327}, {"dir": "2->1", "hour": 16, "count": 1402}, {"dir": "2->1", "hour": 17, "count": 1215}, {"dir": "2->1", "hour": 18, "count": 1069}], "data-306ce6afd66d5c86687836e705a23e7b": [{"dir": "1->2", "hour": 7, "count": 23}, {"dir": "1->2", "hour": 8, "count": 22}, {"dir": "1->2", "hour": 9, "count": 10}, {"dir": "1->2", "hour": 10, "count": 12}, {"dir": "1->2", "hour": 11, "count": 11}, {"dir": "1->2", "hour": 12, "count": 13}, {"dir": "1->2", "hour": 13, "count": 20}, {"dir": "1->2", "hour": 14, "count": 25}, {"dir": "1->2", "hour": 15, "count": 34}, {"dir": "1->2", "hour": 16, "count": 56}, {"dir": "1->2", "hour": 17, "count": 47}, {"dir": "1->2", "hour": 18, "count": 46}, {"dir": "2->1", "hour": 7, "count": 50}, {"dir": "2->1", "hour": 8, "count": 52}, {"dir": "2->1", "hour": 9, "count": 27}, {"dir": "2->1", "hour": 10, "count": 12}, {"dir": "2->1", "hour": 11, "count": 18}, {"dir": "2->1", "hour": 12, "count": 20}, {"dir": "2->1", "hour": 13, "count": 13}, {"dir": "2->1", "hour": 14, "count": 20}, {"dir": "2->1", "hour": 15, "count": 22}, {"dir": "2->1", "hour": 16, "count": 32}, {"dir": "2->1", "hour": 17, "count": 21}, {"dir": "2->1", "hour": 18, "count": 19}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-8490b6b97198e1b38b1ababa4294fea9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "24.03.2014: Kurt-Schumacher Damm (s\u00fcdl. A.-Briand-Br\u00fccke)   (Tegel, 13405)"}, {"data": {"name": "data-8490b6b97198e1b38b1ababa4294fea9"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-8490b6b97198e1b38b1ababa4294fea9": [{"dir": "1->2", "hour": 7, "count": 1955}, {"dir": "1->2", "hour": 8, "count": 1794}, {"dir": "1->2", "hour": 9, "count": 1472}, {"dir": "1->2", "hour": 10, "count": 1029}, {"dir": "1->2", "hour": 11, "count": 1139}, {"dir": "1->2", "hour": 12, "count": 907}, {"dir": "1->2", "hour": 13, "count": 901}, {"dir": "1->2", "hour": 14, "count": 967}, {"dir": "1->2", "hour": 15, "count": 924}, {"dir": "1->2", "hour": 16, "count": 942}, {"dir": "1->2", "hour": 17, "count": 889}, {"dir": "1->2", "hour": 18, "count": 736}, {"dir": "2->1", "hour": 7, "count": 734}, {"dir": "2->1", "hour": 8, "count": 826}, {"dir": "2->1", "hour": 9, "count": 772}, {"dir": "2->1", "hour": 10, "count": 749}, {"dir": "2->1", "hour": 11, "count": 729}, {"dir": "2->1", "hour": 12, "count": 849}, {"dir": "2->1", "hour": 13, "count": 967}, {"dir": "2->1", "hour": 14, "count": 1182}, {"dir": "2->1", "hour": 15, "count": 1277}, {"dir": "2->1", "hour": 16, "count": 1120}, {"dir": "2->1", "hour": 17, "count": 1290}, {"dir": "2->1", "hour": 18, "count": 1142}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

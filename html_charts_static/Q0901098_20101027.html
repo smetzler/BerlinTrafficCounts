@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-234172271b9d370f3764fb0f6323231f"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "27.10.2010: Am Nordbahnhof (n\u00f6rdl. Invalidenstra\u00dfe)   (Mitte, 10115)"}, {"data": {"name": "data-dffbff98ef420bc51fa7dab9f7859d92"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-234172271b9d370f3764fb0f6323231f": [{"dir": "1->2", "hour": 7, "count": 214}, {"dir": "1->2", "hour": 8, "count": 223}, {"dir": "1->2", "hour": 9, "count": 227}, {"dir": "1->2", "hour": 10, "count": 194}, {"dir": "1->2", "hour": 11, "count": 173}, {"dir": "1->2", "hour": 12, "count": 167}, {"dir": "1->2", "hour": 13, "count": 143}, {"dir": "1->2", "hour": 14, "count": 152}, {"dir": "1->2", "hour": 15, "count": 182}, {"dir": "1->2", "hour": 16, "count": 176}, {"dir": "1->2", "hour": 17, "count": 147}, {"dir": "1->2", "hour": 18, "count": 153}, {"dir": "2->1", "hour": 7, "count": 201}, {"dir": "2->1", "hour": 8, "count": 199}, {"dir": "2->1", "hour": 9, "count": 240}, {"dir": "2->1", "hour": 10, "count": 220}, {"dir": "2->1", "hour": 11, "count": 239}, {"dir": "2->1", "hour": 12, "count": 308}, {"dir": "2->1", "hour": 13, "count": 279}, {"dir": "2->1", "hour": 14, "count": 279}, {"dir": "2->1", "hour": 15, "count": 296}, {"dir": "2->1", "hour": 16, "count": 336}, {"dir": "2->1", "hour": 17, "count": 343}, {"dir": "2->1", "hour": 18, "count": 375}], "data-dffbff98ef420bc51fa7dab9f7859d92": [{"dir": "1->2", "hour": 7, "count": 32}, {"dir": "1->2", "hour": 8, "count": 81}, {"dir": "1->2", "hour": 9, "count": 72}, {"dir": "1->2", "hour": 10, "count": 24}, {"dir": "1->2", "hour": 11, "count": 27}, {"dir": "1->2", "hour": 12, "count": 27}, {"dir": "1->2", "hour": 13, "count": 26}, {"dir": "1->2", "hour": 14, "count": 14}, {"dir": "1->2", "hour": 15, "count": 24}, {"dir": "1->2", "hour": 16, "count": 31}, {"dir": "1->2", "hour": 17, "count": 33}, {"dir": "1->2", "hour": 18, "count": 23}, {"dir": "2->1", "hour": 7, "count": 8}, {"dir": "2->1", "hour": 8, "count": 30}, {"dir": "2->1", "hour": 9, "count": 27}, {"dir": "2->1", "hour": 10, "count": 16}, {"dir": "2->1", "hour": 11, "count": 4}, {"dir": "2->1", "hour": 12, "count": 18}, {"dir": "2->1", "hour": 13, "count": 31}, {"dir": "2->1", "hour": 14, "count": 30}, {"dir": "2->1", "hour": 15, "count": 16}, {"dir": "2->1", "hour": 16, "count": 37}, {"dir": "2->1", "hour": 17, "count": 33}, {"dir": "2->1", "hour": 18, "count": 40}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

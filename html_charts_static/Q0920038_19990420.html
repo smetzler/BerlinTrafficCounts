@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-e6e89c0004f80f00b7f23571d1555af3"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "20.04.1999: Hermsdorfer Damm (\u00f6stl. B111)   (Tegel, 13507)"}, {"data": {"name": "data-e6e89c0004f80f00b7f23571d1555af3"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-e6e89c0004f80f00b7f23571d1555af3": [{"dir": "1->2", "hour": 7, "count": 371}, {"dir": "1->2", "hour": 8, "count": 391}, {"dir": "1->2", "hour": 9, "count": 384}, {"dir": "1->2", "hour": 10, "count": 462}, {"dir": "1->2", "hour": 11, "count": 533}, {"dir": "1->2", "hour": 12, "count": 538}, {"dir": "1->2", "hour": 13, "count": 675}, {"dir": "1->2", "hour": 14, "count": 705}, {"dir": "1->2", "hour": 15, "count": 869}, {"dir": "1->2", "hour": 16, "count": 986}, {"dir": "1->2", "hour": 17, "count": 1125}, {"dir": "1->2", "hour": 18, "count": 1092}, {"dir": "2->1", "hour": 7, "count": 1104}, {"dir": "2->1", "hour": 8, "count": 1001}, {"dir": "2->1", "hour": 9, "count": 884}, {"dir": "2->1", "hour": 10, "count": 670}, {"dir": "2->1", "hour": 11, "count": 516}, {"dir": "2->1", "hour": 12, "count": 463}, {"dir": "2->1", "hour": 13, "count": 536}, {"dir": "2->1", "hour": 14, "count": 507}, {"dir": "2->1", "hour": 15, "count": 563}, {"dir": "2->1", "hour": 16, "count": 576}, {"dir": "2->1", "hour": 17, "count": 579}, {"dir": "2->1", "hour": 18, "count": 640}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

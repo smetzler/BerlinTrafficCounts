@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-1548cd35243189d8e42203d4148dd251"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "02.07.2014: Halskestra\u00dfe (s\u00fcdl. Benzmannstra\u00dfe)   (Steglitz, 12167)"}, {"data": {"name": "data-677ad51330397a94e2045ca53011ec35"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-1548cd35243189d8e42203d4148dd251": [{"dir": "1->2", "hour": 7, "count": 398}, {"dir": "1->2", "hour": 8, "count": 427}, {"dir": "1->2", "hour": 9, "count": 294}, {"dir": "1->2", "hour": 10, "count": 400}, {"dir": "1->2", "hour": 11, "count": 399}, {"dir": "1->2", "hour": 12, "count": 367}, {"dir": "1->2", "hour": 13, "count": 407}, {"dir": "1->2", "hour": 14, "count": 434}, {"dir": "1->2", "hour": 15, "count": 418}, {"dir": "1->2", "hour": 16, "count": 406}, {"dir": "1->2", "hour": 17, "count": 394}, {"dir": "1->2", "hour": 18, "count": 382}, {"dir": "2->1", "hour": 7, "count": 274}, {"dir": "2->1", "hour": 8, "count": 346}, {"dir": "2->1", "hour": 9, "count": 287}, {"dir": "2->1", "hour": 10, "count": 338}, {"dir": "2->1", "hour": 11, "count": 275}, {"dir": "2->1", "hour": 12, "count": 318}, {"dir": "2->1", "hour": 13, "count": 378}, {"dir": "2->1", "hour": 14, "count": 407}, {"dir": "2->1", "hour": 15, "count": 439}, {"dir": "2->1", "hour": 16, "count": 520}, {"dir": "2->1", "hour": 17, "count": 436}, {"dir": "2->1", "hour": 18, "count": 410}], "data-677ad51330397a94e2045ca53011ec35": [{"dir": "1->2", "hour": 7, "count": 36}, {"dir": "1->2", "hour": 8, "count": 28}, {"dir": "1->2", "hour": 9, "count": 16}, {"dir": "1->2", "hour": 10, "count": 18}, {"dir": "1->2", "hour": 11, "count": 19}, {"dir": "1->2", "hour": 12, "count": 19}, {"dir": "1->2", "hour": 13, "count": 24}, {"dir": "1->2", "hour": 14, "count": 19}, {"dir": "1->2", "hour": 15, "count": 35}, {"dir": "1->2", "hour": 16, "count": 28}, {"dir": "1->2", "hour": 17, "count": 27}, {"dir": "1->2", "hour": 18, "count": 25}, {"dir": "2->1", "hour": 7, "count": 33}, {"dir": "2->1", "hour": 8, "count": 39}, {"dir": "2->1", "hour": 9, "count": 17}, {"dir": "2->1", "hour": 10, "count": 10}, {"dir": "2->1", "hour": 11, "count": 8}, {"dir": "2->1", "hour": 12, "count": 20}, {"dir": "2->1", "hour": 13, "count": 22}, {"dir": "2->1", "hour": 14, "count": 27}, {"dir": "2->1", "hour": 15, "count": 26}, {"dir": "2->1", "hour": 16, "count": 38}, {"dir": "2->1", "hour": 17, "count": 31}, {"dir": "2->1", "hour": 18, "count": 49}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

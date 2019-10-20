@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-ab51758933709f641a51d29623c46058"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "26.09.2018: Wollankstra\u00dfe (H\u00f6he S-Bhf. Wollankstra\u00dfe)   (Wedding, 13359)"}, {"data": {"name": "data-e71fe2324ca18c79afc9cc918869affd"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-ab51758933709f641a51d29623c46058": [{"dir": "1->2", "hour": 7, "count": 432}, {"dir": "1->2", "hour": 8, "count": 488}, {"dir": "1->2", "hour": 9, "count": 442}, {"dir": "1->2", "hour": 10, "count": 468}, {"dir": "1->2", "hour": 11, "count": 487}, {"dir": "1->2", "hour": 12, "count": 579}, {"dir": "1->2", "hour": 13, "count": 716}, {"dir": "1->2", "hour": 14, "count": 1174}, {"dir": "1->2", "hour": 15, "count": 1071}, {"dir": "1->2", "hour": 16, "count": 1008}, {"dir": "1->2", "hour": 17, "count": 1000}, {"dir": "1->2", "hour": 18, "count": 934}, {"dir": "2->1", "hour": 7, "count": 919}, {"dir": "2->1", "hour": 8, "count": 860}, {"dir": "2->1", "hour": 9, "count": 590}, {"dir": "2->1", "hour": 10, "count": 520}, {"dir": "2->1", "hour": 11, "count": 521}, {"dir": "2->1", "hour": 12, "count": 547}, {"dir": "2->1", "hour": 13, "count": 588}, {"dir": "2->1", "hour": 14, "count": 548}, {"dir": "2->1", "hour": 15, "count": 591}, {"dir": "2->1", "hour": 16, "count": 580}, {"dir": "2->1", "hour": 17, "count": 672}, {"dir": "2->1", "hour": 18, "count": 561}], "data-e71fe2324ca18c79afc9cc918869affd": [{"dir": "1->2", "hour": 7, "count": 77}, {"dir": "1->2", "hour": 8, "count": 78}, {"dir": "1->2", "hour": 9, "count": 70}, {"dir": "1->2", "hour": 10, "count": 54}, {"dir": "1->2", "hour": 11, "count": 50}, {"dir": "1->2", "hour": 12, "count": 54}, {"dir": "1->2", "hour": 13, "count": 60}, {"dir": "1->2", "hour": 14, "count": 124}, {"dir": "1->2", "hour": 15, "count": 209}, {"dir": "1->2", "hour": 16, "count": 168}, {"dir": "1->2", "hour": 17, "count": 195}, {"dir": "1->2", "hour": 18, "count": 194}, {"dir": "2->1", "hour": 7, "count": 260}, {"dir": "2->1", "hour": 8, "count": 299}, {"dir": "2->1", "hour": 9, "count": 128}, {"dir": "2->1", "hour": 10, "count": 62}, {"dir": "2->1", "hour": 11, "count": 52}, {"dir": "2->1", "hour": 12, "count": 57}, {"dir": "2->1", "hour": 13, "count": 70}, {"dir": "2->1", "hour": 14, "count": 59}, {"dir": "2->1", "hour": 15, "count": 90}, {"dir": "2->1", "hour": 16, "count": 78}, {"dir": "2->1", "hour": 17, "count": 89}, {"dir": "2->1", "hour": 18, "count": 80}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

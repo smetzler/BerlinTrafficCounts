@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-d3cfd9116a2260bed52315ac26e3dc18"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "02.11.2011: Ruppiner Chaussee (Stadtgrenze) (Reinickendorf,13503)"}, {"data": {"name": "data-942311aa0190add65b7e4498f42bd741"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-d3cfd9116a2260bed52315ac26e3dc18": [{"dir": "1->2", "hour": 7, "count": 729}, {"dir": "1->2", "hour": 8, "count": 468}, {"dir": "1->2", "hour": 9, "count": 314}, {"dir": "1->2", "hour": 10, "count": 264}, {"dir": "1->2", "hour": 11, "count": 258}, {"dir": "1->2", "hour": 12, "count": 241}, {"dir": "1->2", "hour": 13, "count": 358}, {"dir": "1->2", "hour": 14, "count": 340}, {"dir": "1->2", "hour": 15, "count": 445}, {"dir": "1->2", "hour": 16, "count": 406}, {"dir": "1->2", "hour": 17, "count": 456}, {"dir": "1->2", "hour": 18, "count": 476}, {"dir": "2->1", "hour": 7, "count": 512}, {"dir": "2->1", "hour": 8, "count": 433}, {"dir": "2->1", "hour": 9, "count": 331}, {"dir": "2->1", "hour": 10, "count": 306}, {"dir": "2->1", "hour": 11, "count": 286}, {"dir": "2->1", "hour": 12, "count": 296}, {"dir": "2->1", "hour": 13, "count": 408}, {"dir": "2->1", "hour": 14, "count": 461}, {"dir": "2->1", "hour": 15, "count": 584}, {"dir": "2->1", "hour": 16, "count": 534}, {"dir": "2->1", "hour": 17, "count": 485}, {"dir": "2->1", "hour": 18, "count": 492}], "data-942311aa0190add65b7e4498f42bd741": [{"dir": "1->2", "hour": 7, "count": 19}, {"dir": "1->2", "hour": 8, "count": 17}, {"dir": "1->2", "hour": 9, "count": 12}, {"dir": "1->2", "hour": 10, "count": 16}, {"dir": "1->2", "hour": 11, "count": 13}, {"dir": "1->2", "hour": 12, "count": 13}, {"dir": "1->2", "hour": 13, "count": 30}, {"dir": "1->2", "hour": 14, "count": 27}, {"dir": "1->2", "hour": 15, "count": 27}, {"dir": "1->2", "hour": 16, "count": 28}, {"dir": "1->2", "hour": 17, "count": 10}, {"dir": "1->2", "hour": 18, "count": 7}, {"dir": "2->1", "hour": 7, "count": 22}, {"dir": "2->1", "hour": 8, "count": 36}, {"dir": "2->1", "hour": 9, "count": 19}, {"dir": "2->1", "hour": 10, "count": 10}, {"dir": "2->1", "hour": 11, "count": 19}, {"dir": "2->1", "hour": 12, "count": 10}, {"dir": "2->1", "hour": 13, "count": 25}, {"dir": "2->1", "hour": 14, "count": 34}, {"dir": "2->1", "hour": 15, "count": 32}, {"dir": "2->1", "hour": 16, "count": 34}, {"dir": "2->1", "hour": 17, "count": 18}, {"dir": "2->1", "hour": 18, "count": 6}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

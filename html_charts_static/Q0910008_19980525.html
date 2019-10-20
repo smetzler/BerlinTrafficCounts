@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-b9b6e77f4299e6b95d476149337180b8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "25.05.1998: Spanische Allee (\u00f6stl. BAB A115)  (Nikolassee, 14129)"}, {"data": {"name": "data-b9b6e77f4299e6b95d476149337180b8"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-b9b6e77f4299e6b95d476149337180b8": [{"dir": "1->2", "hour": 7, "count": 239}, {"dir": "1->2", "hour": 8, "count": 335}, {"dir": "1->2", "hour": 9, "count": 268}, {"dir": "1->2", "hour": 10, "count": -1}, {"dir": "1->2", "hour": 11, "count": -1}, {"dir": "1->2", "hour": 12, "count": -1}, {"dir": "1->2", "hour": 13, "count": -1}, {"dir": "1->2", "hour": 14, "count": -1}, {"dir": "1->2", "hour": 15, "count": 387}, {"dir": "1->2", "hour": 16, "count": 360}, {"dir": "1->2", "hour": 17, "count": 391}, {"dir": "2->1", "hour": 7, "count": 449}, {"dir": "2->1", "hour": 8, "count": 383}, {"dir": "2->1", "hour": 9, "count": 316}, {"dir": "2->1", "hour": 10, "count": -1}, {"dir": "2->1", "hour": 11, "count": -1}, {"dir": "2->1", "hour": 12, "count": -1}, {"dir": "2->1", "hour": 13, "count": -1}, {"dir": "2->1", "hour": 14, "count": -1}, {"dir": "2->1", "hour": 15, "count": 373}, {"dir": "2->1", "hour": 16, "count": 324}, {"dir": "2->1", "hour": 17, "count": 288}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

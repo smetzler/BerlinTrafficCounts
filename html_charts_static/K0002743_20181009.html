@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-2d2be66542a6f33daa976bfd603cac77"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "09.10.2018: Michael-Br\u00fcckner-Stra\u00dfe / Spreestra\u00dfe   (Treptow, 12439)"}, {"data": {"name": "data-fb045871ebe9ccc09f72acb595d9ab65"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-2d2be66542a6f33daa976bfd603cac77": [{"dir": "1->3", "hour": 7, "count": 1236}, {"dir": "1->3", "hour": 8, "count": 1243}, {"dir": "1->3", "hour": 9, "count": 1134}, {"dir": "1->3", "hour": 10, "count": 1230}, {"dir": "1->3", "hour": 11, "count": 1217}, {"dir": "1->3", "hour": 12, "count": 1402}, {"dir": "1->3", "hour": 13, "count": 1439}, {"dir": "1->3", "hour": 14, "count": 1668}, {"dir": "1->3", "hour": 15, "count": 2078}, {"dir": "1->3", "hour": 16, "count": 1975}, {"dir": "1->3", "hour": 17, "count": 2010}, {"dir": "1->3", "hour": 18, "count": 1738}, {"dir": "3->1", "hour": 7, "count": 1560}, {"dir": "3->1", "hour": 8, "count": 1473}, {"dir": "3->1", "hour": 9, "count": 1030}, {"dir": "3->1", "hour": 10, "count": 914}, {"dir": "3->1", "hour": 11, "count": 977}, {"dir": "3->1", "hour": 12, "count": 1121}, {"dir": "3->1", "hour": 13, "count": 1010}, {"dir": "3->1", "hour": 14, "count": 1007}, {"dir": "3->1", "hour": 15, "count": 1026}, {"dir": "3->1", "hour": 16, "count": 1083}, {"dir": "3->1", "hour": 17, "count": 1148}, {"dir": "3->1", "hour": 18, "count": 992}, {"dir": "3->4", "hour": 7, "count": 341}, {"dir": "3->4", "hour": 8, "count": 339}, {"dir": "3->4", "hour": 9, "count": 259}, {"dir": "3->4", "hour": 10, "count": 236}, {"dir": "3->4", "hour": 11, "count": 285}, {"dir": "3->4", "hour": 12, "count": 270}, {"dir": "3->4", "hour": 13, "count": 314}, {"dir": "3->4", "hour": 14, "count": 361}, {"dir": "3->4", "hour": 15, "count": 380}, {"dir": "3->4", "hour": 16, "count": 377}, {"dir": "3->4", "hour": 17, "count": 412}, {"dir": "3->4", "hour": 18, "count": 346}], "data-fb045871ebe9ccc09f72acb595d9ab65": [{"dir": "1->3", "hour": 7, "count": 24}, {"dir": "1->3", "hour": 8, "count": 30}, {"dir": "1->3", "hour": 9, "count": 24}, {"dir": "1->3", "hour": 10, "count": 8}, {"dir": "1->3", "hour": 11, "count": 14}, {"dir": "1->3", "hour": 12, "count": 15}, {"dir": "1->3", "hour": 13, "count": 12}, {"dir": "1->3", "hour": 14, "count": 11}, {"dir": "1->3", "hour": 15, "count": 18}, {"dir": "1->3", "hour": 16, "count": 29}, {"dir": "1->3", "hour": 17, "count": 22}, {"dir": "1->3", "hour": 18, "count": 18}, {"dir": "3->1", "hour": 7, "count": 27}, {"dir": "3->1", "hour": 8, "count": 29}, {"dir": "3->1", "hour": 9, "count": 16}, {"dir": "3->1", "hour": 10, "count": 19}, {"dir": "3->1", "hour": 11, "count": 19}, {"dir": "3->1", "hour": 12, "count": 19}, {"dir": "3->1", "hour": 13, "count": 19}, {"dir": "3->1", "hour": 14, "count": 22}, {"dir": "3->1", "hour": 15, "count": 53}, {"dir": "3->1", "hour": 16, "count": 46}, {"dir": "3->1", "hour": 17, "count": 43}, {"dir": "3->1", "hour": 18, "count": 25}, {"dir": "3->4", "hour": 7, "count": 3}, {"dir": "3->4", "hour": 8, "count": 4}, {"dir": "3->4", "hour": 9, "count": 6}, {"dir": "3->4", "hour": 10, "count": 4}, {"dir": "3->4", "hour": 11, "count": 3}, {"dir": "3->4", "hour": 12, "count": 2}, {"dir": "3->4", "hour": 13, "count": 4}, {"dir": "3->4", "hour": 14, "count": 4}, {"dir": "3->4", "hour": 15, "count": 9}, {"dir": "3->4", "hour": 16, "count": 17}, {"dir": "3->4", "hour": 17, "count": 13}, {"dir": "3->4", "hour": 18, "count": 12}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

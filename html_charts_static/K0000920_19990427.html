@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "vconcat": [{"data": {"name": "data-1cd8e5729000b3d4e5e5c5ffc9b62bd6"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "CAR counts"}}, "title": "27.04.1999: Schwarzb. Br. - Aug.-Vikt.-Str. / Friedrichsr. Str. - Zuf. BAB  (W'dorf, 10711)"}, {"data": {"name": "data-1cd8e5729000b3d4e5e5c5ffc9b62bd6"}, "mark": {"type": "line", "point": true, "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "dir"}, "tooltip": [{"type": "quantitative", "field": "count"}, {"type": "quantitative", "field": "hour"}, {"type": "nominal", "field": "dir"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "count", "title": "BIKE counts"}}}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json", "datasets": {"data-1cd8e5729000b3d4e5e5c5ffc9b62bd6": [{"dir": "1->2", "hour": 7, "count": 145}, {"dir": "1->2", "hour": 8, "count": 140}, {"dir": "1->2", "hour": 9, "count": 158}, {"dir": "1->2", "hour": 10, "count": 167}, {"dir": "1->2", "hour": 11, "count": 157}, {"dir": "1->2", "hour": 12, "count": 157}, {"dir": "1->2", "hour": 13, "count": 208}, {"dir": "1->2", "hour": 14, "count": 162}, {"dir": "1->2", "hour": 15, "count": 210}, {"dir": "1->2", "hour": 16, "count": 238}, {"dir": "1->2", "hour": 17, "count": 224}, {"dir": "1->2", "hour": 18, "count": 272}, {"dir": "1->3", "hour": 7, "count": 56}, {"dir": "1->3", "hour": 8, "count": 34}, {"dir": "1->3", "hour": 9, "count": 42}, {"dir": "1->3", "hour": 10, "count": 38}, {"dir": "1->3", "hour": 11, "count": 38}, {"dir": "1->3", "hour": 12, "count": 35}, {"dir": "1->3", "hour": 13, "count": 46}, {"dir": "1->3", "hour": 14, "count": 44}, {"dir": "1->3", "hour": 15, "count": 38}, {"dir": "1->3", "hour": 16, "count": 38}, {"dir": "1->3", "hour": 17, "count": 44}, {"dir": "1->3", "hour": 18, "count": 54}, {"dir": "1->4", "hour": 7, "count": 13}, {"dir": "1->4", "hour": 8, "count": 16}, {"dir": "1->4", "hour": 9, "count": 16}, {"dir": "1->4", "hour": 10, "count": 16}, {"dir": "1->4", "hour": 11, "count": 17}, {"dir": "1->4", "hour": 12, "count": 28}, {"dir": "1->4", "hour": 13, "count": 21}, {"dir": "1->4", "hour": 14, "count": 19}, {"dir": "1->4", "hour": 15, "count": 21}, {"dir": "1->4", "hour": 16, "count": 24}, {"dir": "1->4", "hour": 17, "count": 28}, {"dir": "1->4", "hour": 18, "count": 16}, {"dir": "3->1", "hour": 7, "count": 44}, {"dir": "3->1", "hour": 8, "count": 77}, {"dir": "3->1", "hour": 9, "count": 44}, {"dir": "3->1", "hour": 10, "count": 54}, {"dir": "3->1", "hour": 11, "count": 47}, {"dir": "3->1", "hour": 12, "count": 31}, {"dir": "3->1", "hour": 13, "count": 10}, {"dir": "3->1", "hour": 14, "count": 27}, {"dir": "3->1", "hour": 15, "count": 25}, {"dir": "3->1", "hour": 16, "count": 58}, {"dir": "3->1", "hour": 17, "count": 43}, {"dir": "3->1", "hour": 18, "count": 26}, {"dir": "3->2", "hour": 7, "count": 27}, {"dir": "3->2", "hour": 8, "count": 48}, {"dir": "3->2", "hour": 9, "count": 34}, {"dir": "3->2", "hour": 10, "count": 24}, {"dir": "3->2", "hour": 11, "count": 34}, {"dir": "3->2", "hour": 12, "count": 22}, {"dir": "3->2", "hour": 13, "count": 34}, {"dir": "3->2", "hour": 14, "count": 21}, {"dir": "3->2", "hour": 15, "count": 37}, {"dir": "3->2", "hour": 16, "count": 41}, {"dir": "3->2", "hour": 17, "count": 43}, {"dir": "3->2", "hour": 18, "count": 44}, {"dir": "3->4", "hour": 7, "count": 3}, {"dir": "3->4", "hour": 8, "count": 3}, {"dir": "3->4", "hour": 9, "count": 9}, {"dir": "3->4", "hour": 10, "count": 5}, {"dir": "3->4", "hour": 11, "count": 2}, {"dir": "3->4", "hour": 12, "count": 8}, {"dir": "3->4", "hour": 13, "count": 2}, {"dir": "3->4", "hour": 14, "count": 8}, {"dir": "3->4", "hour": 15, "count": 2}, {"dir": "3->4", "hour": 16, "count": 2}, {"dir": "3->4", "hour": 17, "count": 5}, {"dir": "3->4", "hour": 18, "count": 1}, {"dir": "4->1", "hour": 7, "count": 39}, {"dir": "4->1", "hour": 8, "count": 39}, {"dir": "4->1", "hour": 9, "count": 44}, {"dir": "4->1", "hour": 10, "count": 65}, {"dir": "4->1", "hour": 11, "count": 33}, {"dir": "4->1", "hour": 12, "count": 26}, {"dir": "4->1", "hour": 13, "count": 27}, {"dir": "4->1", "hour": 14, "count": 32}, {"dir": "4->1", "hour": 15, "count": 120}, {"dir": "4->1", "hour": 16, "count": 91}, {"dir": "4->1", "hour": 17, "count": 74}, {"dir": "4->1", "hour": 18, "count": 44}, {"dir": "4->2", "hour": 7, "count": 8}, {"dir": "4->2", "hour": 8, "count": 1}, {"dir": "4->2", "hour": 9, "count": 3}, {"dir": "4->2", "hour": 10, "count": 1}, {"dir": "4->2", "hour": 11, "count": 0}, {"dir": "4->2", "hour": 12, "count": 2}, {"dir": "4->2", "hour": 13, "count": 1}, {"dir": "4->2", "hour": 14, "count": 0}, {"dir": "4->2", "hour": 15, "count": 0}, {"dir": "4->2", "hour": 16, "count": 5}, {"dir": "4->2", "hour": 17, "count": 1}, {"dir": "4->2", "hour": 18, "count": 5}, {"dir": "4->3", "hour": 7, "count": 1}, {"dir": "4->3", "hour": 8, "count": 2}, {"dir": "4->3", "hour": 9, "count": 2}, {"dir": "4->3", "hour": 10, "count": 4}, {"dir": "4->3", "hour": 11, "count": 0}, {"dir": "4->3", "hour": 12, "count": 2}, {"dir": "4->3", "hour": 13, "count": 2}, {"dir": "4->3", "hour": 14, "count": 4}, {"dir": "4->3", "hour": 15, "count": 1}, {"dir": "4->3", "hour": 16, "count": 2}, {"dir": "4->3", "hour": 17, "count": 1}, {"dir": "4->3", "hour": 18, "count": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
