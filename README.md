@@ -2,10 +2,9 @@
 
 ## Übersicht aller Zählungen 
 https://vizsim.github.io/BerlinTrafficCounts/index.html
-	- filter table to get the street you are interested__
-	- get raw data/"Rohdaten"__
-	- view raw data in chart for cars and bikes__
-
+	- filter table to get the street you are interested  
+	- get raw data/"Rohdaten"  
+	- view raw data in chart for cars and bikes  
 
 
 
