@@ -20,7 +20,8 @@ disclaimer:
 
 
 ## data source:
-VLB Berlin
+Verkehrslenkung Berlin / Rohdaten Verkehrszählungen  
+license: CC BY-SA 3.0 DE, https://creativecommons.org/licenses/by/3.0/de  
+
 https://fragdenstaat.de/anfrage/kfz-verkehrszahldaten-aus-berlin/
 
-licence: CC BY-SA 3.0 DE
