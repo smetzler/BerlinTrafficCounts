@@ -6,6 +6,16 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 	- get raw data/"Rohdaten"  
 	- view raw data in chart for cars and bikes  
 
+	
+## Beispielauswertungen
+
+Kottbusser Damm / Hermannplatz:
+![alt text](https://github.com/vizsim/auswertungen/Auswertung_kottbusserDamm.png "Auswertung_kottbusserDamm")
+Oberbaumbrücke:
+![alt text](https://github.com/vizsim/auswertungen/Auswertung_oberbaum.png "Auswertung_oberbaum")
+Oranienstraße:
+![alt text](https://github.com/vizsim/auswertungen/Auswertung_oranienstrasse.png "Auswertung_oranienstrasse")
+
 
 
 ## Zählungen auf Karte (Geocode leider nicht zuverlässig genug)
