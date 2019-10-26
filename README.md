@@ -16,7 +16,7 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 ### Oranienstraße:  
 ![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_oranienstrasse.PNG)  
 ### Frankfurter Tor:  
-![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_frankfurterTorPNG)  
+![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_frankfurterTor.PNG)  
 ### Schönhauser Allee:  
 ![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_schoenhauser.PNG)  
 
