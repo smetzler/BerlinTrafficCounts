@@ -10,11 +10,11 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 ## Beispielauswertungen
 
 Kottbusser Damm / Hermannplatz:  
-![](https://github.com/vizsim/auswertungen/Auswertung_kottbusserDamm.png?raw=true)
+![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_kottbusserDamm.PNG)
 Oberbaumbrücke:  
-![](https://github.com/vizsim/auswertungen/Auswertung_oberbaum.png?raw=true)
+![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_kottbusserDamm.PNG)
 Oranienstraße:  
-![](https://github.com/vizsim/auswertungen/Auswertung_oranienstrasse.png?raw=true)
+![](https://github.com/vizsim/auswertungen/Auswertung_oranienstrasse.PNG?raw=true)
 
 
 
