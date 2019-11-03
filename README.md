@@ -6,8 +6,14 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 	- get raw data/"Rohdaten"  
 	- view raw data in chart for cars and bikes  
 
+## Beispielauswertungen Radverkehr:  
+Veränderung des Radverkehrsanteil je PLZ  
+(Veränderungen je Zählreihe bei klick auf Icon)
+
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin.html  
+
 	
-## Beispielauswertungen
+## weitere Beispielauswertungen
 
 ### Kottbusser Damm / Hermannplatz:  
 ![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_kottbusserDamm.PNG)  
@@ -32,7 +38,9 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 ### Wildenbruchstraße:  
 ![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_wildenbruch.PNG)  
 
-## Zählungen auf Karte (Geocode leider nicht zuverlässig genug)
+
+
+## PKW-Zählungen auf Karte (Geocode leider nicht zuverlässig genug)
 https://vizsim.github.io/BerlinTrafficCounts/out_circles_col_size_hyperlink_vega_modified.html  
 
 Vizualisation of a snippet of (~500 counts out of 20,000) from the official traffic counts data since 1980ies which is quite messy and also sometimes inaccurate. It was originally not meant to be published.
