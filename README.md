@@ -6,11 +6,18 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 	- get raw data/"Rohdaten"  
 	- view raw data in chart for cars and bikes  
 
+	
 ## Beispielauswertungen Radverkehr:  
 Veränderung des Radverkehrsanteil je PLZ  
-(Veränderungen je Zählreihe bei klick auf Icon)
 
-https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin.html  
+### Veränderung des Radverkehrsanteil je PLZ (Veränderungen je Zählreihe bei klick auf Icon)
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin.html 
+
+### updated version with interactive charts (be aware of long (~10s) initial loading time)  
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart.html  
+or  
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_external_mod.html  
+
 
 	
 ## weitere Beispielauswertungen
