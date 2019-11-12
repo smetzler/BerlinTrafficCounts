@@ -31,7 +31,7 @@
                 #map_30581a3257714d34a872508860acfcf3 {
                     position: relative;
 					float: left;
-                    width: 60.0%;
+                    width: 50%;
                     height: 100.0%;
                     left: 0.0%;
                     top: 0.0%;
@@ -39,9 +39,9 @@
 				nav {
 					position: relative;
 					float: left;
-					width: 40%;
+					width: 50%;
 					height: 100.0%;
-					background: #ccc;
+					background: #efefef;
 				}
             </style>
         
@@ -87,7 +87,7 @@
     
             var tile_layer_0bdb7c74d14c4698bb8e0d76bdd3a0ef = L.tileLayer(
                 "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
-                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                {"attribution": "Verkehrslenkung Berlin / Rohdaten Verkehrszählungen | \u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_30581a3257714d34a872508860acfcf3);
         
     
@@ -600,12 +600,19 @@
         .attr("id", 'legend')
         .attr("width", 450)
         .attr("height", 40);
+		
+	color_map_f95f9c83dae34b8698afa0cdbdda7c59.svg.append("rect")
+		.attr("width", "100%")
+		.attr("height", "100%")
+		.attr("fill", "white")
+		.attr("opacity", "0.8");	
 
     color_map_f95f9c83dae34b8698afa0cdbdda7c59.g = color_map_f95f9c83dae34b8698afa0cdbdda7c59.svg.append("g")
         .attr("class", "key")
         .attr("transform", "translate(25,16)");
 
     color_map_f95f9c83dae34b8698afa0cdbdda7c59.g.selectAll("rect")
+	
         .data(color_map_f95f9c83dae34b8698afa0cdbdda7c59.color.range().map(function(d, i) {
           return {
             x0: i ? color_map_f95f9c83dae34b8698afa0cdbdda7c59.x(color_map_f95f9c83dae34b8698afa0cdbdda7c59.color.domain()[i - 1]) : color_map_f95f9c83dae34b8698afa0cdbdda7c59.x.range()[0],
@@ -5892,7 +5899,7 @@
             L.control.layers(
                 layer_control_6155a03cfc3b453eacd812d2201e37f8.base_layers,
                 layer_control_6155a03cfc3b453eacd812d2201e37f8.overlays,
-                {"autoZIndex": true, "collapsed": false, "position": "topright"}
+                {"autoZIndex": true, "collapsed": false, "position": "bottomleft"}
             ).addTo(map_30581a3257714d34a872508860acfcf3);
         
 </script>
