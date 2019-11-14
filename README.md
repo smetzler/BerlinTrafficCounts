@@ -10,7 +10,7 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 ## Beispielauswertungen Radverkehr:  
 Veränderung des Radverkehrsanteil je PLZ  
 * mit Klick auf PLZ können einzelne Zählungen nachvollzogen werden  
-https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick.html.html 
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick.html
 
 
 
