@@ -1,6 +1,6 @@
 # BerlinTrafficCounts
 
-## Übersicht aller Zählungen 
+## Übersicht aller Zählungen in Tabelle
 https://vizsim.github.io/BerlinTrafficCounts/index.html  
 	- filter table to get the street you are interested  
 	- get raw data/"Rohdaten"  
@@ -9,14 +9,9 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 	
 ## Beispielauswertungen Radverkehr:  
 Veränderung des Radverkehrsanteil je PLZ  
+* mit Klick auf PLZ können einzelne Zählungen nachvollzogen werden  
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick.html.html 
 
-### Veränderung des Radverkehrsanteil je PLZ (Veränderungen je Zählreihe bei klick auf Icon)
-https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin.html 
-
-### updated version with interactive charts (be aware of long (~10s) initial loading time)  
-https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart.html  
-or  
-https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_external_mod.html  
 
 
 	
