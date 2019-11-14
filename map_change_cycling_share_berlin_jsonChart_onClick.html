@@ -28,7 +28,16 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_8df5e22a2df545c9b0542a68fce64cab {
+				html,
+				body {
+				   margin:0;
+				   padding:0;
+				   height:100%;
+				   background: #efefef;
+				}
+				
+				#map_8df5e22a2df545c9b0542a68fce64cab {
+					min-height:100%;
                     position: relative;
 					float: left;
                     width: 50%;
@@ -36,13 +45,29 @@
                     left: 0.0%;
                     top: 0.0%;
                 }
-				nav {
-					position: relative;
+				
+				#con {
+				    min-height:100%;
+				    position:relative;
 					float: left;
 					width: 50%;
-					height: 100.0%;
 					background: #efefef;
 				}
+				
+				#vis {
+					height: 600px;
+					padding-bottom:350px;				
+				}
+
+				#text {
+					position: absolute;
+					text-align: right;
+					height:180px;
+					bottom: 20px;
+					right: 20px;
+					left: 20px;	
+				}
+				
 				
 				hr {
 					position: relative;
@@ -53,24 +78,15 @@
 					border-style: inset;
 					border-width: 1px;
 				}
-
-				 #text {
-					position: absolute;
-					text-align: right;
-					bottom: 20px;
-					right: 20px;
-					left: 20px;
-					
-				}
             </style>
         
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 </head>
 <body>    
-    
+
             <div class="folium-map" id="map_8df5e22a2df545c9b0542a68fce64cab" ></div>
                 			
-			<nav>
+			<nav id="con">
 				<ul>
 				  <div id="vis"></div>
 				</ul>
@@ -91,7 +107,7 @@
 				</div>
 
 			</nav>
-			
+	
 
 
 </body>
@@ -100,7 +116,9 @@
  
   
   function showDivOnClick(url) {
-  vegaEmbed('#vis', url).then(function(result) {
+  var spec = url;
+  var opt = { 'padding':{"left": 20, "top": 20, "right": 20, "bottom": 20}}
+  vegaEmbed('#vis', spec, opt).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   }
@@ -519,7 +537,7 @@
     color_map_5ea5e1578afe4e3a9a0d6ac2def966ab.g.call(color_map_5ea5e1578afe4e3a9a0d6ac2def966ab.xAxis).append("text")
         .attr("class", "caption")
         .attr("y", 21)
-        .text('durchschn. jährliche Veränderung des Radvekehrsanteils [Prozenpunkte pro Jahr]');
+        .text('durchschn. Veränderung des Radvekehrsanteils [Prozenpunkte pro Jahr]');
     
             var layer_control_55d64d05633945ef905ce86c9692ffda = {
                 base_layers : {
