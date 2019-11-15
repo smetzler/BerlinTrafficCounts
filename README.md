@@ -7,15 +7,19 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 	- view raw data in chart for cars and bikes  
 
 	
-## Beispielauswertungen Radverkehr:  
-Veränderung des Radverkehrsanteil je PLZ  
+## Beispielauswertungen Radverkehr  
+### Veränderung des Radverkehrsanteil je PLZ
 * mit Klick auf PLZ können einzelne Zählungen nachvollzogen werden  
 https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick.html
 
 
-
+## Skripte  
+* 1_metadata2table: erstellt die Übersichtstabelle
+* 2_berlin_vzaehlung_parser: parsed die Einzelfiles (zumindest 17.000 davon) in eine große csv (Rohdaten_Berlin_1992-2019_zda.csv)
+* 3_berlin_vzaehlung_plotter: erstellt die Beispielauswertungen Radverkehr
 	
-## weitere Beispielauswertungen
+	
+## andere Beispielauswertungen Radverkehr  
 
 ### Kottbusser Damm / Hermannplatz:  
 ![](https://vizsim.github.io/BerlinTrafficCounts/auswertungen/Auswertung_kottbusserDamm.PNG)  
@@ -53,7 +57,7 @@ disclaimer:
 
 
 
-## data source:
+## Datenquelle:
 Verkehrslenkung Berlin / Rohdaten Verkehrszählungen  
 license: CC BY-SA 3.0 DE, https://creativecommons.org/licenses/by/3.0/de  
 
