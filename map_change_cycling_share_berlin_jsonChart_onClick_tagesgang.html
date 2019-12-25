@@ -68,6 +68,10 @@
 					left: 20px;	
 				}
 				
+				#var {
+					text-align: left;
+				}
+				
 				
 				hr {
 					position: relative;
@@ -89,13 +93,13 @@
 			<nav id="con">
 				<ul>
 				  <div id="vis"></div>
-				  <a href="Details for this plz">https://vizsim.github.io/BerlinTrafficCounts/html_charts_tagesgang_rad/plz_tagesgang_10178.html</a>
 				</ul>
-				
+
 				
 
 				
 				<div id="text">
+				  <div id="var"></div>
 				  <hr>
 				  <p>Diese Auswertung basiert auf den Rohdaten der Verkehrszählungen der Verkehrslenkung Berlin. 
 				  In den vergangenen Jahrzehnten wurden ~20.000 Zählungen durchgeführt, wobei stündlich aufgelöst verschiedene Fahzeugytypen erfasst wurden.
@@ -116,13 +120,21 @@
 <script type="text/javascript">
  
   
-  function showDivOnClick(url) {
-  var spec = url;
+  function showDivOnClick(plz) {
+  var spec = 'https://vizsim.github.io/BerlinTrafficCounts/jsons_trendcharts/plz_trendChart_'+plz+'.json'
   var opt = { 'padding':{"left": 20, "top": 20, "right": 20, "bottom": 20}}
   vegaEmbed('#vis', spec, opt).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   }
+  
+  
+  
+  function updateHtml(plz){
+  $("#var").html('<a target="_blank" rel="noopener noreferrer" href="https://vizsim.github.io/BerlinTrafficCounts/html_charts_tagesgang_rad/plz_tagesgang_' + plz + '.html">Detailierte Tagesganglinien für '+plz+'</a>');
+
+};
+
 </script>
 
 <script>    
@@ -418,7 +430,8 @@
                     e.target.setStyle(geo_json_64b309ff74554630a9b8cbb157d13d4b_highlighter(e.target.feature));
                 },
                 click: function(e) {
-                        showDivOnClick('https://vizsim.github.io/BerlinTrafficCounts/jsons_trendcharts/plz_trendChart_'+e.target.feature.properties['plz']+'.json')
+                        showDivOnClick(e.target.feature.properties['plz'])
+						updateHtml(e.target.feature.properties['plz'])
                 }
             });
         };
