@@ -13,6 +13,9 @@ https://vizsim.github.io/BerlinTrafficCounts/index.html
 https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick.html
 
 
+### Veränderung des Radverkehrsanteil je PLZ (inkl. Tagesgang von Radverkehr)
+https://vizsim.github.io/BerlinTrafficCounts/map_change_cycling_share_berlin_jsonChart_onClick_tagesgang.html  
+
 ## Skripte  
 * 1_metadata2table: erstellt die Übersichtstabelle
 * 2_berlin_vzaehlung_parser: parsed die Einzelfiles (zumindest 17.000 davon) in eine große csv (Rohdaten_Berlin_1992-2019_zda.csv)
