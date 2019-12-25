@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.0.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "hconcat": [{"mark": {"type": "line", "point": true}, "encoding": {"color": {"condition": {"type": "nominal", "field": "year", "legend": null, "scale": {"domain": [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021], "scheme": {"name": "spectral"}}, "selection": "bez"}, "value": "white"}, "detail": {"type": "nominal", "field": "datum"}, "opacity": {"condition": {"value": 1.0, "selection": "bez"}, "value": 0.0}, "tooltip": [{"type": "nominal", "field": "datum"}], "x": {"type": "quantitative", "field": "hour"}, "y": {"type": "quantitative", "field": "cnt"}}, "selection": {"bez": {"type": "single", "fields": ["bez_"], "bind": {"input": "select", "options": ["Senftenberger Ring / Calauer Stra\u00dfe    - [2]"]}, "init": {"bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]"}}}, "title": "13535", "transform": [{"filter": {"selection": "bez"}}]}, {"mark": "rect", "encoding": {"color": {"condition": {"type": "nominal", "field": "year", "legend": null, "scale": {"domain": [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021], "scheme": {"name": "spectral"}}, "selection": "bez"}, "value": "white"}, "tooltip": [{"type": "nominal", "field": "bez_"}, {"type": "quantitative", "aggregate": "mean", "field": "cnt"}], "x": {"type": "ordinal", "field": "bez_"}, "y": {"type": "nominal", "field": "year"}}, "selection": {"bez": {"type": "single", "fields": ["bez_"], "bind": {"input": "select", "options": ["Senftenberger Ring / Calauer Stra\u00dfe    - [2]"]}, "init": {"bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]"}}}, "transform": [{"filter": {"selection": "bez"}}], "width": 20}], "data": {"name": "data-d4bead144c7e7e00897d006f053aa043"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.0.0.json", "datasets": {"data-d4bead144c7e7e00897d006f053aa043": [{"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 7, "cnt": 38, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 8, "cnt": 21, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 9, "cnt": 29, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 10, "cnt": 22, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 11, "cnt": 25, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 12, "cnt": 37, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 13, "cnt": 42, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 14, "cnt": 72, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 15, "cnt": 59, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 16, "cnt": 56, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 17, "cnt": 62, "year": "2005"}, {"filename": "K0006211_20050418", "knoten": "K 6211", "bez": "Senftenberger Ring / Calauer Stra\u00dfe   (M\u00e4rkisches Viertel, 13435)", "bez_": "Senftenberger Ring / Calauer Stra\u00dfe    - [2]", "datum": "18.04.2005", "plz": "13535", "freq": 2, "hour": 18, "cnt": 43, "year": "2005"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
